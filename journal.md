@@ -7,31 +7,35 @@
 - préparer arborescence dans le git
 .
 ├── aspirations
-│   └── aspi.gitkeep
+│   └── aspi.gitkeep
 ├── concordances
-│   └── con.gitkeep
+│   └── con.gitkeep
 ├── contextes
-│   └── contextes.gitkeep
+│   └── contextes.gitkeep
 ├── dumps-text
-│   └── dump.gitkeep
+│   └── dump.gitkeep
 ├── journal.md
 ├── programmes
-│   ├── freq_bigramme.sh
-│   └── programmes.gitkeep
+│   ├── freq_bigramme.sh
+│   └── programmes.gitkeep
 ├── README.md
 ├── tableaux
-│   └── table.gitkeep
+│   └── table.gitkeep
 └── URLs
     └── URL.gitkeep
 
 - préparer script pour fichier aspirations (commandes curl)
 
 - créer le dossier dump -> Lynx -dump <URL>  >  <fichier.txt>
+passer par nos fichiers aspirations et utiliser le man pour trouver commandes qui prend en compte l'encodage
 
 - ajouter les liens dans deux nouvelles colones dans le tableau
 
 - compter les occurences du mot
 
+- contexte
+
+- concordances
 
 
 ### Folders:
@@ -45,5 +49,8 @@ Dans le fichier URL 3 fichiers de travail des URLs, un par langue (Fr_URL, EN_UR
 
 fichiers .gitkeep = fichiers vides permettant de créer des dossiers vide dans git
 
+basename = enlève les suffixes ou préfixes d'un nom de fichier
+ex fr.tkx -> $basename URLs/fr.txt .txt => fr
 
  
+
