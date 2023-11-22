@@ -20,12 +20,12 @@ then
 	exit
 fi
 
-#Boucle d'extraction : pour chaque ligne (=chaque url de la liste) extrait le contenu brut et l'enregistre dans un fichier .txt dans le dossier ./URLs
+#Boucle d'extraction : pour chaque ligne (=chaque url de la liste) extrait le contenu textuel et l'enregistre dans un fichier .txt dans le dossier ./URLs
 lineno=1
 while read -r URL
 do
-	data_brut=$(curl $URL)
-	echo "$data_brut" > "../URLs/${langue}${lineno}.txt"
+	contenu_textuel=$(lynx -dump -nolist $URL)
+	echo "$contenu_textuel" > "../dumps-text/${langue}${lineno}.txt"
 	lineno=$(expr $lineno + 1)
 done < "$URLS"
 
