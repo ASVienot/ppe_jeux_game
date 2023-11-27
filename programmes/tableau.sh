@@ -25,9 +25,9 @@ echo -e "<table>
 			<th>url</th>
 			<th>reponse</th>
 			<th>encodage</th>
+			<th>nombre occurrence</th>
 			<th>page aspiree</th>
 			<th>dump textuel</th>
-			<th>nombre occurrence</th>
 			<th>contextes</th>
 		</tr>
 	</thead>
@@ -44,7 +44,20 @@ do
 	encodage=$(curl -I -s -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d = -f 2)
 
 	#récupération nombre occurences
-	nb_occurrence=$(cat ../dumps-text/"${langue}${lineno}.txt"|grep -P "jeu.?-?\b"|wc -l)
+	if [[ $URLS =~ FR.* ]]
+	then
+		nb_occurrence=$(cat ../dumps-text/"${langue}${lineno}.txt"|grep -P "jeu.?-?\b"|wc -l)
+	fi
+
+	if [[ $URLS =~ EN.* ]]
+	then
+		nb_occurrence=$(cat ../dumps-text/"${langue}${lineno}.txt"|grep -P "game|games"|wc -l)
+	fi
+
+	if [[ $URLS =~ CH.* ]]
+	then
+		nb_occurrence=$(cat ../dumps-text/"${langue}${lineno}.txt"|grep -P "expregCH"|wc -l)
+	fi
 
 	page_aspiree=../aspirations/${langue}${lineno}.html
 	dump_texte=../dumps-text/${langue}${lineno}.txt

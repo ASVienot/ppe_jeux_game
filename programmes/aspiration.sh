@@ -4,7 +4,7 @@
 
 
 URLS=$1
-langue=$(basename $URLS)
+langue=$(basename $URLS .txt)
 
 #vérification nombre d'arguments = 1
 if [[ $# -ne 1 ]];

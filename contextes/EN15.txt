@@ -1,0 +1,139 @@
+   By Elizabeth M H Newbury, V Quidore & Ethan Hwang on February 22, 2023
+
+   How can serious games be used to contribute to the Year of Open
+   Science?
+   Serious Games Initiative
+--
+   Broadening engagement is one way of opening up science, and researchers
+   have been turning to unique technology to facilitate that type of
+   engagement: games. As a medium, digital games have wide use; the
+   Entertainment Software Association estimates that in 2022, over 215
+   million people in the United States played video games regularly.
+   Research institutions have used games to not only reach new audiences
+   but also speed up scientific research and make scientific discoveries,
+   particularly within the field of medical science. As agencies and
+   experts look to a Year of Open Science, learning from these
+   examples—and looking to the future potentials of games supporting
+   research—can help level up efforts.
+
+Educational Games for Leading Research Questions
+
+   To understand how an agency can use games, let’s look at two ways of
+   implementing games. First, institutions can develop a new game that is
+   framed around a particular research question. Games can visualize data
+   outside the lab, affording not only educational opportunities but
+--
+   Institute at the National Institutes of Health put on a series in a
+   virtual conference called DataViz+Cancer that highlights some key
+   considerations in using games–and other types of visualizations–in
+   research. Two prominent examples illustrate this approach: Foldit and
+   Eyewire. Both projects rely on crowd-sourcing data through a game to
+   help accelerate research.
+
+--
+   Adobe, Boehringer Ingelheim, RosettaCommons)
+
+   Foldit is a free-to-play puzzle game that challenges players to fold
+   proteins. In doing so, players contribute to a dataset to help bring
+   solutions to diseases like COVID-19, HIV, Alzheimers, and more. It is
+   often the example by which game-based crowdsourcing projects measure
+   themselves, in part due to its success: in less than three weeks in
+   2011, participants solved the structure of an HIV-related protein that
+--
+   neuroscientists understand the mechanisms underlying motion perception.
+
+   These games illustrate that for crowdsourcing, data needs to be not
+   only fun for users to engage with, but also easily digestible and
+   distributed. Importantly, the tasks are manageable. The games break
+   down an overall research question into small, bite-sized problem sets
+   with a finite task and focused data sets. Breaking down the data and
+--
+   massive participation.
+
+   But what makes it a game is the employment of play–and competition–that
+   everyone from researchers to science educators appreciate. In both
+   instances the data becomes a “puzzle” for players to solve that are
+--
+   These mechanics not only motivate individuals, but in creating these
+   forms of visible competition go one step further in developing a sense
+   of community around the game that is so vital to long-term
+   participation.
+
+Commercial Game Companies Collaborating with Research Institutions
+
+   In addition to creating their own game, there is a growing interest in
+   how researchers can also work with commercial game companies to engage
+   existing audiences. An example of this is the collaboration around EVE
+   Online. EVE Online is a massive multiplayer online roleplaying game
+   that is perhaps best known for corporate espionage and heistsin a
+   space-themed environment.According to a report from GamesBeat in 2021,
+   it boasts a unique user base of 25 million globally with approximately
+   300,000-400,000 players concurrently. It is a commercial game that has
+   opened its doors to crowdsourcing scientific research through themed
+   content embedded in the game itself under a mini-game called “Project
+   Discovery.”
+
+--
+   The original EVE Online launched in 2003 as a space-based MMO, while
+   Project Discovery, the citizen science project, originally launched as
+   a mini-game within the game in 2016. Partners for the latest project,
+   focusing on support for COVID-19, included McGill University, BD,
+   Beckman Coulter, FlowJo, BC Cancer, Massively Multiplayer Online
+--
+   Protein Atlas (HPA), which aims to map proteins within human cells by
+   cataloging different cell structures in over 250,000 images. In a
+   recent version of the mini-game, players mapped flow cytometry by
+   creating polygons around cells to help scientists understand immune
+   response to COVID-19. By crowdsourcing this within EVE Online, as
+--
+
+   There are a few things that were attributed to this success. First,
+   while an innovative mini-game, “Project Discovery” fits within the
+   overall feel of the game, with mechanics similar to other in-game
+   tasks. But this mini-game also hits home on a nuanced way of
+   understanding player motivation: it isn’t just about in-game rewards.
+   In the same report from IGN, EVE Online Creative Director, Bergur
+   Finnbogason pointed out three primary player types: those playing for
+   in-game rewards, those playing because they were already deeply
+   invested in EVE Online, and those playing for science.
+
+   While a qualitative observation, studies have time and again
+   demonstrated that motivation for game players is varied. Those wishing
+   to capitalize on games as a way to build out scientific research should
+   consider multiple ways of incentivizing participation. While in-game
+   rewards most certainly help, some players will be motivated because it
+   affords them an opportunity to deepen their engagement with the game
+   and its story; others because it allows them to explore something new,
+   like a fresh mechanic; and still others because it connects them to a
+--
+What’s Next?
+
+   These examples highlight ways that games have fostered the acceleration
+   of scientific research while also expanding the scope of contributors
+   to that research. In the case of Foldit and Eyewire, researchers
+   leveraged game elements to make science more engaging and build a
+   community that has made real-world impacts. In the case of EVE Online,
+   an already popular game title was used to crowdsource data for health
+   research. In both cases the research teams distributed the data to not
+   only make it more adaptable for broad use, but transform it into a
+   playful experience through puzzles and game mechanics. The key is to
+   recognize both the broad possibilities of games and the diverse
+   motivations and objectives of their players. Just like with any other
+   medium, people play video games for a variety of reasons that can be
+   tapped into to increase scientific engagement. Some gamers value points
+   and in-game rewards while others seek opportunities to explore new
+   horizons in the game or deepen their play. Some prefer supporting a
+   broader community, while others relish competition. What’s also
+   important to know is that, at least in these cases, they can also
+--
+   External link
+   Serious Games
+   Marketplace: At the Federal Games Guild, video games and public policy
+   play together
+   STIP2
+--
+   External link
+   Science and Technology
+   Playing Global Order : Can video games reinforce good behaviours
+   towards a better world?
+   Wilson Center
