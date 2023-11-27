@@ -25,7 +25,7 @@ lineno=1
 while read -r URL
 do
 	data_brut=$(curl $URL)
-	echo "$data_brut" > "../URLs/${langue}${lineno}.txt"
+	echo "$data_brut" > "../aspirations/${langue}${lineno}.html"
 	lineno=$(expr $lineno + 1)
 done < "$URLS"
 
