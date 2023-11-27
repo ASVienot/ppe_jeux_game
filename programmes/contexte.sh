@@ -11,7 +11,7 @@ do
 
 	if [[ $FICHIER]] =~ CH.* ]]
 	then
-		contexte=$(cat ../dumps-text/${FICHIER}|grep -P -A 2 -B 2 "expregCH")
+		contexte=$(cat ../dumps-text/${FICHIER}|grep -P -A 2 -B 2 "游戏")
 	fi
 	if [[ $FICHIER =~ EN.* ]]
 	then

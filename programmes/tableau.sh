@@ -56,7 +56,7 @@ do
 
 	if [[ $URLS =~ CH.* ]]
 	then
-		nb_occurrence=$(cat ../dumps-text/"${langue}${lineno}.txt"|grep -P "expregCH"|wc -l)
+		nb_occurrence=$(cat ../dumps-text/"${langue}${lineno}.txt"|grep -P "游戏"|wc -l)
 	fi
 
 	page_aspiree=../aspirations/${langue}${lineno}.html
