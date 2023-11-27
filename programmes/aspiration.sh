@@ -2,7 +2,6 @@
 #programme qui prends 1 argument :
 #1 = une liste d'urls en .txt. Le basename de l'argument doit être le code de la langue (FR, EN ou CH)
 
-
 URLS=$1
 langue=$(basename $URLS .txt)
 

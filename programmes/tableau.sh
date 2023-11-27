@@ -1,4 +1,5 @@
 #!/usr/bin/bin/bash
+#Prend en argument un fichier texte : une liste d'urls
 
 URLS=$1
 langue=$(basename $URLS .txt)

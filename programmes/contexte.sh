@@ -1,4 +1,5 @@
 #!usr/bin/bash
+#créer des fichiers contexte.txt à partir des fichier dumps-text de chaque langue
 
 LISTE_FICHIER=$(ls ../dumps-text)
 
