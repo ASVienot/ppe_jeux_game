@@ -1,0 +1,237 @@
+
+   En application de l’ordonnance n° 2019-1015 du 2 octobre 2019 réformant
+   la régulation des jeux d’argent et de hasard et du décret n° 2020-494
+   du 28 avril 2020 relatif aux modalités de mise à disposition de l'offre
+   de jeux et des données de jeux, les missions de l’Observatoire des jeux
+   ont été transférées à l’OFDT le 1er juillet 2020.
+
+--
+   top4.jpg haut du document
+
+   Les jeux d’argent et de hasard (JAH) sont définis comme « toutes
+   opérations offertes au public, sous quelque dénomination que ce soit,
+   pour faire naître l’espérance d’un gain qui serait dû, même
+   partiellement, au hasard et pour lesquelles un sacrifice financier est
+   exigé de la part des participants ». Il s’agit actuellement en France :
+     * Des jeux de tirage. Jeu de loterie où le joueur, en misant une
+       somme d’argent, essaie de trouver quels seront les numéros gagnants
+       qui sont tirés au hasard. Pour cela, le joueur coche/sélectionne
+       dans une grille un ou plusieurs numéros.
+
+     * Des jeux de grattage. Jeu de loterie où le joueur achète un ticket
+       qui contient une ou plusieurs cases à gratter pour découvrir s’il a
+       gagné.
+
+     * Des paris hippiques. Ce jeu consiste à parier de l’argent sur
+       l’issue d’une course de chevaux.
+
+     * Des paris sportifs. Ce jeu consiste à parier de l’argent sur
+       l’issue d’une rencontre sportive (ex : préciser le score final,
+       choisir un gagnant).
+--
+     * Du poker. Jeu de cartes qui se pratique à plusieurs joueurs qui
+       misent de l’argent (le poker gratuit n’est pas inclus dans
+       l’enquête). Le but du jeu est de remporter les jetons des
+       adversaires en constituant la meilleure combinaison de cartes. Il
+       comprend de nombreuses formes et variantes.
+--
+       rapides.
+
+     * Des jeux de casino. Un casino est un lieu proposant des jeux
+       d’argent et de hasard. En dehors des machines à sous et du poker,
+       les casinos gèrent d’autres jeux tels que : la roulette, le craps,
+       le black jack et autres jeux de cartes, le baccara et autres jeux
+       de dés.
+
+   Tous ces types de jeux font l’objet d’une offre légale ouverte au
+   public majeur par l’intermédiaire d’un réseau physique de vente et/ou
+   sur Internet (sauf pour les machines à sous et jeux de casino). Ils
+   sont régulés au titre de la réglementation des jeux d’argent et de
+   hasard. D’autres types de jeux pouvant être assimilés à ces derniers
+   sont pratiqués mais ne sont pas régulés. Il s’agit notamment des paris
+   sur des compétitions de e-sports (compétitions de jeux électroniques
+   tels que League of Legends ou Super Smash Bros).
+
+   D’autres jeux peuvent être pratiqués avec mises et gains (non autorisés
+   par la loi), impliquant au moins une part de hasard : des jeux de
+   cartes, des jeux de société ou de stratégie, des jeux d’adresse (tels
+   que le billard, les fléchettes, la pétanque, etc.).
+
+--
+Un secteur économique ancien et important
+
+   D'abord interdits par l'État royal et longtemps clandestins, les jeux
+   de hasard et d'argent ont été légalisés en France à la fin du XVIIIe
+   siècle avec la création de la Loterie royale. Dès le XIXe siècle, les
+   casinos apparaissent (décret de 1806), suivis au XXe siècle par le PMU
+   (Pari mutuel urbain, en 1931) et la Loterie nationale (en 1933). Ces
+   trois opérateurs de jeux se partagent encore actuellement en France la
+   plus grande part du secteur du jeu.
+
+   Le PMU bénéficie d’une situation de monopole pour commercialiser des
+   paris hippiques (hors hippodromes) via son réseau de points de vente
+   répartis sur le territoire national (13 436 points de vente recensés en
+   2022). De même, la Française des jeux (FDJ) bénéficie d’une situation
+   similaire pour la commercialisation de jeux de tirage/grattage et de
+   paris sportifs en point de vente (environ 29 862 en 2022). Les 203
+   établissements de casinos viennent étoffer cette offre physique en
+   commercialisant des jeux de tables et de machines à sous. Cette offre
+   physique de jeux est complétée par une offre sur Internet où, depuis
+   2010, la France a mis en place un nouveau régime d’agréments
+   d’opérateurs privés sur un secteur limité de jeux d’argent : paris
+   sportifs, paris hippiques, jeux de cercle. Seuls les jeux de loterie en
+   ligne restent sous monopole de la FDJ.
+
+Les jeux d'argent sur Internet
+
+   L’offre régulée de jeux d’argent et de hasard sur Internet se limite
+   aux secteurs suivants : les jeux de loterie (tirage ou grattage) pour
+   67 %, les paris sportifs (50 %), le poker (32 %) et les paris hippiques
+   (23 %). S’il était possible d’engager une prise de jeu aux paris
+   sportifs et aux paris hippiques sur Internet via l’offre commerciale de
+   la FDJ et du PMU, la loi du 12 mai 2010 a permis l’arrivée de nouveaux
+   acteurs dans un secteur d’activité jusque-là sous monopole. Avec une
+   ouverture maîtrisée à la concurrence sur trois segments (paris
+   sportifs, paris hippiques et jeux de cercle), la France a vu
+   s’implanter sur son marché de nouveaux opérateurs. Fin 2022, 17
+   opérateurs se partageaient 30 agréments.
+
+   Références :
+     * Eroukmanoff V, Les jeux d'argent et de hasard en 2022, OFDT, 2023,
+       9 p.
+
+Impacts financiers des jeux d'argent et de hasard
+
+   L’industrie des jeux d’argent et de hasard draine plusieurs dizaines de
+   milliers d’emplois directs et indirects et totalisait en 2022 un
+   chiffre d’affaires de près de 12,9 milliards d'euros. Les dépenses de
+   jeu n’ont cessé de croître et représentent 12,0 % des dépenses liées
+   aux loisirs et à la culture (contre 8,9 % en 2008). Actuellement, la
+   dépense nette par habitant majeur s’élève à un peu plus de 240 euros
+   (contre 169 euros en 2008).
+
+   En France, la fiscalité des jeux est assise sur les mises (à
+   l’exception des casinos), chaque activité faisant l’objet de
+   prélèvements spécifiques. La réforme dessinée par la loi PACTE (plan
+   d'action pour la croissance et la transformation des entreprises) en
+   2019 entraîne également une refonte partielle de la fiscalité associée
+   aux jeux d’argent : pour les paris sportifs en ligne, l’assiette des
+   prélèvements initialement assis sur le volume des mises est reportée
+   sur le produit brut des jeux des opérateurs au 1er janvier 2020.
+
+   Références :
+     * Eroukmanoff V, Les jeux d'argent et de hasard en 2022, OFDT, 2023,
+       9 p.
+
+--
+À l'adolescence
+
+   En 2022, 27,5 % des 17 ans ont répondu avoir joué à un jeu d’argent et
+   de hasard au moins une fois dans l’année et 4,0 % ont dit avoir joué au
+   moins une fois par semaine. Bien que le recul de la pratique des JAH
+--
+   contre 47,0 % en 2017. Chez les filles, il y avait 22,7 % de joueuses
+   dans l’année en 2022, contre 30,5 % en 2017.
+   Les jeux de tirage, de grattage ou jeux instantanés constituent la
+   première catégorie de jeux pratiqués dans l’année à l’adolescence (20,2
+   %). Viennent ensuite les pronostics et les paris sportifs, rapportés
+   par 11,9 % des adolescents, puis les « jeux de casino », déclarés par
+   5,1 % des joueurs. Quel que soit le type de jeu, les garçons sont plus
+   souvent joueurs. La part des jeunes jouant sur Internet est en
+   progression, passant de 17,4 % en 2017 à 27,9 % en 2022.
+   En 2022, 1,3 % des jeunes de 17 ans ayant joué au moins une fois dans
+   l’année présentent un risque élevé de jeu problématique, selon l’Indice
+   canadien du jeu excessif (cf. infra ICJE), avec là encore, une très
+   nette surreprésentation masculine. Rapportée à l’ensemble de la
+   population adolescente de 17 ans, la prévalence des comportements de
+   jeux potentiellement à risque excessif est estimée à 0,4 %.
+
+   Références :
+     * Brissot A., Philippon A., Spilka S. Niveaux de pratique des jeux
+       d'argent et de hasard à la fin de l'adolescence en 2017. Enquête
+       ESCAPAD 2017. Note 2018-03. Saint-Denis, OFDT, 2018, 12 p.
+     * DATA. Les jeux d’argent et de hasard à 17 ans. Résultats d’ESCAPAD
+       2022. Tendances, OFDT, 2023, n° 157, 4 p.
+
+--
+
+   D’après les données du Baromètre santé 2019, 47,2 % des 18-75 ans ont
+   joué à un jeu d’argent et de hasard durant l’année écoulée. Les jeux de
+   loterie (tirage ou grattage) sont le plus souvent déclarés (43,3 % des
+   18-75 ans), devant les paris sportifs ou hippiques (respectivement 5,2
+   % et 3,7 % des 18-75 ans), les jeux de casino et le poker. Les supports
+   de jeux traditionnels (points de vente de la FDJ ou du PMU, casinos)
+   demeurent dominants même si la part des prises de jeu réalisée sur
+   Internet est en augmentation constante. En effet, le jeu en ligne
+   concernait, en 2019, 16,1 % de l’ensemble des joueurs.
+
+--
+   cadres ou les professions intellectuelles supérieures.
+
+   Parmi les personnes ayant déclaré avoir joué à un jeu d’argent et de
+   hasard au cours de l’année écoulée, 4,4 % peuvent être classés au
+   regard de l’ICJE comme joueurs à risque modéré et 1,6 % comme des
+--
+
+   Références :
+     * Costes J.-M., Eroukmanoff V., Les pratiques de jeux d'argent sur
+       Internet en France en 2017. Les notes de l'Observatoire des jeux,
+       ODJ, 2018, n° 9, 8 p.
+     * Costes J.-M., Richard J.-B., Eroukmanoff V., Le Nézet O., Philippon
+       A., Les Francais et les jeux d'argent et de hasard. Résultats du
+       Baromètre de Santé publique France 2019. Tendances, OFDT, 2020, n°
+       138, 6 p.
+--
+
+   L’état des connaissances sur l’impact sanitaire, le coût social et
+   individuel induit par une pratique problématique du jeu d’argent est
+   encore parcellaire. Si les bénéfices économiques de l’industrie du jeu
+   et ses retombées en termes d’emploi sont connus, il est difficile de
+   mesurer la part des joueurs qui rencontrent des difficultés liées à
+   leurs pratiques de jeu. Pourtant, l’impact sur les individus et leurs
+   proches peut être considérable. Les conséquences financières, pouvant
+   aller jusqu’au surendettement ou à la faillite sont les plus directes.
+--
+
+   Référence :
+     * Massin S. Étude socio-économique des jeux de hasard et d'argent en
+       France. Marseille, UMR912 SESSTIM (Inserm / IRD Université
+       Aix-Marseille) ; ORS PACA, 2014, 40 p.
+
+
+   L’Indice canadien du jeu excessif (ICJE) permet d’estimer le niveau de
+   risque des joueurs sur des critères cliniques auto-évalués.
+   Infographie-JAH1.jpg
+--
+
+   Au cours de la dernière décennie (2010 – 2020), le contexte
+   réglementaire relatif aux jeux d’argent et de hasard a profondément
+   évolué.
+
+   En 2010, la France s’est dotée d’un nouveau cadre légal et
+   réglementaire régulant le secteur des jeux d'argent et de hasard en
+   ligne (loi du 12 mai 2010) en introduisant une ouverture maîtrisée à la
+   concurrence du marché des paris en ligne (paris sportifs, paris
+   hippiques et jeux de cercle), mettant fin au monopole d’État de la FDJ
+   et du PMU. Cette loi confie la régulation du marché des jeux d'argent
+   et de hasard en ligne à une autorité administrative indépendante,
+   l’autorité de régulation des jeux en ligne (ARJEL).
+
+   En 2019, à l’occasion de loi PACTE du 22 mai 2019 n° 2019-486 relative
+   à la croissance et la transformation des entreprises qui prévoie
+   notamment la privatisation de la FDJ, la régulation du secteur des jeux
+   d’argent a été réformée et confiée à l’Autorité Nationale des Jeux
+   (ANJ) qui succède à l’Autorité de régulation des jeux en ligne (ARJEL)
+   avec un périmètre élargi et des pouvoirs renforcés.
+
+   Dans l’objectif de contribuer à réaliser les objectifs de la politique
+   de l’État en matière de jeux d’argent et de hasard, un observatoire des
+   jeux (ODJ) avait été créé en 2011 (décret du 9 mars 2011). À compter du
+   1er juillet 2020, en application du décret n° 2020-494 du 28 avril 2020
+   relatif aux modalités de mise à disposition de l'offre de jeux et des
+   données de jeux, l’OFDT a repris les missions de l’ODJ relatives à la
+   réalisation des études scientifiques sur les JAH et les addictions à
+   ces jeux (Art. 3 de la loi du 12 mai 2010 modifié par l’ordonnance du 2
+   octobre 2019 réformant la régulation des jeux d’argent et de hasard).
+   Dans ce cadre, l’OFDT contribue à documenter l’action et les politiques
+   publiques de ses membres (Mildeca, Santé, Intérieur, Agriculture,

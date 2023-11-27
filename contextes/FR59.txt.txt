@@ -1,0 +1,48 @@
+   Actualités 27/01/2016 19:05
+
+L'I.A. de Google a réussi à battre un champion de jeu de go (et c'est
+important)
+
+--
+   TECHNO - Depuis 1997 et la victoire de Deep Blue, l'ordinateur d'IBM,
+   sur Garry Kasparov aux échecs, on pensait que l'ordinateur avait
+   définitivement défait l'homme dans les jeux de plateau. En réalité,
+   près de 20 ans après, il restait notamment un grand jeu, mondialement
+   célèbre, sur lequel l'humain était toujours meilleur que l'I.A
+   (intelligence artificielle).
+
+   Etait, car Google vient d'annoncer ce mercredi 27 janvier que sa
+   branche consacrée à l'I.A, DeepMind, a réussi à maîtriser le jeu de go.
+   Plus exactement, à battre Fan Hui, le joueur le plus fort d'Europe, 5 à
+   0. La création de ce programme fait également l'objet d'un article dans
+--
+   [logo-ads.png]
+
+   S'il est peut-être moins célèbre que les échecs en France, le jeu de go
+   reste l'un des jeux de stratégie les plus anciens et compliqués du
+   monde. Le magazine Wired consacrait justement un article au jeu de Go,
+   dernier grand mystère et défi de l'I.A.
+
+   Plus de possibilités que d'atomes dans l'univers
+
+   Les règles de ce jeu d'origine chinoise, que Confucius mentionnait il y
+   a 2500 ans, sont pourtant assez simples. Chaque joueur place des
+   jetons, noir ou blanc, sur les intersections d'un plateau constitué de
+--
+
+   Au vu du challenge, Google n'est évidemment pas le seul à chercher à
+   maîtriser le jeu de go. D'ailleurs, quelques heures avant l'annonce,
+   Mark Zuckerberg évoquait lui la publication d'un article par l'équipe
+   en charge de l'I.A. chez Facebook. Le programme du réseau social arrive
+--
+
+   La différence, c'est qu'AlphaGo, le logiciel créé par Google, s'est lui
+   aussi mesuré aux programmes existants pour le jeu de go. Et le résultat
+   est sans appel: sur près de 500 parties, AlphaGo s'est imposé dans
+   99,8% des cas. Même contre Zen ou Crazy Stone, les programmes les plus
+--
+   deuxième tentait de prédire qui allait gagner le match. Une fois
+   l’algorithme établi, les chercheurs ont fait analyser au logiciel plus
+   de 30 millions de mouvements d'experts du jeu de go lors de parties. Au
+   bout d'un moment, AlphaGo a été capable de prédire le prochain
+   mouvement d'un humain dans plus d'un cas sur deux (57%). Mieux, en

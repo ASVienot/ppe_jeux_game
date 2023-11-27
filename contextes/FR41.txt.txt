@@ -1,0 +1,536 @@
+     * 1Historique
+       (BUTTON) Afficher / masquer la sous-section Historique
+          + 1.1Objets et machines pour jeux de hasard
+               o 1.1.1Jeux de cartes
+               o 1.1.2Loterie et paris^[20]
+          + 1.2Probabilités dans les jeux
+          + 1.3Prohibition
+     * 2Réglementation des jeux de hasard en France
+     * 3Exemples de jeux
+       (BUTTON) Afficher / masquer la sous-section Exemples de jeux
+          + 3.1Jeux de cartes
+               o 3.1.1Jeux de hasard pur
+--
+     * 4Intérêts et dérives
+       (BUTTON) Afficher / masquer la sous-section Intérêts et dérives
+          + 4.1But du hasard dans les jeux
+          + 4.2Addiction
+     * 5Probabilités
+       (BUTTON) Afficher / masquer la sous-section Probabilités
+          + 5.1Exemple de jeu où chaque partie est un jeu de hasard pur
+          + 5.2Exemple de jeu où chaque partie est un jeu de hasard
+            raisonné
+     * 6Statistiques
+--
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   Un jeu de hasard est un jeu dont le déroulement est partiellement ou
+   totalement soumis à la chance. Celle-ci peut provenir d'un tirage ou
+   d'une distribution de cartes, d'un jet de dé, etc. Lorsque le jeu est
+   totalement soumis au hasard, on parle de jeu de hasard pur. Lorsque le
+   joueur doit déterminer son action en fonction d'événements aléatoires
+   passés ou futurs et de probabilités, on parle plus volontiers de jeu de
+   hasard raisonné.
+
+   Le terme « jeu de hasard » désigne également les jeux d'argent, les
+   jeux de grattage comme les machines à sous. La plupart de ces derniers
+   sont des jeux de hasard pur ou raisonné.
+
+   L'étude des problèmes de stratégie dans les jeux a donné naissance à
+   une théorie mathématique : la théorie des jeux.
+   [330px-Theodoor_Rombouts_-_Joueurs_de_cartes.jpg] Joueurs de cartes de
+   Theodore Rombouts.
+--
+   en 1928.
+
+   Aujourd'hui, le même terme « jeu de hasard » désigne à la fois des jeux
+   impliquant un processus aléatoire et des jeux d'argent pratiqués par
+   les adultes, soit dans des établissements spécialisés, soit en achetant
+   des billets auprès des buralistes, comme en France.
+
+Objets et machines pour jeux de hasard[modifier | modifier le code]
+
+   Les premiers jeux de hasard sont impossibles à dater. Des traces
+   d'objets utilisés pour simuler l'aléatoire ont été retrouvés notamment
+   dans des tombes des civilisations anciennes (grecques, égyptiennes,
+   etc).
+
+   Notons un jeu d'enfant, l'ostrakinda, utilisant le jeté d'une coquille
+   blanche noircie d'un côté et en criant « nuit ou jour » autour du
+   V^e siècle av. J.-C.^[1] C'est l'ancêtre du jeu de pile ou face.
+
+   Un des premiers jeux de société est le senet. Ce jeu était très
+   populaire en Égypte, il y a plus de 2 000 ans. Le but du jeu était de
+   placer l’un de ses pions dans la dernière case qui représentait les
+   cieux. La plupart des jeux qui se sont inspirés du senet ont également
+   utilisé cette symbolique. C’est le cas de la marelle par exemple.
+   Chaque joueur avait plusieurs pions à sa disposition, lançait des
+   petits bâtons (les dés n’étaient pas encore inventés) et déplaçait ses
+   pions le long de la table de jeu.
+
+   Le jeu de pile ou face s'est développé avec l'arrivée de monnaie
+   métallique (voir cette sous-section). Les dés, d'origine asiatique, ont
+   été très utilisés durant l'Empire romain (voir cette sous-section). Les
+--
+   remontent au moins au IX^e siècle^[6]. Au début de la période Song,
+   soit au XI^e siècle, une évolution donna naissance aux dominos^[7]. Les
+   cartes chinoises correspondent à trois types de jeux : les cartes
+   domino, les cartes monétaires, et les cartes d'échecs, qui reproduisent
+   les pièces du xiangqi (échecs chinois)^[3]. Les cartes monétaires
+   comprenaient un nombre variable de séries numériques, et étaient
+   utilisées par différents jeux chinois :
+     * yeh-tzâ^[8] pendant la dynastie Tang (VII^e siècle – X^e siècle) ;
+     * ya-pai (32 cartes), populaire pendant la dynastie Song (X^e siècle
+--
+   aient atteint l'Europe par l'intermédiaire des Mamelouks d'Égypte à la
+   fin du XIV^e siècle, sous une forme très proche de celle connue
+   aujourd'hui. Ces jeux contenaient 52 cartes divisées en quatre séries :
+   les bâtons de polo, les pièces, les épées et les coupes ; chaque série
+   contenait dix cartes de points et trois honneurs^[9]^,^[10]. Les cartes
+--
+   deux hypothèses retenues par Joseph Needham ou par Thomas T.
+   Allsen^[3]^,^[13]^,^[14]^,^[15].
+     * Le jeu de naibbe (ou naib-be) est présent en Égypte au
+       XII^e siècle^[16], en Italie au XIV^e siècle^[17] et arrive en
+       France à la fin du XIV^e siècle^[18].
+     * Le jeu de tarot ou tarots apparaît dans les années 1440 en Italie
+       du Nord^[19].
+
+   Les jeux de cartes apparaissent dans les cours royales avec des jeux
+   comme l'aluette, le Trente et un, la brisque, le glic, la prime^[18]. À
+   l'époque de la Révolution française, on joue au whist, au pharaon, à la
+   bouillotte, au trente et quarante ou au brelan dans les milieux
+   éduqués^[18], alors que les milieux moins savants jouent plutôt au
+   piquet, à l’écarté ou au quadrille. Les noms et règles de ces jeux ont
+   depuis évolué.
+
+   Les premières cartes du jeu Magic : l'assemblée furent éditées en 1993,
+   de nouvelles cartes sont encore éditées aujourd'hui.
+
+--
+   En 2010, la France légalise les paris en ligne^[21]^,^[22].
+
+Probabilités dans les jeux[modifier | modifier le code]
+
+   Article détaillé : Théorie des jeux.
+
+   L'étude de l'aléatoire dans les jeux de hasard a donné naissance à une
+   théorie des mathématiques : la théorie des jeux. Les premières idées
+   viennent d'une correspondance^[23] entre Pascal et Fermat au
+   XVII^e siècle à propos du problème des partis. La théorie des jeux
+   devient une vraie théorie mathématique à partir de 1940 avec les
+   travaux de John von Neumann. Cette théorie est alors également utilisée
+--
+
+   Les pouvoirs ont à de nombreuses reprises alterné entre l'organisation
+   des jeux de hasard et leur prohibition. Alors que les ordonnances
+   médiévales prohibent les jeux d'exercice et d'adresse qui ont
+   principalement lieu dans les tavernes^[24], l'ordonnance royale d'Henri
+   III de France en 1586 s'en tient aux jeux de hasard et d'argent^[25].
+
+Réglementation des jeux de hasard en France[modifier | modifier le code]
+
+   Le principe général d'interdiction des jeux de hasard en France est
+   posé depuis le XIX^e siècle par l'article 410 de l'ancien code
+   pénal^[26], puis énoncé par l'article premier de la loi n° 83-628 du 12
+--
+   au titre II du livre III du code de la sécurité intérieure dont
+   l'intitulé, résultant de l'ordonnance du 2 octobre 2019^[28] réformant
+   la régulation des jeux d'argent et de hasard, est Jeux d'argent et de
+   hasard, casinos. Il précise que « les jeux d'argent et de hasard sont
+   prohibés. Sont réputés jeux d'argent et de hasard et interdits comme
+   tels toutes opérations offertes au public, sous quelque dénomination
+   que ce soit, pour faire naître l'espérance d'un gain qui serait dû,
+--
+     * Les casinos peuvent bénéficier, dans certaines communes, d'une
+       autorisation temporaire d'ouvrir au public des locaux spéciaux,
+       distincts et séparés où sont pratiqués certains jeux de hasard.
+     * L'exploitation des jeux de loterie commercialisés en réseau
+       physique de distribution et en ligne, directement ou avec le
+       concours de tiers autorisés ou agréés, est confiée à La Française
+       des jeux. Les lotos traditionnels sont autorisés, lorsqu'ils sont
+       organisés dans un cercle restreint et uniquement dans un but
+       social, culturel, scientifique, éducatif, sportif ou d'animation
+--
+       raisonnablement attentif et avisé, à l'égard d'un bien ou d'un
+       service^[30].
+     * Les jeux de paris sportifs et paris hippiques. Le pari hippique et
+       le pari sportif s'entendent de paris comportant un enjeu en valeur
+       monétaire où les gains éventuels des joueurs dépendent de
+       l'exactitude de leurs paris portant sur le résultat de toute
+--
+       est l'objet mis en place par toute personne dès lors qu'elle est
+       titulaire de l'agrément délivré par l'Autorité de régulation des
+       jeux en ligne, délivré pour une durée de cinq ans^[31].
+       L'exploitation des jeux de paris sportifs commercialisés en réseau
+       physique de distribution est confiée pour une durée limitée à la
+       société La Française des jeux.
+
+Exemples de jeux[modifier | modifier le code]
+
+   Les jeux ne faisant appel à aucun choix des joueurs sont appelés jeux
+   de hasard pur. Beaucoup de ces jeux (bataille, jeu de l'oie, etc.) sont
+   des jeux pour enfants puisqu'il suffit de connaître les règles et que
+   chaque joueur a la même chance de gagner. Les autres jeux de hasard,
+   appelés jeux de hasard raisonné, contiennent un processus aléatoire
+   (comme mélanger des cartes, lancer une pièce, lancer un ou plusieurs
+   dés) mais les joueurs ont le choix entre plusieurs techniques pour
+   miser, choisir, piocher, etc.
+
+   Beaucoup de jeux de hasard se déroulent en plusieurs parties
+   indépendantes (jeu de pile ou face, jeu de la Roulette par exemple) où
+   chaque partie est un jeu de hasard pur ; cependant, en fonction des
+   règles de jeu (notamment de mise), il est possible d'adapter des
+   stratégies afin d'augmenter son espérance de gain. Toutefois, nous
+   classerons ces jeux en jeux de hasard pur. Certains jeux, se jouant
+   également en plusieurs parties, restent des jeux de hasard pur (la
+   bataille par exemple). Voici quelques exemples de jeux.
+
+Jeux de cartes[modifier | modifier le code]
+--
+   [170px-Riffle_shuffle.jpg] Mélange de cartes au poker.
+
+   Dans les jeux de cartes, le principal élément aléatoire est la
+   distribution des cartes.
+
+Jeux de hasard pur[modifier | modifier le code]
+
+     * La bataille se joue avec un jeu de 32 cartes ou de 52 cartes.
+       Chaque joueur joue la première carte de son paquet mélangé
+       aléatoirement et il existe une règle pour chaque combinaison de
+       carte. Les joueurs n'ont alors rien à décider.
+     * Le jeu de pharaon est un jeu de hasard pur.
+
+Jeux de hasard raisonné[modifier | modifier le code]
+
+     * Le jeu de poker se joue avec un jeu de 52 cartes. La distribution
+       des cartes est le seul élément aléatoire du jeu. La manière de
+       miser, parier, bluffer, etc. est au choix du joueur.
+     * Le jeu de bridge. La distribution des cartes est l'élément
+       aléatoire. Le jeu se déroule en deux étapes : les enchères pendant
+       lesquelles les partenaires s'efforcent de trouver le meilleur
+       contrat puis le jeu en lui-même qui se joue en fonction de
+       l'enchère annoncée.
+     * Les cartes du jeu Magic : l'assemblée sont des cartes spéciales
+       pour ce jeu, avec des actions spécifiques pour chacune d'entre
+       elles. Le hasard provient du mélange de ces cartes, le paquet de
+       cartes étant construit par les joueurs eux-mêmes. Pour certaines
+       cartes, on utilise également un dé ou un jeu de pile ou face.
+     * Le jeu de nain jaune se joue avec un jeu de 52 cartes et un plateau
+       de cinq cases. Le seul élément non aléatoire est le choix de
+       construction des suites de cartes.
+--
+
+   Article détaillé : Jeu de dés.
+   [170px-Goosy_Goosy_Gander_02.JPG] Plateau du jeu de l'oie.
+
+Jeux de hasard pur[modifier | modifier le code]
+
+     * Le jeu de l'oie est un jeu de plateau contenant un chemin de cases
+       et se jouant avec deux dés. Les règles pour chaque case sont
+       fixées, le joueur ne décide donc rien.
+--
+Jeux de hasard raisonné[modifier | modifier le code]
+
+     * Le jeu de 5000 se joue avec 5 dés. À chaque lancer, le joueur
+       choisit de garder (marquer) certains dés.
+     * Le Backgammon se joue sur un tablier (plateau) avec quinze pions et
+--
+       fonction des valeurs des dés. Le joueur peut ainsi choisir quels
+       pions il avance.
+     * Le jeu des petits chevaux se joue sur un tablier (plateau) avec des
+       pions (chevaux) et deux dés. Le joueur choisit quels chevaux il
+       avance en fonction des résultats des dés.
+     * Dans le jeu de Monopoly, l'avancement des pions se fait de manière
+       aléatoire avec un dé, des cartes actions sont tirées de manière
+       aléatoire, cependant les stratégies d'achat de terrains et de
+--
+Autres[modifier | modifier le code]
+
+   [170px-Roulette_-_detail.jpg] Détail d'un jeu de Roulette.
+
+Jeux de hasard pur[modifier | modifier le code]
+
+     * Le Lapinodrôme est un jeu dans lequel un lapin passe
+       (aléatoirement) par une porte portant un numéro. Le gagnant est le
+       joueur ayant acheté le bon numéro. L'aléatoire vient de la décision
+       du lapin.
+     * Le jeu de la Loterie (ou Loto) se joue en pariant sur plusieurs
+       nombres (choisis ou aléatoires). Chaque nombre est choisi de
+       manière aléatoire et de manière équiprobable.
+     * Les machines à sous (hors machines à poker) sont des jeux
+       électroniques ou mécaniques dans lesquels les deux résultats
+       possibles (gagné ou perdu) sont aléatoires et indépendants des jeux
+       précédents. Une fois le montant de la mise choisie, le joueur n'a
+       plus rien à décider.
+     * Dans le jeu de Pile ou face, chaque côté de la pièce a la même
+       probabilité de tomber, c'est un jeu de hasard pur.
+     * Dans le jeu de Roulette, une fois le montant de la mise et le
+       numéro choisis, le résultat d'un jeté de bille est aléatoire.
+     * Citons la méthode traditionnelle de distribution des parts de la
+--
+Jeux de hasard raisonné[modifier | modifier le code]
+
+     * Dans le jeu les chevaliers de la table ronde, tous les joueurs sont
+       dans la même équipe contre le jeu lui-même. Les actions du jeu sont
+       données par des tirages aléatoires de cartes ou par des lancers de
+       dés. Les joueurs jouent avec des cartes distribuées aléatoirement
+       mais ont le choix entre plusieurs stratégies.
+     * La loi prévoit que tous les jeux de pronostics organisés par La
+       Française des jeux doivent faire appel à la combinaison du hasard
+       et des résultats d’événements sportifs.
+
+Inclassables[modifier | modifier le code]
+
+     * Une situation particulière apparaît dans certains jeux où deux
+       joueurs (au moins) s'affrontent. C'est le cas où, a priori, il n'y
+       a pas d'aléatoire dans le jeu, cependant la manière de jouer
+       (choisir, parier…) dépend de la manière dont l'adversaire a joué
+       précédemment ou va jouer en même temps que vous. Puisque la
+       décision de l'adversaire n'est pas connue, elle peut être
+       considérée aléatoire. C'est le cas typique du jeu
+       pierre-feuille-ciseaux dans lequel deux joueurs doivent choisir
+       entre pierre, feuille ou ciseaux et annoncent leur choix
+       simultanément.
+     * La stratégie optimale du jeu de pierre-feuille-ciseaux (lorsque son
+       adversaire joue de manière aléatoire équiprobable), est également
+       de jouer de manière aléatoire équiprobable. Le jeu est alors un jeu
+       de hasard pur. Cependant il est difficile de générer une suite de
+       valeurs aléatoires par soi-même. Ainsi, si votre adversaire joue
+       avec une certaine stratégie, vous pouvez chercher à obtenir une
+       stratégie optimale. On peut parler de jeu de hasard raisonné. Ce
+       jeu échappe donc au classement jeu de hasard pur/jeu de hasard
+       raisonné.
+
+--
+
+     * Citons également quelques phénomènes aléatoires introduits dans
+       certains jeux : la forme « ovale » du ballon de rugby donne un
+       rebond aléatoire.
+
+Intérêts et dérives[modifier | modifier le code]
+
+   L'introduction du hasard dans les jeux est souvent recherchée,
+   cependant les jeux de hasard, comme tous les jeux, peuvent devenir
+   addictifs pour certains joueurs.
+
+But du hasard dans les jeux[modifier | modifier le code]
+
+   Le but principal du jeu est d'obtenir une activité de loisirs ou un
+   entraînement d'ordre physique ou psychique. La présence d'aléatoire
+   dans le jeu permet d'ajouter une part d’imprévisibilité. L'attente
+   d'une carte maîtresse dans un jeu de cartes, l'attente de la
+   stabilisation (aléatoire) de la bille au jeu de la Roulette ou le
+   rebond (aléatoire) du ballon de Rugby, augmentera le sentiment de
+   désir.
+
+   La présence du hasard dans certains jeux permet de réduire l'influence
+   de la valeur technique des joueurs. Un des buts possibles est de
+   pouvoir jouer de manière plus équitable entre des joueurs de valeur
+   technique inégales comme des adultes et des enfants. Par exemple, le
+   jeu des Échecs qui ne présente aucun hasard, est utilisé pour mesurer
+   les capacités intellectuelles des deux joueurs (ou même joueur humain
+   contre joueur informatique). À l'inverse les jeux de hasard pur comme
+   le jeu de pile ou face, est totalement équitable pour les joueurs.
+
+   Le hasard peut être considéré comme l'adversaire dans le jeu. Par
+   exemple dans le jeu coopératif « les chevaliers de la table ronde »,
+   les joueurs jouent ensemble contre les difficultés du jeu qui sont
+   données par des cartes tirées aléatoirement ou des jetés de dés. Dans
+   certains jeux comme le blackjack, le joueur joue contre la banque qui a
+   un jeu totalement aléatoire. Dans le cas où de tels jeux sont de hasard
+   raisonné, le but du joueur est alors de trouver une technique afin de
+   « battre le hasard ». La théorie des jeux est une approche mathématique
+   de tels problèmes de stratégie.
+
+   Dans certains jeux, le hasard est tout simplement le but recherché afin
+   d'obtenir un résultat ou la réponse à une question de manière
+   totalement aléatoire. Le jeu de pile ou face est utilisé au football,
+   pour décider quelle équipe commence la partie.
+
+Addiction[modifier | modifier le code]
+
+   Les personnes qui s'adonnent aux « jeux » de hasard et d'argent
+   (gambling) peuvent développer une forte dépendance à ceux-ci. On nomme
+   cette psychopathologie (addiction) « jeu pathologique ». Selon le
+   psychanalyste Edmund Bergler, il existe six caractéristiques du joueur
+   pathologique^[32] :
+    1. Il doit jouer régulièrement : la question est ici de savoir à
+       partir de quand le sujet joue « trop ».
+    2. Le jeu prévaut sur tous les autres intérêts.
+    3. Il existe chez le joueur un optimisme qui n'est pas entamé par les
+       expériences répétées d'échec.
+--
+    6. Il existe chez lui un vécu subjectif de « thrill » (une sensation
+       de frisson, d'excitation, de tension à la fois douloureuse et
+       plaisante), durant les phases de jeu.
+
+     « Je trouve aussi des fous encore plus fous que d’autres qui n’ont
+--
+                      (Sébastien Brant, La nef des fous, 1498)
+
+   L'addiction au jeu peut se définir comme étant « un trouble qui
+   consiste en des épisodes répétés et fréquents du jeu qui dominent la
+   vie du sujet au détriment des valeurs et des obligations sociales,
+   professionnelles, matérielles et familiales. » L'addiction est donc une
+   pathologie, le joueur ne se contrôle plus et nourrit un besoin, une
+   dépendance… Le jeu dit « pathologique » va donc se distinguer par un
+   besoin répété et croissant de jouer et ce malgré des conséquences
+   négatives (altération des relations sociales, endettement…). Les
+--
+   faible revenu et 84 % ont entre 25 et 54 ans^[33].
+
+   Le jeu peut devenir un vrai cauchemar. En effet, il a des conséquences
+   sur l'ensemble de la vie du joueur. D'un point de vue financier, le
+   risque d'endettement est important, le joueur peut même être amenés à
+--
+
+   Un des buts du joueur est de trouver une méthode optimale afin de
+   gagner le jeu. On dit alors que les joueurs jouent une martingale (ou à
+   la martingale). Il ne faut pas confondre avec la martingale en
+   probabilité qui est un processus stochastique tel que sa valeur espérée
+--
+
+   Il y a cependant un lien entre ces deux termes. Si le gain d'un joueur
+   dans un jeu de hasard est une martingale (processus stochastique),
+   alors l'espérance du gain est constante (voir cette sous-section).
+   Cependant, si le gain d'un joueur dans un jeu de hasard est une
+   sous-martingale (processus stochastique), alors l'espérance du gain est
+   croissante, il s'agit alors d'une martingale (au sens technique de
+   jeu). Remarquons d'ailleurs que le terme mathématique est issu
+   historiquement du terme de la technique de jeu.
+   [170px-Gambling-ca-1800.jpg] Jeu de la Roulette en 1800.
+
+Exemple de jeu où chaque partie est un jeu de hasard pur[modifier | modifier
+le code]
+
+   Prenons un exemple de jeu simple dans lequel, à chaque partie, le
+   joueur gagne sa mise avec une probabilité p et perd sa mise avec une
+   probabilité 1-p, les réalisations du jeu sont indépendantes : miser sur
+   noir au jeu de la roulette pendant 10 réalisations. À chaque lancer de
+   bille, la probabilité de gagner sa mise de départ est p=(18 cases
+   noires)/(37 numéros possibles)≈0,486. L'espérance du gain est donc de
+--
+                                                [50px-Simple_s_10.svg.png]
+    La probabilité d'obtenir la Quinte flush royale est de 0,008 (pour un
+                                                        jeu de 32 cartes).
+
+Exemple de jeu où chaque partie est un jeu de hasard raisonné[modifier |
+modifier le code]
+
+   Article détaillé : Poker fermé.
+
+   Prenons l'exemple du poker fermé, c'est-à-dire, un jeu dans lequel cinq
+   cartes sont distribuées aléatoirement à chaque joueur et le reste du
+   jeu ne dépend plus de l'aléatoire. Dans ce cas, il est utile de
+   connaître les probabilités de chaque main afin de bien apprécier la
+   valeur du jeu en main et ainsi pouvoir adopter une technique de mise et
+   de bluff adaptée. Les probabilités utilisées sont alors de la
+   combinatoire.
+--
+   Selon une étude de l'Institut national de la statistique et des études
+   économiques (INSEE) parue en mai 2005^[38], les dépenses des ménages
+   français dans les jeux de hasard se sont élevées à :
+   Année dépenses des ménages
+   pour les jeux de hasards et d'argent
+   (en milliards) dépenses moyennes par ménage % du budget des ménages
+   1970 0,37 € 0,54 %
+--
+   Selon une étude de l'Institut national de la statistique et des études
+   économiques (INSEE) parue en mai 2005^[38], les dépenses des ménages
+   européens dans les jeux de hasard en 2004 se sont élevées à :
+   Pays Slovénie Espagne Finlande Grèce Rép. tchèque Suède Portugal
+   Royaume-Uni
+--
+   be certain is Germany and Spain by the year 1377. By 1379, we know they
+   were being used in Italy and Belgium, and by 1381 in France. »
+     * Matthieu Escande, Droit des jeux d'argent et de hasard, les
+       mutations de l'ordre public, 2013, l'Harmattan.
+     * Bernard Lloansi, Regard sur l'histoire des rapports du jeu et de
+       l'État, Cahiers Espaces N°38, Casinos et tourisme, octobre 1994.
+
+--
+       abridgement by Colin A. Ronan of Joseph Needham's original text :
+       3, Cambridge University Press 1986
+    8. ↑ « jeu de feuille » le yeh-tzâ sur le site unicorne.com.
+    9. ↑ Leo Mayer, Le Bulletin de l’Institut français d’archéologie
+       orientale, 1939, volume 38, pages 113–118 sur le siteifao.egnet.net
+--
+   12. ↑ Thierry Depaulis Brève histoire des cartes à jouer, dans Cartes à
+       jouer et tarots de Marseille, éditions Alors Hors du Temps, 2004,
+       page 33 :« …le nouveau jeu se répand comme une trainée de poudre.
+       Déjà fixé dans sa forme à quatre couleurs, doté de trois figures
+       (sans dame), et de cartes numérales dans chaque série, il est connu
+--
+   15. ↑ Voir milieu de page 55 in The shorter Science and civilisation in
+       China, Colin A. Ronan, Cambridge University Press, 1986
+   16. ↑ jeux de naibbe en Égypte sur le site unicorne.com.
+   17. ↑ arrivée des jeux en Europe sur le site unicorne.com.
+   18. ↑ ^a b et c arrivée des jeux de cartes en France sur le site
+       histoire-genealogie.com.
+   19. ↑ Thierry Depaulis, Tarot, jeu et magie, Bibliothèque nationale,
+       1984, p. 35 : "C'est en 1442, à Ferrare, qu'est mentionné pour la
+       première fois le jeu de carte da trionfi.", ancien nom du tarot.
+   20. ↑ Les jeux de hasard et d'argent en France, Trucy François, Rapport
+       d'information 223 (2001-2002) - Commission des finances
+   21. ↑ New York Times: Europe Unleashes Online Gambling to Fill Coffers
+--
+   23. ↑ voir Les lettres de Blaise Pascal éditeur G. Crès (Paris) 1922
+       page 220
+   24. ↑ Jean-Michel Mehl, Les jeux au royaume de France du XIIIe au début
+       du XVI^e siècle, Fayard, 1990 (ISBN 2-213-02591-6), p. 346-349
+   25. ↑ Franck Durand et Mélanie Fèvre, Jeux de hasard et Société,
+       Éditions L'Harmattan, 2008 (lire en ligne), p. 100
+   26. ↑ Article 410 créé par la loi du 19 février 1810, promulguée le 1er
+       mars 1810, "Ceux qui auront tenu une maison de jeux de hasard, et y
+       auront admis le public, soit librement, soit sur la présentation
+       des intéressés ou affiliés, les banquiers de cette maison, tous
+--
+       seront punis d'un emprisonnement de deux mois au moins et de six
+       mois au plus, et d'une amende…"
+   27. ↑ « Loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard »,
+       sur legifrance.gouv.fr (consulté le 3 octobre 2019).
+   28. ↑ Ordonnance n° 2019-1015 du 2 octobre 2019 réformant la régulation
+       des jeux d'argent et de hasard.
+   29. ↑ Art. L 322-3 code de sécurité intérieure
+   30. ↑ « Loterie : des pratiques commerciales réglementées », sur
+       economie.gouv.fr (consulté le 3 octobre 2019).
+   31. ↑ LOI n° 2010-476 du 12 mai 2010 relative à l'ouverture à la
+       concurrence et à la régulation du secteur des jeux d'argent et de
+       hasard en ligne (1).
+   32. ↑ (en) Edmund Bergler, the Psychology of Gambling (1957) sur le
+       site hopital-marmottan.fr
+   33. ↑ « Addiction aux jeux de hasard et d'argent », sur inpes.sante.fr
+       (consulté le 21 mars 2016)
+   34. ↑ « Les conséquences du jeu problématique », sur Joueurs Info
+       Service (consulté le 21 mars 2016)
+   35. ↑ « Les aides », sur Joueurs Info Service (consulté le 21 mars
+       2016)
+   36. ↑ « Auto-interdiction d’accès aux casinos et salles de jeux
+       belges », sur aide-aux-joueurs.be, 2012 (consulté le 23 mai 2017).
+   37. ↑ « Choisir l'interdiction », sur preferezunjeuresponsable.com,
+       2013 (consulté le 23 mai 2017).
+   38. ↑ ^a et b La consommation de jeux en France.
+
+Liens externes[modifier | modifier le code]
+--
+
+   v · m
+   Types de jeux
+     * Classification des jeux
+     * Théorie des jeux
+     * Liste des types de jeux
+     * Genre de jeu vidéo
+
+   Principaux types
+--
+     * Figurines
+     * Lettres
+     * Livre-jeu
+     * Mots
+     * Papier et crayon
+--
+     * Jeu sportif
+
+     * icône décorative Portail des jeux
+     * icône décorative Portail des probabilités et de la statistique

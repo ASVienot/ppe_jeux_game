@@ -1,0 +1,1410 @@
+<!DOCTYPE html>
+
+
+<html lang="fr">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="initial-scale=1">
+	<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"b0fa1e1a7e",applicationID:"119392"};;/*! For license information please see nr-loader-rum-1.248.0.min.js.LICENSE.txt */
+(()=>{var e,t,n={234:(e,t,n)=>{"use strict";n.d(t,{P_:()=>h,Mt:()=>m,C5:()=>s,DL:()=>w,OP:()=>j,lF:()=>R,Yu:()=>_,Dg:()=>v,CX:()=>c,GE:()=>A,sU:()=>T});var r=n(8632),i=n(9567);const a={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const n=(0,r.ek)(e);n&&(n.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=n(7056),l=n(50);const f=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector=t+",[data-nr-mask]":null===t?e.mask_selector=t:(0,l.Z)("An invalid session_replay.mask_selector was provided and will not be used",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},g={},p="All configuration objects require an agent identifier!";function h(e){if(!e)throw new Error(p);if(!g[e])throw new Error("Configuration for ".concat(e," was never set"));return g[e]}function v(e,t){if(!e)throw new Error(p);g[e]=(0,i.D)(t,f());const n=(0,r.ek)(e);n&&(n.init=g[e])}function m(e,t){if(!e)throw new Error(p);var n=h(e);if(n){for(var r=t.split("."),i=0;i<r.length-1;i++)if("object"!=typeof(n=n[r[i]]))return;n=n[r[r.length-1]]}return n}const b={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},y={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!y[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return y[e]}function A(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");y[e]=(0,i.D)(t,b);const n=(0,r.ek)(e);n&&(n.loader_config=y[e])}const _=(0,r.mF)().o;var x=n(385),D=n(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(x._A?.performance?.timeOrigin||x._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+x._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof x._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},E={};function j(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!E[e])throw new Error("Runtime for ".concat(e," was never set"));return E[e]}function T(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");E[e]=(0,i.D)(t,k);const n=(0,r.ek)(e);n&&(n.runtime=E[e])}function R(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,n)=>{"use strict";n.d(t,{D:()=>i});var r=n(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,r.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,r.Z)("Setting a Configurable requires a model to set its initial properties");const n=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(n).length?e:n;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?n[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?n[o]=i(e[o],t[o]):n[o]=e[o]}catch(e){(0,r.Z)("An error occurred while setting a property of a Configurable",e)}return n}catch(e){(0,r.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,n)=>{"use strict";n.d(t,{Re:()=>i,gF:()=>a,q4:()=>r});const r="1.248.0",i="PROD",a="CDN"},385:(e,t,n)=>{"use strict";n.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>r,ux:()=>c,v6:()=>i,w1:()=>u});const r="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=r?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(r&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,n)=>{"use strict";n.d(t,{w:()=>a});var r=n(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,r.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,n]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=n)}))}catch(e){(0,r.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,n)=>{"use strict";n.d(t,{L:()=>d,R:()=>c});var r=n(8325),i=n(1284),a=n(4322),o=n(3325);const s={};function c(e,t){const n={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,n)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const n=[...s[e]];function o(t){const n=e?r.ee.get(e):r.ee,o=a.X.handlers;if(n.backlog&&o){var s=n.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,n){n[0].on(e,n[1])}))}))}delete o[t],n.backlog[t]=null,n.emit("drain-"+t,[])}}n.every((e=>{let[t,n]=e;return n.staged}))&&(n.sort(((e,t)=>e[1].priority-t[1].priority)),n.forEach((t=>{let[n]=t;s[e].delete(n),o(n)})))}function l(e,t){var n=e[1];(0,i.D)(t[n],(function(t,n){var r=e[0];if(n[0]===r){var i=n[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,n)=>{"use strict";n.d(t,{A:()=>c,ee:()=>u});var r=n(8632),i=n(2210),a=n(234);class o{constructor(e){this.contextId=e}}var s=n(3117);const c="nr@context:".concat(s.a),u=function e(t,n){var r={},s={},d={},f=!1;try{f=16===n.length&&(0,a.OP)(n).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var n=r[e];if(!n)return;for(var i=0;i<n.length;i++)n[i]===t&&n.splice(i,1)},emit:function(e,n,r,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,n,r);for(var o=p(r),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,n);var f=b()[s[e]];f&&f.push([g,e,n,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const n=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[r,i]=e;s[i]=t,t in n||(n[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:n,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){r[e]=v(e).concat(t)}function v(e){return r[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,r.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,n)=>{"use strict";n.d(t,{E:()=>r,p:()=>i});var r=n(8325).ee.get("handle");function i(e,t,n,i,a){a?(a.buffer([e],i),a.emit(e,t,n)):(r.buffer([e],i),r.emit(e,t,n))}},4322:(e,t,n)=>{"use strict";n.d(t,{X:()=>a});var r=n(5546);a.on=o;var i=a.handlers={};function a(e,t,n,a){o(a||r.E,i,e,t,n)}function o(e,t,n,i,a){a||(a="feature"),e||(e=r.E);var o=t[a]=t[a]||{};(o[n]=o[n]||[]).push([e,i])}},3239:(e,t,n)=>{"use strict";n.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var r=n(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};r._A.addEventListener("test",null,e),r._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(n,r))}function c(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(n,r))}},3117:(e,t,n)=>{"use strict";n.d(t,{a:()=>r});const r=(0,n(4402).Rl)()},4402:(e,t,n)=>{"use strict";n.d(t,{Rl:()=>o,ky:()=>s});var r=n(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=r._A?.crypto||r._A?.msCrypto;let t,n=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(31))),i.split("").map((e=>"x"===e?a(t,++n).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=r._A?.crypto||r._A?.msCrypto;let n,i=0;t&&t.getRandomValues&&(n=t.getRandomValues(new Uint8Array(31)));const o=[];for(var s=0;s<e;s++)o.push(a(n,++i).toString(16));return o.join("")}},7056:(e,t,n)=>{"use strict";n.d(t,{Bq:()=>r,Hb:()=>a,oD:()=>i});const r="NRBA",i=144e5,a=18e5},7894:(e,t,n)=>{"use strict";function r(){return Math.round(performance.now())}n.d(t,{z:()=>r})},50:(e,t,n)=>{"use strict";function r(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}n.d(t,{Z:()=>r})},2825:(e,t,n)=>{"use strict";n.d(t,{N:()=>d,T:()=>l});var r=n(8325),i=n(5546),a=n(3325),o=n(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const n=r.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,r]=e;c[t]?c[t].forEach((e=>{r?(0,i.p)("feat-"+t,[],void 0,e,n):(0,i.p)("block-"+t,[],void 0,e,n),(0,i.p)("rumresp-"+t,[Boolean(r)],void 0,e,n)})):r&&(0,i.p)("feat-"+t,[],void 0,void 0,n),l[t]=Boolean(r)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,n))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,n)=>{"use strict";n.d(t,{X:()=>i});var r=Object.prototype.hasOwnProperty;function i(e,t,n){if(r.call(e,t))return e[t];var i=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,n)=>{"use strict";n.d(t,{D:()=>r});const r=(e,t)=>Object.entries(e||{}).map((e=>{let[n,r]=e;return t(n,r)}))},4351:(e,t,n)=>{"use strict";n.d(t,{P:()=>a});var r=n(8325);const i=()=>{const e=new WeakSet;return(t,n)=>{if("object"==typeof n&&null!==n){if(e.has(n))return;e.add(n)}return n}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{r.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,n)=>{"use strict";n.d(t,{KB:()=>o,b2:()=>a});var r=n(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,r.bP)("load",e,t)}function o(e){if(i())return e();(0,r.iz)("DOMContentLoaded",e)}},8632:(e,t,n)=>{"use strict";n.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var r=n(7894),i=n(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let n=o();n.initializedAgents??={},t.initializedAt={ms:(0,r.z)(),date:new Date},n.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,n)=>{"use strict";n.d(t,{N:()=>i});var r=n(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],n=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,r.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),n,i)}},3081:(e,t,n)=>{"use strict";n.d(t,{gF:()=>a,mY:()=>i,t9:()=>r,vz:()=>s,xS:()=>o});const r=n(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,n)=>{"use strict";n.d(t,{t:()=>r});const r=n(3325).D.pageViewEvent},9251:(e,t,n)=>{"use strict";n.d(t,{t:()=>r});const r=n(3325).D.pageViewTiming},5938:(e,t,n)=>{"use strict";n.d(t,{W:()=>i});var r=n(8325);class i{constructor(e,t,n){this.agentIdentifier=e,this.aggregator=t,this.ee=r.ee.get(e),this.featureName=n,this.blocked=!1}}},7530:(e,t,n)=>{"use strict";n.d(t,{j:()=>b});var r=n(3325),i=n(234),a=n(5546),o=n(8325),s=n(7894),c=n(8e3),u=n(3960),d=n(385),l=n(50),f=n(3081),g=n(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var n=arguments.length,r=new Array(n),i=0;i<n;i++)r[i]=arguments[i];return function(t){for(var n=arguments.length,r=new Array(n>1?n-1:0),i=1;i<n;i++)r[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...r))})),a.length>1?a:a[0]}(t,...r)}}))}var h=n(2825);const v=e=>{const t=e.startsWith("http");e+="/",n.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const E=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,n,r,a){const o=(0,i.C5)(e);return null===n?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:n}}),A(v,r,!0,a||null===n?"session":void 0)(t,n)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,r.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,r.D.spa),g.setPageViewName=function(t,n){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(n||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",n);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,r.D.metrics,p);const n=Object.values(r.D);if(void 0===e)e=n;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!n.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(n));e.includes(r.D.pageViewEvent)||e.push(r.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,r.D.metrics,p),(0,a.p)("recordReplay",[],void 0,r.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,r.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,r.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var n={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,r.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,n],i,r.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],n),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],n),e}finally{h.emit("fn-end",[(0,s.z)()],n)}}}};function A(e,t,n,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,r.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],n?null:this,i,p),n?void 0:this}}function _(){n.e(75).then(n.bind(n,7438)).then((t=>{let{setAPI:n}=t;n(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,r.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,r.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,r.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=D),m=!0}},1926:(e,t,n)=>{n.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,n)=>{"use strict";n.d(t,{D:()=>r,p:()=>i});const r={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[r.pageViewEvent]:1,[r.pageViewTiming]:2,[r.metrics]:3,[r.jserrors]:4,[r.ajax]:5,[r.sessionTrace]:6,[r.pageAction]:7,[r.spa]:8,[r.sessionReplay]:9}}},r={};function i(e){var t=r[e];if(void 0!==t)return t.exports;var a=r[e]={exports:{}};return n[e](a,a.exports,i),a.exports}i.m=n,i.d=(e,t)=>{for(var n in t)i.o(t,n)&&!i.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,n)=>(i.f[n](e,t),t)),[])),i.u=e=>"nr-rum-1.248.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.248.0.PROD:",i.l=(n,r,a,o)=>{if(e[n])e[n].push(r);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==n||l.getAttribute("data-webpack")==t+a){s=l;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=n,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),s.integrity=i.sriHashes[o],s.crossOrigin="anonymous"),e[n]=[r];var f=(t,r)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[n];if(delete e[n],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(r))),t)return t(r)},g=setTimeout(f.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=f.bind(null,s.onerror),s.onload=f.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",i.sriHashes={75:"sha512-5mWtMwj7hrXT5aUkfvBtjH6FJXsR+zdeMBfc721nzrOx36xa23yTrCB1VVOAQa+zIioAbWPW4m7UsPp7hW1WPw=="},(()=>{var e={50:0,832:0};i.f.j=(t,n)=>{var r=i.o(e,t)?e[t]:void 0;if(0!==r)if(r)n.push(r[2]);else{var a=new Promise(((n,i)=>r=e[t]=[n,i]));n.push(r[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(n=>{if(i.o(e,t)&&(0!==(r=e[t])&&(e[t]=void 0),r)){var a=n&&("load"===n.type?"missing":n.type),o=n&&n.target&&n.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,r[1](s)}}),"chunk-"+t,t)}};var t=(t,n)=>{var r,a,[o,s,c]=n,u=0;if(o.some((t=>0!==e[t]))){for(r in s)i.o(s,r)&&(i.m[r]=s[r]);if(c)c(i)}for(t&&t(n);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},n=self["webpackChunk:NRBA-1.248.0.PROD"]=self["webpackChunk:NRBA-1.248.0.PROD"]||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))})(),(()=>{"use strict";i(1926);var e=i(50);class t{addPageAction(t,n){(0,e.Z)("Call to agent api addPageAction failed. The page action feature is not currently initialized.")}setPageViewName(t,n){(0,e.Z)("Call to agent api setPageViewName failed. The page view feature is not currently initialized.")}setCustomAttribute(t,n,r){(0,e.Z)("Call to agent api setCustomAttribute failed. The js errors feature is not currently initialized.")}noticeError(t,n){(0,e.Z)("Call to agent api noticeError failed. The js errors feature is not currently initialized.")}setUserId(t){(0,e.Z)("Call to agent api setUserId failed. The js errors feature is not currently initialized.")}setApplicationVersion(t){(0,e.Z)("Call to agent api setApplicationVersion failed. The agent is not currently initialized.")}setErrorHandler(t){(0,e.Z)("Call to agent api setErrorHandler failed. The js errors feature is not currently initialized.")}finished(t){(0,e.Z)("Call to agent api finished failed. The page action feature is not currently initialized.")}addRelease(t,n){(0,e.Z)("Call to agent api addRelease failed. The js errors feature is not currently initialized.")}start(t){(0,e.Z)("Call to agent api addRelease failed. The agent is not currently initialized.")}recordReplay(){(0,e.Z)("Call to agent api recordReplay failed. The agent is not currently initialized.")}pauseReplay(){(0,e.Z)("Call to agent api pauseReplay failed. The agent is not currently initialized.")}}var n=i(3325),r=i(234);const a=Object.values(n.D);function o(e){const t={};return a.forEach((n=>{t[n]=function(e,t){return!1!==(0,r.Mt)(t,"".concat(e,".enabled"))}(n,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,n){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,n),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,r.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,n)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const n=l.il&&!0===(0,r.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let r;try{if(n){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));r=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,r))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:n}=await e(this.featureName,"aggregate");this.featAggregate=new n(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==n.D.sessionReplay||!!r.Yu.MO&&(!1!==(0,r.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,n),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,n,r,i){var a=this.getBucket(e,t,n,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,n){t[e]=b(n,t[e])})),t}(r,a.metrics),a}merge(e,t,n,r,i){var a=this.getBucket(e,t,r,i);if(a.metrics){var o=a.metrics;o.count+=n.count,(0,v.D)(n,(function(e,t){if("count"!==e){var r=o[e],i=n[e];i&&!i.c?o[e]=b(i.t,r):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=n}storeMetric(e,t,n,r){var i=this.getBucket(e,t,n);return i.stats=b(r,i.stats),i}getBucket(e,t,n,r){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:n||{}},r&&(i.custom=r)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},n="",r=!1,i=0;i<e.length;i++)t[n=e[i]]=w(this.aggregatedData[n]),t[n].length&&(r=!0),delete this.aggregatedData[n];return r?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),T=i(7894),R=i(9251);class S extends f{static featureName=R.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,n),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,T.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,T.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class C extends f{static featureName=I.t9;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,n),this.importAggregator()}}new class extends t{constructor(t){let n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=n,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(n,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,r.C5)(this.agentIdentifier),init:(0,r.P_)(this.agentIdentifier),loader_config:(0,r.DL)(this.agentIdentifier),runtime:(0,r.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),r=[...this.desiredFeatures];r.sort(((e,t)=>n.p[e.featureName]-n.p[t.featureName])),r.forEach((r=>{if(t[r.featureName]||r.featureName===n.D.pageViewEvent){const i=function(e){switch(e){case n.D.ajax:return[n.D.jserrors];case n.D.sessionTrace:return[n.D.ajax,n.D.pageViewEvent];case n.D.sessionReplay:return[n.D.sessionTrace];case n.D.pageViewTiming:return[n.D.pageViewEvent];default:return[]}}(r.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(r.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[r.featureName]=new r(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const n=(0,_.fP)();return delete n.initializedAgents[this.agentIdentifier]?.api,delete n.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,n.ee?.abort(),delete n.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,S,C],loaderType:"lite"})})()})();</script>
+
+	<link rel="dns-prefetch" href="//mvistatic.com">
+	<link rel="dns-prefetch" href="//annonces.maville.com">
+	<link rel="dns-prefetch" href="//www.googleadservices.com">
+	<link rel="dns-prefetch" href="//logc1.xiti.com">
+	<link rel="dns-prefetch" href="//ouestfrance.ezakus.net">
+	<link rel="dns-prefetch" href="//www.facebook.com">
+	<link rel="dns-prefetch" href="//rpm-images.newrelic.com">
+	<link rel="dns-prefetch" href="//beacon-1.newrelic.com">
+	<link rel="dns-prefetch" href="//precom.purl.fr">
+
+	<title>Comment l’industrie du jeux vidéo s’installe en Bretagne . Sport  - Saint-Malo.maville.com</title>
+	<meta name="description" content="Sport Saint-Malo Comment lindustrie du jeux vidéo sinstalle en Bretagne - Représentant à peine... Saint-Malo" />
+<meta name="keywords" content="sport,info,actu,football,basket,ball,handball,volley,rugby,saint-malo" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Maville" />
+<meta name="twitter:creator" content="@Maville" />
+<meta name="twitter:title" content="Comment l’industrie du jeux vidéo s’installe en Bretagne . Sport " />
+<meta name="twitter:description" content="Sport Saint-Malo Comment lindustrie du jeux vidéo sinstalle en Bretagne - Représentant à peine... Saint-Malo" />
+<meta property="og:title" content="Comment l’industrie du jeux vidéo s’installe en Bretagne . Sport "/>
+<meta property="og:description" content="Sport Saint-Malo Comment lindustrie du jeux vidéo sinstalle en Bretagne - Représentant à peine... Saint-Malo" />
+<meta name="googlebot" content="max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+<meta name="facebook-domain-verification" content="arztuwdmgg6vwdqjhgtbvvkffqsjjs" />
+	<!--TAG-BLC METANOINDEX-->
+	<link rel= "canonical" href="https://www.ouest-france.fr/bretagne/comment-lindustrie-du-jeux-video-sinstalle-en-bretagne-a1b23af6-74ac-11ee-bd59-77e74b2221d0" />
+	<meta property="og:url" content="https://saint-malo.maville.com/sport/detail_-comment-l-industrie-du-jeux-video-s-installe-en-bretagne-_fil-6017134_actu.Htm" />
+	<meta name="twitter:url" content="https://saint-malo.maville.com/sport/detail_-comment-l-industrie-du-jeux-video-s-installe-en-bretagne-_fil-6017134_actu.Htm" />
+	<meta name="twitter:image" content="https://maville.com/photosmvi/2023/11/05/P33510267D6017134G.jpg" />
+	<meta property="og:image" content="https://maville.com/photosmvi/2023/11/05/P33510267D6017134G_crop_1080-600_.jpg" /><meta property="og:image:width" content="1080" /><meta property="og:image:height" content="600" />
+	<meta property="fb:app_id" content="1588519561427800"/>
+	<meta property="og:type" content="article" />
+	<meta name="tdm-reservation" content="1">
+	<meta name="tdm-policy" content="https://saint-malo.maville.com/tdm-policy/">
+	<link rel="SHORTCUT ICON" href="https://mvistatic.com/design/images/favicon.ico" />
+	<link rel="apple-touch-icon" href="https://mvistatic.com/design/images/appleIcon.png" />
+	<link rel="stylesheet" type="text/css" href="https://mvistatic.com/min/b=design/styles&amp;f=baseV13.css,tetiereV13.css,examsV13.css,promo.css,starRatingV13.css,jeuxV13.css,cinemaV13.css,sortieV13.css,sportV13.css,infoV13.css,galerieV13.css,pratiqueV13.css,thickbox.css,formBox.css,saisieAssisteeV13.css,une.css,refineslide.css,jquery-ui.custom.css,jquery.fancybox.css,mavillebox.css,baseMob.css,fontsV13.css?version=20230608" />
+	<script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+	else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+		var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+		if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+		var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("24fb3c2b-ea44-4865-bb21-828251e219c7")})();	window.didomiEventListeners = window.didomiEventListeners || [];
+	(function(w){
+		function _lisen(cb) {
+			w.didomiEventListeners = w.didomiEventListeners || [];
+			w.didomiEventListeners.push({
+				event: 'consent.changed',
+				listener: function (context) {
+					cb();
+				}
+			});
+		}
+		function _listen_with_refresh() {
+			_lisen(function(){ w.location.href = w.location.href; });
+		}
+		if(document.cookie.indexOf('euconsent-v2') > -1) {
+			// 2nd visite et +
+			_listen_with_refresh();
+		} else {
+			_lisen(_listen_with_refresh);
+		}
+	})(window);
+	</script>
+
+
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="https://mvistatic.com/min/f=design/styles/ie7.css?version=20230608" /><![endif]-->
+	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="https://mvistatic.com/min/f=design/styles/ie8.css?version=20230608" /><![endif]-->
+	<!--[if IE 9]><link rel="stylesheet" type="text/css" href="https://mvistatic.com/min/f=design/styles/ie9.css?version=20230608" /><![endif]-->
+	<!--[if !IE]><!--><script> if (/*@cc_on!@*/false) { document.documentElement.className+=' ie10'; }</script><link rel="stylesheet" type="text/css" href="https://mvistatic.com/min/f=design/styles/ie10.css?version=20230608" /><!--<![endif]-->
+
+	<!--[if lte IE 7]><div style='border-bottom: 1px solid #7e7e7e; background: #FFF;text-align: center; clear: both; height: 130px; position: relative; z-index:36001;'><div style='position: absolute; right: 10px; top: 10px; font-family: courier new; font-weight: bold; border:1px solid #d2d2d2;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='https://mvistatic.com/design/images/ie7nomore/close.gif' style='border: none; margin:5px;' alt='Fermer cet avertissement'/></a></div><div style='width: 800px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'><div style='width: 128px; float: left;'><img src='https://mvistatic.com/design/images/ie7nomore/caution.png' alt='Attention!' height="128" width="128"/></div><div style='width: 200px; float: left; font-family: Arial, sans-serif;'><div style='font-size: 18px; font-weight: bold; margin-top: 12px;'>Vous utilisez un navigateur obsolète !</div><div style='font-size: 14px; margin-top: 6px; line-height: 14px;'>Pour une meilleur exp&eacute;rience utilisateur, merci d'installer un des navigateurs suivants :</div></div><div style='float: left; margin:0 25px;'><a href='http://www.google.com/intl/fr/chrome/browser/' target='_blank'><img src='https://mvistatic.com/design/images/ie7nomore/chrome.png' style='border: none;' alt='T&eacute;l&eacute;charger la derni&egrave;re version de Google Chrome' width="77" height="122" /></a></div><div style='width: 75px; float: left; margin-right:25px;'><a href='http://www.mozilla.org/fr/firefox/new/' target='_blank'><img src='https://mvistatic.com/design/images/ie7nomore/firefox.png' style='border: none;' alt='T&eacute;l&eacute;charger la derni&egrave;re version de Firefox' width="75" height="122"/></a></div><div style='width: 68px; float: left;  margin-right:25px;'><a href='http://www.apple.com/fr/safari/' target='_blank'><img src='https://mvistatic.com/design/images/ie7nomore/safari.png' style='border: none;' alt='T&eacute;l&eacute;charger la derni&egrave;re version de Safari' width="68" height="122"/></a></div><div style='width: 84px; float: left;'><a href='http://www.microsoft.com/fr-fr/download/details.aspx?id=43' target='_blank'><img src='https://mvistatic.com/design/images/ie7nomore/ie.png' style='border: none;' alt="T&eacute;l&eacute;charger la derni&egrave;re version d'Internet Explorer" width="84" height="122"/></a></div></div></div>  <![endif]-->
+	<script src="https://mvistatic.com/min/b=design/javascripts&amp;f=universalAnalytics.js?version=20230608" type="text/javascript"></script>
+	<!-- GTM -->
+<script>
+    dataLayer = [];
+    var chaine=''+location ;
+    var tab = chaine.split(/\//) ;
+    if(tab.length > 1){
+        if(tab[3] != "maville"){
+            var dossier = tab[3];
+        }else {
+            var dossier = 'home';
+        }
+    }else{
+        var dossier = 'home';
+    }
+    if(dossier === 'actu' || dossier === 'info' ||dossier === 'sport' ||
+        dossier === 'sortirjeux' || dossier === 'pratique' || dossier === 'meteo' ||
+        dossier === 'restaurants-bars' || dossier === 'deals' || dossier === 'cinema' ||
+        dossier === 'sallesdesport' || dossier === 'moncompte' || dossier === 'shopping' ||
+        dossier === 'dossiers' || dossier === 'home'){
+        //rien
+    }else{
+        dossier = '';
+    }
+    dataLayer.push({
+        'mvisite': 'saint-malo',
+        'mvirubrique': dossier
+    });
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M55VGXP');
+
+</script>
+<!-- End GTM -->
+
+	<!-- Facebook Pixel Code -->
+	<script type="didomi/javascript" data-purposes="reseauxso-W9PmELXP">
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '962745590906133');
+		fbq('track', 'PageView');
+	</script>
+
+	<!--[if lte IE 8]><script src="https://mvistatic.com/min/b=design/js/ie&amp;f=html5-ie.js?version=20230608" type="text/javascript"></script><![endif]-->
+	<!--[if lte IE 7]><script src="https://mvistatic.com/min/b=design/js/ie&amp;f=lte-ie7.js?version=20230608" type="text/javascript"></script><![endif]-->
+
+	<script src="https://mvistatic.com/min/b=design/javascripts&amp;f=jquery.min.js,thickbox/thickbox.js?version=20230608" type="text/javascript"></script>
+	<script src="https://mvistatic.com/min/b=design/javascripts&amp;f=scripts.js,base.js,jquery.lazyload.min.js,jquery.fancybox.js,jquery.mavillebox.js,jquery-ui.custom.min.js,jquery.tools.tabsMVI.min.js,LAB.min.js?version=20230608" type="text/javascript"></script>
+	<script src="https://mvistatic.com/min/b=design/js&amp;f=commun.js,jquery.autogrow.js?version=20230608" type="text/javascript"></script>
+
+	<script src="https://media.ouest-france.fr/v1/javascripts/7d349a55d71df07f1558a602124cad61-initadditi-maville.js" type="text/javascript"></script>
+	<script async src='https://boot.pbstck.com/v1/tag/30e4ae5f-a882-489b-8709-312f40c9d3c5'></script>
+
+	<script async="" type="text/javascript" src="https://cdn.adsafeprotected.com/iasPET.1.js"></script>
+
+	<script type="didomi/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)){
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/ouest-france-ofmaville1/loader.js',
+            'tb_loader_script');
+	</script>
+
+	<link rel="alternate" type="application/RSS+XML" title="M&eacute;t&eacute;o quotidienne" href="/flux/rss/meteo.php" />
+	<link rel="alternate" type="application/RSS+XML" title="Actualit&eacute; locale" href="/flux/rss/actu.php?c=loc" />
+	<link rel="alternate" type="application/RSS+XML" title="Actualit&eacute; d&eacute;partementale" href="/flux/rss/actu.php?c=dep" />
+	<link rel="alternate" type="application/RSS+XML" title="Actualit&eacute; sportive" href="/flux/rss/actu.php?c=spo" />
+	<link rel="alternate" type="application/RSS+XML" title="Derni&eacute;res minutes" href="/flux/rss/dma.php" />
+
+
+	<script async src="https://fundingchoicesmessages.google.com/i/pub-2464230562981596?ers=1" nonce="1iM2wPXmsHSkMZ3pcWYm9Q"></script><script nonce="1iM2wPXmsHSkMZ3pcWYm9Q">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+	<script>(function(){
+		'use strict';var aa=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},ba="function"==typeof Object.create?Object.create:function(a){var b=function(){};b.prototype=a;return new b},k;if("function"==typeof Object.setPrototypeOf)k=Object.setPrototypeOf;else{var m;a:{var ca={a:!0},n={};try{n.__proto__=ca;m=n.a;break a}catch(a){}m=!1}k=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}
+		var p=k,q=function(a,b){a.prototype=ba(b.prototype);a.prototype.constructor=a;if(p)p(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.v=b.prototype},r=this||self,da=function(){},t=function(a){return a};var u;var w=function(a,b){this.g=b===v?a:""};w.prototype.toString=function(){return this.g+""};var v={},x=function(a){if(void 0===u){var b=null;var c=r.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:t,createScript:t,createScriptURL:t})}catch(d){r.console&&r.console.error(d.message)}u=b}else u=b}a=(b=u)?b.createScriptURL(a):a;return new w(a,v)};var A=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};var B={},C=null;var D="function"===typeof Uint8Array;function E(a,b,c){return"object"===typeof a?D&&!Array.isArray(a)&&a instanceof Uint8Array?c(a):F(a,b,c):b(a)}function F(a,b,c){if(Array.isArray(a)){for(var d=Array(a.length),e=0;e<a.length;e++){var f=a[e];null!=f&&(d[e]=E(f,b,c))}Array.isArray(a)&&a.s&&G(d);return d}d={};for(e in a)Object.prototype.hasOwnProperty.call(a,e)&&(f=a[e],null!=f&&(d[e]=E(f,b,c)));return d}
+		function ea(a){return F(a,function(b){return"number"===typeof b?isFinite(b)?b:String(b):b},function(b){var c;void 0===c&&(c=0);if(!C){C={};for(var d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),e=["+/=","+/","-_=","-_.","-_"],f=0;5>f;f++){var h=d.concat(e[f].split(""));B[f]=h;for(var g=0;g<h.length;g++){var l=h[g];void 0===C[l]&&(C[l]=g)}}}c=B[c];d=Array(Math.floor(b.length/3));e=c[64]||"";for(f=h=0;h<b.length-2;h+=3){var y=b[h],z=b[h+1];l=b[h+2];g=c[y>>2];y=c[(y&3)<<
+		4|z>>4];z=c[(z&15)<<2|l>>6];l=c[l&63];d[f++]=""+g+y+z+l}g=0;l=e;switch(b.length-h){case 2:g=b[h+1],l=c[(g&15)<<2]||e;case 1:b=b[h],d[f]=""+c[b>>2]+c[(b&3)<<4|g>>4]+l+e}return d.join("")})}var fa={s:{value:!0,configurable:!0}},G=function(a){Array.isArray(a)&&!Object.isFrozen(a)&&Object.defineProperties(a,fa);return a};var H;var J=function(a,b,c){var d=H;H=null;a||(a=d);d=this.constructor.u;a||(a=d?[d]:[]);this.j=d?0:-1;this.h=null;this.g=a;a:{d=this.g.length;a=d-1;if(d&&(d=this.g[a],!(null===d||"object"!=typeof d||Array.isArray(d)||D&&d instanceof Uint8Array))){this.l=a-this.j;this.i=d;break a}void 0!==b&&-1<b?(this.l=Math.max(b,a+1-this.j),this.i=null):this.l=Number.MAX_VALUE}if(c)for(b=0;b<c.length;b++)a=c[b],a<this.l?(a+=this.j,(d=this.g[a])?G(d):this.g[a]=I):(d=this.l+this.j,this.g[d]||(this.i=this.g[d]={}),(d=this.i[a])?
+				G(d):this.i[a]=I)},I=Object.freeze(G([])),K=function(a,b){if(-1===b)return null;if(b<a.l){b+=a.j;var c=a.g[b];return c!==I?c:a.g[b]=G([])}if(a.i)return c=a.i[b],c!==I?c:a.i[b]=G([])},M=function(a,b){var c=L;if(-1===b)return null;a.h||(a.h={});if(!a.h[b]){var d=K(a,b);d&&(a.h[b]=new c(d))}return a.h[b]};J.prototype.toJSON=function(){var a=N(this,!1);return ea(a)};
+		var N=function(a,b){if(a.h)for(var c in a.h)if(Object.prototype.hasOwnProperty.call(a.h,c)){var d=a.h[c];if(Array.isArray(d))for(var e=0;e<d.length;e++)d[e]&&N(d[e],b);else d&&N(d,b)}return a.g},O=function(a,b){H=b=b?JSON.parse(b):null;a=new a(b);H=null;return a};J.prototype.toString=function(){return N(this,!1).toString()};var P=function(a){J.call(this,a)};q(P,J);function ha(a){var b,c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document,d=null===(b=c.querySelector)||void 0===b?void 0:b.call(c,"script[nonce]");(b=d?d.nonce||d.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",b)};var Q=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},R=function(a){this.g=a||r.document||document};R.prototype.appendChild=function(a,b){a.appendChild(b)};var S=function(a,b,c,d,e,f){try{var h=a.g,g=Q(a.g,"SCRIPT");g.async=!0;g.src=b instanceof w&&b.constructor===w?b.g:"type_error:TrustedResourceUrl";ha(g);h.head.appendChild(g);g.addEventListener("load",function(){e();d&&h.head.removeChild(g)});g.addEventListener("error",function(){0<c?S(a,b,c-1,d,e,f):(d&&h.head.removeChild(g),f())})}catch(l){f()}};var ia=r.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ja=r.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),ka=r.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),la=function(a,b,c){this.h=a;this.j=new R(this.h);this.g=null;this.i=[];this.l=!1;this.o=b;this.m=c},V=function(a){if(a.h.body&&!a.l){var b=
+				function(){T(a);r.setTimeout(function(){return U(a,3)},50)};S(a.j,a.o,2,!0,function(){r[a.m]||b()},b);a.l=!0}},T=function(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.h.body.appendChild(d);a.i.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=ma(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=ma(0,10,0,10,0,10);b.style.display=
+				"flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Q(a.j.g,"IMG");d.className=A();d.src=ia;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ja;var h=X(a);h.textContent=ka;Y(a,
+				e,f);Y(a,e,h);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.h.body.appendChild(a.g);b=W(1,5);for(c=0;c<b;c++)d=X(a),a.h.body.appendChild(d),a.i.push(d)},Y=function(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)},W=function(a,b){return Math.floor(a+Math.random()*(b-a))},ma=function(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,
+				255)).toString()+")"},X=function(a){a=Q(a.j.g,"DIV");a.className=A();return a},U=function(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(na(a),T(a),r.setTimeout(function(){return U(a,b-1)},50))},na=function(a){var b=a.i;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:aa(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.i=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};var pa=function(a,b,c,d,e){var f=oa(c),h=function(l){l.appendChild(f);r.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},g=function(l){document.body?h(document.body):0<l?r.setTimeout(function(){g(l-1)},e):b()};g(3)},oa=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var L=function(a){J.call(this,a)};q(L,J);var qa=function(a){J.call(this,a)};q(qa,J);var ra=function(a,b){this.l=a;this.m=new R(a.document);this.g=b;this.i=K(this.g,1);b=M(this.g,2);this.o=x(K(b,4)||"");this.h=!1;b=M(this.g,13);b=x(K(b,4)||"");this.j=new la(a.document,b,K(this.g,12))};ra.prototype.start=function(){sa(this)};
+		var sa=function(a){ta(a);S(a.m,a.o,3,!1,function(){a:{var b=a.i;var c=r.btoa(b);if(c=r[c]){try{var d=O(P,r.atob(c))}catch(e){b=!1;break a}b=b===K(d,1)}else b=!1}b?Z(a,K(a.g,14)):(Z(a,K(a.g,8)),V(a.j))},function(){pa(function(){Z(a,K(a.g,7));V(a.j)},function(){return Z(a,K(a.g,6))},K(a.g,9),K(a.g,10),K(a.g,11))})},Z=function(a,b){a.h||(a.h=!0,a=new a.l.XMLHttpRequest,a.open("GET",b,!0),a.send())},ta=function(a){var b=r.btoa(a.i);a.l[b]&&Z(a,K(a.g,5))};(function(a,b){r[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];r[a]=da;b.apply(null,d)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ra(window,O(qa,window.atob(a)))).start()});}).call(this);
+
+	window.__h82AlnkH6D91__("WyJwdWItMjQ2NDIzMDU2Mjk4MTU5NiIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi0yNDY0MjMwNTYyOTgxNTk2Il0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hWSlBzS3FJalRnNEV2RjJSYUFwbS1VNlgzNlJ1R09JMWt6X280TVZycmQtbktHRGNaSUVRQ2U5dkc4TndWNnBYWFpNVlVWRkdZVUVkTzIzaFF0M2dFYVJBXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFVJX0lMWkFtWE1mWG1tOEplWmc4Q2Q3VldEa0o3NjRzRTJWVlJOOTBjcUhwRElEM0tnMk9ub2h4ZWFBLXduWl9UTVc1cmpmNS1mUkFwN1FqeEZfVHVnOWdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFdSeVkwTmtJUXhVYlFWdnVuNUtNa1V6ZFdnU3M5ZG5obXc5R2xqaWlxanJpRURGM3N5MVplMklMbk9nVmNXMkJaRWRhc3JsTUZTWVozOUk3VThnN1JKR2dcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZKTGtNdXNZaFZaMnUtQUxEemRBMGF4SWZPaTF1Y1JTaVhQTk1ZOHJYUXU0bS1YX25xM1R3c1lpdnI3NTU1YkpNVmt2dmthS0dTWlE1V2ZuNjV3VnVmOFFcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUSTBOalF5TXpBMU5qSTVPREUxT1RZXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi0yNDY0MjMwNTYyOTgxNTk2LmpzP3VzcXBcdTAwM2RDQXMiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4V1g2Y0ZXcUtHcjNkUFhTRDBzNkpYQklfclFPc180eGxiT0FxOWI3QXhfQ0YxY2FhTEx1eHVhMWlGd1hjME1MeWlNUHpCOVdlYW03RXBIVm8xdmx6c1ROd1x1MDAzZFx1MDAzZCJd");</script>
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="ZYLWA-MC4RF-XVWXS-J77PP-9D32V",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"ZYLWA-MC4RF-XVWXS-J77PP-9D32V";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="fiaq4cqlopjrakqce3yjcaaaarswi6ad-f-c54449c02-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"36","ak.cp":"1385559","ak.ai":parseInt("838251",10),"ak.ol":"0","ak.cr":12,"ak.ipv":6,"ak.proto":"h2","ak.rid":"847a945c","ak.r":42047,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"2a01:e0a:b73:d310::","ak.cport":34090,"ak.gh":"23.72.226.208","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1701083139","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==0UEcMkWEFB01Gsv1l8vEzROkDdesJMFGbYwUNhS3MbF+gbb8G5jguTkqH0vBq0ubbywWfv94hR0w2dNhXC/VP9DHpM3y4frVZy5HIAuXQb7X64/kb8KSXSEboLfAtVGoFRIYHqcNJ7qAPstD5CGH5slUTssbN0VC2Tk2DI0CbCTuJ2XRRJTkjmzEEUx9oZWt/OedogsRV3kFSeJhxw8VVj8Yr84fgNkH32IXGexqrgTObMGcY9EZXu4r/3CnKUnTATP3Y6CRXJAfcx7cI/74ZdbwyNkqKtarU7kgo+BGWA95BJu3LzgLt1ewgsxLylAYEFmhj253fi+0YSfnZA/W2XAma4l/zzqybCcrg7+xysdRSuiNoQk3+5eEeQBhY2lIN0x2Cv4XvWUqVY87Ky0qaw2Bq2SDjsTamoT6pKstenc=","ak.pv":"24","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body onload="try{load();}catch (e){}">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M55VGXP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!--<div class="adleave101545589" adleave-slot="ADLEAVE-LxB-573758-1"></div>-->
+	<script type="didomi/javascript">(adleave101545589 = window.adleave101545589 || []).push({});</script>
+
+	
+
+
+
+	<div id="top" class="contour universsport">
+
+		<header class="tetiere-container">
+    <section class="tetiere-topmenu size14 positionR">
+        <div class="tetiere-top-container">
+            <nav class="villes">
+                <a class="ville-actuelle size18" href="/"><i class="tetiere-icon icon-localisation"></i>Saint-Malo</a>
+                <a class="ville" target="_blank" href="https://rennes.maville.com">Rennes</a><a class="ville" target="_blank" href="https://vitre.maville.com">Vitré</a><a class="ville" target="_blank" href="https://redon.maville.com">Redon</a><a class="ville" target="_blank" href="https://fougeres.maville.com">Fougères</a>
+                <a href="https://maville.com" class="ville ville-autres" target="_blank">Autres villes <i class="tetiere-icon icon-chevron-bas"></i></a>
+            </nav>
+
+            <section class="compte tetiere-login">
+                <div id="devenezMembre" class="first compte--unlogged">
+                    <div class="compte__signin" onclick="if ('function' == typeof(lightboxAjax)) lightboxAjax('/ajax/ajaxConnexion.php?etape=inscription','826','477'); else afficherMsg('tetiereConnexion','Connectez vous','form-box','/ofm_lib/ajaxConnexion.php?etape=inscription');">
+                        <i class="tetiere-icon compte__icon icon-ecrire"></i>
+                        S'inscrire
+                    </div>
+                    <div class="compte__login marg20L" onclick="if ('function' == typeof(lightboxAjax)) lightboxAjax('/ajax/ajaxConnexion.php?etape=connexion','826','410'); else afficherMsg('tetiereConnexion','Connectez vous','form-box','/ofm_lib/ajaxConnexion.php?etape=connexion');">
+                        <i class="tetiere-icon compte__icon icon-utilisateur"></i>
+                        Se connecter
+                    </div>
+                </div>
+
+                <div id="loginName" class="compte--logged"></div>
+            </section>
+        </div>
+
+        <div id="menu-membre-container" class="menu-membre-container padd20T disNone">
+            <div id="menu-membre__close-btn" class="menu-membre__close-btn floatR positionR"></div>
+            <p class="menu-membre-label">Mon compte
+                <span class="coul-site">Maville</span>
+            </p>
+            <ul class="menu-membre size14">
+                <li>
+                    <a id="monCompte" href="/moncompte/mesinformations" title="Voir mon compte" class="prems">
+                        Mon compte
+                        <i class="tetiere-icon menu-membre__icon icon-engrenage"></i>
+                    </a>
+                </li>
+                <li>
+                    <a id="monEspacePro" href="/deals/moncompte/mesenseignes" title="Mon espace Pro">
+                        Mon espace
+                        <span class="menu-membre__icon pro">PRO</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0);" id="logout-btn" onclick="if ('function' == typeof(logout)) logout(); else connexionModule.deconnecte();" title="Me déconnecter">
+                        Déconnexion
+                        <i class="tetiere-icon menu-membre__icon icon-onoff"></i>
+                    </a>
+                </li>
+            </ul>
+            <!-- InstanceBeginEditable name="player" -->
+            <!-- InstanceEndEditable -->
+        </div>
+    </section>
+
+    <section class="tetiere-logos sizing size14 positionR">
+        <img src="https://mvistatic.com/design/images/tetiere-MVOF/logo_maville.svg" width="170" height="37" alt="Maville.com" id="logo-maville" class="logo-maville" />
+        <span>&nbsp;par&nbsp;</span>
+        <img src="https://mvistatic.com/design/images/tetiere-MVOF/logo_of.svg" width="127" height="42" alt="Ouest-France" class="logo-of marg10L" />
+    </section>
+
+    <nav id="mainmenu" class="mainmenu size17 positionR">
+        <div class="mainmenu_container">
+            <ul class="mainmenu__list">
+                <li class="mainmenu__petit-m">
+                    <a href="/" title="Toutes les villes du r&eacute;seau maville.com" class="logo-m">
+                        <img src="https://mvistatic.com/design/images/tetiere/petit-m.svg" alt="Accueil Maville" width="40">
+                    </a>
+                </li>
+
+                <li id="menuAccueil" class="mainmenu__item mainmenu__home">
+                    <a href="/" class="niv1" title="Accueil Saint-Malo" title="Accueil Saint-Malo"><span class="sprite-pictos"></span></a>
+                </li>
+
+                <li id="menuActu" class="mainmenu__item">
+                    <a class="niv1 menu__label" href="/info/">Info</a>
+                    <!-- InstanceBeginEditable name="menuActu" -->
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/info/" title="Accueil Info"   >Accueil Info</a><a class="submenu__item" href="/info/info-en-continu/" title="Info en continu"   >Info en continu</a><a class="submenu__item" href="/info/info-locale/" title="Info "   >Info Saint-Malo</a><a class="submenu__item" href="/info/info-departementale/" title="Info "   >Info Ille-et-Vilaine</a><a class="submenu__item" href="/info/info-regionale/" title="Info "   >Info Bretagne</a><a class="submenu__item" href="/info/info-nationale/" title="En France et dans le Monde"   >En France et dans le Monde</a><a class="submenu__item" href="/info/insolite" title="Insolite"   >Insolite</a><a class="submenu__item" href="/info/galerie-photo.php" title="Galeries photos info"   >Galeries photos info</a><a class="submenu__item" href="/actu/" title="Archives actualité"   >Archives actualité</a>
+  </div>
+</nav>
+                    <!-- InstanceEndEditable -->
+                </li>
+                <li id="menuSport" class="mainmenu__item">
+                    <a class="niv1 menu__label"  href="/sport/">Sport</a>
+                    <!-- InstanceBeginEditable name="menuSport" -->
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/sport/" title="Accueil Sport"   >Accueil Sport</a><a class="submenu__item" href="/sport/actualites-sportives-locales.php" title="Actualités sportives de St-Malo"   >Actualités sportives de St-Malo</a><a class="submenu__item" href="/sport/archives_-_fil_actu.Htm" title="Actualité sportive régionale"   >Actualité sportive régionale</a><a class="submenu__item" href="https://rennes.maville.com/sport/infos-stade-rennais.php" title="Actus du Stade Rennais"   >Actus du Stade Rennais</a><a class="submenu__item" href="/sport/infos/" title="Actualité sportive nationale et internationale"   >Actualité sportive nationale et internationale</a>
+  </div>
+</nav>
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <li id="menuSds" class="mainmenu__item" style="white-space: nowrap;display: none">
+                    <a class="niv1 menu__label" href="/sallesdesport/">Salles de sport</a>
+                    <!-- InstanceBeginEditable name="menuRecettes" -->
+                    
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <li id="menuResto" class="mainmenu__item">
+                    <a class="niv1 menu__label" href="/restaurants-bars/">Restos</a>
+                    <!-- InstanceBeginEditable name="menuResto" -->
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/restaurants-bars/" title="Accueil Restaurants"   >Accueil Restaurants</a><a class="submenu__item" href="/restaurants-bars/liste-etablissement" title="Trouvez un restaurant"   >Trouvez un restaurant</a><a class="submenu__item" href="/restaurants-bars/contact-pro" title="Professionnel de la restauration ?"   >Professionnel de la restauration ?</a><a class="submenu__item" href="/restaurants-bars/liste-categorie/" title="Toutes nos catégories"   >Toutes nos catégories</a><a class="submenu__item" href="/restaurants-bars/liste-actus" title="Les incontournables ! "   >Les incontournables ! </a>
+  </div>
+</nav>
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <li id="menuCine" class="mainmenu__item">
+                    <a class="niv1 menu__label" href="/cinema/">Ciné</a>
+                    <!-- InstanceBeginEditable name="menuCine" -->
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/cinema/" title="Accueil Cinéma"   >Accueil Cinéma</a><a class="submenu__item" href="/cinema/sortie-semaine/" title="Les sorties de la semaine"   >Les sorties de la semaine</a><a class="submenu__item" href="/cinema/#toutesSalles" title="Trouvez une séance"   >Trouvez une séance</a><a class="submenu__item" href="/cinema/films-affiche/" title="Les films à l'affiche"   >Les films à l'affiche</a><a class="submenu__item" href="/cinema/info-en-continu/" title="Actualité cinéma"   >Actualité cinéma</a><a class="submenu__item" href="/cinema/archives/" title="Archives Cinéma"   >Archives Cinéma</a><a class="submenu__item" href="/cinema/series-tv.php" title="Séries TV"   >Séries TV</a>
+  </div>
+</nav>
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <li id="menuSortir" class="mainmenu__item">
+                    <a class="niv1 menu__label"  href="/sortir/agenda_accueil.php">Sorties</a>
+                    <!-- InstanceBeginEditable name="menuSortir" -->
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/sortir/agenda_accueil.php" title="Agenda des sorties"   >Agenda des sorties</a><a class="submenu__item" href="/info/tourisme-dans-le-departement.php" title="Tourisme : guide des sorties"   >Tourisme : guide des sorties</a><a class="submenu__item" href="/sortir/info-en-continu/" title="Actualité de vos sorties"   >Actualité de vos sorties</a>
+  </div>
+</nav>
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <li id="menuJeux" class="mainmenu__item">
+                    <a class="niv1 menu__label" href="/jeux/">Jeux</a>
+                    <!-- InstanceBeginEditable name="menuJeux" -->
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/jeux/" title="Accueil Jeux"   >Accueil Jeux</a><a class="submenu__item" href="/jeux/tous-les-jeux/" title="Liste des jeux"   >Liste des jeux</a><a class="submenu__item" href="/jeux/gagnants/" title="Liste des gagnants"   >Liste des gagnants</a>
+  </div>
+</nav>
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <!-- InstanceBeginEditable name="DealDuJour" -->
+                <li id="dealDuJour" class="mainmenu__item">
+                    <a class="niv1 menu__label" href="/deals/" title="Les bons plans de votre ville">Bons Plans</a>
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/deals/" title="Tous les bons Plans"   >Tous les bons Plans</a>
+  </div>
+</nav>
+                </li>
+                <!-- InstanceEndEditable -->
+
+                <!-- InstanceBeginEditable name="Shopping" -->
+                <li id="menuShopping" class="mainmenu__item" style="white-space: nowrap;display: none">
+                    <a class="niv1 menu__label" href="/shopping/">Shopping</a>
+                    
+                </li>
+                <!-- InstanceEndEditable -->
+
+                <li id="menuMeteo" class="mainmenu__item">
+                    <!-- InstanceBeginEditable name="menuMeteo" -->
+                    <a class="niv1 menu__label" href="/meteo/locale/" title="Les pr&eacute;visions m&eacute;t&eacute;o &agrave; 5 jours">Météo</a>
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <li id="menuPratique" class="mainmenu__item">
+                    <a class="niv1 menu__label" href="javascript:void(0)">Pratique</a>
+                    <!-- InstanceBeginEditable name="menuPratique" -->
+                    <nav class="submenu">
+  <div class="centrage-site submenu__items">
+	  <a class="submenu__item" href="/pratique/infos_liste.php" title="Infos pratiques"   >Infos pratiques</a><a class="submenu__item" href="/shopping/tendance/" title="Shopping"   >Shopping</a><a class="submenu__item" href="/pratique/etat-civil-naissances.php" title="Naissances"   >Naissances</a><a class="submenu__item" href="/pratique/numero-urgences.php" title="Urgences"   >Urgences</a><a class="submenu__item" href="/pratique/television.php" title="Programme TV"   >Programme TV</a><a class="submenu__item" href="/pratique/contact.php" title="Contactez-nous"   >Contactez-nous</a>
+  </div>
+</nav>
+                    <!-- InstanceEndEditable -->
+                </li>
+
+                <li class="mainmenu__item mainmenu__item--search">
+                    <!--<!-TAG-BLC BarreRecherche->-->
+                    <span id="searchbox-declencheur" class="menu__label menu__label--search mavillefont icon-loupe"></span>
+                    <form id="formMoteurRecherche" action="/moteurRecherche.php" method="get" name="moteur" class="submenu--no-hover searchbox padd20T positionR">
+                        <div id="searchbox__close-btn" class="menu-membre__close-btn searchbox__close-btn floatR positionR"></div>
+                        <fieldset class="searchbox__fields">
+                            <div class="searchbox__loupe mavillefont icon-loupe"></div>
+                            <input type="text" name="QuiQuoi" id="searchbox-input" class="searchbox__input" placeholder="Tapez votre recherche" size="60"
+                            />
+                            <div id="searchbox-close" class="searchbox__close"></div>
+                            <input type="submit" class="disNone" id="btnRecherche" value="Rechercher" />
+                        </fieldset>
+                    </form>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="centrage-site">
+        <!-- InstanceBeginEditable name="inscriptionDeal" -->
+        <!-- InstanceEndEditable -->
+    </div>
+
+    <div id="modal" style="display: none;"></div>
+</header>
+<!-- InstanceEnd -->
+<div id="main-overlay" class="main-overlay disNone"></div>
+
+<style>
+</style>
+
+
+<div id="r-cookies-wall" class="r-cookies-wall r-cookies-wall--section" style="display: none">
+    <div class="r-cookies-wall--grid">
+        <div class="r-cookies-wall--header">
+            <h2 id="r-cookies-wall--title" class="r-cookies-wall--title">Pourquoi dire Oui aux cookies ?</h2>
+            <div id="r-cookies-wall--dropdown">
+                <button id="r-cookies-wall--dropdown--btn">Réduire ce message</button>
+            </div>
+        </div>
+        <div id="r-cookies-wall--message" class="r-cookies-wall--message">
+            <p>Nous avons besoin de vos cookies pour vous offrir la meilleure expérience de lecture possible et vous proposer des articles personnalisés selon votre lieu de vie et des publicités selon vos centres d'intérêt, avec une sécurité maximale du site.</p>
+            <p>Ils contribuent au modèle économique de notre entreprise et permettent aux journalistes de notre rédaction déployés à travers la région, de continuer à concevoir une information fiable et de qualité, toujours proche de vous.</p>
+        </div>
+        <div class="r-cookies-wall--footer">
+            <div class="logo_editeur">
+                <img src="/design/images/tetiere-MVOF/logo_maville.svg" width="170" height="37" alt="Maville.com" class="logo-maville">
+                <span>&nbsp;par&nbsp;</span>
+                <img src="/design/images/tetiere-MVOF/logo_of.svg" width="127" height="42" alt="Ouest-France" class="logo-of">
+            </div>
+            <div class="r-cookies-wall--btn">
+                <a onclick="return didomi_push_Yes()" id="r-cookies-wall--btn--accept" class="r-cookies-wall--btn--accept" href="#" title="J'accepte les cookies">J'accepte les cookies</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+		<div id="dfp_banniere_haute" style="display: none"></div>
+
+		<div class="global clearfix">
+
+				<div class="col6x">
+					<section class="entete-recherche clearfix" id="rechSport">
+	<a href="/sport/" title="Sport" class="titre-rubrique floatL">Sport</a>
+	<div class="elmt-recherche">
+		<form method="post" name="recherche" id="recherche" onsubmit="javascript:submitQuiQuoiOuQuand();" action="/sport/sportRecherche.php">
+			<div class="elmt-rch-content">
+				<div class="elmt-rch-zone1">
+					<label for="QuiQuoi">Qui, quoi ?</label>
+<input class="elmt-saisie" type="search" id="QuiQuoi" name="QuiQuoi" value="" placeholder="Rechercher une actualité sportive..." />
+<input type="hidden" name="QuiQuoiEmpty" value="false" />
+				</div>
+			</div>
+			<div class="elmt-rch-submit">
+				<button onclick="javascript:submitQuiQuoiOuQuand();" type="submit" class="mavillefont icon-loupe" title="Trouver une info sport" id="btn-rechercher"></button>
+			</div>
+		</form>
+	</div>
+</section>
+<script type="text/javascript">
+	<!--
+	function submitQuiQuoiOuQuand(){
+		if (document.recherche.QuiQuoi.value == '') document.recherche.QuiQuoiEmpty.value = 'true';
+		document.recherche.submit();
+	}
+	-->
+</script> 
+<!--TAG-BLC stopRefresh-->
+<script type="text/javascript">
+<!--
+xt_multc = "&x1=&x2=35288&x3=0&x4=4&x5=";
+//do not modify below
+if (window.xtparam!=null){window.xtparam+=xt_multc;}
+else{window.xtparam =xt_multc;};
+//-->
+</script> 
+
+
+
+
+					<div class="filariane" itemscope itemtype="https://schema.org/BreadCrumbList">
+	<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <a href="/" title="Accueil" itemprop="item">
+        <span itemprop="name">
+            Accueil
+        </span>
+    </a>
+    <meta itemprop="position" content="1" />
+</span><span class="sprite-pictos separate"></span><span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <a href="/sport/" title="Sport" itemprop="item">
+        <span itemprop="name">
+            Sport
+        </span>
+    </a>
+    <meta itemprop="position" content="2" />
+</span><span class="sprite-pictos separate"></span><span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span itemprop="title">
+            Comment l’industrie du jeux vidéo s’installe en Bretagne 
+        </span>
+</span>
+</div>
+					<!--MVITAG-BLC gondole-->
+				</div>
+				<div class="col4x">
+
+					<div class="une-col">
+						<article class="elmt-detail article">
+
+	<header class="clearfix marg20B">
+		<table cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tr>
+		<td valign="middle" align="center" class="col-logo">
+    <img src="https://maville.com/design/images/logo-of-monetise.svg?version=20130627" alt="logo Ouest-France" height="66" />
+    <p>Contenu réservé aux abonnés</p>
+</td>
+		<td class="col-titre">
+			<time class="elmt-date">Dimanche 05 novembre 2023 16:23</time>
+			<h1 class="titre-page avis">Comment l’industrie du jeux vidéo s’installe en Bretagne </h1><a class="icon-bulle sizeL count" href="#ancreAvis">
+	<span class="elmt-num">...</span>
+</a></td>
+	</tr>
+</table>
+<!--TAG-CHP rubrique00--><!--TAG-CHP separator00-->
+		<!--TAG-CHP titre00-->
+	</header>
+
+	<figure class="bloc reseaux-top">
+		<script type="text/javascript" src="https://mvistatic.com/design/javascripts/MVI/linkbait.js?version=20230608"></script>
+		<div class="link-bait">
+	
+	<ul class="link-reseaux">
+		<li title="Partager sur Facebook" class="elmt-select-ligne-share" onclick="window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Flannion-perros.maville.com%2Factu%2Factudet_-comment-l-industrie-du-jeux-video-s-installe-en-bretagne-_5-6017134_actu.Htm%3Fsite%3Dmvi%26utm_source%3Dfacebook%26utm_medium%3DReseau%26utm_campaign%3Dfacebook');">
+			<span class="picto-facebook"></span>
+		</li>
+	</ul>
+	
+</div>
+		<a class="mavillebox2 elmt-photo" href="https://maville.com/photosmvi/2023/11/05/P33510267D6017134G.jpg" title=" Créé en 2021, le studio rennais Wild Wits Games sort Aetheris, son premier jeu vidéo, le 7 novembre prochain sur Steam.  &copy;  Wild Wits Games " rel="galerie_actu">
+	<img src="https://maville.com/photosmvi/2023/11/05/P33510267D6017134G_crop_640-330_.jpg" alt="photo  créé en 2021, le studio rennais wild wits games sort aetheris, son premier jeu vidéo, le 7 novembre prochain sur steam. " />
+	<span class="zoom-photo"><span class="mavillefont icon-loupe"></span><small>1</small></span>
+</a>
+<p class="elmt-legende"> Créé en 2021, le studio rennais Wild Wits Games sort Aetheris, son premier jeu vidéo, le 7 novembre prochain sur Steam.  <span class="credit">&copy;  Wild Wits Games </span></p>
+
+
+	</figure>
+
+	<section class="clearB bloc">
+		<div id="dfp_pave_article" class="floatL"></div>
+		<h2 class="elmt-text">Représentant à peine plus de 2 % de l’industrie du jeu vidéo, la Bretagne est encore loin d’être perçue comme une place forte du secteur en France. Pourtant, des titres y sont conçus chaque année et des professionnels, débutants ou confirmés, s’installent régulièrement dans la région.</h2>
+		
+		<div class="elmt-text monet">
+			<div id="dfp_pave_article3" class="divVideoStep"></div>
+			<p>C’est la grand-messe du jeu vidéo en France. Jusqu’au dimanche 5 novembre, la <a href="https://www.ouest-france.fr/high-tech/jeux-video/video-paris-games-week-le-salon-du-jeu-video-retrouve-son-public-apres-trois-ans-d-absence-c385c35e-9428-4543-a2fa-f0ab328f2b23" target="_blank">Paris Games Week</a> accueille des gamers de tout horizon pour leur faire découvrir les dernières sorties et quelques-uns des titres ...
+			<input type="hidden" id="_videoStepMinifiedScript+16" value="2346" /><input type='hidden' id='_videoStepScriptTypeV1' class='videoStepScriptType' value='19' /><div id='monetdivVideoStep+16' class='divVideoStepmonet'> </div>
+			<div class="read-more">&nbsp;</div>
+		</div>
+		
+	</section>
+	<div id="monet-info trackingMonetBlocPourcentageLu" class="monet-infos">
+    <p><b>Cet article est réservé aux abonnés</b></p>
+    <p>Pour un accès immédiat, abonnez-vous<br/></p>
+    <p><b>1ère semaine offerte</b></p>
+</div>
+<div class="connexion">
+    <div>
+        <a data-trkartmonet="Tunnel OF+" data-trkartmonetid="a1b23af6-74ac-11ee-bd59-77e74b2221d0" target="_blank" href="https://abonnement.ouest-france.fr/tunnel/pack-plus-article/125100116098?marquesource=OF&utm_source=maville&utm_medium=lien&utm_campaign=of_monetisation-offrplus&utm_content=article-payant&utm_term=a1b23af6-74ac-11ee-bd59-77e74b2221d0&rt=https%3A%2F%2Fwww.ouest-france.fr%2Fbretagne%2Fcomment-lindustrie-du-jeux-video-sinstalle-en-bretagne-a1b23af6-74ac-11ee-bd59-77e74b2221d0" title="1ère semaine offerte - J'en profite" class="btn-inscription" id="trackingMonetBoutonJenProfite">J'en profite</a>
+    </div>
+</div>
+<div class="connexion2">
+    <p>
+        Déjà&nbsp;abonné&nbsp;?&nbsp;<a href="https://www.ouest-france.fr/bretagne/comment-lindustrie-du-jeux-video-sinstalle-en-bretagne-a1b23af6-74ac-11ee-bd59-77e74b2221d0?login" rel="nofollow" target="_blank" title="Se connecter à Ouest-France"><strong>Je&nbsp;me&nbsp;connecte</strong></a>
+    </p>
+</div>
+
+	<cite class="elmt-auteur bloc">
+		 Steve HENOT. &nbsp;&nbsp;
+		Ouest-France
+		
+		
+	</cite>
+
+		<div style="margin: 20px 0;">
+<h3>Retrouvez d'autres actus sur les communes de :</h3>
+<div style="padding: 10px 0;">
+<a href="https://lannion-perros.maville.com/info/info-locale/" target="_blank" class="btn02" style="display:inline-block;margin:2px 4px 2px 0;font-size:16px;font-weight:bold;white-space: nowrap;">
+Lannion
+</a><a href="https://rennes.maville.com/info/info-locale/" target="_blank" class="btn02" style="display:inline-block;margin:2px 4px 2px 0;font-size:16px;font-weight:bold;white-space: nowrap;">
+Rennes
+</a><a href="https://vannes.maville.com/bretagne/morbihan/auray/" target="_blank" class="btn02" style="display:inline-block;margin:2px 4px 2px 0;font-size:16px;font-weight:bold;white-space: nowrap;">
+Auray
+</a>
+</div>
+</div>
+
+	<div id="taboola-below-article-thumbnails"></div>
+	<div id="taboola-below-article-thumbnails-2nd"></div>
+
+	<footer class="bloc clearfix">
+		<div class="link-bait">
+	
+	<ul class="link-reseaux">
+		<li title="Partager sur Facebook" class="elmt-select-ligne-share" onclick="window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Flannion-perros.maville.com%2Factu%2Factudet_-comment-l-industrie-du-jeux-video-s-installe-en-bretagne-_5-6017134_actu.Htm%3Fsite%3Dmvi%26utm_source%3Dfacebook%26utm_medium%3DReseau%26utm_campaign%3Dfacebook');">
+			<span class="picto-facebook"></span>
+		</li>
+	</ul>
+	<div class="link-donner-avis">
+		<a href="#bloc_saisie_assiste" class="btn03 floatL" title="Echangez, contribuez sur maville.com">Donnez votre avis</a>
+		
+		<span class="icon-bulle sizeL count">
+			<span class="elmt-num">...</span>
+		</span>
+	</div>
+</div>
+		
+		
+		<div class="encart-marque clearB clearfix">
+	<span class="logo floatL">
+		<td valign="middle" align="center" class="col-logo">
+    <img src="https://maville.com/design/images/ouest-france.gif?version=20130627" alt="logo Ouest-France" height="66" />
+    
+</td>
+	</span>
+	<span class="elmt-plus floatL">
+		<a href="https://abonnement.ouest-france.fr/?at_source=maville&at_medium=lien&at_campaign=of-abo&at_content=page-article" target="_blank" title="Abonnez-vous 1<sup>er</sup> mois offert" class="floatL marg20R">
+			<span class="mavillefont icon-flech3suiv"></span>
+			Abonnez-vous 1<sup>er</sup> mois offert
+		</a>
+		<a href="https://www.ouest-france.fr/premium/journal/journal-ouest-france/" target="_blank" title="Acheter le journal du jour" class="floatL">
+			<span class="mavillefont icon-flech3suiv"></span>
+			Acheter le journal du jour
+		</a>
+	</span>
+	<a href="https://www.ouest-france.fr/premium/journal/journal-ouest-france/" target="_blank" title="Achetez le journal num&eacute;rique" class="floatL marg10T">
+		<img src="https://mvistatic.com/design/images/icon-pdf.png" alt="Achetez le journal au format num&eacute;rique" width="48" height="48"/>
+	</a>
+</div>
+
+	</footer>
+
+	<script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-a',
+            container: 'taboola-below-article-thumbnails',
+            placement: 'Below Article Thumbnails',
+            target_type: 'mix'
+        });
+        _taboola.push({
+            mode: 'organic-thumbnails-a',
+            container: 'taboola-below-article-thumbnails-2nd',
+            placement: 'Below Article Thumbnails 2nd',
+            target_type: 'mix'
+        });
+	</script>
+</article>
+
+						<div id="ultimedia_wrapper" style="padding-bottom:20px;"></div>
+<script type="text/javascript">
+    if((typeof disablemarquePb === 'undefined') || (typeof disablemarquePb !== 'undefined' && disablemarquePb != '1')){
+        var ULTIMEDIA_mdtk = "01502988";
+        var rightNow = new Date();
+        var ULTIMEDIA_date = rightNow.toISOString().slice(0,10).replace(/-/g,"");
+        var ULTIMEDIA_target = "ultimedia_wrapper";
+        var ULTIMEDIA_async = true;
+
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = 'https://secure.ultimedia.com/js/common/smart.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+        var digitekaIsDisp = 'ko';
+        jQuery(window).scroll(function() {
+            var digitekaNavTop = jQuery('#ultimedia_wrapper').offset().top;
+            var scrollTop = jQuery(window).scrollTop();
+
+            if ((scrollTop+600) > digitekaNavTop && digitekaIsDisp == 'ko' && (scrollTop-600) < digitekaNavTop) {
+                digitekaIsDisp = 'ok';
+                jQuery('#ultimedia_wrapper').show();
+
+            }
+        });
+    }
+</script>
+
+						<a name="formulaireSA" id="formulaireSA"></a>
+<section id="bloc_saisie_assiste" class="bloc clearfix clearB">
+<header><h2 id="titreSA" class="titre-bloc-xl"></h2></header>
+
+
+	
+	<form id="formSA" name="formSA" method="post" action="" class="elmt-liste-form">
+    
+    <div id="lstChamp" class="clearfix"> 
+
+    <div id="afficheIcone" class="displayNone"></div> 
+    <input type="hidden" id="typeSaisie" name="typeSaisie" value="" />
+    <input type="hidden" id="isSubmit" name="isSubmit" value="1" />
+    <input type="hidden" id="isAjax" name="isAjax" value="1" />
+	<script type="text/javascript">
+		var autoOpen = "Avis_Sport" ;
+	</script>
+	
+		<ul>
+    	<li id="zoneBeforeAvisSA">
+	<input type="hidden" id="AvisObjectId" name="AvisObjectId" />
+	
+  <div id="zoneBeforeAvisCineSA" class="zoneBeforeNiveau2">
+		<input type="hidden" name="AvisFilmNom" id="AvisFilmNom" value="" />
+		<div id="AvisFilmNomError" class="errorMessage">merci d'indiquer un nom de film</div>
+	</div>
+	<div id="zoneBeforeAvisActuSA" class="zoneBeforeNiveau2">
+		<label for="AvisActuNom" class="first" style="display:none;">Titre de l'info <em>*</em></label>
+		<div class="elmt-champ">
+			<input id="AvisActuNom" name="AvisActuNom" type="hidden" class="texte inputNotEmpty" value="" />
+		</div>
+    	<div id="AvisActuNomError" class="errorMessage">merci d'indiquer un titre'</div>
+	</div>
+	<!--
+	<div id="zoneBeforeAvisSportSA" class="zoneBeforeNiveau2">
+		<label for="AvisSportNom" class="first">Titre de l'info sportive <em>*</em></label>
+		<div class="elmt-champ"><input readonly="readonly"  id="AvisSportNom" name="AvisSportNom" type="text" class="texte inputNotEmpty" value="" /></div>
+    	<div id="AvisSportNomError" class="errorMessage">merci d'indiquer un titre '</div>
+	</div>
+	-->
+	<div id="zoneBeforeAvisRestoSA" class="zoneBeforeNiveau2">
+		<label for="AvisRestoNom" class="first">Nom du restaurant <em>*</em></label>
+		<div class="elmt-champ"><input id="AvisRestoNom" name="AvisRestoNom" type="text" class="texte inputNotEmpty" value="" /></div>
+		<ul id="zoneSuggestionNomResto" class="resultRechercheAjax displayNone">
+			<li>Choisir un resto :</li>
+			<li id="SARestoUnknownLink" class="AjaxRechercheItem">Cet établissement est nouveau sur maville.com</li>
+			<!-- Liste de proposition Ajax des etablissements -->
+		</ul>
+		<div id='AvisRestoNomError' class="errorMessage">merci d'indiquer un nom de restaurant</div>
+	  	
+	  <hr />
+	  
+    <div id="zoneBeforeAvisRestoUnknownSA" class="displayNone">
+			<label for="AvisRestoAdresse" >Adresse du restaurant <em>*</em></label>
+			<div class="elmt-champ"><input id="AvisRestoAdresse" name="AvisRestoAdresse" type="text" class="texte inputNotEmpty" value="" /></div>
+			<div id='AvisRestoAdresseError' class="errorMessage">merci de saisir l'adresse du restaurant</div>
+			<label for="AvisRestoVilleChampRech">Ville du restaurant <em>*</em></label>    
+			<div id="AvisRestoVilleZoneRech">
+				<input type="hidden" name="AvisRestoVilleInsee" id="AvisRestoVilleInsee" value="" />
+				<input type="hidden" name="AvisRestoVilleCp" id="AvisRestoVilleCp" value="" /> 
+				<div class="elmt-champ"><input type="text" class="texte inputNotEmpty" id="AvisRestoVilleChampRech" name="AvisRestoVilleChampRech" value="" /></div>
+			</div>
+			<div id="AvisRestoVilleZoneAffich" class="displayNone">
+				<div class="elmt-champ"><input type="text" class="texte inputNotEmpty" id="AvisRestoVilleChampAffich" name="AvisRestoVilleChampAffich" value="" /></div>
+			</div>
+			<div id='AvisRestoVilleCpError' class="errorMessage">merci de saisir la ville du restaurant</div>
+		  <label>T&eacute;l&eacute;chargez votre photo (2 Mo max)</label>
+      <div id="uploadAvisResto"></div>
+		  <hr />
+    </div>
+  </div>
+	
+  <div id="zoneBeforeAvisBarSA" class="zoneBeforeNiveau2">
+		<label for="AvisBarNom" class="first">Nom du bar <em>*</em></label>
+		<div class="elmt-champ"><input id="AvisBarNom" name="AvisBarNom" type="text" class="texte inputNotEmpty" value="" /></div>
+    <ul id="zoneSuggestionNomBar" class="resultRechercheAjax displayNone">
+			<li>Choisir un bar :</li>
+			<li id="SABarUnknownLink" class="AjaxRechercheItem">Cet établissement est nouveau sur maville.com</li>
+			<!-- Liste de proposition Ajax des etablissements -->
+		</ul>
+		<div id='AvisBarNomError' class="errorMessage">merci d'indiquer un nom de bar</div>
+		<hr />
+		<div id="zoneBeforeAvisBarUnknownSA" class="displayNone">
+			<label for="AvisBarAdresse">Adresse du bar <em>*</em></label>
+			<div class="elmt-champ"><input id="AvisBarAdresse" name="AvisBarAdresse" type="text" class="texte inputNotEmpty" value="" /></div>
+			<div id='AvisBarAdresseError' class="errorMessage">merci de saisir l'adresse du bar</div>			
+      		<label for="AvisBarVilleChampRech">Ville du bar <em>*</em></label>  
+			<div id="AvisBarVilleZoneRech">
+				<input type="hidden" name="AvisBarVilleInsee" id="AvisBarVilleInsee" value="" />
+				<input type="hidden" name="AvisBarVilleCp" id="AvisBarVilleCp" value="" /> 
+				<div class="elmt-champ"><input type="text" class="texte inputNotEmpty" id="AvisBarVilleChampRech" name="AvisBarVilleChampRech" value="" /></div>
+			</div>
+      		<div id="AvisBarVilleZoneAffich" class="displayNone">
+				<div class="elmt-champ"><input type="text" class="texte inputNotEmpty" id="AvisBarVilleChampAffich" name="AvisBarVilleChampAffich" value="" /></div>
+			</div>
+			<div id='AvisBarVilleCpError' class="errorMessage">merci de saisir la ville du bar</div>
+			<div id="uploadAvisBar"></div>
+			<hr />
+		</div>
+	</div>
+	
+	<div id='AvisTitreError' class='errorMessage' >merci d'indiquer un titre à votre avis</div>
+	<div class="elmt-champ">
+	<input id="AvisTitre" class="texte" name="AvisTitre" type="text" value="" onblur="javascript:if(this.value==''){this.value=texteParDefault['AvisTitre'];}" onfocus="javascript:if(this.value==texteParDefault['AvisTitre']){this.value='';}" /></div>
+	
+</li>
+
+<script type="text/javascript">
+	jQuery( '#AvisFilmNom' ).attr( 'autocomplete', 'off' );
+	jQuery( '#AvisActuNom' ).attr( 'autocomplete', 'off' );
+	jQuery( '#AvisSportNom' ).attr( 'autocomplete', 'off' );
+	jQuery( '#AvisRestoNom' ).attr( 'autocomplete', 'off' );
+	jQuery( '#AvisRestoVilleChampRech' ).attr( 'autocomplete', 'off' );
+	jQuery( '#AvisBarNom' ).attr( 'autocomplete', 'off' );
+	jQuery( '#AvisBarAdresse' ).attr( 'autocomplete', 'off' );
+	jQuery( '#AvisBarVilleChampRech' ).attr( 'autocomplete', 'off' );
+</script>
+
+		<li id="zoneTexteSA" class="element">
+	<div id="texteError" class="errorMessage">&nbsp;</div>
+	<div class="elmt-champ">
+		<textarea name="texte" id="texte" class="inputNotEmpty expanding texte" onfocus="javascript:if(this.value==texteParDefault['texte']){this.value='';}" onblur="javascript:if(this.value==''){this.value=texteParDefault['texte'];}" rows="1" cols="1"></textarea>
+	</div>
+</li>
+		<li id="zoneAfterAvisSA">
+	<div id="AvisCommentaireError" class="errorMessage">merci d'indiquer un contenu à votre avis</div>
+
+	<div id="zoneAfterAvisCineSA" class="zoneAfterNiveau2">
+		<div class="elmt-champ elmt-note clearfix">
+			<label><em>*</em> Notez :&nbsp; </label> <!-- Vote cinema -->
+				<ul class="star-rating sizeS floatL">
+					<li id="AvisNoteCinemaCoeur" class="current-rating" style="width:50%"></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteCinema', 1);" class="one-star" title="1 sur 4">1</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteCinema', 2);" class="two-star" title="2 sur 4">2</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteCinema', 3);" class="three-star" title="3 sur 4">3</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteCinema', 4);" class="four-star" title="4 sur 4">4</a></li>
+				</ul>
+			<input id="AvisNoteCinema" name="AvisNoteCinema" type="hidden" />
+			<div id="AvisNoteCinemaError" class="errorMessage">merci de saisir une note</div>			
+		</div>
+  </div>
+  <div id="zoneAfterAvisActuSA" class="zoneAfterNiveau2">
+		<input id="AvisNoteActu" name="AvisNoteActu" type="hidden" />
+  </div>
+  <div id="zoneAfterAvisSportSA" class="zoneAfterNiveau2">
+		<input id="AvisNoteSport" name="AvisNoteSport" type="hidden" />
+  </div>		
+  <div id="zoneAfterAvisBASA" class="zoneAfterNiveau2">
+	  <label>Donnez nous vos impressions : <em>*</em></label>
+	  
+		<div class="ligne">   <!-- Accueil et qualite du service -->
+			<div class="notation">			
+				<ul class="star-rating">
+					<li id="AvisNoteAccueilCoeur" class="current-rating" style="width:50%"></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAccueil', 1);" class="one-star" title="1 sur 4">1</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAccueil', 2);" class="two-star" title="2 sur 4">2</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAccueil', 3);" class="three-star" title="3 sur 4">3</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAccueil', 4);" class="four-star" title="4 sur 4">4</a></li>
+				</ul>
+            <div class="ttrLigne">L'accueil / la qualit&eacute; du service</div>
+			</div >
+			<input id="AvisNoteAccueil" name="AvisNoteAccueil" type="hidden" />
+			<div id='AvisNoteAccueilError' class="errorMessage">merci d'indiquer une note pour l'accueil</div>
+		</div>
+		<hr />
+		<div class="ligne">  <!-- L'ambiance et le decor -->
+			<div class="notation">
+				<ul class="star-rating">
+					<li id="AvisNoteAmbianceCoeur" class="current-rating" style="width:50%"></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAmbiance', 1);" class="one-star" title="1 sur 4">1</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAmbiance', 2);" class="two-star" title="2 sur 4">2</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAmbiance', 3);" class="three-star" title="3 sur 4">3</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNoteAmbiance', 4);" class="four-star" title="4 sur 4">4</a></li>
+				</ul>
+			<p class="ttrLigne">L'ambiance / le d&eacute;cor</p>
+			</div>
+			<input id="AvisNoteAmbiance" name="AvisNoteAmbiance" type="hidden" />
+			<div id='AvisNoteAmbianceError' class="errorMessage">merci d'indiquer une note pour l'ambiance</div>
+		</div>
+		<hr />
+		<div class="ligne">   <!-- Le rapport qualite / prix -->
+			<div class="notation">
+				<ul class="star-rating">
+					<li id="AvisNotePrixCoeur" class="current-rating" style="width:50%"></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNotePrix', 1);" class="one-star" title="1 sur 4">1</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNotePrix', 2);" class="two-star" title="2 sur 4">2</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNotePrix', 3);" class="three-star" title="3 sur 4">3</a></li>
+					<li><a href="javascript:void(0);" onclick="javascript:affectNote('AvisNotePrix', 4);" class="four-star" title="4 sur 4">4</a></li>
+				</ul>
+			<p class="ttrLigne">Le rapport qualit&eacute; / prix</p>
+			</div>
+			<input id="AvisNotePrix" name="AvisNotePrix" type="hidden" />
+			<div id='AvisNotePrixError' class="errorMessage">merci d'indiquer une note pour le prix</div>
+		</div>
+		<div class="zoneAfterNiveau2 zoneAfterAvisBarUnknownSA zoneAfterAvisRestoUnknownSA">
+			<label for="AvisPhoto">Téléchargez votre photo. Poids de votre photo : 2Mo max</label>
+			<input id="AvisPhoto" name="AvisPhoto" type="file" />
+		</div>
+	</div>
+</li>
+		<li id="zoneIdentificationSA" style="display:none;">
+	<!--<label for="email" id="titreEmail">Pour publier votre info, merci de vous identifier</label>-->
+	<div id='emailError' class='errorMessage' ></div>
+    <div class="elmt-champ">
+		<input type="text" name="email" id="email" value="" class="texte inputNotEmpty" onclick="javascript:if(this.value==texteParDefault['email']){this.value='';}" />
+	</div>
+</li>
+        <li id="zoneCgupdpError" class="element">
+            <div id='cgupdpError' class='errorMessage' ></div>
+            <div class="elmt-champ cgupdp">
+                <p class="formRadio">
+                    <input id="cgupdp" type="checkbox" value="0" name="cgupdp" />
+                    <label for="cgupdp">En cochant cette case, j'accepte et je reconnais avoir pris connaissance des <a style="font-weight: bold" href="/pratique/deals/cgv.php">conditions générales d'utilisation</a> et de <a style="font-weight: bold" href="/mentions_vieprive.php">la politique de données personnelles</a>.
+                    </label>
+                </p>
+            </div>
+        </li>
+    	<li id="zoneBoutonSimpleSA" class="floatR">
+    <div class="formSubmit"><button type="button" class="btn03 btnPublier">Envoyer</button>
+    
+    </div>
+    <div class="clearfix" style="text-align: justify;margin-top: 20px"><em>
+        Vos données personnelles font l’objet d’un traitement informatique par la société Additi Multimedia, sur le fondement de l'exécution d'un contrat et sont utilisées notamment pour prendre en compte, modérer et répondre à vos commentaires sur les contenus mis en ligne sur le site. Elles seront conservées conformément à notre politique de données personnelles, sauf dispositions légales particulières. Vous disposez d’un droit d’accès, de rectification, d’opposition, de limitation et de portabilité, en vous adressant directement à <a href="mailto:pdp@sipa.ouest-france.fr">pdp@sipa.ouest-france.fr</a> ou par courrier à "Délégué à la Protection des Données Personnelles SIPA Additi Multimedia - ZI Rennes Sud-Est,– 10 rue du Breil – 35051 Rennes cedex 9". Vous avez également le droit d’introduire une réclamation auprès de la CNIL.
+        <a style="font-weight: bold" href="/mentions_vieprive.php">En savoir plus</a>
+    </em></div>
+</li><li id="zoneBoutonSA">
+	 <div class="btnGenerik formSubmit"><button type="button" class="btn03" title="Donnez votre avis">OK</button></div>
+	 <ul id="listeBoutonSA" class="niveau1">
+		<!--TAG-BLC flechePrecisez-->
+    <!--TAG-BLC boutonDomaine-->
+	</ul>
+</li>
+		</ul>
+
+    </div>
+  </form>	
+</section>
+
+
+<script type="text/javascript">
+var titre_bloc = {"commentaire":"","Info_Local":"Donnez une info sur l'actualit\u00e9 de votre ville","Info_Loisir":"Donnez votre info loisirs \/ bons plans","Info_Sport":"Les avis des internautes","Avis_Bar":"Donnez un avis bar","Avis_Cine":"Donnez un avis cin\u00e9ma","Avis_Resto":"Donnez un avis restaurant","Avis_Actu":"Les avis des internautes","Avis_Sport":"Les avis des internautes","Photo_":"D\u00e9posez votre photo"};
+var texteParDefault = {"AvisTitre":"Comment l\u2019industrie du jeux vid\u00e9o s\u2019installe en Bretagne ","texte":"* Votre commentaire...","texteCine":"* Votre commentaire... \nNous vous invitons \u00e0 ne pas d\u00e9voiler l'intrigue du film lorsque vous r\u00e9digez un avis cin\u00e9ma","AvisFilmNom":"Saisissez tout ou une partie du titre du film...","AvisRestoNom":"Saisissez tout ou une partie du nom de l'\u00e9tablissement...","AvisRestoAdresse":"Ex: 3 rue Janvier,...","AvisRestoVilleChampRech":"Saisissez tout ou une partie du nom d'une ville ou le code postal...","AvisBarNom":"Saisissez tout ou une partie du nom de l'\u00e9tablissement...","AvisBarAdresse":"Ex: 3 rue Janvier,...","AvisBarVilleChampRech":"Saisissez tout ou une partie du nom d'une ville ou le code postal...","InfoVilleChampRech":"Localisez votre info...","email":"* Votre email","Infotitre":"Saisissez le titre de votre info...","Phototitre":"Saisissez le titre de votre photo...","urlSiteLienWeb":"http:\/\/","PhotoVilleChampRech":"Localisez votre photo..."};
+var siteId = "sm";
+var tabInfoElementEncours = {"id":"6017134","type":"Sport","nom":"Comment l\u2019industrie du jeux vid\u00e9o s\u2019installe en Bretagne "};
+
+
+
+</script>
+<script type="text/javascript" src="/min/b=ofm_lib&amp;f=ajaxRefGeoAdaptator.js?version=20230608"></script>
+<script type="text/javascript" src="https://mvistatic.com/min/b=design/js&amp;f=jquery.autogrow.js?version=20230608"></script>
+<script type="text/javascript" src="https://mvistatic.com/min/b=design/javascripts/uploadV2&amp;f=jquery.livequery.min.js,jquery.ajaxMultiFileUpload.js?version=20230608"></script>
+<script type="text/javascript" src="https://mvistatic.com/min/b=design/javascripts&amp;f=saisieAssistee.js,saisieAssistee.avis.js,saisieAssistee.lienweb.js,saisieAssistee.validation.js?version=20230608"></script>
+ 
+<div id="saisieAssisteeLaunch">
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			nbUploads = 0;
+			saisieAssisteeLaunch(1);
+			jQuery( '#bloc_saisie_assiste .btnPublier' ).click( dataValidation );
+		});
+	</script>
+</div>
+						<a name="ancreAvis"></a>
+
+<section class="elmt-liste-avis avis-article clearfix clearB bloc" id="AvisBloc">
+	<!--TAG-CHP AvisAspFileDepot00-->
+</section>
+
+						<!--MVITAG-BLC C5-->
+					</div>
+
+					<div class="clearfix positionR">
+						<div class="col1x4">
+							<!--MVITAG-BLC Lg1-->
+						</div>
+						<div class="col3x4">
+							<!--MVITAG-BLC Ld1-->
+						</div>
+					</div>
+
+					<div class="une-col">
+						<div id="banniere_medium"></div>
+						<!--MVITAG-BLC C7-->
+						<!--MVITAG-BLC C8-->
+						<!--MVITAG-BLC C9-->
+						<!--MVITAG-BLC C10-->
+					</div>
+
+					<div class="demi-col floatL">
+						<!--MVITAG-BLC Cg1-->
+						<!--MVITAG-BLC Cg2-->
+						<!--MVITAG-BLC Cg3-->
+						<!--MVITAG-BLC Cg4-->
+						<!--MVITAG-BLC Cg5-->
+					</div>
+
+					<div class="demi-col floatR">
+						<!--MVITAG-BLC Cd1-->
+						<!--MVITAG-BLC Cd2-->
+						<!--MVITAG-BLC Cd3-->
+						<!--MVITAG-BLC Cd4-->
+						<!--MVITAG-BLC Cd5-->
+					</div>
+
+					<div class="une-col">
+						<!--MVITAG-BLC C11-->
+						<!--MVITAG-BLC C12-->
+						<!--MVITAG-BLC C13-->
+						<!--MVITAG-BLC C14-->
+						<!--MVITAG-BLC C15-->
+					</div>
+
+					<div class="demi-col floatL">
+						<!--MVITAG-BLC Cg6-->
+						<!--MVITAG-BLC Cg7-->
+						<!--MVITAG-BLC Cg8-->
+						<!--MVITAG-BLC Cg9-->
+						<!--MVITAG-BLC Cg10-->
+					</div>
+
+					<div class="demi-col floatR">
+						<!--MVITAG-BLC Cd6-->
+						<!--MVITAG-BLC Cd7-->
+						<!--MVITAG-BLC Cd8-->
+						<!--MVITAG-BLC Cd9-->
+						<!--MVITAG-BLC Cd10-->
+					</div>
+
+					<div class="une-col">
+						<!--MVITAG-BLC C16-->
+						<!--MVITAG-BLC C17-->
+						<!--MVITAG-BLC C18-->
+						<!--MVITAG-BLC C19-->
+						
+					</div>
+				</div>
+				<div class="col2x">
+					<section class="elmt-news bloc">
+	<div class="titre-bloc-xl">Newsletter maville</div>
+	<h2 class="sous-titre-bloc marg10B">Abonnez-vous &#224; la newsletter - Saint-Malo</h2>
+   <script type="text/javascript">
+	function abonne(formulaire)
+	{
+		jQuery('#abonnement_'+formulaire.SVC_id.value+'_loading').show('fast');
+		jQuery.getJSON( "/ofm_lib/ajaxPush.php", { type : "derouleAbonneService", etape : 'abonne', params : formulaire.SVC_id.value+':@:@:'+formulaire.ABO_email.value},
+		  function(data){
+			jQuery('#abonnement_'+formulaire.SVC_id.value+'_loading').hide('fast');
+			jQuery('#abonnement_'+formulaire.SVC_id.value+'_info').html(data.html);
+			if (data.err != '0'){
+			  jQuery('#abonnement_'+formulaire.SVC_id.value+'_info').attr('class', 'erreur');
+			}
+			else 
+			  jQuery('#abonnement_'+formulaire.SVC_id.value+'_info').attr('class', 'elmt-info');
+			jQuery('#abonnement_'+formulaire.SVC_id.value+'_info').slideDown('fast');
+			setTimeout(function(){jQuery('#abonnement_'+formulaire.SVC_id.value+'_info').slideUp('fast');}, 10000) ;
+		  });
+		return false ;
+	}
+</script>
+<form class="fond-degrade positionR clearfix formNLInsc" action="#" onsubmit="return abonne(this);" name="Forme39" method="post">
+	<span class="mavillefont icon-enveloppe"></span>
+	<input type="hidden" value="39" name="SVC_id" />
+	<input id="ABO_email" name="ABO_email" type="email" maxlength="100" placeholder="Votre e-mail" autocomplete="off" required data-champ-search />
+	<input id="submit-inscription" title="Je m'inscris &#224; la newsletter maville" type="submit" value="Je m'inscris" class="btn02" />
+	<div>
+	  <img id="abonnement_39_loading" src="/design/images/Loadeur.gif" alt="En cours de recherche" style="display:none;" />
+	  <div id="abonnement_39_info" class="disNone elmt-info" style="display: none;"></div>
+	</div>
+</form>
+<div class="clearfix disclaimerNL"><em>
+	Votre e-mail, avec votre consentement, est utilis&eacute; par la soci&eacute;t&eacute; Additi Multimedia pour recevoir les newsletters s&eacute;lectionn&eacute;es. <a href="/mentions_vieprive.php">En savoir plus</a>
+</em></div>
+</section>
+  					<!--MVITAG-BLC dossier02-->
+
+					<!--MVITAG-BLC PUBposition2-->
+					<div id="dfp_pave1"></div>
+
+					
+					<!--MVITAG-BLC dossier04-->
+
+					<!--MVITAG-BLC PUBx50-->
+					<div id="dfp_brique" style="display: none"></div>
+
+					<!--MVITAG-BLC dossier05-->
+					
+					<script type="text/javascript">
+(function() {
+    if(!document.getElementsByClassName('noPub')) {
+        var ARTICLE_URL = window.location.href;
+        var CONTENT_ID = 'everything';
+        document.write(
+            '<scr' + 'ipt ' +
+            'src="//survey.g.doubleclick.net/survey?site=_qmcxrralfwcubtx2ndw32f76q4' +
+            '&amp;url=' + encodeURIComponent(ARTICLE_URL) +
+            (CONTENT_ID ? '&amp;cid=' + encodeURIComponent(CONTENT_ID) : '') +
+            '&amp;random=' + (new Date).getTime() +
+            '" type="text/javascript">' + '\x3C/scr' + 'ipt>');
+    }
+})();
+</script>
+<script type="text/javascript">
+    try {
+        if(!document.getElementsByClassName('noPub')){
+            if (typeof displayAds == 'undefined') {
+                _402_Show();
+            }else if(displayAds){
+                _402_Show();
+            }
+        }
+    } catch(e) {}
+</script>
+					<!--MVITAG-BLC dossier08-->
+					<!--MVITAG-BLC dossier09-->
+					<!--MVITAG-BLC dossier10-->
+					<!--MVITAG-BLC dossier11-->
+
+					<!--MVITAG-BLC PUBposition3-->
+					<div id="dfp_pave2"></div>
+
+					<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+    if(!document.getElementsByClassName('noPub')) {
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rr',
+            container: 'taboola-right-rail-thumbnails',
+            placement: 'Right Rail Thumbnails',
+            target_type: 'mix'
+        });
+    }
+</script>
+					<section class="bloc-cadre liste2 fond-degrade"><!--  id="mvi_actu_liste_filinfo_une" -->
+	<header class="clearfix">
+	<h2 class="titre-bloc-xl">Quiz et jeux</h2>
+</header>
+
+
+    <section class="elmt-liste-bloc">
+        <ul>
+            <li class="element">
+    <a href="/actu/actudet_-quiz.-15-questions-sur-barbie_54532-5884453_actu.Htm" title="Quiz. 15 questions sur Barbie" target="_self" >
+        <div class="elmt-photo">
+            <span class="icon-bulle sizeS" title="5 avis"><span class="elmt-num">5</span></span>
+            <img class="lazy-container" src="https://mvistatic.com/design/images/lazy/loading.gif" data-original="https://mvistatic.com/photosmvi/2023/08/02/P33044888D5884453G_crop_260-138_.jpg" width="260" height="138" alt="photo quiz. 15 questions sur barbie"  />
+
+        </div>
+        <div class="clearB"></div>
+        <h2 class="elmt-titre">Quiz. 15 questions sur Barbie</h2>
+    </a>
+</li>
+
+        </ul>
+    </section>
+	
+    <section class="elmt-liste-bloc">
+        <ul class="clearfix demi-art">
+            <li class="element">
+	<a href="/actu/actudet_-quiz.-10-questions-sur-les-girafes_54532-5826394_actu.Htm" title="Quiz. 10 questions sur les girafes"  >
+		<div class="elmt-photo">
+			<span class="icon-bulle sizeS" title="30 avis"><span class="elmt-num">30</span></span>
+			<img class="lazy-container" src="https://mvistatic.com/design/images/lazy/loading.gif" data-original="https://mvistatic.com/photosmvi/2023/06/22/P32843110D5826394G_crop_120-68_.jpg" width="120" height="68" alt="photo quiz. 10 questions sur les girafes"  />
+
+		</div>
+		<h3 class="elmt-titre">Quiz. 10 questions sur les girafes</h3>
+	</a>
+</li><li class="element">
+	<a href="/actu/actudet_-quiz.-johnny-hallyday-la-legende-du-rock-francais-aurait-celebre-ses-80-ans_54532-5814868_actu.Htm" title="Quiz. Johnny Hallyday : la légende du rock français aurait célébré ses 80 ans"  >
+		<div class="elmt-photo">
+			<span class="icon-bulle sizeS" title="28 avis"><span class="elmt-num">28</span></span>
+			<img class="lazy-container" src="https://mvistatic.com/design/images/lazy/loading.gif" data-original="https://mvistatic.com/photosmvi/2023/06/15/P32797193D5814868G_crop_120-68_.jpg" width="120" height="68" alt="photo quiz. johnny hallyday : la légende du rock français aurait célébré ses 80 ans"  />
+
+		</div>
+		<h3 class="elmt-titre">Quiz. Johnny Hallyday : la légende du rock français aurait célébré ses 80 ans</h3>
+	</a>
+</li>
+        </ul>
+    </section>
+	
+	<footer>
+	<a href="/info/mavillequiz.php" title="Tous les quiz" class="elmt-plus">
+		<span class="sprite-pictos icon-plus">&nbsp;</span>
+        Tous les quiz
+	</a>
+	</footer>
+</section>
+
+					<script type="didomi/javascript" data-purposes="reseauxso-W9PmELXP">
+	jQuery(window).load(function() {
+		if(jQuery('div.fbLikeBox').html() == ''){
+			var urlTmpFb = "https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FSaint-Malo-mavillecom%2F437484202995635&amp;width=300&amp;height=200&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;appId=326148787440112";
+			urlTmpFb = urlTmpFb.replace(new RegExp("&amp;", 'g'),"&");
+			var f = document.createElement('iframe');
+			f.src=urlTmpFb;
+			f.scrolling="no";
+			f.frameBorder=0;
+			f.border=0;
+			if (navigator.userAgent.indexOf('Mozilla/4') == -1){
+				f.style="border:none; overflow:hidden; width:300px; height:200px;";
+			}
+			f.allowTransparency="true";
+			f.width=300;
+			f.height=200;
+			jQuery('div.fbLikeBox').html(f);
+		}
+	});
+</script>
+<div class="fbLikeBox" data-href="http://www.facebook.com/platform" data-width="292" data-show-faces="true" data-stream="true" data-show-border="false" data-header="true"></div>
+					<!--MVITAG-BLC dossier15-->
+					<!--MVITAG-BLC dossier16-->
+					<!--MVITAG-BLC dossier17-->
+					<!--MVITAG-BLC dossier18-->
+					<!--MVITAG-BLC dossier19-->
+					<!--MVITAG-BLC dossier20-->
+
+					<!--MVITAG-BLC PUBx32-->
+					<div id="dfp_pave3"></div>
+
+					<!--MVITAG-BLC g01-->
+					<!--MVITAG-BLC g02-->
+					<!--MVITAG-BLC g03-->
+					<!--MVITAG-BLC g04-->
+					<!--MVITAG-BLC g05-->
+					<!--MVITAG-BLC g06-->
+					<!--MVITAG-BLC g07-->
+					<!--MVITAG-BLC g08-->
+					<!--MVITAG-BLC g09-->
+					<!--MVITAG-BLC g10-->
+					<!--MVITAG-BLC g11-->
+					<!--MVITAG-BLC g12-->
+					<!--MVITAG-BLC g13-->
+					<!--MVITAG-BLC g14-->
+					<!--MVITAG-BLC g15-->
+					<!--MVITAG-BLC g16-->
+					<!--MVITAG-BLC g17-->
+					<!--MVITAG-BLC g18-->
+					<!--MVITAG-BLC g19-->
+					<!-- TABOOLA - actu_bottom (deb) -->
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/ouest-france-ofmaville1/loader.js',
+        'tb_loader_script');
+</script>
+<!-- TABOOLA - actu_bottom (fin) -->
+
+				</div>
+
+	</div>
+
+	<!--MVITAG-BLC PUBbottom1-->
+	<div id="dfp_banniere_basse" style="display: none"></div>
+
+	<a href="#top" id="back-top" class="sprite-pictos backTop">Retour en haut</a>
+	<script type="text/javascript">
+    if((typeof disablemarquePb === 'undefined') || (typeof disablemarquePb !== 'undefined' && disablemarquePb != '1')) {
+        var dfp_vars = new Array();
+        var vars = new Array();
+        dfp_vars["publisherid"] = '49926454';
+        dfp_vars["mvb1"] = 'maville';
+        dfp_vars["mvb2"] = 'saint-malo';
+        dfp_vars["mvb3"] = 'sports';
+        dfp_vars["mvb4"] = '';
+        dfp_vars["ville"] = "Saint-Malo"; // doubles quotes indispensables pour gestion apostrophe
+        dfp_vars["dpt"] = ["35"];
+        dfp_vars["in"] = '35288';
+        dfp_vars["cp"] = ['35400'];
+        dfp_vars['test'] = '';
+        dfp_vars["server_name"] = "www.maville.com";
+        dfp_vars['site'] = 'maville.com';
+        dfp_vars["pagetype"] = 'article';
+        dfp_vars["usedfp"] = true;
+        dfp_vars['responsive'] = false;
+        vars["ng"] = ["xt2"];
+    }
+</script>
+	<footer id="piedDePage" class="pied-page">
+	<div class="pied-page__liens marg40B">
+		<nav class="pied-page__bloc">
+			<h3>Rubriques site maville</h3>
+			<ul class="pied-page__liste pied-page__liste--first">
+				<li><a href="/" title="maville.com">Accueil</a></li>
+				<li><a href="/info/" title="Infos Saint-Malo">Info</a></li>
+				<li><a href="/sport/" title="Sport Saint-Malo">Sport</a></li>
+				<li><a href="/restaurants-bars/" title="Resto et Bars Saint-Malo">Restaurants</a></li>
+				<li><a href="/cinema/" title="Cin&eacute;ma Saint-Malo">Cin&eacute;ma</a></li>
+				<li><a href="/sortir/agenda_accueil.php" title="Agenda Saint-Malo">Sorties</a></li>
+				<li>&nbsp;</li>
+			</ul>
+			<ul class="pied-page__liste">
+				<li><a href="/jeux/" title="Jeux Saint-Malo">Jeux</a></li>
+				<li><a href="/shopping/" title="Shopping Saint-Malo">Shopping</a></li>
+				<li><a href="/meteo/meteo.php" title="M&eacute;t&eacute;o Saint-Malo">M&eacute;t&eacute;o</a></li>
+				<li><a href="/pratique/infos_liste.php" title="Infos pratiques Saint-Malo">Pratique</a></li>
+				<li><a href="/deals/" title="Bons plans sur maville.com">Bons plans du jour</a></li>
+				<li>&nbsp;</li>
+				<li>&nbsp;</li>
+			</ul>
+			<ul class="pied-page__liste">
+				<li><a href="https://additimedia.ouest-france.fr" title="Devenez annonceur" target="_blank">Devenez annonceur</a></li>
+				<li><a href="/pratique/dossiers/OF/juridique/cgu.php" title="Cookies">Cookies</a></li>
+				<li><a href="/mentions_vieprive.php" title="Données personnelles">Données personnelles</a></li>
+				<li><a href="/mentions_legales.php" title="Mentions l&eacute;gales">Mentions l&eacute;gales</a></li>
+				<li><a href="/plan-du-site/" title="Plan du site">Plan du site</a></li>
+				<li><a href="/pratique/contact.php" title="Contact">Contact</a></li>
+				<li><a href="javascript:Didomi.preferences.show()" class="change-consent">Modifier le consentement</a></li>
+			</ul>
+		</nav>
+
+		<nav class="pied-page__bloc">
+			<h3>Sites Ouest-France</h3>
+			<ul class="pied-page__liste pied-page__liste--first">
+				<li><a href="https://www.ouest-france.fr" target="_blank">Ouest-France</a></li>
+				<li><a href="https://www.ouestfrance-auto.com" target="_blank">Ouest-France Auto</a></li>
+				<li><a href="https://www.ouestfrance-immo.com" target="_blank" id="pied-page__ofi-link">Ouest-France Immo</a></li>
+				<li><a href="https://www.ouestfrance-emploi.com" target="_blank">Ouest-France Emploi</a></li>
+				<li><a href="https://www.ouestfrance-solidarite.org" target="_blank">Ouest-France Solidarité</a></li>
+				<li>&nbsp;</li>
+				<li>&nbsp;</li>
+			</ul>
+
+			<ul class="pied-page__liste pied-page__liste--last">
+				<li><a href="https://off7.ouest-france.fr" target="_blank">Incubateur OFF7</a></li>
+				<li><a href="https://www.acommeassure.com" target="_blank" rel="nofollow">Comparateur Assurances</a></li>
+				<li><a href="https://s.infolocale.fr" target="_blank" rel="nofollow">Infolocale</a></li>
+				<li><a href="https://www.ouest-france.fr/shopping/" target="_blank" rel="nofollow">Bons plans Ouest-France</a></li>
+				<li><a href="https://commerces.ouest-france.fr/" target="_blank" rel="nofollow">Commerces Ouest-France</a></li>
+				<li><a href="https://www.ouest-france.fr/shopping/comparateur/" target="_blank" rel="nofollow">Comparateur de produits</a></li>
+				<li><a href="https://codepromo.ouest-france.fr/" target="_blank" rel="nofollow">Codes promo</a></li>
+			</ul>
+		</nav>
+	</div>
+
+	<ul class="pied-page__sites marg10B">
+		<li><a href="https://angers.maville.com" target="_blank">Angers</a></li>
+<li><a href="https://brest.maville.com" target="_blank">Brest</a></li>
+<li><a href="https://caen.maville.com" target="_blank">Caen</a></li>
+<li><a href="https://clermont.maville.com" target="_blank">Clermont-Ferrand</a></li>
+<li><a href="https://lemans.maville.com" target="_blank">Le Mans</a></li>
+<li><a href="https://lille.maville.com" target="_blank">Lille</a></li>
+<li><a href="https://lorient.maville.com" target="_blank">Lorient</a></li>
+<li><a href="https://marseille.maville.com" target="_blank">Marseille</a></li>
+<li><a href="https://montpellier.maville.com" target="_blank">Montpellier</a></li>
+<li><a href="https://nantes.maville.com" target="_blank">Nantes</a></li>
+<li><a href="https://nice.maville.com" target="_blank">Nice</a></li>
+<li><a href="https://nimes.maville.com" target="_blank">Nîmes</a></li>
+<li><a href="https://quimper.maville.com" target="_blank">Quimper</a></li>
+<li><a href="https://rennes.maville.com" target="_blank">Rennes</a></li>
+<li><a href="https://toulon.maville.com" target="_blank">Toulon</a></li>
+<li><a href="https://tours.maville.com" target="_blank">Tours</a></li>
+<li><a href="https://vannes.maville.com" target="_blank">Vannes</a></li>
+
+	</ul>
+	<ul class="pied-page__sites marg40B">
+		<li><a href="https://dinan.maville.com" target="_blank">Dinan</a></li>
+<li><a href="https://fougeres.maville.com" target="_blank">Fougères</a></li>
+<li><a href="https://guingamp.maville.com" target="_blank">Guingamp</a></li>
+<li><a href="https://lannion-perros.maville.com" target="_blank">Lannion-Perros</a></li>
+<li><a href="https://ploermel.maville.com" target="_blank">Ploermel</a></li>
+<li><a href="https://pontivy.maville.com" target="_blank">Pontivy</a></li>
+<li><a href="https://redon.maville.com" target="_blank">Redon</a></li>
+<li><a href="https://saint-brieuc.maville.com" target="_blank">Saint-Brieuc</a></li>
+<li><a href="https://vitre.maville.com" target="_blank">Vitré</a></li>
+
+	</ul>
+
+
+	<p class="pied-page__applis marg40B"><a href="https://www.ouest-france.fr/services/nos-applis-mobiles/" target="_blank"><i class="tetiere-icon icon-mobile-tablette"></i>Les applications mobiles <strong>Ouest-France</strong> disponibles en téléchargement</a></p>
+
+	<div class="pied-page__footer">
+		<a href="/"><img src="https://mvistatic.com/design/images/tetiere/logo_maville.svg" alt="maville.com" width="190"/></a>
+		<span>par</span>
+		<a href="https://www.ouest-france.fr" target="_blank"><i class="tetiere-icon icon-logo-of" style="font-size: 40px;"></i></a>
+		<span><span>&copy; Copyright maville.&shy;com</span> | <a href="http://www.presse-regionale.fr/" target="_blank" title="Presse R&eacute;gionale">WEB66</a>&nbsp;
+		<a href="https://www.acpm.fr/?utm_source=mvi&utm_medium=lien&utm_campaign=ojd&utm_content=lien-footer" target="_blank" title="Presse R&eacute;gionale"><img src="https://mvistatic.com/design/images/tetiere/acpm-ojd.svg" alt="ACPM OJD" width="33" class="pied-page__footer-img" /></a>
+	</div>
+	<div id="accesSiteMobile" class="acces-mob"><span>Accès au site Mobile</span></div>
+</footer>
+
+
+</div>
+
+
+
+<script type="didomi/javascript" data-purposes="mesureda-pj3B6Gwr"> (function() {
+var mediego =document.createElement('script'); mediego.type = 'text/javascript';
+mediego.async = true; mediego.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.mediego.com/tracker.js'; 
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(mediego, s); })(); 
+</script>
+
+<!-- comptabilisation de la presence de AddBlock -->
+
+<script src="https://mvistatic.com/min/b=design/javascripts&amp;f=jquery.cookie.js,login.js,jquery.blueberry.js?version=20230608" type="text/javascript"></script>
+<script src="https://mvistatic.com/min/b=design/js&amp;f=jquery.mavillebox.fancybox.js,jquery.dropkick-1.0.0.js?version=20230608" type="text/javascript"></script>
+
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({flush: true});
+</script>
+
+<!--[if IE]>
+	<script type="text/javascript" src="https://mvistatic.com/min/b=design/js/ie&amp;f=h5f.min.js?version=20230608"></script>
+	<script type="text/javascript">
+		window.onload = function() {
+			H5F.setup(jQuery('.elmt-liste-form'));
+			H5F.setup(jQuery('#recherche'));
+			H5F.setup(jQuery('.elmt-news form'));
+		};
+	</script>
+<![endif]-->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b0fa1e1a7e","applicationID":"119392","transactionName":"MV1bYERRWhFVUE1QWQgXbEZfH0cSW0FNFhxISFFE","queueTime":7,"applicationTime":5,"atts":"HRpYFgxLSR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+	<div id="msgPage" style="display: none"></div>
+	<div id="popupPage" style="display: none"></div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b0fa1e1a7e","applicationID":"119392","transactionName":"MV1bYERRWhFVUE1QWQgXbEZfH0cSW0FNFhxISFFE","queueTime":7,"applicationTime":5,"atts":"HRpYFgxLSR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body>
+</html>
