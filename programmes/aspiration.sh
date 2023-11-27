@@ -1,15 +1,15 @@
 #!usr/bin/bash
-#programme qui prends 2 arguments :
-#1 = une liste d'urls en .txt
-#2 = un nom de langue qu'il va renvoyer comme titre des outputs (par exemple FR, EN ou CH)
+#programme qui prends 1 argument :
+#1 = une liste d'urls en .txt. Le basename de l'argument doit être le code de la langue (FR, EN ou CH)
+
 
 URLS=$1
-langue=$2
+langue=$(basename $URLS)
 
-#vérification nombre d'arguments = 2
-if [[ $# -ne 2 ]];
+#vérification nombre d'arguments = 1
+if [[ $# -ne 1 ]];
 then
-	echo "On veut exactement deux arguments au script : une liste d'url au format .txt et un nom de langue"
+	echo "On veut exactement un argument au script : une liste d'url au format .txt"
 	exit
 fi
 
@@ -29,3 +29,4 @@ do
 	lineno=$(expr $lineno + 1)
 done < "$URLS"
 
+echo "fin du programme"

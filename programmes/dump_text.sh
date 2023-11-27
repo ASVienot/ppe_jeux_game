@@ -1,5 +1,5 @@
 #!usr/bin/bash
-#transforme les fichiers html d'un dossier en fichier txt dans le dossier dump-text
+#transforme les fichiers html d'un dossier en fichiers txt dans le dossier dumps-text
 
 LISTE_FICHIER=$(ls ../aspirations)
 
