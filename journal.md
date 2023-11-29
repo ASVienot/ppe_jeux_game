@@ -54,7 +54,7 @@ ex fr.tkx -> $basename URLs/fr.txt .txt => fr
 
 
  
-EXERCICES SEANCE 9
+### EXERCICES SEANCE 9
 
 1 à 4 faits.
 
@@ -91,3 +91,52 @@ Concordancier
 -> comment faire pour les mots qui apparaissent plusieurs fois en en moins de 2 lignes ?
 
 
+## Séance 10 
+
+chemin relatif ou chemin absolu de la github page 
+lien absolu un peu étrange besoin de bien vérifier 
+
+nos scripts doivent être lancés depuis le dossier programmes 
+ATTENTION ../ partout 
+
+iTrameur: 
+analyse automatique, statistique et documentaire de text 
+Trouver une question 
+ressemble au XML 
+Mais pas de racine unique 
+ex: <lang ="fr">
+<page="fr-1">
+<text> contenu </text>
+- calcul des spécificités (appliqué aux coocurents)
+quantifier les unités dans les textes 
+loi hypergéométrique = loi normale décalée 
+spécificité donné en log10 
+Correspond au nbr de 0 aprés la virgule et avant le premier chiffre
+ex: log0,1= 1 / log 0,01 = 2 
++ c'est haut + c'est utilisé dans le corpus 
++ c'est bas 
+
+## TO DO
+- script contexte par langue 
+- grep "jeux" 
+- rajouter boucle dans dump éviter erreurs 404 
+test si $response == "200"
+
+if [$response == "200"]
+then 
+	lynx -dump -nolist ./aspirations/${langue}-${lineno}.html > ./dump...
+fi 
+- monter le site web 
+- grep -c à la place de |wc // ne pas utiliser -c qui compte les lignes et non les occurences
+- -i pour ne pas prendre en compte les cases 
+- -o pour les mots 
+- nbr occurences vérifier bien 0 
+- création dump dans la boucle pour que les fichiers ne soient pas créer pour les urls vides 
+et peut mettre $dump et $nbroccurences à 0 pour que ce ne soit pas remplacer par la valeur précédente
+- grep -C suivi du nombre de ligne = contexte de l'occurence 
+
+- Concordancier à améliorer 
+accent considéré comme _ avec \-W
+
+Pour iTrameur: 
+sans expression régulière mais peut les transformer en /jeu/ tout au singulier 
