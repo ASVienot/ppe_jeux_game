@@ -117,9 +117,9 @@ ex: log0,1= 1 / log 0,01 = 2
 + c'est bas 
 
 ## TO DO
-- script contexte par langue 
+- script contexte par langue DONE 
 - grep "jeux" 
-- rajouter boucle dans dump éviter erreurs 404 
+- rajouter boucle dans dump éviter erreurs 404 DONE
 test si $response == "200"
 
 if [$response == "200"]
@@ -132,11 +132,21 @@ fi
 - -o pour les mots 
 - nbr occurences vérifier bien 0 
 - création dump dans la boucle pour que les fichiers ne soient pas créer pour les urls vides 
-et peut mettre $dump et $nbroccurences à 0 pour que ce ne soit pas remplacer par la valeur précédente
+et peut mettre $dump et $nbroccurences à 0 pour que ce ne soit pas remplacer par la valeur précédente DONE
 - grep -C suivi du nombre de ligne = contexte de l'occurence 
 
 - Concordancier à améliorer 
-accent considéré comme _ avec \-W
+accent considéré comme _ avec \-Wsegmentation
 
 Pour iTrameur: 
 sans expression régulière mais peut les transformer en /jeu/ tout au singulier 
+
+
+## Exos iTrammeur S10 
+- dossier créé pour l'annalyse iTrammeur  
+- script iTrammeur 
+	- 2 arguments (../dossier en question; LANGUE)
+	- sed multiple = sed -e 's/a/b/g ; s/b/d/g'
+	- choisi de remplacer les & les > et les <
+	- /!\ -F erreur 
+- tokenisation pour le chinois ajoutée au niveau de la création des fichiers dumps 
