@@ -52,8 +52,12 @@ do
 
         #fichiers dump text :
         contenu_textuel=$(lynx -dump -nolist ../aspirations/${langue}-${lineno}.html)
-        echo "$contenu_textuel" > "../dumps-text/${langue}-${lineno}.txt"
+        echo "$contenu_textuel" > "../dumps-text/${langue}-${lineno}_temp.txt"
+        dump_texte_temp=../dumps-text/${langue}-${lineno}_temp.txt
         dump_texte=../dumps-text/${langue}-${lineno}.txt
+        python3 -m thulac ${dump_texte_temp} ${dump_texte} -seg_only
+        rm ${dump_texte_temp}
+
 
         #récupération nombre occurences
 		nb_occurrence=$(cat ../dumps-text/"${langue}-${lineno}.txt"|grep -P -i -o "游戏"|wc -l)
