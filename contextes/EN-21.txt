@@ -1,0 +1,268 @@
+
+Strategy (game theory)
+
+--
+   From Wikipedia, the free encyclopedia
+   Complete plan on how a game player will behave in every possible game
+   situation
+--
+
+   In game theory, a player's strategy is any of the options which they
+   choose in a setting where the optimal outcome depends not only on their
+   own actions but on the actions of others.^[1] The discipline mainly
+   concerns the action of a player in a game affecting the behavior or
+   actions of other players. Some examples of "games" include chess,
+   bridge, poker, monopoly, diplomacy or battleship.^[2] A player's
+   strategy will determine the action which the player will take at any
+   stage of the game. In studying game theory, economists enlist a more
+   rational lens in analyzing decisions rather than the psychological or
+--
+   move. A move is an action taken by a player at some point during the
+   play of a game (e.g., in chess, moving white's Bishop a2 to b3). A
+   strategy on the other hand is a complete algorithm for playing the
+   game, telling a player what to do for every possible situation
+   throughout the game. It is helpful to think about a "strategy" as a
+   list of directions, and a "move" as a single turn on the list of
+--
+   of strategies for all players which fully specifies all actions in a
+   game. A strategy profile must include one and only one strategy for
+   every player.
+--
+   A player has a finite strategy set if they have a number of discrete
+   strategies available to them. For instance, a game of rock paper
+   scissors comprises a single move by each player—and each player's move
+--
+   A strategy set is infinite otherwise. For instance the cake cutting
+   game has a bounded continuum of strategies in the strategy set {Cut
+   anywhere between zero percent and 100 percent of the cake}.
+
+   In a dynamic game, games that are played over a series of time, the
+   strategy set consists of the possible rules a player could give to a
+   robot or agent on how to play the game. For instance, in the ultimatum
+   game, the strategy set for the second player would consist of every
+   possible rule for which offers to accept and which to reject.
+
+   In a Bayesian game, or games in which players have incomplete
+   information about one another, the strategy set is similar to that in a
+   dynamic game. It consists of rules for what action to take for any
+   possible private information.
+--
+
+   In applied game theory, the definition of the strategy sets is an
+   important part of the art of making a game simultaneously solvable and
+   meaningful. The game theorist can use knowledge of the overall problem,
+   that is the friction between two or more players, to limit the strategy
+--
+
+   For instance, strictly speaking in the Ultimatum game a player can have
+   strategies such as: Reject offers of ($1, $3, $5, ..., $19), accept
+--
+   for a very large strategy space and a somewhat difficult problem. A
+   game theorist might instead believe they can limit the strategy set to:
+   {Reject any offer ≤ x, accept any offer > x; for x in ($0, $1, $2, ...,
+--
+   A pure strategy provides a complete definition of how a player will
+   play a game. Pure strategy can be thought about as a singular concrete
+   plan subject to the observations they make during the course of the
+   game of play. In particular, it determines the move a player will make
+   for any situation they could face. A player's strategy set is the set
+--
+   A mixed strategy is an assignment of a probability to each pure
+   strategy. When enlisting mixed strategy, it is often because the game
+   doesn't allow for a rational description in specifying a pure strategy
+   for the game. This allows for a player to randomly select a pure
+   strategy. (See the following section for an illustration.) Since
+--
+   best at shooting, which is left if they are right-footed. The matrix
+   for the soccer game illustrates this situation, a simplified form of
+   the game studied by Chiappori, Levitt, and Groseclose (2002).^[3] It
+   assumes that if the goalie guesses correctly, the kick is blocked,
+--
+          Kick Right +1, -1     0,  0
+    Payoff for the Soccer Game (Kicker, Goalie)
+
+   This game has no pure-strategy equilibrium, because one player or the
+   other would deviate from any profile of strategies—for example, (Left,
+--
+   In his famous paper, John Forbes Nash proved that there is an
+   equilibrium for every finite game. One can divide Nash equilibria into
+   two types. Pure strategy Nash equilibria are Nash equilibria where all
+--
+   equilibria where at least one player is playing a mixed strategy. While
+   Nash proved that every finite game has a Nash equilibrium, not all have
+   pure strategy Nash equilibria. For an example of a game that does not
+   have a Nash equilibrium in pure strategies, see Matching pennies.
+   However, many games do have pure strategy Nash equilibria (e.g. the
+   Coordination game, the Prisoner's dilemma, the Stag hunt). Further,
+   games can have both pure strategy and mixed strategy equilibria. An
+   easy example is the pure coordination game, where in addition to the
+   pure strategies (A,A) and (B,B) a mixed equilibrium exists in which
+--
+   equilibrium strategy probability or deviate to some other
+   probability.^[4] ^[5] Game theorist Ariel Rubinstein describes
+   alternative ways of understanding the concept. The first, due to
+--
+   payoff-irrelevant exogenous factors.^[5] A second interpretation
+   imagines the game players standing for a large population of agents.
+   Each of the agents chooses a pure strategy, and the payoff depends on
+--
+   each player to actually play a pure strategy of Rock in each play of
+   the game, even though over time the probabilities are those of the
+   mixed strategy.
+--
+   two concepts are very closely related in the context of normal form
+   games, they have very different implications for extensive form games.
+   Roughly, a mixed strategy randomly chooses a deterministic path through
+   the game tree, while a behavior strategy can be seen as a stochastic
+   path. The relationship between mixed and behavior strategies is the
+   subject of Kuhn's theorem, a behavioral outlook on traditional
+   game-theoretic hypotheses. The result establishes that in any finite
+   extensive-form game with perfect recall, for any player and any mixed
+   strategy, there exists a behavior strategy that, against all profiles
+--
+   is given by Piccione and Rubinstein (1997)^[full citation needed] with
+   their Absent-Minded Driver game.
+
+--
+
+   Perfect recall is defined as the ability of every player in game to
+   remember and recall all past actions within the game. Perfect recall is
+   required for equivalence as, in finite games with imperfect recall,
+   there will be existing mixed strategies of Player I in which there is
+   no equivalent behavior strategy. This is fully described in the
+   Absent-Minded Driver game formulated by Piccione and Rubinstein. In
+   short, this game is based on the decision-making of a driver with
+   imperfect recall, who needs to take the second exit off the highway to
+   reach home but does not remember which intersection they are at when
+   they reach it. Figure [2] describes this game.
+
+--
+   outcomes that their behavioral strategy cannot, and vice versa. This is
+   demonstrated in the Absent-minded Driver game. With perfect recall and
+   information, the driver has a single pure strategy, which is [continue,
+--
+   continuing at both intersections, maximized at p=2/3 (reference). This
+   simple one player game demonstrates the importance of perfect recall
+   for outcome equivalence, and its impact on normal and extended form
+   games.^[9]
+
+--
+
+    1. ^ Ben Polak Game Theory: Lecture 1 Transcript ECON 159, 5 September
+       2007, Open Yale Courses.
+    2. ^ Aumann, R. (22 March 2017). Game Theory. In: Palgrave Macmillan.
+       London: Palgrave Macmillan. ISBN 978-1-349-95121-5.
+--
+       doi:10.1257/00028280260344678.
+    4. ^ Aumann, R. (1985). "What is Game Theory Trying to accomplish?"
+       (PDF). In Arrow, K.; Honkapohja, S. (eds.). Frontiers of Economics.
+--
+    5. ^ ^a ^b Rubinstein, A. (1991). "Comments on the interpretation of
+       Game Theory". Econometrica. 59 (4): 909–924. doi:10.2307/2938166.
+       JSTOR 2938166.
+    6. ^ Harsanyi, John (1973). "Games with randomly disturbed payoffs: a
+       new rationale for mixed-strategy equilibrium points". Int. J. Game
+       Theory. 2: 1–23. doi:10.1007/BF01737554. S2CID 154484458.
+--
+    8. ^ Shimoji, Makoto (2012-05-01). "Outcome-equivalence of
+       self-confirming equilibrium and Nash equilibrium". Games and
+       Economic Behavior. 75 (1): 441–447. doi:10.1016/j.geb.2011.09.010.
+--
+
+   Topics in game theory
+   Definitions
+     * Congestion game
+     * Cooperative game
+     * Determinacy
+     * Escalation of commitment
+     * Extensive-form game
+     * First-player and second-player win
+     * Game complexity
+     * Graphical game
+     * Hierarchy of beliefs
+     * Information set
+     * Normal-form game
+     * Preference
+     * Sequential game
+     * Simultaneous game
+     * Simultaneous action selection
+     * Solved game
+     * Succinct game
+
+--
+     * Strong Nash equilibrium
+     * Subgame perfection
+     * Trembling hand
+--
+   Classes
+   of games
+     * Bargaining problem
+     * Cheap talk
+     * Global game
+     * Intransitive game
+     * Mean-field game
+     * Mechanism design
+     * n-player game
+     * Perfect information
+     * Large Poisson game
+     * Potential game
+     * Repeated game
+     * Screening game
+     * Signaling game
+     * Stackelberg competition
+     * Strictly determined game
+     * Stochastic game
+     * Symmetric game
+     * Zero-sum game
+
+   Games
+
+--
+     * Prisoner's dilemma
+     * Gift-exchange game
+     * Optional prisoner's dilemma
+     * Traveler's dilemma
+     * Coordination game
+     * Chicken
+     * Centipede game
+     * Lewis signaling game
+     * Volunteer's dilemma
+--
+     * Matching pennies
+     * Ultimatum game
+     * Rock paper scissors
+     * Pirate game
+     * Dictator game
+     * Public goods game
+     * Blotto game
+     * War of attrition
+--
+     * Fair cake-cutting
+     * Cournot game
+     * Deadlock
+--
+     * Kuhn poker
+     * Nash bargaining game
+     * Induction puzzles
+     * Trust game
+     * Princess and monster game
+     * Rendezvous problem
+--
+     * Bounded rationality
+     * Combinatorial game theory
+     * Confrontation analysis
+     * Coopetition
+     * Evolutionary game theory
+     * First-move advantage in chess
+     * Game Description Language
+     * Game mechanics
+     * Glossary of game theory
+     * List of game theorists
+     * List of games in game theory
+     * No-win situation
+     * Solving chess
+     * Topological game
+     * Tragedy of the commons
+--
+   Category:
+     * Strategy (game theory)

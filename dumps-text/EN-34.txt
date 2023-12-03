@@ -1,0 +1,572 @@
+   #Interaction Design Foundation - UX Feed
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KJ8XGB
+
+     * Reviews / Why join our community?
+     * For companies
+     * Frequently asked questions
+     * Contact
+
+   Interaction Design Foundation logo
+     * UX Courses
+     * Master Classes
+     * Community
+     * Literature
+     * Blog
+     * Search
+
+     * Log in
+     * Join our community Join us
+
+   Webinar: Human-Centered Design for AI  Webinar: Human-Centered Design
+   for AI
+   (BUTTON)
+   Please upgrade your browser as it’s outdated. You’ll reduce security
+   risks and help make the internet better.
+   Your browser is outdated—upgrade it now.
+   (BUTTON)
+   (BUTTON) Open menu Close menu
+   Interaction Design Foundation logo
+   Search
+   Join us
+   Webinar: Human-Centered Design for AI  Webinar: Human-Centered Design
+   for AI
+   (BUTTON)
+
+     * UX Courses
+     * Master Classes
+     * Community
+     * Literature
+     * Blog
+     * Search
+
+   Log in
+     * Reviews / Why join our community?
+     * For companies
+     * Frequently asked questions
+     * Contact
+
+A Brief History of Games
+
+   by Janaki Mythily Kumar , Mario Herger and Rikke Friis Dam | 1 year ago
+   | 11 min read
+   816 shares
+   Share Share page on Facebook Tweet Share page on Twitter Share Share
+   page on LinkedIn
+   (BUTTON) Cite this article
+
+   Human history and games are inextricably intertwined. Irrefutable
+   evidence resounds down through the ages that fun and games are not
+   frivolous pursuits per se—instead, they come naturally to us as
+   essential parts of being alive. When you understand the evolution of
+   games, you can begin to make intelligent choices about what elements of
+   games you might want to include in your gamification designs.
+
+A Dim and Distant Past
+
+   Have you ever been to the zoo? If so, you’ll most likely have sat and
+   watched monkeys and apes for a while. It doesn’t take very much to see
+   them at play. They’ll chase each other, throw things, jump on each
+   other, and that kind of thing. Assuming, as seems likely, that human
+   beings are just better evolved monkeys, it’s likely that we’ve been
+   playing games for a long, long time. We were probably playing games
+   before we learned to speak or even to stand on two legs.
+
+   That means we have no idea what the first games we played were like.
+   However, we do have a good idea of the timeline of modern game
+   development.
+
+Rolling the Dice 3,000 Years Ago
+
+   Dice aren’t a modern invention. In fact, they’re probably among the
+   oldest known gaming tools known to man. During an excavation in
+   Southeastern Iran, archeologists discovered a 3,000-year-old set of
+   dice! We don’t know exactly what games those early Persians would have
+   played with them, but the popularity of dice has endured throughout the
+   centuries.
+
+   Dice games have been with mankind for a very long time, as you can see
+   from this cave painting.
+
+   ©WolfgangRieger, Fair Use
+
+   In 14th-century England, people were playing a game called Hazard (it’s
+   mentioned in that famous work The Canterbury Tales by Geoffrey
+   Chaucer), and Hazard didn’t fall out of favour until the 19th century.
+   It had a very complex rule set and has since been supplanted by dice
+   games with simpler rules.
+
+     “Take a simple idea and take it seriously.”
+     —Charlie Munger, American investor, businessman, lawyer and
+     philanthropist
+
+   Whether carved in bone or cast in plastic, the simplicity of a die—a
+   cube with dots and nothing more—as an effective, if chancy, determinant
+   is ageless. You may not know this, but the most popular game in casinos
+   would remain—well into the 21st century—a dice game. Craps is the only
+   game in a gambling house where the odds are in favour of the gambler.
+   Despite this, it’s the most profitable game for the casinos; people
+   don’t seem to know just when to stop playing. And play they
+   do—elsewhere, too, using dice in a range of fun-filled activities that
+   have been extending into less adult settings, such as homes and
+   schools, through the years. Yahtzee revolves around dice, and not for
+   nothing does Dungeons & Dragons incorporate dice, even if many of those
+   dice have 4, 10, 12, 20 or even more faces.
+
+Tiles and Dominoes
+
+   There are references to tile games in China that are over 2,900 years
+   old. Dominoes emerged 1,000 years later during the Song Dynasty (also
+   in China). However, Western dominoes probably only began in the 18th
+   century, and Mahjong (the most popular tile game in the world – it’s of
+   Chinese origin) didn’t arrive until the 19th century.
+
+Board Games are Even Older
+
+   If you enjoy a game of Monopoly or Scrabble, it would appear that you
+   are in good company. The earliest known board games are 5,000 years old
+   and were played by the Egyptians. We don’t know the rules of these
+   games, but there is a “Senet” board that dates back to about 3500 B.C.!
+
+   The Chinese invented their first known board game in 200 B.C., and, in
+   Western Europe, they were playing Tafl (a game very similar to chess)
+   from 400 B.C.
+
+   Chess is often considered to be the “archetypal” board game and is
+   itself very old, but there were board games well prior to the invention
+   of chess.
+
+   © Bubba73, CC BY-SA 3.0
+
+Still Playing!
+
+   If you’ve ever played Go, Chess, Backgammon or Nine Men’s Morris, then
+   you’ve played a game with more than a thousand years of history! Go is
+   from 200 B.C. in Korea, Backgammon from Iran around 600 A.D. (complete
+   with dice), Chess from India around the same time and Nine Men’s Morris
+   may be from Mediaeval England, but many think it stems from the Roman
+   Empire!
+
+   Snakes and Ladders, one of the world’s most popular children’s games
+   probably began in India in the 16th century. And, surprise, surprise,
+   dice power the probability for players in that game, too.
+
+   The first commercial board game arrived in the year 1800 and was
+   produced by George Fox in England. It was called the Mansion of
+   Happiness and was essentially a “race game” similar to Ludo. The oldest
+   surviving board game company is Milton Bradley (whose famous games
+   include; Downfall, Hungry Hippos and Connect 4), who were formed in
+   1860!
+
+   The Mansion of Happiness was the very first board game to be produced
+   commercially (i.e., on an industrial basis).
+
+   © ItsLassieTime, Fair Use
+
+Deal Me In!
+
+   Card games are a more recent invention, and the first use of a card
+   deck was probably in Ancient China. They would have been played during
+   the Tang Dynasty (6th century A.D. – 9th century A.D.). Cards reached
+   Europe in the 14th century, and early decks would have been very
+   similar to Tarot cards, whose modern and classic mediaeval versions we
+   can find online or in virtually any bookstore’s Mind, Body and Spirit
+   section.
+
+   The four-suit (hearts, spades, clubs and diamonds) deck that we’re most
+   familiar with was invented in France around 1480. The oldest card game
+   that we still play is probably Cribbage, which came from the 17th
+   century. Bridge didn’t arrive until the early 19th century.
+
+   In the 1990s, cards were revisited and games like ‘Magic! The
+   Gathering’ were introduced and became incredibly popular. Card games
+   would also extend to trumps—a classic favourite in British schools,
+   featuring items from racing cars to spacecraft, Western gunfighters and
+   horror monsters, in which players compare the statistics of their
+   topmost cards, and win or lose accordingly.
+
+Table Games
+
+   Carom, is possibly the oldest table game (it’s very similar to
+   tiddlywinks or shuffleboard), but no-one knows exactly when or where it
+   came into existence. Pool, billiards and snooker are all relatively
+   recent inventions, and roulette only arrived in the 19th century.
+
+   The game pictured above, may look (at first glance) like pool, but it’s
+   actually a modern billiards table—as you can see by the lack of pockets
+   on the table.
+
+   © LezFraniak, CC BY-SA 3.0
+
+You’re in Good Company
+
+   As you can see, games have a long rich history, and whenever you decide
+   to play a game, you’re in good company. Human beings have been playing
+   games throughout the centuries. They are part of the human experience.
+
+What about Electronic Games?
+
+   You may be surprised to find that the first electronic game was
+   invented in the United States before the computer! A patent was filed
+   back in 1947 for a “Cathode ray tube amusement device”. In the 1950s,
+   also in the United States, (very few) people began playing computer
+   games on mainframe systems – these would have been out of reach for the
+   vast majority of people as the hardware would have been astronomically
+   expensive.
+
+   The first games console was the Magnavox Odyssey – released in 1972.
+   Arcade games such as Space Invaders, Pacman, etc. began life in 1978
+   and became hugely popular into the early 1980s. During that time, quite
+   a few consoles were released, but a crash in the American gaming
+   industry killed off most of the companies involved in 1983. When the
+   Japanese picked up the reins and began developing video games, console
+   gaming became universally popular, signalling the slow downfall of the
+   arcade game.
+
+     “Everyone has played video games at some point these days, and video
+     games are fun.”
+     —PewDiePie, Swedish comedian and web producer
+
+   Games have a long history, as you can see, and the electronic game’s
+   roots stretch right back to the earliest of human games. It’s not that
+   our ancestors needed to tell us that games go with the territory of
+   being alive; games are hardwired into our DNA.
+
+The Take Away
+
+   Human history and games are inextricably intertwined. For millennia,
+   people have held an innate compulsion to play, and that won’t change
+   anytime soon. What they needed, they innovated, leaving us a wealthy
+   legacy of devices through the centuries, ranging from the basic but
+   powerful wonder of dice, to the timeless strategising involved in
+   chess, and on up to a library of latter-day board games that run the
+   gamut in their levels of sophistication. As long as you’ve got an
+   understanding the evolution of games, you can begin to make intelligent
+   choices about what elements of games you might want to include in your
+   gamification designs.
+
+References & Where to Learn More
+
+   Course: Gamification - How to Create Engaging User Experiences
+
+   The Institute of Play examines the history of games in a learning
+   context.
+
+   Janaki Mythily Kumar and Mario Herger, Gamification at Work: Designing
+   Engaging Business Software, The Interaction Design Foundation, 2014
+
+   Hero Image: Author/Copyright holder: Nick Kellingley. Copyright terms
+   and licence: CC BY-NC-ND
+
+Journey Mapping
+
+   Journey Mapping
+   Closes in
+   0
+   days
+   9
+   hrs
+   13
+   mins
+   47
+   secs
+   booked
+   View Course
+
+Get Weekly UX Insights
+
+   Join 310,978 designers who get useful UX tips from our newsletter.
+   ____________________ A valid email address is required.
+   ____________________
+   (BUTTON) Go
+
+Topics in This Article
+
+   Gamification
+   816 shares
+   Share Share page on Facebook Tweet Share page on Twitter Share Share
+   page on LinkedIn
+   (BUTTON) Cite this article
+
+What You Should Read Next
+
+Bartle’s Player Types for Gamification
+
+   Bartle’s Player Types for Gamification
+   Gamification is not the same as game design, because it adds game-like
+   elements to non-gaming environments. However, the
+     * 1k shares
+     * 8 mths ago
+
+   Read article
+
+A Game Explained (an example of a single game and how it meets the rules of
+fun)
+
+   A Game Explained (an example of a single game and how it meets the
+   rules of fun)
+   Fun is the key to how games work, and it’s the key to making
+   gamification work, too. Without fun, gamification is simply
+     * 818 shares
+     * 10 mths ago
+
+   Read article
+
+The Persona Template for Gamification
+
+   The Persona Template for Gamification
+   For any gamification project, you’ll need to do research on players in
+   order to determine what they will require from th
+     * 692 shares
+     * 3 years ago
+
+   Read article
+
+Ideas for Conducting UX Research with Children
+
+   Ideas for Conducting UX Research with Children
+   One of the most challenging realms to conduct user research with is
+   when you have to conduct research with children. The
+     * 671 shares
+     * 2 years ago
+
+   Read article
+
+Player-Centered Design: Moving Beyond User-Centered Design for Gamification
+
+   Player-Centered Design: Moving Beyond User-Centered Design for
+   Gamification
+   We’ve all come to think in terms of user-centred design over the years.
+   It’s a critical component of UX design, and it h
+     * 668 shares
+     * 9 mths ago
+
+   Read article
+
+Display Achievements to Encourage Website Usage
+
+   Display Achievements to Encourage Website Usage
+   You are doing so great; you’re top of the class! Don’t you just love to
+   hear a compliment like this? We’re all human, an
+     * 667 shares
+     * 3 years ago
+
+   Read article
+
+The Use of Story and Emotions in Gamification
+
+   The Use of Story and Emotions in Gamification
+   Gamification projects can benefit from storytelling features; these
+   features can help arouse emotional connections with
+     * 619 shares
+     * 8 mths ago
+
+   Read article
+
+Monitoring Player Motivation for Gamification
+
+   Monitoring Player Motivation for Gamification
+   One of the big questions facing us as gamification designers is, “When
+   will your player get bored of your gamification p
+     * 609 shares
+     * 7 mths ago
+
+   Read article
+
+Happiness in Gaming
+
+   Happiness in Gaming
+   Audrey Hepburn, the star of the silver screen, said, “The most
+   important thing is to enjoy your life – to be happy – it’
+     * 561 shares
+     * 4 years ago
+
+   Read article
+
+Work in Games
+
+   Work in Games
+   Very few people look forward to work. If you weren’t working, you could
+   be doing something fun. Yet, work isn’t the oppo
+     * 496 shares
+     * 6 mths ago
+
+   Read article
+
+Top Articles
+
+     * The 5 Stages in the Design Thinking Process 1.8k shares
+     * What is Design Thinking and Why Is It So Popular? 1.6k shares
+     * Personas – A Simple Introduction 1.5k shares
+     * Bad Design vs. Good Design: 5 Examples We can Learn From 1.5k
+       shares
+     * 10 Great Sites for UI Design Patterns 1.4k shares
+
+Top Topics
+
+     * Design Thinking
+     * User Experience (UX) Design
+     * Graphic Design
+     * Color Theory
+     * User Interface (UI) Design
+
+Open Access - Link to us!
+
+   We believe in Open Access and the democratization of knowledge.
+   Unfortunately, world class educational materials such as this page are
+   normally hidden behind paywalls or in expensive textbooks.
+
+   If you want this to change, (BUTTON) cite this article, link to us, or
+   join us to help democratize design knowledge!
+   (BUTTON) Cite this article
+
+Search
+
+   (BUTTON) Close
+
+Popular related searches
+
+Filters
+
+Search Results
+
+Footer navigation
+
+   Interaction Design Foundation Logo
+
+   With 164,559 graduates, the Interaction Design Foundation is the
+   biggest online design school globally. We were founded in 2002.
+
+Connect With Us
+
+   Reach us at hello@interaction-design.org or through our online contact
+   form.
+   LinkedIn page Facebook page Instagram page YouTube page Twitter page
+
+   Have questions? Check our frequently asked questions.
+
+Get Inspired Weekly
+
+   Join 310,978 designers and get weekly inspiration and design tips in
+   your inbox.
+   Email ____________________ ____________________
+   (BUTTON) Subscribe
+   Please write a valid email address.
+
+Browse UX / UI Design Topics
+
+   A
+   B
+   C
+   D
+   E
+   F
+   G
+   H
+   I
+   J
+   K
+   L
+   M
+   N
+   O
+   P
+   Q
+   R
+   S
+   T
+   U
+   V
+   W
+   X
+   Y
+   Z
+   #
+
+UX Courses
+
+     * Beginner UX Courses
+     * Intermediate UX Courses
+     * Advanced UX Courses
+
+Community
+
+     * Master Classes
+     * Local Groups
+     * Discussions
+
+Literature
+
+     * UX Daily Articles
+     * UX Topics
+     * UX Books
+
+About
+
+     * About Us
+     * The People Behind
+     * Contact Us
+
+     * Terms of Use / Privacy
+     * For companies
+     * (BUTTON) What is UX Design?
+     * Give as gift
+     * Careers
+
+   (BUTTON)
+
+Cite according to academic standards
+
+   Simply copy and paste the text below into your bibliographic reference
+   list, onto your blog, or anywhere else. You can also just hyperlink to
+   this article.
+   Citation format [APA (recommended)]
+   (BUTTON) Copy citation
+   Kumar, J., Herger, M. and Dam, R. F. (2022, February 19). A Brief
+   History of Games. Interaction Design Foundation - IxDF.
+   Kumar, Janaki., Herger, Mario. and Dam, Rikke Friis. “A Brief History
+   of Games” Interaction Design Foundation - IxDF. 3 Dec. 2023
+   J. Kumar., M. Herger. and R. F. Dam. “A Brief History of Games”
+   Interaction Design Foundation - IxDF. (accessed Dec. 3, 2023).
+   Janaki Kumar., Mario Herger. and Rikke Friis Dam. 2022. A Brief History
+   of Games Retrieved December 3, 2023 from
+   [ ] Cite selection
+   Copied to clipboard!
+
+   (BUTTON)
+
+New to UX Design? We’re giving you a free ebook!
+
+   The Basics of User Experience Design
+
+   Download our free ebook The Basics of User Experience Design to learn
+   about core concepts of UX design.
+
+   In 9 chapters, we’ll cover: conducting user interviews, design
+   thinking, interaction design, mobile UX design, usability, UX research,
+   and many more!
+   ____________________
+   (BUTTON) Download free ebook Go
+   A valid email address is required.
+   [X] Get free UX design learning material every week
+   310,978 designers enjoy our newsletter—sure you don’t want to receive
+   it?
+
+   (BUTTON)
+
+New to UX Design? We’re Giving You a Free ebook!
+
+   The Basics of User Experience Design
+
+   Download our free ebook The Basics of User Experience Design to learn
+   about core concepts of UX design.
+
+   In 9 chapters, we’ll cover: conducting user interviews, design
+   thinking, interaction design, mobile UX design, usability, UX research,
+   and many more!
+   ____________________
+   (BUTTON) Download free ebook Go
+   A valid email address is required.
+   [X] Get free UX design learning material every week
+   310,978 designers enjoy our newsletter—sure you don’t want to receive
+   it?

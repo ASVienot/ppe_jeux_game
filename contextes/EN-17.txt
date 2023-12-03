@@ -1,0 +1,752 @@
+       (BUTTON) Toggle Types subsection
+          + 2.1Trick-taking games
+          + 2.2Matching games
+          + 2.3Shedding games
+          + 2.4Catch and collect games
+          + 2.5Fishing games
+          + 2.6Comparing games
+          + 2.7Patience and solitaire games
+          + 2.8Drinking card games
+          + 2.9Compendium games
+          + 2.10Collectible card games (CCGs)
+          + 2.11Living card games (LCGs)
+          + 2.12Casino or gambling card games
+               o 2.12.1Poker games
+          + 2.13Other card games
+               o 2.13.1Simulation card games
+          + 2.14Fictional card games
+     * 3Typical structure of card games
+       (BUTTON) Toggle Typical structure of card games subsection
+          + 3.1Number and association of players
+--
+          + 3.3Determining who deals
+          + 3.4Hands, rounds and games
+          + 3.5Shuffling
+--
+
+Card game
+
+--
+   From Wikipedia, the free encyclopedia
+   Game using playing cards as the primary device
+   For other uses, see Card game (disambiguation).
+
+--
+
+   A card game is any game using playing cards as the primary device with
+   which the game is played, be they traditional or game-specific.
+   Countless card games exist, including families of related games (such
+   as poker). A small number of card games played with traditional decks
+   have formally standardized rules with international tournaments being
+   held, but most are folk games whose rules may vary by region, culture,
+   location or from circle to circle.
+
+   Traditional card games are played with a deck or pack of playing cards
+   which are identical in size and shape. Each card has two sides, the
+--
+   In some cases several decks are shuffled together to form a single pack
+   or shoe. Modern card games usually have bespoke decks, often with a
+   vast amount of cards, and can include number or action cards. This type
+   of game is generally regarded as part of the board game hobby.
+
+   Games using playing cards exploit the fact that cards are individually
+   identifiable from one side only, so that each player knows only the
+   cards they hold and not those held by anyone else. For this reason card
+   games are often characterized as games of chance or "imperfect
+   information"—as distinct from games of strategy or perfect information,
+   where the current position is fully visible to all players throughout
+   the game.^[1] Many games that are not generally placed in the family of
+   card games do in fact use cards for some aspect of their play.
+
+   Some games that are placed in the card game genre involve a board. The
+   distinction is that the play in a card game chiefly depends on the use
+   of the cards by players (the board is a guide for scorekeeping or for
+   card placement), while board games (the principal non-card game genre
+   to use cards) generally focus on the players' positions on the board,
+--
+   Despite the presence of playing cards in Europe being recorded from
+   around 1370, it is not until 1408 that the first card game is described
+   in a document about the exploits of two card sharps; although it is
+   evidently very simple, the game is not named. In fact the earliest
+   games to be mentioned by name are Gleek, Ronfa and Condemnade, the
+   latter being the game played by the aforementioned card cheats. All
+   three are recorded during the 15th century,^[2] along with Karnöffel,
+--
+
+   Since the arrival trick-taking games in Europe in the late 14th
+   century, there have only been two major innovations. The first was the
+--
+   example of such cards was ordered by the Duke of Milan around 1420 and
+   included 16 trumps with images of Greek and Roman gods.^[5] Thus games
+   played with Tarot cards appeared very early on and spread to most parts
+--
+   Peninsula, and the Balkans.^[6] However, we do not know the rules of
+   the early Tarot games; the earliest detailed description in any
+   language being those published by the Abbé de Marolles in Nevers in
+--
+   The concept of trumps was sufficiently powerful that it was soon
+   transferred to games played with far cheaper ordinary packs of cards,
+   as opposed to expensive Tarot cards. The first of these was Triomphe,
+--
+   Spaniard who left his native country for Milan in 1509 never to return;
+   thus the game may date to the late 15th century.^[9]^[10]^[11]
+
+   Others games that may well date to the 15th century are Pochen – the
+   game of Bocken or Boeckels being attested in Strasbourg in 1441^[12] –
+   and Thirty-One, which is first mentioned in a French translation of a
+   1440 sermon by the Italian, Saint Bernadine, the name actually
+   referring to two different card games: one like Pontoon and one like
+   Commerce.^[13]
+--
+   In the 16th century printed documents replace handwritten sources and
+   card games become a popular topic with preachers, autobiographists and
+   writers in general. A key source of the games in vogue in France and
+   Europe at that time is François Rabelais, whose fictional character
+   Gargantua played no less than 30 card games, many of which are
+   recognisable. They include: Aluette, Bête, Cent, Coquimbert, Coucou,
+--
+   Cardano also provides invaluable information including the earliest
+   rules of Trappola. Among the most popular were the games of Flusso and
+   Primiera, which originated in Italy and spread throughout Europe,
+--
+
+   In Britain the earliest known European fishing game was recorded in
+   1522.^[15] Another first was Losing Loadum, noted by Florio in 1591,
+   which is the earliest known English point-trick game.^[16] In Scotland,
+   the game of Mawe, testified in the 1550s, evolved from a country game
+   into one played at the royal Scottish court, becoming a favourite of
+   James VI.^[17] The ancestor of Cribbage – a game called Noddy – is
+   mentioned for the first time in 1589, "Noddy" being the Knave turned
+--
+
+   The 17th century saw an upsurge in the number of new games being
+   reported as well as the first sets of rules, those for Piquet appearing
+   in 1632 and Reversis in 1634.^[8] The first French games compendium, La
+   Maison Académique, appeared in 1654 and it was followed in 1674 by
+   Charles Cotton's The Compleat Gamester, although an earlier manuscript
+   of games by Francis Willughby was written sometime between 1665 and
+   1670.^[19] Cotton records the first rules for the classic English games
+   of Cribbage, a descendant of Noddy, and Whist, a development of English
+--
+
+   Piquet was a two-player, trick-taking game that originated in France,
+   probably in the 16th century and was initially played with 36 cards
+   before, around 1690, the pack reduced to the 32 cards that gives the
+   Piquet pack its name. Reversis is a reverse game in which players avoid
+   taking tricks and appears to be an Italian invention that came to
+--
+
+   In the mid-17th century, a certain game named after Cardinal Mazarin,
+   prime minister to King Louis XIV, became very popular at the French
+   royal court. Called Hoc Mazarin, it had three phases, the final one of
+   which evolved into a much simpler game called Manille that was renamed
+   Comète on the appearance of Halley's Comet in 1682.^[21] In Comète the
+--
+   advantage of being able to start a new sequence. This concept spread to
+   other 17th and 18th century games including Poque, Comete, Emprunt,
+   Manille, Nain Jaune and Lindor,^[22]^[23] all except Emprunt being
+--
+   It was the 17th century that saw the second of the two great
+   innovations being introduced into trick-taking games: the concept of
+   bidding.^[3] This first emerged in the Spanish game of Ombre, an
+   evolution of Triomphe that "in its time, was the most successful card
+   game ever invented."^[24] Ombre's origins are unclear and obfuscated by
+   the existence of a game called Homme or Bête in France, ombre and homme
+   being respectively Spanish and French for 'man'. In Ombre, the player
+   who won the bidding became the "Man" and played alone against the other
+   two. The game spread rapidly across Europe, spawning variants for
+   different numbers of players and known as Quadrille, Quintille,
+--
+
+   The first rules of any game in the German language were those for
+   Rümpffen published in 1608 and later expanded in several subsequent
+   editions. In addition, the first German games compendium, Palamedes
+   Redivivus appeared in 1678, containing the rules for Hoick (Hoc),
+--
+
+   The evolution of card games continued apace, with notable national
+   games emerging like Briscola and Tressette (Italy), Schafkopf
+   (Bavaria), Jass (Switzerland), Mariage, the ancestor of Austria's
+   Schnapsen and Germany's Sixty-Six, and Tapp Tarock, the progenitor of
+   most modern central European Tarot games. Whist spread to the continent
+   becoming very popular in the north and west. In France, Comet appeared,
+   a game that later evolved into Nain Jaune and the Victorian game of
+   Pope Joan.
+--
+
+   [220px-Preferans_%28card_game%29_in_Croatia.2.jpg] Preferans, a
+   trick-taking card game version popular in Croatia
+
+Trick-taking games[edit]
+
+   See also: List of trick-taking games
+
+   There are two main types of trick-taking game which have different
+   objectives. Both are based on the play of multiple tricks, in each of
+--
+   values of played cards one player wins or "takes" the trick.
+     * Plain-trick games. Many common Anglo-American games fall into this
+       category. The usual objective is to take the most tricks, but
+--
+       Whist and Spades are popular examples. Hearts, Black Lady and Black
+       Maria are examples of reverse games in which the aim is to avoid
+       certain cards.
+
+     * Point-trick games. These are all European or of European origin.
+       Individual cards have specific point values and the objective is
+--
+       especially those with higher value cards. The main group is the
+       Ace-Ten family which includes many national games such as German
+       Skat, French Belote, Dutch Klaberjass, Austrian Schnapsen, Spanish
+--
+       Mariáš. Pinochle is an American example of French or Swiss origin.
+       All Tarot card games are of the point-trick variety including
+       German Cego, Austrian Tarock, French Tarot and Italian Minchiate.
+
+Matching games[edit]
+
+   Main article: Matching game
+
+   The object of a matching (or sometimes "melding") game is to acquire
+   particular groups of matching cards before an opponent can do so. In
+   Rummy, this is done through drawing and discarding, and the groups are
+   called melds. Mahjong is a very similar game played with tiles instead
+   of cards. Non-Rummy examples of match-type games generally fall into
+   the "fishing" genre and include the children's games Go Fish and Old
+   Maid.
+
+Shedding games[edit]
+
+   See also: Category:Shedding-type card games and List of shedding-type
+   games
+
+   In a shedding game, players start with a hand of cards, and the object
+   of the game is to be the first player to discard all cards from one's
+   hand. Common shedding games include Crazy Eights (commercialized by
+   Mattel as Uno) and Daihinmin. Some matching-type games are also
+   shedding-type games; some variants of Rummy such as Paskahousu, Phase
+   10, Rummikub, the bluffing game I Doubt It, and the children's games
+   Musta Maija and Old Maid, fall into both categories.
+
+Catch and collect games[edit]
+
+   See also: Category:Catch and collect games
+
+   The object of an accumulating game is to acquire all cards in the deck.
+   Examples include most War type games, and games involving slapping a
+   discard pile such as Slapjack. Egyptian Ratscrew has both of these
+--
+
+Fishing games[edit]
+
+   "Fishing game" redirects here. For the video game genre, see fishing
+   video game.
+
+   See also: Category:Fishing card games
+
+   In fishing games, cards from the hand are played against cards in a
+   layout on the table, capturing table cards if they match.^[25] Fishing
+   games are popular in many nations, including China, where there are
+   many diverse fishing games. Scopa is considered one of the national
+   card games of Italy. Cassino is the only fishing game to be widely
+   played in English-speaking countries. Zwicker has been described as a
+   "simpler and jollier version of Cassino", played in Germany.^[26]
+   Tablanet (tablić) is a fishing-style game popular in Balkans.
+
+  Comparing games[edit]
+
+   See also: Category:Comparing card games
+
+   Comparing card games are those where hand values are compared to
+   determine the winner, also known as "vying" or "showdown" games. Poker,
+   blackjack, mus, and baccarat are examples of comparing card games. As
+   seen, nearly all of these games are designed as gambling games.
+
+  Patience and solitaire games[edit]
+
+   See also: Patience and solitaire games
+
+   Solitaire games are designed to be played by one player. Most games
+   begin with a specific layout of cards, called a tableau, and the object
+--
+
+  Drinking card games[edit]
+
+   See also: Category:Drinking card games
+
+   Drinking card games are drinking games using cards, in which the object
+   in playing the game is either to drink or to force others to drink.
+   Many games are ordinary card games with the establishment of "drinking
+   rules"; President, for instance, is virtually identical to Daihinmin
+   but with additional rules governing drinking. Poker can also be played
+   using a number of drinks as the wager. Another game often played as a
+   drinking game is Toepen, quite popular in the Netherlands. Some card
+   games are designed specifically to be played as drinking games.
+
+  Compendium games[edit]
+
+   Compendium games consist of a sequence of different contracts played in
+   succession. A common pattern is for a number of reverse deals to be
+   played, in which the aim is to avoid certain cards, followed by a final
+   contract which is a domino-type game. Examples include: Barbu, Herzeln,
+   Lorum and Rosbiratschka. In other games, such as Quodlibet and Rumpel,
+   there is a range of widely varying contracts.
+
+  Collectible card games (CCGs)[edit]
+
+   See also: Collectible card game, List of collectible card games, and
+   Category:Collectible card games
+
+   Collectible card games (CCG) are proprietary playing card games. CCGs
+   are games of strategy between two or more players. Each player has
+   their own deck constructed from a very large pool of unique cards in
+--
+   art. New card sets are released periodically and sold as starter decks
+   or booster packs. Obtaining the different cards makes the game a
+   collectible card game, and cards are sold or traded on the secondary
+   market. Magic: The Gathering, Pokémon, and Yu-Gi-Oh! are well-known
+   collectible card games.
+
+  Living card games (LCGs)[edit]
+
+   See also: Living card game and Fantasy Flight Games
+
+   Living card games (LCGs) are similar to collectible card games (CCGs),
+   with their most distinguishing feature being a fixed distribution
+   method, which breaks away from the traditional collectible card game
+   format. While new cards for CCGs are usually sold in the form of
+--
+   LCGs thrive on a model that requires players to acquire one core set in
+   order to play the game, which players can further customize by
+   acquiring extra sets or expansions featuring new content in the form of
+--
+   players that get the same sets or expansions will get the exact same
+   content. The term was popularized by Fantasy Flight Games (FFG) and
+   mainly applies to its products, however some tabletop gaming companies
+--
+
+  Casino or gambling card games[edit]
+
+--
+
+   These games revolve around wagers of money. Though virtually any game
+   in which there are winning and losing outcomes can be wagered on, these
+   games are specifically designed to make the betting process a strategic
+   part of the game. Some of these games involve players betting against
+   each other, such as poker, while in others, like blackjack, players
+--
+
+    Poker games[edit]
+
+--
+
+   Poker is a family of gambling games in which players bet into a pool,
+   called the pot, the value of which changes as the game progresses that
+   the value of the hand they carry will beat all others according to the
+--
+   including its age and its popularity among Western militaries, it is
+   one of the most universally known card games in existence.
+
+  Other card games[edit]
+
+   See also: Category:Dedicated deck card games
+
+   Many other card games have been designed and published on a commercial
+   or amateur basis. In some cases, the game uses the standard 52-card
+   deck, but the object is unique. In Eleusis, for example, players play
+--
+
+   Most of these games however typically use a specially made deck of
+   cards designed specifically for the game (or variations of it). The
+   decks are thus usually proprietary, but may be created by the game's
+   players. Uno, Phase 10, Set, and 1000 Blank White Cards are popular
+   dedicated-deck card games; 1000 Blank White Cards is unique in that the
+   cards for the game are designed by the players of the game while
+   playing it; there is no commercially available deck advertised as such.
+
+    Simulation card games[edit]
+
+--
+
+  Fictional card games[edit]
+
+   See also: List of fictional games § Card games
+
+   Many games, including card games, are fabricated by science fiction
+   authors and screenwriters to distance a culture depicted in the story
+--
+   depict background activities in an atmosphere like a bar or rec room,
+   but sometimes the drama revolves around the play of the game. Some of
+   these games become real card games as the holder of the intellectual
+   property develops and markets a suitable deck and ruleset for the game,
+   while others lack sufficient descriptions of rules, or depend on cards
+--
+
+Typical structure of card games[edit]
+
+--
+   t%2C_London.jpg] The Card Players, 1895 by Paul
+   Cézanne[220px-Card_game%2C_circa_1930s.jpg] Historically, card games
+   such as whist and contract bridge were opportunities for quiet
+--
+
+   Any specific card game imposes restrictions on the number of players.
+   The most significant dividing lines run between one-player games and
+   two-player games, and between two-player games and multi-player games.
+   Card games for one player are known as solitaire or patience card
+   games. (See list of solitaire card games.) Generally speaking, they are
+   in many ways special and atypical, although some of them have given
+   rise to two- or multi-player games such as Spite and Malice.
+
+   In card games for two players, usually not all cards are distributed to
+   the players, as they would otherwise have perfect information about the
+   game state. Two-player games have always been immensely popular and
+   include some of the most significant card games such as piquet,
+   bezique, sixty-six, klaberjass, gin rummy and cribbage. Many
+   multi-player games started as two-player games that were adapted to a
+   greater number of players. For such adaptations a number of non-obvious
+   choices must be made beginning with the choice of a game orientation.
+
+   One way of extending a two-player game to more players is by building
+   two teams of equal size. A common case is four players in two fixed
+--
+   usually restricted to a specific list of permitted signs and signals.
+   17th-century French partnership games such as triomphe were special in
+   that partners sat next to each other and were allowed to communicate
+--
+
+   Another way of extending a two-player game to more players is as a
+   cut-throat or individual game, in which all players play for
+   themselves, and win or lose alone. Most such card games are round
+   games, i.e. they can be played by any number of players starting from
+   two or three, so long as there are enough cards for all.
+
+   For some of the most interesting games such as ombre, tarot and skat,
+   the associations between players change from hand to hand. Ultimately
+   players all play on their own, but for each hand, some game mechanism
+   divides the players into two teams. Most typically these are solo
+   games, i.e. games in which one player becomes the soloist and has to
+   achieve some objective against the others, who form a team and win or
+   lose all their points jointly. But in games for more than three
+   players, there may also be a mechanism that selects two players who
+--
+
+   The players of a card game normally form a circle around a table or
+   other space that can hold cards. The game orientation or direction of
+   play, which is only relevant for three or more players, can be either
+   clockwise or counterclockwise. It is the direction in which various
+   roles in the game proceed. (In real-time card games, there may be no
+   need for a direction of play.) Most regions have a traditional
+--
+
+   Games that originate in a region with a strong preference are often
+   initially played in the original direction, even in regions that prefer
+   the opposite direction. For games that have official rules and are
+   played in tournaments, the direction of play is often prescribed in
+--
+
+   Most games have some form of asymmetry between players. The roles of
+   players are normally expressed in terms of the dealer, i.e. the player
+--
+   players. Being the dealer can be a (minor or major) advantage or
+   disadvantage, depending on the game. Therefore, after each played hand,
+   the deal normally passes to the next player according to the game
+   orientation.
+--
+   becomes dealer. In the case of a tie, the process is repeated by the
+   tied players. For some games such as whist this process of cutting is
+   part of the official rules, and the hierarchy of cards for the purpose
+   of cutting (which need not be the same as that used otherwise in the
+   game) is also specified. But in general, any method can be used, such
+   as tossing a coin in case of a two-player game, drawing cards until one
+   player draws an ace, or rolling dice.
+
+  Hands, rounds and games[edit]
+
+   A hand, also called a deal, is a unit of the game that begins with the
+   dealer shuffling and dealing the cards as described below, and ends
+--
+   player who sits after the dealer in the direction of play is known as
+   eldest hand (or in two-player games as elder hand) or forehand. A game
+   round consists of as many hands as there are players. After each hand,
+--
+   eldest hand becomes the new dealer. Normally players score points after
+   each hand. A game may consist of a fixed number of rounds.
+   Alternatively it can be played for a fixed number of points. In this
+--
+
+   For casino games that are played for large sums it is vital that the
+   cards be properly randomized, but for many games this is less critical,
+   and in fact player experience can suffer when the cards are shuffled
+--
+   dealer then offers the deck to the previous player (in the sense of the
+   game direction) for cutting. If the deal is clockwise, this is the
+   player to the dealer's right; if counterclockwise, it is the player to
+--
+   the stock (also called the talon, widow, skat or kitty depending on the
+   game and region).
+
+--
+   the cards but not the other players, or vice versa depending on the
+   game. It is helpful to fan one's cards out so that if they have corner
+   indices all their values can be seen at once. In most games, it is also
+   useful to sort one's hand, rearranging the cards in a way appropriate
+   to the game. For example, in a trick-taking game it may be easier to
+   have all one's cards of the same suit together, whereas in a rummy game
+   one might sort them by rank or by potential combinations.
+--
+
+   A new card game starts in a small way, either as someone's invention,
+   or as a modification of an existing game. Those playing it may agree to
+   change the rules as they wish. The rules that they agree on become the
+   "house rules" under which they play the game. A set of house rules may
+   be accepted as valid by a group of players wherever they play, as it
+--
+
+   When a game becomes sufficiently popular, so that people often play it
+   with strangers, there is a need for a generally accepted set of rules.
+--
+   There is nothing static or "official" about this process. For the
+   majority of games, there is no one set of universal rules by which the
+   game is played, and the most common ruleset is no more or less than
+   that. Many widely played card games, such as Canasta and Pinochle, have
+   no official regulating body. The most common ruleset is often
+   determined by the most popular distribution of rulebooks for card
+   games. Perhaps the original compilation of popular playing card games
+   was collected by Edmund Hoyle, a self-made authority on many popular
+   parlor games. The U.S. Playing Card Company now owns the eponymous
+   Hoyle brand, and publishes a series of rulebooks for various families
+   of card games that have largely standardized the games' rules in
+   countries and languages where the rulebooks are widely distributed.
+--
+
+   If there is a sense in which a card game can have an official set of
+   rules, it is when that card game has an "official" governing body. For
+   example, the rules of tournament bridge are governed by the World
+--
+   down by the Schafkopfschule in Munich. Even in these cases, the rules
+   must only be followed at games sanctioned by these governing bodies or
+   where the tournament organisers specify them. Players in informal
+--
+
+   An infraction is any action which is against the rules of the game,
+   such as playing a card when it is not one's turn to play or the
+--
+
+   In many official sets of rules for card games, the rules specifying the
+   penalties for various infractions occupy more pages than the rules
+   specifying how to play correctly. This is tedious but necessary for
+   games that are played seriously. Players who intend to play a card game
+   at a high level generally ensure before beginning that all agree on the
+--
+
+   If a player breaks the rules of a game deliberately, this is cheating.
+   The rest of this section is therefore about accidental infractions,
+--
+
+   As the same game is played repeatedly among a group of players,
+   precedents build up about how a particular infraction of the rules
+--
+   formalized, as described in the previous section. Therefore, for some
+   games, there is a "proper" way of handling infractions of the rules.
+   But for many games, without governing bodies, there is no standard way
+   of handling infractions.
+--
+   who broke a rule should not benefit from it, and the other players
+   should not lose by it. An exception to this may be made in games with
+   fixed partnerships, in which it may be felt that the partner(s) of the
+--
+
+   The oldest surviving reference to the card game in world history is
+   from the 9th century China, when the Collection of Miscellanea at
+   Duyang, written by Tang-dynasty writer Su E, described Princess
+   Tongchang (daughter of Emperor Yizong of Tang) playing the "leaf game"
+   with members of the Wei clan (the family of the princess's husband) in
+--
+   century.^[31]^: 35  The earliest European references speak of a Saracen
+   or Moorish game called naib, and in fact an almost complete Mamluk
+   Egyptian deck of 52 cards in a distinct oriental design has survived
+--
+   Latin-suited deck augmented by suitless cards with painted motifs that
+   played a special role as trumps. Tarot card games are still played with
+   (subsets of) these decks in parts of Central Europe. A full tarot deck
+--
+   occult type, and are closely associated with fortune telling. In
+   Europe, "playing tarot" decks remain popular for games, and have
+   evolved since the 18th century to use regional suits (spades, hearts,
+--
+   cards. Decks differ regionally based on the number of cards needed to
+   play the games; the French tarot consists of the "full" 78 cards, while
+   Germanic, Spanish and Italian Tarot variants remove certain values
+--
+   52-card French deck, also called the International or Anglo-American
+   pattern, used for such games as poker and contract bridge. It contains
+   one card for each unique combination of thirteen ranks and the four
+--
+   did not become common until after 1864 when Hart reintroduced them
+   along with the knave-to-jack change.) However, books of card games
+   published in the third quarter of the 19th century evidently still
+--
+   mother-of-pearl gambling tokens used in scoring and bidding of card
+   games.
+
+   In the 17th century, a French, five-trick, gambling game called Bête
+   became popular and spread to Germany, where it was called La Bete and
+   England where it was named Beast. It was a derivative of Triomphe and
+   was the first card game in history to introduce the concept of
+   bidding.^[33]
+--
+   Chinese handmade mother-of-pearl gaming counters were used in scoring
+   and bidding of card games in the West during the approximate period of
+   1700–1840. The gaming counters would bear an engraving such as a coat
+--
+   Charlotte is one prominent British individual who is known to have
+   played with the Chinese gaming counters. Card games such as Ombre,
+   Quadrille and Pope Joan were popular at the time and required counters
+   for scoring. The production of counters declined after Whist, with its
+   different scoring method, became the most popular card game in the
+   West.^[34]
+
+   Based on the association of card games and gambling, Pope Benedict XIV
+   banned card games on October 17, 1750.^[35]
+
+--
+
+     * icon Games portal
+
+     * Game of chance
+     * Game of skill
+     * R. F. Foster (games)
+     * Henry Jones (writer) who wrote under the pseudonym "Cavendish"
+     * John Scarne
+     * Dice game
+     * List of card games by number of cards
+
+--
+
+    1. ^ David Parlett (September 30, 2013). "Card Game". Encyclopedia
+       Britannica. Archived from the original on September 13, 2018.
+--
+       Playing-Card. 18 (1, 2): 28–32, 33–38.
+    6. ^ David Parlett, Oxford Dictionary of Card Games, pg. 300 Oxford
+       University Press (1996) ISBN 0-19-869173-4
+--
+   16. ^ Florio (1591), p. 67.
+   17. ^ Maw at parlettgames.uk. Retrieved 26 November 2022.
+   18. ^ Noddy: Knavish ancestor of Cribbage at parlettgames.uk. Retrieved
+       26 November 2023.
+--
+   24. ^ Dummett (1980), p. 264.
+   25. ^ "Card Games: Fishing Games". Pagat.com. March 6, 2011. Archived
+       from the original on November 24, 2006. Retrieved January 28, 2012.
+   26. ^ Parlett, David. The Penguin Book of Card Games. London: Penguin
+       (2008), p. 405. ISBN 978-0-14-103787-5.
+--
+   31. ^ ^a ^b ^c ^d David Sidney Parlett (1990). The Oxford guide to card
+       games. Internet Archive. Oxford University Press.
+       ISBN 978-0-19-214165-1.
+--
+       63: 106–128, doi:10.2307/751160, JSTOR 751160, S2CID 192948205
+   33. ^ "Euchre: history of, by David Parlett". www.parlettgames.uk.
+       Archived from the original on May 4, 2019. Retrieved December 29,
+--
+       Richard James and John Butler, 1750. Context: "In the Edict lately
+       published against all Games on the Cards, it is enacted, that the
+       Penalty on Delinquents shall be a Fine of 500 Crowns ; but if any
+--
+
+     Depaulis, Thierry (1990). "Pochspiel: an 'International' Card Game of
+   the 15th Century – Part I" in The Playing-Card, Vol. 19, No. 2
+--
+
+     Parlett, David (1991). A History of Card Games, OUP, Oxford.
+   ISBN 0-19-282905-X
+--
+
+   Wikimedia Commons has media related to Card games.
+
+     * International Playing Card Society
+     * Rules for historic card games
+     * Collection of rules to many card games
+
+--
+
+   Non trick-taking card games
+
+--
+     * Cutting
+     * Glossary of card game terms
+
+--
+
+     * {{Historical card games}} {{Patience}} {{Trick-taking card games}}
+       {{Tarot and Tarock card games}}
+
+--
+
+   Trick-taking card games (list)
+
+--
+
+     * Category {{Historical card games}} {{Non trick-taking card games}}
+       {{Tarot and Tarock card games}}
+
+--
+
+   Tabletop games by type
+
+   Board game
+
+     * Adventure board game
+     * Amerigame
+     * Cooperative board game
+     * Deduction board game
+     * Eurogame
+     * Race game
+          + Cross and circle game
+     * Legacy game
+     * Running-fight game
+     * Tables game
+     * Tile-based game
+          + Dominoes
+          + Chinese dominoes
+     * Train game
+          + 18XX
+
+   Card game
+
+     * Collectible card game
+     * Deck-building game
+     * Dedicated deck card game
+     * Shedding-type games
+     * Patience
+     * Tarot card games
+     * Trick-taking game
+
+   Strategy game
+
+     * Abstract strategy game
+          + Connection game
+          + Tafl games
+     * Constructible strategy game
+     * Miniatures game
+          + Collectible miniatures game
+     * Wargame
+
+--
+
+     * Dice game
+     * Matching game
+     * Megagame
+     * Icehouse pieces
+     * Paper-and-pencil game
+     * Social deduction game
+     * Tabletop role-playing game
+
+--
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Card_game&oldid=1187250950"
+
+   Categories:
+     * Card games
+     * Tabletop games

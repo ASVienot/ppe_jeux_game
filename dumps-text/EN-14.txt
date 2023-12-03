@@ -1,0 +1,584 @@
+   #Medium alternate
+
+   Open in app
+
+   Sign up
+
+   Sign in
+   ____________________
+   Write
+
+   Sign up
+
+   Sign in
+   (BUTTON)
+
+Games & Virtual Worlds Series
+
+Rules & Mechanics
+
+Understanding Games: How Video Games & Board Games Work
+
+   Mike Ludo
+   Sound & Design
+
+   Mike Ludo
+   ·
+
+   Follow
+   Published in
+
+   Sound & Design
+   ·
+   8 min read
+   ·
+   Jan 3
+
+   --
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+   Listen
+   (BUTTON)
+
+   Share
+
+Rules
+
+     It is a basic paradox of games that while the rules themselves are
+     generally definite, unambiguous, and easy to use, the enjoyment of a
+     game depends on these easy to use rules presenting challenges that
+     cannot be easily overcome.
+     — Jesper Juul
+
+   Games are structured activities that are governed by a set of rules.
+   The rules of a game define how the game is played, what actions are
+   allowed or prohibited, and how players should behave. They provide a
+   framework for the game and help to ensure that it is fair and enjoyable
+   for all players.
+
+   Rules are an integral part of games, and they serve a variety of
+   purposes. One of the main purposes of rules is to establish a level
+   playing field for all players. By defining the parameters of the game,
+   rules help to ensure that everyone is playing by the same set of rules
+   and that no one has an unfair advantage. Rules can also help to make
+   games more predictable and strategic, as players can plan their moves
+   based on a clear understanding of what is and is not allowed.
+
+   Additionally, rules can help to create a sense of structure and order
+   in games, which can make them more enjoyable and satisfying to play.
+   Finally, rules can help to promote sportsmanship and good behavior in
+   games, as they define how players should interact with each other and
+   how they should behave.
+
+   In one sense, rules in games are completely arbitrary, because they can
+   be anything we make up. But in another sense, they are not arbitrary,
+   in the sense that they are not chosen randomly or without purpose, and
+   we must obey them in order to play the game properly. Rather, the rules
+   of a game are typically carefully designed to create a specific type of
+   gameplay experience and to achieve specific goals or objectives.
+
+   For example, the rules of a board game might be designed to create a
+   balance between strategy and luck, to make the game challenging but
+   also fair for all players. The rules of a video game might be designed
+   to create a sense of immersion and to make the game more realistic or
+   believable.
+
+   In some cases, the rules of a game may be modified or altered in order
+   to achieve a specific goal or to make the game more enjoyable. However,
+   even in these cases, the changes to the rules are generally not
+   arbitrary, but rather are made with a specific purpose in mind.
+
+   Creating a set of rules requires you to mentally switch back and forth
+   between the game’s rule framework and the experience that will be
+   provided to the followers, er, I mean players, of your rule set. When
+   creating rules and games, you’ll frequently think in diagrammatic
+   languages, whereas what the players experience is not your wireframes
+   and logic flows, but a world of images, sounds, spaces and objects to
+   do things with.
+
+Kinds of Rules
+
+   The three types of rules that Bernard Suits describes in The
+   Grasshopper are the rules of skill, rules of transgression, and
+   constitutive rules.
+
+   Constitutive Rules are what count as legal and fair in the game. Any
+   attempt to circumvent these restrictions is dishonest.
+
+   A Rule of Infraction, like an offsides call or a foul ball, are an
+   integral aspect of the game. Strategic infractions include the
+   intentional fouling of an opponent for tactical or time-buying purposes
+   (like with personal fouls in basketball). Games, however, wouldn’t
+   normally permit players to cheat or otherwise violate the laws of the
+   game.
+
+   The Rules of Skill are recommendations rather than mandates about how
+   to play the game. For instance, it’s illogical to allow players to
+   score against themselves (perform own-goals), but it is often possible
+   to do so nonetheless.
+
+   Skill rules are typically implicit but constitutive and violation rules
+   are explicitly stated.
+
+Mechanics
+
+   A game mechanic is a specific rule or set of rules that defines how a
+   game functions and how players interact with it. Game mechanics are an
+   essential part of game design and can have a major impact on the
+   gameplay experience.
+
+   There are many different types of game mechanics, and they can vary
+   widely depending on the type of game. Some common examples of game
+   mechanics include:
+
+   Resource management: This involves managing and using resources, such
+   as money or resources in a game, in order to achieve a goal.
+
+   Chance: This involves using elements of chance, such as dice rolls or
+   shuffled decks of cards, to determine the outcome of events in a game.
+
+   Strategy: This involves making strategic decisions and planning ahead
+   in order to achieve a goal.
+
+   Competition: This involves competing against other players or teams in
+   order to win.
+
+   Cooperation: This involves working together with other players or teams
+   in order to achieve a shared goal.
+
+   Role-playing: This involves assuming the role of a specific character
+   or persona and acting out that role within the context of the game.
+
+   Whereas computer game systems can readily hide their mechanisms which
+   have to be uncovered through interaction, board games nearly always
+   have their mechanics laid bare for the player in the rulebook.
+   Everything that occurs between the first few turns and someone winning
+   the game is categorizable as a game mechanic.
+
+   The game’s mechanics can alter the game state, the options available to
+   players, and even other game mechanics. The mechanics of a game can
+   either be predetermined by the system or determined by the players
+   themselves. If a mechanic leaves no room for player agency, then that
+   mechanic is system-driven, which is more common in video games than in
+   board games, since the latter tend to put the onus of all
+   decision-making on the players themselves.
+
+   The mechanics of video games are frequently easy to figure out by
+   observation and experimentation; in many cases, you don’t even need to
+   read the manual before getting started. This is where mobile games can
+   be particularly engaging: the small screen gives the player only a
+   limited amount of room to move their thumb and eyes over the screen.
+   Rules aren’t always necessary in mobile games because players have so
+   few options on how to interact with the game.
+
+   We should probably define game mechanics more formally now:
+
+     Game mechanics are methods invoked by agents for interacting with
+     the game world. (“Defining Game Mechanics,” gamestudies.org)
+
+   Actions in a game require mechanics, such as the ability to roll dice,
+   leap, battle, push buttons, take turns, etc. Mechanics can also be
+   thought of as a system of rules designed to achieve a specific goal.
+   Mechanics typically mirror actions we are quite familiar with in the
+   actual world, such as sprinting or kicking a ball around. There is a
+   great deal of implicit embodied knowledge regarding the physics of
+   these kinds of activities that we can draw upon.
+
+   However, since computer graphics frequently adopts animation
+   aesthetics, we shouldn’t be surprised if real-world physics is often
+   distorted in digital games, for aesthetic and experiential effect;
+   animation in film has always relied on highly exaggerated movements
+   because the goal is typically not to faithfully represent natural
+   phenomena but rather to express something more human and emotional, and
+   this practice continues with video games.
+
+Further Reading & Exploring
+
+   Source: https://www.igi-global.com/dictionary/game/11820Links to an
+   external site.
+
+   Games are structured activities that are governed by a set of rules.
+
+   https://www.slideshare.net/dmullich/lafs-game-mechanics-narrative-eleme
+   nts-84405950Links to an external site.
+
+   There are many different types of game mechanics, including resource
+   management, chance, strategy, competition, cooperation, and
+   role-playing.
+
+Related Articles
+
+   What is a Game?
+
+   Eurogames vs Amerigames
+
+   The Game State, Information & Movement
+
+   Narrative Elements
+
+   Chance, Probability & Fairness
+
+   Skill & Decision Making
+
+   Trade-Offs, Dilemmas, Sacrifices, Risk & Reward
+
+   Strategy, Tactics & Feedback
+
+   Actions, Events, Choices, Time & Turn Taking
+
+   Winning, Losing & Ending
+
+   Balance & Tuning
+
+   Difficulty & Mastery
+
+   Economies
+
+   The Magic Circle
+
+   Ethics, Morality, Violence & Realism
+
+   Game Genres & Tropes
+
+   Levels
+
+   Layouts
+
+   Atmosphere & Progression
+
+   Agency
+
+   Gamer Dedication
+
+   Systems Concepts
+
+   Overview of Video Game Systems
+
+   Core vs Non-Core Mechanics
+
+   Core Mechanic Systems
+
+   Non-Core Mechanics: Economies
+
+   Non-Core Mechanics: Progression
+
+   Non-Core Mechanics: Social Interactions
+
+   History of Video Games
+
+   Common Digital Gaming Platforms
+
+Bibliography & Further Reading
+
+     * A Game Design Vocabulary: Exploring the Foundational Principles
+       Behind Good Game Design by Anna Anthropy and Naomi Clark
+     * A Theory of Fun for Game Design by Raph Koster
+     * Advanced Game Design: A Systems Approach by Michael Sellers
+     * An Introduction to Game Studies by Frans Mayra
+     * Basics of Game Design by Michael Moore
+     * Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind
+       How Video Games Are Made Blood, Sweat, and Pixels: The Triumphant,
+       Turbulent Stories Behind How Video Games Are Made by Jason Schreier
+     * Board Game Design Advice: From the Best in the World vol 1 by Gabe
+       Barrett
+     * Building Blocks of Tabletop Game Design: an Encyclopedia Of
+       Mechanisms by Geoffrey Engelstein and Isaac Shalev
+     * Character Development and Storytelling for Games by Lee Sheldon
+     * Chris Crawford on Game Design by Chris Crawford
+     * Clockwork Game Design by Keith Burgun
+     * Elements of Game Design by Robert Zubek
+     * Fundamentals of Game Design by Ernest Adams
+     * Fundamentals of Puzzle and Casual Game Design by Ernest Adams
+     * Game Design Foundations by Brenda Romero
+     * Game Design Workshop by Tracy Fullerton
+     * Game Mechanics: Advanced Game Design by Ernest Adams and Joris
+       Dormans
+     * Game Writing: Narrative Skills for Videogames edited by Chris
+       Bateman
+     * Games, Design and Play: A detailed approach to iterative game
+       design by Colleen Macklin and John Sharp
+     * Introduction to Game Systems Design by Dax Gazaway
+     * Kobold Guide to Board Game Design by Mike Selinker, David Howell,
+       et al
+     * Kobold’s Guide to Worldbuilding edited by Janna Silverstein
+     * Level Up! The Guide to Great Video Game Design, 2nd Edition by
+       Scott Rogers
+     * Narrating Space / Spatializing Narrative: Where Narrative Theory
+       and Geography Meet by Marie-Laure Ryan, Kenneth Foote, et al.
+     * Narrative Theory: A Critical Introduction by Kent Puckett
+     * Narrative Theory: Core Concepts and Critical Debates by David
+       Herman, James Phelan, et al.
+     * Narratology: Introduction to the Theory of Narrative, Fourth
+       Edition by Mieke Bal
+     * Practical Game Design by Adam Kramarzewski and Ennio De Nucci
+     * Procedural Storytelling in Game Design by Tanya X. Short and Tarn
+       Adams
+     * Professional Techniques for Video Game Writing by Wendy Despain
+     * Rules of Play by Salen and Zimmerman
+     * Storyworlds Across Media: Toward a Media-Conscious Narratology
+       (Frontiers of Narrative) by Marie-Laure Ryan, Jan-Noël Thon, et al
+     * Tabletop Game Design for Video Game Designers by Ethan Ham
+     * The Art of Game Design, 3rd Edition by Jesse Schell
+     * The Board Game Designer’s Guide: The Easy 4 Step Process to Create
+       Amazing Games That People Can’t Stop Playing by Joe Slack
+     * The Cambridge Introduction to Narrative by H. Porter Abbott
+     * The Grasshopper, by Bernard Suits
+     * The Routledge Companion to Video Game Studies by Bernard Perron and
+       Mark J.P. Wolf
+     * The Routledge Encyclopedia of Narrative Theory by David Herman
+     * The Ultimate Guide to Video Game Writing and Design by Flint Dille
+       & John Zuur Platten
+     * Unboxed: Board Game Experience and Design by Gordon Calleja
+     * Video Game Storytelling: What Every Developer Needs to Know about
+       Narrative Techniques by Evan Skolnick
+     * Writing for Video Game Genres: From FPS to RPG edited by Wendy
+       Despain
+     * Writing for Video Games by Steve Ince
+     * 100 Principles of Game Design by DESPAIN
+
+   Games
+   Design
+   Culture
+   Technology
+   Society
+
+   --
+
+   --
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Mike Ludo
+   Sound & Design
+   Follow
+   (BUTTON)
+
+Written by Mike Ludo
+
+   384 Followers
+   ·Editor for
+
+   Sound & Design
+
+   Healthy Food & Art mikeludo.com | mykeff.com |
+   amazon.com/author/michaelfilimowicz
+   Follow
+   (BUTTON)
+
+More from Mike Ludo and Sound & Design
+
+   A vertical video screenshot.
+   Mike Ludo
+
+   Mike Ludo
+
+   in
+
+   Sound & Design
+
+Making Vertical Videos for Social Media in Davinci Resolve
+
+An Easy Way to Format Your Videos for Social Media and Mobile.
+
+   4 min read·Apr 6, 2021
+
+   --
+   (BUTTON)
+
+   A serene woman floating in a pond.
+   Mike Ludo
+
+   Mike Ludo
+
+   in
+
+   Sound & Design
+
+Focalization | Key Concepts in Applied Narrative & Media Theory
+
+Narration and Point of View
+
+   13 min read·Feb 26, 2020
+
+   --
+   (BUTTON)
+
+   Top 10 Tips for Writing Effective Prompts When Making AI Art
+   Mike Ludo
+
+   Mike Ludo
+
+   in
+
+   Sound & Design
+
+Top 10 Tips for Writing Effective Prompts When Making AI Art
+
+exploring hermeneutic slippage between human text & machinic image
+
+   4 min read·Jan 8
+
+   --
+   (BUTTON)
+
+   Abstraction of sound waves
+   Mike Ludo
+
+   Mike Ludo
+
+   in
+
+   Sound & Design
+
+Understanding Digital Audio Signals: a Beginner’s Intro
+
+Concepts, Tools & Techniques
+
+   25 min read·Nov 28, 2021
+
+   --
+   (BUTTON)
+   See all from Mike Ludo
+   See all from Sound & Design
+
+Recommended from Medium
+
+   The Game State, Information & Movement
+   Mike Ludo
+
+   Mike Ludo
+
+   in
+
+   Sound & Design
+
+The Game State, Information & Movement
+
+Understanding Games: How Video Games & Board Games Work
+
+   15 min read·Jan 3
+
+   --
+   (BUTTON)
+
+   The Enchanted Scribe Presents — The Art of Campaign Creation: Adapting
+   the Story Spine Structure to D&D Using ChatGPT
+   Danny McKeever
+
+   Danny McKeever
+
+The Art of Campaign Creation: Adapting the Story Spine Structure to D&D Using
+ChatGPT
+
+Introduction: Understanding D&D’s Narrative Layers
+
+   5 min read·Sep 13
+
+   --
+
+Lists
+
+Stories to Help You Grow as a Designer
+
+   11 stories·415 saves
+   Bogus invitation for interview email
+
+Interesting Design Topics
+
+   203 stories·257 saves
+   A phone with a tweet on it describing a deepfake video of the Ukrainian
+   president, with a labeled fake image in the background
+
+AI Regulation
+
+   6 stories·208 saves
+
+Figma 101
+
+   7 stories·303 saves
+
+   Re-Thinking The ‘When’ And ‘How’ Of Brain Death
+   Gabriel A. Silva
+
+   Gabriel A. Silva
+
+Re-Thinking The ‘When’ And ‘How’ Of Brain Death
+
+In an article published yesterday in MIT Technology Review, Rachel Nuwer
+wrote a thought provoking piece exploring the boundaries between…
+
+   4 min read·4 days ago
+
+   --
+
+   4
+
+   The ChatGPT Hype Is Over — Now Watch How Google Will Kill ChatGPT.
+   AL Anany
+
+   AL Anany
+
+The ChatGPT Hype Is Over — Now Watch How Google Will Kill ChatGPT.
+
+It never happens instantly. The business game is longer than you know.
+
+   (BUTTON)
+   ·6 min read·Sep 1
+
+   --
+
+   612
+
+   UI/ UX Designer — A trendy career is coming to an end?
+   Sylvie Vu
+
+   Sylvie Vu
+
+UI/ UX Designer — A trendy career is coming to an end?
+
+2 years ago when I was still working as a Graphic Designer, there was a UI/
+UX Designer who told me that “Hey, you should move to the UI/…
+
+   5 min read·Aug 4
+
+   --
+
+   154
+
+   Attack on Titan: A Compelling Journey into Humanity, Morality, and
+   Power
+   Wadood
+
+   Wadood
+
+Attack on Titan: A Compelling Journey into Humanity, Morality, and Power
+
+Photo by Dex Ezekiel on Unsplash
+
+   (BUTTON)
+   ·4 min read·1 day ago
+
+   --
+
+   1
+   See more recommendations
+
+   Help
+
+   Status
+
+   About
+
+   Careers
+
+   Blog
+
+   Privacy
+
+   Terms
+
+   Text to speech
+
+   Teams
