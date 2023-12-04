@@ -3,6 +3,7 @@
 
 
 ## 1er séance travail de groupe
+-auteur = Alix-
 
 - préparer arborescence dans le git
 .
@@ -55,6 +56,7 @@ ex fr.tkx -> $basename URLs/fr.txt .txt => fr
 
  
 ### EXERCICES SEANCE 9
+- auteur = Pauline -
 
 1 à 4 faits.
 
@@ -92,6 +94,7 @@ Concordancier
 
 
 ## Séance 10 
+- auteur = Alix -
 
 chemin relatif ou chemin absolu de la github page 
 lien absolu un peu étrange besoin de bien vérifier 
@@ -143,10 +146,13 @@ sans expression régulière mais peut les transformer en /jeu/ tout au singulier
 
 
 ## Exos iTrammeur S10 
-- dossier créé pour l'annalyse iTrammeur  
+- auteur= Alix, Pauline, Siman -
+
+- dossier créé pour l'annalyse iTrammeur
 - script iTrammeur 
 	- 2 arguments (../dossier en question; LANGUE)
 	- sed multiple = sed -e 's/a/b/g ; s/b/d/g'
 	- choisi de remplacer les & les > et les <
 	- /!\ -F erreur 
 - tokenisation pour le chinois ajoutée au niveau de la création des fichiers dumps 
+- ouverture des fichiers contextes sur itrameur et exploration basique (concordances, nuages de points, sections etc)
