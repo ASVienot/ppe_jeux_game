@@ -157,7 +157,17 @@ correction des exos
 	`target "jeux?-?.*"` autres options `--match-mod regex` = expression régulière 
 	`-t` -> résultats proches de iTrameur (spécificités de comptes =/=)
 	Peut mettre fr-* et il roule sur tous les fichiers 
-- jeu/jeu-vidéo ? -> vidéo comme coocurent ?  
+- jeu/jeu-vidéo ? -> vidéo comme coocurent ? 
+- wordcloud = création de nuage de mots  
+- `wordcloud_cli --text ../ppe_videogame/dumps-text/FR-1.txt --scale 3 --imagefile image.png`
+	`-- markfile` fichier ou le motif sera noir sur un fond blanc // le nuage aura la forme du nuage
+	`--background [white]` -> plus lisible 
+	`--contour_colot [black]` `contour_width [nb]` -> contour de la forme 
+	POUR CH: 
+	option `--fontfile [path]` trouver les fonts déjà installé 
+	`/usr/share/fonts/truetype/arphic X /arphic X .ttf`
+	`/usr/share/fonts/truetype/[nom de police]/[fichier de la police].ttf`
+	`ls /usr/share/fonts`
 
 
 
@@ -189,6 +199,6 @@ accent considéré comme _ avec \-Wsegmentation
 - [ ] infirmer/affirmer not hypothèses dans pages résultats 
 - [ ] iconv en UTF-8 pour Fr et Ch 
 - [ ] lynx - assume_charset pour iconv 
-
+- [ ] nuage de mot 
 
 
