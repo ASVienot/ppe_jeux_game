@@ -119,28 +119,6 @@ ex: log0,1= 1 / log 0,01 = 2
 + c'est haut + c'est utilisé dans le corpus 
 + c'est bas 
 
-## TO DO
-- script contexte par langue DONE 
-- grep "jeux" 
-- rajouter boucle dans dump éviter erreurs 404 DONE
-test si $response == "200"
-
-if [$response == "200"]
-then 
-	lynx -dump -nolist ./aspirations/${langue}-${lineno}.html > ./dump...
-fi 
-- monter le site web 
-- grep -c à la place de |wc // ne pas utiliser -c qui compte les lignes et non les occurences
-- -i pour ne pas prendre en compte les cases 
-- -o pour les mots 
-- nbr occurences vérifier bien 0 
-- création dump dans la boucle pour que les fichiers ne soient pas créer pour les urls vides 
-et peut mettre $dump et $nbroccurences à 0 pour que ce ne soit pas remplacer par la valeur précédente DONE
-- grep -C suivi du nombre de ligne = contexte de l'occurence 
-
-- Concordancier à améliorer 
-accent considéré comme _ avec \-Wsegmentation
-
 Pour iTrameur: 
 sans expression régulière mais peut les transformer en /jeu/ tout au singulier 
 
@@ -156,3 +134,31 @@ sans expression régulière mais peut les transformer en /jeu/ tout au singulier
 	- /!\ -F erreur 
 - tokenisation pour le chinois ajoutée au niveau de la création des fichiers dumps 
 - ouverture des fichiers contextes sur itrameur et exploration basique (concordances, nuages de points, sections etc)
+
+## Séance 11 
+correction des exos
+- pas forcément besoin du ls 
+- & considéré comme un 
+
+
+## TO DO
+- [X] script contexte par langue DONE 
+- [X] grep "jeux" 
+- [X] rajouter boucle dans dump éviter erreurs 404 DONE
+test si $response == "200"
+
+```{if [$response == "200"]
+then 
+	lynx -dump -nolist ./aspirations/${langue}-${lineno}.html > ./dump...
+fi}```
+
+- [ ] monter le site web 
+- [X] grep -c à la place de |wc // ne pas utiliser -c qui compte les lignes et non les occurences
+- [X] -i pour ne pas prendre en compte les cases -o pour les mots 
+- [X] nbr occurences vérifier bien 0 
+- [X] création dump dans la boucle pour que les fichiers ne soient pas créer pour les urls vides 
+et peut mettre $dump et $nbroccurences à 0 pour que ce ne soit pas remplacer par la valeur précédente DONE
+- [X] grep -C suivi du nombre de ligne = contexte de l'occurence 
+- [ ] Concordancier à améliorer 
+accent considéré comme _ avec \-Wsegmentation
+
