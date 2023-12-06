@@ -1,4 +1,5 @@
 <lang="EN">
+
 <page="EN-1">
 <text>
    [p?c1=2&ampc2=6035250&ampcv=2.0&ampcj=1&ampcs_ucfr=0&ampcomscorekw=Games%2CCulture%2CP
@@ -520,10 +521,11 @@ Most viewed
 
    Back to top
    © 2023 Guardian News &amp Media Limited or its affiliated companies. All
-   rights reserved. (dcr)</text>
+   rights reserved. (dcr)
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-2">
 <text>
    #INTENTA » Feed INTENTA » Comments Feed alternate alternate alternate
@@ -831,10 +833,11 @@ Get your free lesson
    Enter your email to receive immediate access to Lesson One of our
    internationally-accredited Gaming Disorder Clinical Training.
    Email Address _
-   (BUTTON) Sign me up</text>
+   (BUTTON) Sign me up
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-3">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5DH9QL
@@ -1355,10 +1358,11 @@ Explore More
    (BUTTON) Close
    Share
      *
-     *</text>
+     *
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-4">
 <text>
    Skip to content
@@ -2068,10 +2072,11 @@ Summary: Best apps to make money fast
      * Terms of Service
      * Contact
 
-   © 2023 Northern Lights Media LLC</text>
+   © 2023 Northern Lights Media LLC
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-5">
 <text>
    #Medium alternate
@@ -2657,10 +2662,11 @@ Photo by Dex Ezekiel on Unsplash
 
    Text to speech
 
-   Teams</text>
+   Teams
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-6">
 <text>
    [nojsimg.gif]
@@ -3087,10 +3093,11 @@ Accessibility
 
    (BUTTON)
 
-   now</text>
+   now
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-7">
 <text>
    #Feed
@@ -3914,10 +3921,11 @@ Address and Contact
      *
      *
 
-     * Choosing a selection results in a full page refresh.</text>
+     * Choosing a selection results in a full page refresh.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-8">
 <text>
    #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
@@ -5601,10 +5609,11 @@ External links[edit]
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Toggle limited content width</text>
+     * (BUTTON) Toggle limited content width
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-9">
 <text>
    #alternate Wikipedia (en) Wikipedia Atom feed
@@ -7084,10 +7093,11 @@ Further reading
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Toggle limited content width</text>
+     * (BUTTON) Toggle limited content width
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-10">
 <text>
    teambuilding.com site logo
@@ -7686,10 +7696,11 @@ Free Resources
      * Blog
      * Videos
 
-   © 2023 teambuilding.com, all rights reserved | Terms | Privacy</text>
+   © 2023 teambuilding.com, all rights reserved | Terms | Privacy
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-11">
 <text>
    #alternate Wikipedia (en) Wikipedia Atom feed
@@ -8800,10 +8811,11 @@ Further reading
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Toggle limited content width</text>
+     * (BUTTON) Toggle limited content width
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-12">
 <text>
    #Search teaching resources alternate alternate alternate alternate
@@ -9178,10 +9190,11 @@ Keep In Touch
      * Pinterest
 
    (BUTTON)   United Kingdom ·   Terms &amp Conditions   ·   Promotion T&ampCs
-    ·   Privacy Policy   ·   Log In © 2023 Teach Starter Pty Ltd.</text>
+    ·   Privacy Policy   ·   Log In © 2023 Teach Starter Pty Ltd.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-13">
 <text>
    #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
@@ -9852,10 +9865,11 @@ References[edit]
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Toggle limited content width</text>
+     * (BUTTON) Toggle limited content width
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-14">
 <text>
    Skip to content
@@ -10149,10 +10163,11 @@ Tips to change your relationship with alcohol
 
    Copyright Drinkaware 2023 | Registered in England &amp Wales No. 4547974,
    A company limited by guarantee, Registered Charity No. 1094586,
-   Scottish Number. SC043163</text>
+   Scottish Number. SC043163
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-15">
 <text>
    Harvard Business Review Home
@@ -10385,10 +10400,11 @@ Follow HBR
    Copyright ©   Harvard Business School Publishing. All rights reserved.
    Harvard Business Publishing is an affiliate of Harvard Business School.
 
-   [p?c1=2&ampc2=14457509&ampcv=2.0&ampcj=1]</text>
+   [p?c1=2&ampc2=14457509&ampcv=2.0&ampcj=1]
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-16">
 <text>
    #Daily Health and Medical News Weekly Health and Medical News Digest
@@ -10758,10 +10774,11 @@ MedicineNet
 
    ©1996-2023 MedicineNet, Inc. An Internet Brands company. All rights
    reserved. Terms of Use. MedicineNet does not provide medical advice,
-   diagnosis or treatment. See additional information.</text>
+   diagnosis or treatment. See additional information.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-17">
 <text>
    #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
@@ -11726,10 +11743,11 @@ External links[edit]
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Toggle limited content width</text>
+     * (BUTTON) Toggle limited content width
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-18">
 <text>
     Skip to Content
@@ -12196,10 +12214,11 @@ Where to Buy
    effect for the future by visiting Cookies Settings, which can also be
    found in the footer of the site.
    (BUTTON) Cookies Settings (BUTTON) Reject All (BUTTON) Accept All
-   (BUTTON)</text>
+   (BUTTON)
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-19">
 <text>
    (BUTTON)
@@ -12533,10 +12552,11 @@ Tips for Car Camping for Small Game
 
    © 2023 MeatEater, Inc.
    Privacy Policy
-   Returns &amp Exchanges</text>
+   Returns &amp Exchanges
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-20">
 <text>
    #alternate alternate alternate alternate
@@ -13027,10 +13047,11 @@ Deals
    Registration on or use of this site constitutes acceptance of our Terms
    of Service.
 
-   © 2023 Recurrent. All rights reserved.</text>
+   © 2023 Recurrent. All rights reserved.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-21">
 <text>
     ​
@@ -13763,10 +13784,11 @@ Party games for kids (and kids at heart)
    effect for the future by visiting Cookies Settings, which can also be
    found in the footer of the site.
    (BUTTON) Cookies Settings (BUTTON) Reject All (BUTTON) Accept All
-   (BUTTON)</text>
+   (BUTTON)
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-22">
 <text>
    #alternate Wikipedia (en) Wikipedia Atom feed
@@ -16792,10 +16814,11 @@ External links
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Toggle limited content width</text>
+     * (BUTTON) Toggle limited content width
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-23">
 <text>
     #Ideas &amp Inspiration » Feed Ideas &amp Inspiration » Comments Feed Ideas
@@ -17861,10 +17884,11 @@ Refer a friend, get a reward >gt
      * Terms of Use
      * Privacy Policy
      * CA Supply Chains Act
-     * Accessibility Statement</text>
+     * Accessibility Statement
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-24">
 <text>
    #alternate alternate
@@ -18353,10 +18377,11 @@ Hello!
    (BUTTON) Enable All (BUTTON) Reject All (BUTTON) Save Changes
    Powered by  GDPR Cookie Compliance
 
-   This site is registered on wpml.org as a development site.</text>
+   This site is registered on wpml.org as a development site.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-25">
 <text>
     #The Tabletop Family » Feed The Tabletop Family » Comments Feed The
@@ -18762,10 +18787,11 @@ tabletopfamily
    Load More... Follow on Instagram
 
    © 2017 copyright PREMIUMCODING // All rights reserved
-   Designed by Premiumcoding</text>
+   Designed by Premiumcoding
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-26">
 <text>
    Skip to main content
@@ -19911,10 +19937,11 @@ This article is part of the Research Topic
 
 People also looked at
 
-   Download</text>
+   Download
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-27">
 <text>
    #Interaction Design Foundation - UX Feed
@@ -20488,10 +20515,11 @@ New to UX Design? We’re Giving You a Free ebook!
    A valid email address is required.
    [X] Get free UX design learning material every week
    310,978 designers enjoy our newsletter—sure you don’t want to receive
-   it?</text>
+   it?
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-28">
 <text>
    #alternate alternate alternate alternate alternate alternate
@@ -20952,10 +20980,11 @@ Join Our Email List!
      * Rep Locator
      * Publications
 
-   Request Quote (BUTTON) Menu Top</text>
+   Request Quote (BUTTON) Menu Top
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-29">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K3M543
@@ -21530,10 +21559,11 @@ The Washington Hunter Ed Course
     1-800-830-2268
 
    Kalkomey logo © 2004–2023 All rights reserved. Privacy Policy and Terms
-   of Use.</text>
+   of Use.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-30">
 <text>
    #Webbox » Feed Webbox » Comments Feed Webbox » 10 games you can play
@@ -22012,10 +22042,11 @@ Before you go…
    		______________________________________
    ________________________________________
    ________________________________________
-   Submit Form</text>
+   Submit Form
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-31">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KGQ2KV2
@@ -22276,10 +22307,11 @@ Reward Yourself with myPurina
      * Copyright Infringement Notification
      * User Generated Content
      * Cookie Policy
-     * Supply Chains Act</text>
+     * Supply Chains Act
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-32">
 <text>
     #Michigan Youth Violence Prevention Center » Feed Michigan Youth
@@ -22571,10 +22603,11 @@ Share this:
 
    Loading Comments...
 
-   You must be logged in to post a comment.</text>
+   You must be logged in to post a comment.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-33">
 <text>
    #Educators Technology » Feed Educators Technology » Comments Feed
@@ -22861,10 +22894,11 @@ Join our mailing list
      * Facebook
      * LinkedIn
 
-   © 2023 · Educators Techonology</text>
+   © 2023 · Educators Techonology
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-34">
 <text>
    Skip to main content
@@ -23204,10 +23238,11 @@ What happens when you run out of money in Monopoly?
      * Do Not Sell My Info/Cookie Policy
 
    [icon-instagram_24.png]
-   © Copyright Gannett 2023</text>
+   © Copyright Gannett 2023
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-35">
 <text>
    #Oxford Internet Institute » The Association between Video Game Play
@@ -23552,10 +23587,11 @@ INFORMATION FOR:
                                      your preferences!
                                      (BUTTON) Enable All (BUTTON) Reject
                                      All (BUTTON) Save Changes
-                                     Powered by  GDPR Cookie Compliance</text>
+                                     Powered by  GDPR Cookie Compliance
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-36">
 <text>
    #alternate
@@ -24390,10 +24426,11 @@ Sign Up for Performance Health Updates
    © 2023 Performance Health
 
    TrademarksPrivacy PolicyTerms &amp Conditions
-   [facebook.png] </text>
+   [facebook.png] 
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-37">
 <text>
    [p?c1=2&ampc2=6035250&ampcv=2.0&ampcj=1&ampcs_ucfr=0&ampcomscorekw=Puzzle+games%2CCros
@@ -24713,10 +24750,11 @@ Most viewed
 
    Back to top
    © 2023 Guardian News &amp Media Limited or its affiliated companies. All
-   rights reserved. (dcr)</text>
+   rights reserved. (dcr)
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-38">
 <text>
    #alternate
@@ -25142,10 +25180,11 @@ Wargame
      * Rock Paper Shotgun
      * The Haul
      * VG247
-     * VGC</text>
+     * VGC
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-39">
 <text>
    #alternate
@@ -26066,10 +26105,11 @@ Related Stories
    The Strategist is a Vox Media Network. © 2023 Vox Media, LLC. All
    rights reserved.
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NL7LR9Z</text>
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NL7LR9Z
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-40">
 <text>
    Skip to main content
@@ -26395,10 +26435,11 @@ FE Footer
 
    sandbbox logo
    ©2022 Sandbox Networks Inc. All rights reserved. Sandbox Learning is
-   part of Sandbox &amp Co., a digital learning company.</text>
+   part of Sandbox &amp Co., a digital learning company.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-41">
 <text>
    #9.4 Influence of New Technologies 10.6 Blurring the Boundaries Between
@@ -26859,10 +26900,11 @@ References
 
    Footer Logo Lumen Candela
 
-   Privacy Policy</text>
+   Privacy Policy
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-42">
 <text>
     #StackAdapt » Feed alternate alternate alternate
@@ -27234,10 +27276,11 @@ Legal
    Made with
    on Planet Earth
 
-   © 2014 - 2023 StackAdapt Inc.</text>
+   © 2014 - 2023 StackAdapt Inc.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-43">
 <text>
    #Side Hustle Nation » Feed Side Hustle Nation » Comments Feed Side
@@ -27867,10 +27910,11 @@ Usually Hustling, Occasionally Social
    © 2023 SideHustleNation.com™
 
    We use cookies to to make sure you have the best experience on our
-   website. Cool?OK</text>
+   website. Cool?OK
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-44">
 <text>
    Skip to main content
@@ -29178,10 +29222,11 @@ References
 
 People also looked at
 
-   Download</text>
+   Download
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-45">
 <text>
     Skip to main content
@@ -29995,10 +30040,11 @@ Great Companies Need Great People. That's Where We Come In.
      * Privacy Policy
      * Terms of Use
      * Do Not Sell My Personal Info
-     * CA Notice of Collection</text>
+     * CA Notice of Collection
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-46">
 <text>
    #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
@@ -31004,6 +31050,8 @@ References[edit]
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Toggle limited content width</text>
+     * (BUTTON) Toggle limited content width
+</text>
 </page> §
 
+</lang>

@@ -1,4 +1,5 @@
 <lang="FR">
+
 <page="FR-1">
 <text>
    #Météo quotidienne Actualité locale Actualité départementale Actualité
@@ -327,10 +328,11 @@ Sites Ouest-France
 
    Les applications mobiles Ouest-France disponibles en téléchargement
    maville.com par © Copyright maville.com | WEB66  ACPM OJD
-   Accès au site Mobile</text>
+   Accès au site Mobile
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-2">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K9ZR58J
@@ -852,10 +854,11 @@ Du sport pour se préparer
           + Mulhouse - Thann
           + Sundgau - Trois-Frontières
      * 67 Bas-Rhin
-          + Selestat - Erstein</text>
+          + Selestat - Erstein
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-3">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K9ZR58J
@@ -1408,10 +1411,11 @@ Alternative au sport ?
           + Mulhouse - Thann
           + Sundgau - Trois-Frontières
      * 67 Bas-Rhin
-          + Selestat - Erstein</text>
+          + Selestat - Erstein
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-4">
 <text>
    #Metatrone » Flux Metatrone » Flux des commentaires Metatrone » Un
@@ -1967,10 +1971,11 @@ Laisser un commentaire Annuler la réponse
 
    S'abonner
    Laissez ce champ vide si vous êtes humain : ____________________
-   (BUTTON) ×</text>
+   (BUTTON) ×
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-5">
 <text>
      * Aller au contenu
@@ -2328,16 +2333,18 @@ Vous ne connaissez toujours pas ?
    personnelle. Des cookies sont utilisés à des fins statistiques ou de
    fonctionnement, ainsi que d'analyse (que vous pouvez refuser ici), nous
    permettant d'améliorer le site en continu.
-   (BUTTON) Autoriser et fermer (BUTTON) Refuser Plus d'informations</text>
-</page> §
-
-<lang="FR">
-<page="FR-6">
-<text>
+   (BUTTON) Autoriser et fermer (BUTTON) Refuser Plus d'informations
 </text>
 </page> §
 
-<lang="FR">
+
+<page="FR-6">
+<text>
+
+</text>
+</page> §
+
+
 <page="FR-7">
 <text>
    #alternate
@@ -2790,10 +2797,11 @@ Ubisoft se tire une balle dans le pied ?
 
    Suivez-nous
    𝕏
-   ____________________</text>
+   ____________________
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-8">
 <text>
 
@@ -3023,10 +3031,11 @@ de jeu
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Actualités</text>
+   #Le HuffPost : Actualités
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-9">
 <text>
 
@@ -3245,10 +3254,11 @@ de jeu
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Culture</text>
+   #Le HuffPost : Culture
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-10">
 <text>
    #Informations professionnelles des industries multimédia et jeux vidéo
@@ -3525,10 +3535,11 @@ L'actualité de SELL
      * Follow
           +
 
-    Un service de l'AFJV © 2023 - Mentions légales</text>
+    Un service de l'AFJV © 2023 - Mentions légales
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-11">
 <text>
    #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
@@ -5417,10 +5428,11 @@ Notes et références[modifier | modifier le code]
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu</text>
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-12">
 <text>
    #JUPDLC » Flux JUPDLC » Flux des commentaires alternate alternate
@@ -5931,10 +5943,11 @@ Dernières actualités
      * OUTILS
      * JOBS
      * NOS PODCASTS
-     * NOS SERVICES</text>
+     * NOS SERVICES
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-13">
 <text>
    #A la une
@@ -6378,16 +6391,18 @@ Jeux vidéo : comment "la Team Vitality veut devenir le PSG de l'Esport"
 
    Je ne souhaite plus recevoir de notifications [ ]
 
-   (BUTTON) Enregistrer mes préférences</text>
+   (BUTTON) Enregistrer mes préférences
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-14">
 <text>
-   #search</text>
+   #search
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-15">
 <text>
    #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
@@ -8782,10 +8797,11 @@ Liens externes[modifier | modifier le code]
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu</text>
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-16">
 <text>
    #alternate alternate SudOuest : rss actualités
@@ -9195,10 +9211,11 @@ Vous avez choisi de refuser les cookies
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   (BUTTON) Signaler</text>
+   (BUTTON) Signaler
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-17">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
@@ -9457,10 +9474,11 @@ Conclusion
    modération Contactez-nous Plan du site CGU
 
    www.midilibre.fr © 2023
-   Logo Midi Libre</text>
+   Logo Midi Libre
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-18">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WFS45MQ
@@ -9894,10 +9912,11 @@ Fabienne Schlumpf abaisse son record sous les 2h25
    gratuitement et sans engagement. (BUTTON) Je crée un compte
    Déjà un compte ? (BUTTON) Je me connecte
 
-   [p?c1=2&ampc2=1234567&ampcv=3.1&ampcj=1&ampmp_custom=custom%20value]</text>
+   [p?c1=2&ampc2=1234567&ampcv=3.1&ampcj=1&ampmp_custom=custom%20value]
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-19">
 <text>
    #alternate alternate SudOuest : rss actualités
@@ -10264,10 +10283,11 @@ Vous avez choisi de refuser les cookies
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   (BUTTON) Signaler</text>
+   (BUTTON) Signaler
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-20">
 <text>
    #alternate alternate SudOuest : rss actualités
@@ -10732,10 +10752,11 @@ Vous avez choisi de refuser les cookies
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   (BUTTON) Signaler</text>
+   (BUTTON) Signaler
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-21">
 <text>
      * Recherche
@@ -10974,10 +10995,11 @@ départemental de la Vendée
    vos choix en cliquant sur « Personnaliser » ci-dessous.
 
    Vous pouvez changer d'avis et modifier vos choix à tout moment en vous
-   rendez sur la page Politique de protection des données.</text>
+   rendez sur la page Politique de protection des données.
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-22">
 <text>
    #alternate Wikipédia (fr) Flux Atom de Wikipédia
@@ -12989,10 +13011,11 @@ Liens externes
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu</text>
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-23">
 <text>
      * accéder au contenu principal
@@ -13389,16 +13412,18 @@ Tous les jours, recevez l’actualité des Outre-mer dans votre boite mail.
      * vidéos regarder
      * radio écouter
      * en continu actu 24/7
-     * (BUTTON) plus menu</text>
-</page> §
-
-<lang="FR">
-<page="FR-24">
-<text>
+     * (BUTTON) plus menu
 </text>
 </page> §
 
-<lang="FR">
+
+<page="FR-24">
+<text>
+
+</text>
+</page> §
+
+
 <page="FR-25">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
@@ -13708,10 +13733,11 @@ Signaler un abus
    modération Contactez-nous Plan du site CGU
 
    www.lindependant.fr © 2023
-   Logo L'Indépendant</text>
+   Logo L'Indépendant
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-26">
 <text>
 
@@ -14075,10 +14101,11 @@ Le calendrier 2023/2024
        S'abonner
 
    Tous droits réservés ©montagnes-magazine.com (Nivéales Médias COMALP)
-   Contact Mentions légales</text>
+   Contact Mentions légales
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-27">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
@@ -14307,10 +14334,11 @@ plus accueillantes de Terre de jeux
    Plan du site Charte de modération Nous recrutons CGU
 
    www.ladepeche.fr © 2023
-   Logo LaDepeche.fr</text>
+   Logo LaDepeche.fr
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-28">
 <text>
 
@@ -14572,10 +14600,11 @@ Tous les sports, sauf le surf
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : JO Paris 2024</text>
+   #Le HuffPost : JO Paris 2024
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-29">
 <text>
      * accéder au contenu
@@ -15205,10 +15234,11 @@ Notre sélection d’articles à explorer sur le même thème
      * (BUTTON) chez moi
      * émissions
      * recherche
-     * (BUTTON) menu</text>
+     * (BUTTON) menu
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-30">
 <text>
    #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
@@ -16250,10 +16280,11 @@ Liens externes[modifier | modifier le code]
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu</text>
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-31">
 <text>
     (BUTTON) Menu Tech&ampCo
@@ -16495,10 +16526,11 @@ A la Une
      * BFM Crypto
 
    © Copyright 2006-2023 BFMTV.com. Tous droits réservés. Site édité par
-   NextInteractive</text>
+   NextInteractive
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-32">
 <text>
    #BREIZH-INFO » Flux BREIZH-INFO » Flux des commentaires BREIZH-INFO »
@@ -16858,10 +16890,11 @@ NEWSLETTER
 
    © BREIZH-INFO – Dépêches libres de copie et diffusion sous réserve de
    mention et de lien vers la source d’origine | Qui sommes-nous
-   ? | Mentions légales et cookies</text>
+   ? | Mentions légales et cookies
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-33">
 <text>
     #Page d'accueil Page d'accueil Page d'accueil Recherche
@@ -17326,10 +17359,11 @@ Documentation
      * Accessibilité : partiellement conforme
      * Données personnelles et cookies
      * Plan du site
-     * © Ministère de la Culture</text>
+     * © Ministère de la Culture
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-34">
 <text>
     #Flux RSS pour capital.fr
@@ -17598,10 +17632,11 @@ EuroDreams vraiment plus intéressant que le loto ?
      * CONDITIONS GÉNÉRALES DE VENTES ABONNEMENT ESSENTIEL, NOMADE &amp
        INTÉGRAL
 
-   © Prisma Media - Groupe Vivendi 2023 Tous droits réservés</text>
+   © Prisma Media - Groupe Vivendi 2023 Tous droits réservés
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-35">
 <text>
    #Addiction Suisse Feed alternate alternate alternate alternate
@@ -17846,10 +17881,11 @@ Votre soutien est indispensable !
 
      * Protection des données
      * Gestion des cookies
-     *</text>
+     *
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-36">
 <text>
     #OFDT - Nouveautés OFDT - Données européennes
@@ -18285,10 +18321,11 @@ OFDT
 
    Aide accessibilité • Mentions légales et données personnelles • Gestion
    des cookies
-   © 2014 Agence Web Coteo Coteo Web - Création de site internet</text>
+   © 2014 Agence Web Coteo Coteo Web - Création de site internet
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-37">
 <text>
    #alternate publisher
@@ -18705,10 +18742,11 @@ Plus de services
 
    Suivez-nous sur
    Paramétrer les cookies Plan du site Confidentialité La rédaction Nos
-   partenaires Mentions légales Crédits Charte Contact</text>
+   partenaires Mentions légales Crédits Charte Contact
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-38">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
@@ -18987,10 +19025,11 @@ Signaler un abus
    modération Contactez-nous Plan du site CGU
 
    www.midilibre.fr © 2023
-   Logo Midi Libre</text>
+   Logo Midi Libre
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-39">
 <text>
    #Gus &amp Co » Flux Gus &amp Co » Flux des commentaires Gus &amp Co »
@@ -19639,10 +19678,11 @@ Lien RSS
 
    IFRAME: likes-master
 
-   %d blogueurs aiment cette page :</text>
+   %d blogueurs aiment cette page :
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-40">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-588M3M4
@@ -20369,10 +20409,11 @@ Jeux de société et figurines de collection
      * 01 Ain
           + Grand Genève / Chablais / Ain
      * 69 Rhône
-     * CH Grand Genève et Suisse voisine</text>
+     * CH Grand Genève et Suisse voisine
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-41">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5N2S9RX
@@ -20865,10 +20906,11 @@ En vente dans la boutique
           + Charolais - Brionnais
           + Montceau-les-Mines
           + Le Creusot
-          + Autun</text>
+          + Autun
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-42">
 <text>
      * accéder au contenu
@@ -21565,10 +21607,11 @@ Pour aller plus loin :
      * (BUTTON) chez moi
      * émissions
      * recherche
-     * (BUTTON) menu</text>
+     * (BUTTON) menu
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-43">
 <text>
    Ouest-France Le Mag du Senior
@@ -21916,10 +21959,11 @@ Continuez votre lecture
      * © Ouest-France
 
      *
-     * Logo Digital Ad Trust</text>
+     * Logo Digital Ad Trust
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-44">
 <text>
     (BUTTON) Menu BFM Côte d'Azur
@@ -22193,10 +22237,11 @@ A la Une
      * BFM Crypto
 
    © Copyright 2006-2023 BFMTV.com. Tous droits réservés. Site édité par
-   NextInteractive</text>
+   NextInteractive
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-45">
 <text>
    Passer au contenu (BUTTON) Menu
@@ -22610,10 +22655,11 @@ Jeux vidéo
 
      * Mon RTBF
 
-   CIM Internet</text>
+   CIM Internet
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-46">
 <text>
 
@@ -22857,10 +22903,11 @@ Le Stratego, 26 ans après les échecs
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Science</text>
+   #Le HuffPost : Science
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-47">
 <text>
 
@@ -23086,10 +23133,11 @@ Le "Wordle" du jour du "New York Times" retiré à cause de l'actualité récent
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Médias</text>
+   #Le HuffPost : Médias
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-48">
 <text>
 
@@ -23376,10 +23424,11 @@ Comment sont créés les escape games
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Actualités</text>
+   #Le HuffPost : Actualités
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-49">
 <text>
 
@@ -23635,10 +23684,11 @@ important)
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Actualités</text>
+   #Le HuffPost : Actualités
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-50">
 <text>
 
@@ -23946,10 +23996,11 @@ Mölkky: ce qu'il faut savoir sur ce jeu de quilles qui envahit la France
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Life</text>
+   #Le HuffPost : Life
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-51">
 <text>
 
@@ -24144,10 +24195,11 @@ Googlinette, le jeu de devinettes sur les recherches Google
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Actualités</text>
+   #Le HuffPost : Actualités
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-52">
 <text>
    #alternate
@@ -24747,10 +24799,11 @@ Restez connectés
      * ES
 
    éduscol | Ministère de l'Éducation nationale et de la Jeunesse -
-   Direction générale de l'enseignement scolaire</text>
+   Direction générale de l'enseignement scolaire
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-53">
 <text>
    #alternate alternate alternate
@@ -25230,10 +25283,11 @@ Footer menu
      * Impressum
      * Juridique
 
-   © Pro Juventute 2023</text>
+   © Pro Juventute 2023
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-54">
 <text>
      *
@@ -25685,10 +25739,11 @@ Un cookie pour nous soutenir
    Merci de la part de toute notre rédaction 🙏
    Je m'abonne
    J'accepte les cookies
-   Je me connecte/je crée un compte</text>
+   Je me connecte/je crée un compte
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-55">
 <text>
     #Flux RSS pour capital.fr
@@ -25920,10 +25975,11 @@ Prison ferme
      * CONDITIONS GÉNÉRALES DE VENTES ABONNEMENT ESSENTIEL, NOMADE &amp
        INTÉGRAL
 
-   © Prisma Media - Groupe Vivendi 2023 Tous droits réservés</text>
+   © Prisma Media - Groupe Vivendi 2023 Tous droits réservés
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-56">
 <text>
 
@@ -26146,10 +26202,11 @@ Bruno des "12 coups de midi" bat le record de gains dans un jeu télévisé
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Divertissement</text>
+   #Le HuffPost : Divertissement
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-57">
 <text>
 
@@ -26413,10 +26470,11 @@ Boulet
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Culture</text>
+   #Le HuffPost : Culture
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-58">
 <text>
 
@@ -26611,10 +26669,11 @@ s'ennuyer
    générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : Life</text>
+   #Le HuffPost : Life
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-59">
 <text>
      * COP28
@@ -26978,10 +27037,11 @@ terre
    (BUTTON)
 
    Le contenu auquel vous tentez d'accéder n'existe pas ou n'est plus
-   disponible.</text>
+   disponible.
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-60">
 <text>
    #alternate alternate
@@ -27331,10 +27391,11 @@ Abonnez-vous à notre infolettre
    Merci
    Politique de confidentialité et de sécurité
 
-   © Copyright 2016 Fondation Marie-Vincent. Tous droits réservés.</text>
+   © Copyright 2016 Fondation Marie-Vincent. Tous droits réservés.
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-61">
 <text>
    #L'Observateur » Flux L'Observateur » Flux des commentaires alternate
@@ -27620,10 +27681,11 @@ Les + lus
 
    Chargement des commentaires…
 
-   Vous devez être connecté pour poster un commentaire.</text>
+   Vous devez être connecté pour poster un commentaire.
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-62">
 <text>
    #alternate alternate
@@ -27972,10 +28034,11 @@ Rien ne va dans cette pub de recrutement pour la Gendarmerie nationale
    mentions légales
    données personnelles
    politique cookies
-   contact</text>
+   contact
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-63">
 <text>
     #publisher
@@ -28870,10 +28933,11 @@ Birds »
 
    IFRAME:
    //cstatic.weborama.fr/iframe/customers/premium.html?idEditeur=1151&ampidSi
-   te=199</text>
+   te=199
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-64">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MXVC4X4
@@ -29189,10 +29253,11 @@ Sur le même thème
      * Politique de confidentialité
      * Partenariats
 
-   2020 © Pour l’Éco</text>
+   2020 © Pour l’Éco
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-65">
 <text>
    (BUTTON) Accéder aux raccourcis
@@ -29409,6 +29474,8 @@ Moins de 8 % de matchs féminins l'an dernier
 
    Tout France Info, et bien plus. Sauvegardez vos articles à lire plus
    tard et filtrer l’actualité qui vous intéresse
-   télécharger</text>
+   télécharger
+</text>
 </page> §
 
+</lang>

@@ -1,4 +1,5 @@
 <lang="EN">
+
 <page="EN-1">
 <text>
    [p?c1=2&ampc2=6035250&ampcv=2.0&ampcj=1&ampcs_ucfr=0&ampcomscorekw=Games%2CCulture%2CP
@@ -132,10 +133,11 @@ PC games – Jordan Erica Webber
 --
      * Film
      * Games
-     * Classical</text>
+     * Classical
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-2">
 <text>
           + Screening Tools
@@ -200,10 +202,11 @@ Why are online games so toxic?
 --
    When helping professionals treat clients with gaming disorder it is
    important they understand the cultural context of video games. Many
-   players presenting with problematic behaviors will have been negatively</text>
+   players presenting with problematic behaviors will have been negatively
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-3">
 <text>
           + Science and Technology Innovation Program
@@ -396,10 +399,11 @@ Serious Games Initiative
 --
    Science and Technology
    Playing Global Order : Can video games reinforce good behaviours
-   towards a better world?</text>
+   towards a better world?
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-4">
 <text>
    The best legit money making apps can provide you with extra money you
@@ -593,10 +597,11 @@ How much money can you make playing games online?
 
    “Play games for cash” sounds too good to be true, and it mostly is. The
    majority of games-for-cash sites are junk, luring users in with fake
-   review scores and teasing them with cash payouts that will never come.</text>
+   review scores and teasing them with cash payouts that will never come.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-5">
 <text>
 
@@ -838,10 +843,11 @@ Understanding Games: How Video Games &amp Board Games Work
 
 --
 
-It never happens instantly. The business game is longer than you know.</text>
+It never happens instantly. The business game is longer than you know.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-6">
 <text>
      * Travel
@@ -996,10 +1002,11 @@ The best games to play as a family
 --
 
      * Just roll with it: How to move your in-person tabletop game online
-     * The beginner's guide to the greatest pastimes: Cribbage</text>
+     * The beginner's guide to the greatest pastimes: Cribbage
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-7">
 <text>
      * "All-In" Playing Card Blog - News, Contests, Articles &amp More!
@@ -1514,10 +1521,11 @@ The History Of Rummy Games
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 --
      * Playing Card Articles
-     * Card Game Rules</text>
+     * Card Game Rules
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-8">
 <text>
        (BUTTON) Toggle Types subsection
@@ -2271,10 +2279,11 @@ Typical structure of card games[edit]
 
    Categories:
      * Card games
-     * Tabletop games</text>
+     * Tabletop games
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-9">
 <text>
 
@@ -2404,10 +2413,11 @@ Typical structure of card games[edit]
 
 --
 
-   List of game genres</text>
+   List of game genres
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-10">
 <text>
 
@@ -2763,10 +2773,11 @@ What fun team building games can you play without materials?
    These games are simple to put together and do not require a huge amount
    of commitment to host. Using a laptop and video conferencing service,
    all these games can also be played remotely with your team.
-   Share:</text>
+   Share:
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-11">
 <text>
           + 2.3Skill, strategy, and chance
@@ -3449,10 +3460,11 @@ Tabletop games
 
    Categories:
      * Games
-     * 26th-century BC establishments</text>
+     * 26th-century BC establishments
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-12">
 <text>
      * Classroom Videos
@@ -3597,10 +3609,11 @@ Fitness Games
    [gb.svg] Your current page is in United Kingdom [au.svg] 10 Benefits to
    Playing Games in the Classroom (for Students and Teachers) in Australia
    [us.svg] 10 Benefits of Classroom Games for Kids (And Teachers Too) in
-   United States</text>
+   United States
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-13">
 <text>
 
@@ -3870,10 +3883,11 @@ Strategy (game theory)
      * Tragedy of the commons
 --
    Category:
-     * Strategy (game theory)</text>
+     * Strategy (game theory)
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-14">
 <text>
     3. Help to support someone else
@@ -3944,17 +3958,19 @@ Drinking games and the UK low risk drinking guidelines
 --
 
    Following the low risk drinking guidelines and avoiding drinking games
-   can help keep your risk low from accidents and injuries, physical or</text>
+   can help keep your risk low from accidents and injuries, physical or
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-15">
 <text>
 
-How to Win the Blame Game</text>
+How to Win the Blame Game
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-16">
 <text>
    healthy kids health center/healthy kids a-z list/what is the most
@@ -4044,10 +4060,11 @@ Mariam’s game
    now-about
 --
 
-Top What Is the Most Dangerous Game Parents Must Know Related Articles</text>
+Top What Is the Most Dangerous Game Parents Must Know Related Articles
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-17">
 <text>
                     # 1.3.1.2Birds (predator)
@@ -4225,10 +4242,11 @@ Birds (upland game birds)
 --
      * Poultry
      * Game birds
-     * Non-timber forest products</text>
+     * Non-timber forest products
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-18">
 <text>
 
@@ -4301,10 +4319,11 @@ A Beginner's Guide to Game Meat
 --
    A male black grouse A male black grouse
    The Most Popular Game Birds Hunted for Sport and Food
-   turkey for beginners turkey for beginners</text>
+   turkey for beginners turkey for beginners
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-19">
 <text>
    Hunting
@@ -4392,10 +4411,11 @@ Tips for Car Camping for Small Game
 --
    Hunting
      * Big Game
-     * Whitetail</text>
+     * Whitetail
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-20">
 <text>
                o Deer Hunting
@@ -4511,10 +4531,11 @@ Tips for Car Camping for Small Game
 --
    Holland &amp Holland’s Royal Double rifle might be the most iconic
    dangerous game rifle of all time. Built to deal with any four-legged
-   danger while providing the instinctive handling of a finely fitted</text>
+   danger while providing the instinctive handling of a finely fitted
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-21">
 <text>
 
@@ -4695,10 +4716,11 @@ Party games for kids (and kids at heart)
    (father and child) Father's Day activities and games - things to do on
    Father's Day (father and child)
    28 Great Father's Day Activities and Games the Whole Family Will Enjoy
-   Real Simple</text>
+   Real Simple
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-22">
 <text>
           + 2.1Definition
@@ -6490,10 +6512,11 @@ Video game
    Categories:
      * Video games
      * Games and sports introduced in 1947
-     * Digital media</text>
+     * Digital media
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-23">
 <text>
     #Ideas &amp Inspiration » Feed Ideas &amp Inspiration » Comments Feed Ideas
@@ -6586,10 +6609,11 @@ Video game
 --
      * How To Make Stunning, Large Christmas Cards
      * 40 Entertaining Party Games
-     * Photo Book Quotes About Making Memories</text>
+     * Photo Book Quotes About Making Memories
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-24">
 <text>
 
@@ -6829,10 +6853,11 @@ The success of serious games and game-based learning
      * Request a demo
 --
    Capterra logo
-   Game Learn</text>
+   Game Learn
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-25">
 <text>
     #The Tabletop Family » Feed The Tabletop Family » Comments Feed The
@@ -7094,10 +7119,11 @@ Designing our Living Room Game Table
 --
    sharing in all of this with us. My your day today be filled with those
    you love, good food, and of course fun games together. Happy
-   Thanksgiving!</text>
+   Thanksgiving!
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-26">
 <text>
 
@@ -7244,10 +7270,11 @@ Behavior, Gender Differences and ADHD
 --
 
    Video Game Usage and its Impact on Mental Health
-   View all 4 Articles</text>
+   View all 4 Articles
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-27">
 <text>
 
@@ -7434,10 +7461,11 @@ Work in Games
    Interaction Design Foundation - IxDF. (accessed Dec. 3, 2023).
    Janaki Kumar., Mario Herger. and Rikke Friis Dam. 2022. A Brief History
    of Games Retrieved December 3, 2023 from
-   [ ] Cite selection</text>
+   [ ] Cite selection
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-28">
 <text>
 
@@ -7532,10 +7560,11 @@ The Benefits of Kids Games
 
    Playground games are a vital part of a child’s development, and as a
    bonus, they’re fun! With a list of entertaining indoor or outdoor games
-   for kids, you can help them grow in important ways.</text>
+   for kids, you can help them grow in important ways.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-29">
 <text>
                o Video: Identify Your Target and What Is Beyond
@@ -7588,10 +7617,11 @@ Small Game Hunting
 
    The small game license in Washington State allows the holder to hunt
    for wild animals and wild birds except big game. There are additional
-   charges for turkey tags, western Washington pheasant permits, and</text>
+   charges for turkey tags, western Washington pheasant permits, and
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-30">
 <text>
    #Webbox » Feed Webbox » Comments Feed Webbox » 10 games you can play
@@ -7620,10 +7650,11 @@ Small Game Hunting
 --
 
    Cats love a variety of games and toys so keeping them rotated will
-   ensure they never get bored. Giving your cat the nutrients they need is</text>
+   ensure they never get bored. Giving your cat the nutrients they need is
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-31">
 <text>
     3. All Dog Articles
@@ -7675,10 +7706,11 @@ Games for Dogs
 --
 
    There are lots of games to play with dogs both inside and outside.
-   Having fun with your dog enriches both of your lives but avoid play</text>
+   Having fun with your dog enriches both of your lives but avoid play
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-32">
 <text>
    Violence Prevention Center » Comments Feed Michigan Youth Violence
@@ -7812,10 +7844,11 @@ Should video games be regulated?
    the role of social controls like laws banning the sale of violent video
    games to minors, an argument against such social controls based on the
    conclusion  that the video games have no effect seems to oversimplify
-   the issue. A more in-depth and critical analysis of the issue from</text>
+   the issue. A more in-depth and critical analysis of the issue from
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-33">
 <text>
 
@@ -7915,10 +7948,11 @@ Best Games about culture from Google Arts &amp Culture
    horizons and develop invaluable skills like empathy, critical thinking,
 --
 
-10 Engaging Christmas Games for Students</text>
+10 Engaging Christmas Games for Students
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-34">
 <text>
 
@@ -8007,10 +8041,11 @@ What are the game pieces in Monopoly?
 --
    the buildings, to the highest bidder. The bankrupt player must remove
    themselves from the game. The last player left standing is the winner.
-   Facebook Twitter Email</text>
+   Facebook Twitter Email
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-35">
 <text>
    #Oxford Internet Institute » The Association between Video Game Play
@@ -8050,10 +8085,11 @@ Overview
                                      We intend to recruit a large
 --
                                      real-world association between video
-                                     game play and cognitive performance.</text>
+                                     game play and cognitive performance.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-36">
 <text>
      * Blog
@@ -8265,10 +8301,11 @@ Even More Games
    Retrieved from https://bit.ly/3d05nd9
    Top 10 Messy Party Games. (n.d.) Retrieved from https://bit.ly/2Qb28Wr
    Ward, K. (2018). 17 fun outside games kids will love playing. Care.
-   Retrieved from https://bit.ly/3aSyQ71</text>
+   Retrieved from https://bit.ly/3aSyQ71
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-37">
 <text>
    [p?c1=2&ampc2=6035250&ampcv=2.0&ampcj=1&ampcs_ucfr=0&ampcomscorekw=Puzzle+games%2CCros
@@ -8333,10 +8370,11 @@ Beyond Wordle: the best word games to try next
 --
      * Film
      * Games
-     * Classical</text>
+     * Classical
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-38">
 <text>
      * Most expensive Pokémon card
@@ -8535,10 +8573,11 @@ Wargame
 --
      * Warhammer 40,000
      * Latest Games
-     * Members</text>
+     * Members
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-39">
 <text>
      * TVs
@@ -8883,10 +8922,11 @@ Best role-playing game
 --
    recommended by experts
    The Best Board Games for Kids, According to Experts
-   [c63d957a432fa986dfc311afd617a400ee-New-Theory-Logo-Black.jpg]</text>
+   [c63d957a432fa986dfc311afd617a400ee-New-Theory-Logo-Black.jpg]
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-40">
 <text>
                o Quizzes
@@ -8966,10 +9006,11 @@ The Importance of Rules in Games
      * Valentine's Games_Featured Entertainment and Activities14
        Valentine's Day Games…
      * 15 Fun Water Games Entertainment and Activities20 Fun Water Games
-       to Play…</text>
+       to Play…
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-41">
 <text>
    #9.4 Influence of New Technologies 10.6 Blurring the Boundaries Between
@@ -9317,10 +9358,11 @@ Video Games as Art
    That Game Company, “Flower,” http://thatgamecompany.com/games/flower/.
 
    Video Games Music Big Hit, “Video Games Music Big Hit,” Wilmington (NC)
-   Morning Star, February 1, 1997, 36.</text>
+   Morning Star, February 1, 1997, 36.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-42">
 <text>
 
@@ -9446,10 +9488,11 @@ Decoding the In-Game Audience
 
 --
      * Programmatic Audio
-     * In-Game Advertising</text>
+     * In-Game Advertising
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-43">
 <text>
    #Side Hustle Nation » Feed Side Hustle Nation » Comments Feed Side
@@ -9765,10 +9808,11 @@ to Have Fun!”
 --
        April 22, 2023 at 8:38 am
        I love playing game but I want to make profit from it but don’t
-       know home help please</text>
+       know home help please
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-44">
 <text>
           + Introduction
@@ -10383,10 +10427,11 @@ Future Trends and Limitations in Educational Mobile Games
    Citation: Li Y, Xu Z, Hao Y, Xiao P and Liu J (2022) Psychosocial
    Impacts of Mobile Game on K12 Students and Trend Exploration for Future
    Educational Mobile Games. Front. Educ. 7:843090. doi:
-   10.3389/feduc.2022.843090</text>
+   10.3389/feduc.2022.843090
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-45">
 <text>
 
@@ -10642,10 +10687,11 @@ PopCap Games
    Thatgamecompany’s video game offerings — Sky, Journey, Flower and Flow
    — focus on “meaningful emotional impact” and “human connection.” Over
    the years, its games have been featured in exhibits at the Smithsonian
-   American Art Museum and MoMA.</text>
+   American Art Museum and MoMA.
+</text>
 </page> §
 
-<lang="EN">
+
 <page="EN-46">
 <text>
        (BUTTON) Toggle Categories subsection
@@ -11113,6 +11159,8 @@ Targeted advergame marketing[edit]
      * Advergames
      * Advergaming companies
      * Video game types
-     * Propaganda techniques by medium</text>
+     * Propaganda techniques by medium
+</text>
 </page> §
 
+</lang>

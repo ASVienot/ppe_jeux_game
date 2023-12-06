@@ -1,4 +1,5 @@
 <lang="FR">
+
 <page="FR-1">
 <text>
        sorties
@@ -32,10 +33,11 @@ Quiz et jeux
 --
 
      * Jeux
-     * Shopping</text>
+     * Shopping
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-2">
 <text>
           + SAHB
@@ -76,10 +78,11 @@ sportifs ?
    peut pas nécessairement être dit du jeu électronique de loisir. C’est
    pourquoi l’utilisation du terme ‘sport’ en ce qui concerne l’e-sport et
    les jeux électroniques doit faire l’objet d’un dialogue et d’une étude
-   plus approfondis ».</text>
+   plus approfondis ».
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-3">
 <text>
           + SAHB
@@ -145,10 +148,11 @@ sport ?
 --
 
    Sans oublier que le plaisir du jeu et la possibilité de pratiquer à
-   plusieurs améliore le bien-être et la sociabilité. Et grâce à l’aspect</text>
+   plusieurs améliore le bien-être et la sociabilité. Et grâce à l’aspect
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-4">
 <text>
    #Metatrone » Flux Metatrone » Flux des commentaires Metatrone » Un
@@ -320,10 +324,11 @@ trois premières années suivant leur lancement.
    Le nouveau jeu en monde ouvert de Xbox est Resident Evil rencontre
    Minecraft
    Le nouveau jeu en monde ouvert de Xbox est Resident Evil rencontre
-   Minecraft</text>
+   Minecraft
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-5">
 <text>
        (BUTTON) Que faire à Paris ?
@@ -403,16 +408,18 @@ Que faire à Paris quand on est fan de jeux vidéo ?
 --
    Découvrir
    Live Thriller, le jeu immersif : on a testé, on a eu peur… on vous
-   raconte !</text>
-</page> §
-
-<lang="FR">
-<page="FR-6">
-<text>
+   raconte !
 </text>
 </page> §
 
-<lang="FR">
+
+<page="FR-6">
+<text>
+
+</text>
+</page> §
+
+
 <page="FR-7">
 <text>
           + Disney+
@@ -482,10 +489,11 @@ Que faire à Paris quand on est fan de jeux vidéo ?
           + Nintendo Switch
           + PlayStation 5
           + Jeux de société
-     * Bons plans</text>
+     * Bons plans
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-8">
 <text>
      * Mode
@@ -517,10 +525,11 @@ de jeu
 --
    plus :
    Animaux Chimpanzés Jeu Nature Science Stratégie Actualités
-   Maxime Bourdeau</text>
+   Maxime Bourdeau
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-9">
 <text>
      * Mode
@@ -567,10 +576,11 @@ de jeu
 --
    plus :
    Application mobile Pokemon Jeu Mobile Culture
-   Stacie Arena</text>
+   Stacie Arena
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-10">
 <text>
    #Informations professionnelles des industries multimédia et jeux vidéo
@@ -659,10 +669,11 @@ Etudes et analyses sur les jeux vidéo et l'industrie multimédia
    du 26 au 28 juin 202326.01Guide pour prévenir les violences sexistes et
    sexuelles au travail27.10Les français et le jeu vidéo en 2022 (étude
    SELL / Médiamétrie)26.10Paris Games Week : la vitrine du jeu vidéo
-   français sous toutes ses formes</text>
+   français sous toutes ses formes
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-11">
 <text>
        (BUTTON) Afficher / masquer la sous-section Généralités
@@ -1775,10 +1786,11 @@ Jeux de mots[modifier | modifier le code]
 --
      * Article contenant un appel à traduction en anglais
      * Portail:Jeux/Articles liés
-     * Portail:Loisirs et divertissements/Articles liés</text>
+     * Portail:Loisirs et divertissements/Articles liés
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-12">
 <text>
 
@@ -1940,10 +1952,11 @@ Jeu vidéo : la fin de l’hypercroissance
 
    realite-virtuelle-jeux-video
 
-Réalité virtuelle, un avenir prometteur pour l’industrie des jeux vidéo</text>
+Réalité virtuelle, un avenir prometteur pour l’industrie des jeux vidéo
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-13">
 <text>
      * Télécoms
@@ -1980,16 +1993,18 @@ Jeux vidéo : comment "la Team Vitality veut devenir le PSG de l'Esport"
 --
    merchandising, du sponsoring, et nous vendons également des solutions
    de jeux vidéo aux entreprises. Notre budget est celui d’un club de
-   football de Ligue 2 ou d’une petite équipe de rugby du Top 14. Nous</text>
-</page> §
-
-<lang="FR">
-<page="FR-14">
-<text>
+   football de Ligue 2 ou d’une petite équipe de rugby du Top 14. Nous
 </text>
 </page> §
 
-<lang="FR">
+
+<page="FR-14">
+<text>
+
+</text>
+</page> §
+
+
 <page="FR-15">
 <text>
           + 1.1Jeux olympiques antiques
@@ -2888,10 +2903,11 @@ Jeux olympiques de la jeunesse[modifier | modifier le code]
 --
      * Article de Wikipédia avec notice d'autorité
      * Portail:Jeux olympiques/Articles liés
-     * Portail:Sport/Articles liés</text>
+     * Portail:Sport/Articles liés
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-16">
 <text>
      * Résultats
@@ -2932,10 +2948,11 @@ discipline et sombre en Vendée
 --
    Sud Ouest et Vous
      * Jeux
-     * Journal des lecteurs</text>
+     * Journal des lecteurs
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-17">
 <text>
    Menu
@@ -2976,10 +2993,11 @@ la manette
      * 4 Votre argent. Playstation : Sony pourrait rembourser près de 7
        milliards d'euros aux joueurs, pourriez-vous être concerné ?
      * 5 Jeux vidéo. Test de EA Sport WRC : le jeu que les amateurs de
-       rallye attendaient, même à la manette</text>
+       rallye attendaient, même à la manette
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-18">
 <text>
 
@@ -3019,10 +3037,11 @@ Un "oui" franc pour des Jeux olympiques d'hiver en Suisse
 --
    2030. Les échanges avec les fédérations intéressées doivent avoir lieu
    au printemps. Les Jeux d'hivers 2030 et 2034 seront attribués ensemble
-   l'été prochain. Pour les JO 2034, la ville américaine de Salt Lake City</text>
+   l'été prochain. Pour les JO 2034, la ville américaine de Salt Lake City
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-19">
 <text>
      * Résultats
@@ -3052,10 +3071,11 @@ d’ouverture impressionnante
 --
    Sud Ouest et Vous
      * Jeux
-     * Journal des lecteurs</text>
+     * Journal des lecteurs
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-20">
 <text>
      * Résultats
@@ -3119,10 +3139,11 @@ olympique
 --
    Sud Ouest et Vous
      * Jeux
-     * Journal des lecteurs</text>
+     * Journal des lecteurs
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-21">
 <text>
 
@@ -3169,10 +3190,11 @@ En attendant les Jeux : un large programme dédié aux Vendéens
    est d'animer le département pour aller crescendo jusqu'à la fameuse
 --
 
-Jeu concours | X-Trial : gagnez vos places pour le Vendéspace</text>
+Jeu concours | X-Trial : gagnez vos places pour le Vendéspace
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-22">
 <text>
           + 3.3Impact économique
@@ -4192,10 +4214,11 @@ Utilisation positive du jeu vidéo
 --
      * Article de Wikipédia avec notice d'autorité
      * Portail:Jeu vidéo/Articles liés
-     * Bon article en polonais</text>
+     * Bon article en polonais
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-23">
 <text>
 
@@ -4235,16 +4258,18 @@ Judo : trois Ultramarins sélectionnés pour les Jeux Olympiques de Paris 2024
 
     1. Outre-mer la 1ère >gt
     2. Judo : trois ultramarins sélectionnés pour les jeux olympiques de
-       paris 2024</text>
-</page> §
-
-<lang="FR">
-<page="FR-24">
-<text>
+       paris 2024
 </text>
 </page> §
 
-<lang="FR">
+
+<page="FR-24">
+<text>
+
+</text>
+</page> §
+
+
 <page="FR-25">
 <text>
    Menu
@@ -4306,10 +4331,11 @@ cérémonie d'ouverture
      * 4 Jeux Olympiques. Sécurité des JO 2024 : des parlementaires
        dénoncent des mesures "typiques d'un état d'urgence"
      * 5 Jeux Olympiques. JO de Paris 2024: Après le pass sanitaire, le
-       "pass olympique" avec QR code obligatoire pour circuler dans la</text>
+       "pass olympique" avec QR code obligatoire pour circuler dans la
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-26">
 <text>
    Accueil >gt Actus >gt Actu >gt Ouverture de la saison de ski-alpinisme : en
@@ -4325,10 +4351,11 @@ Ouverture de la saison de ski-alpinisme : en route pour les Jeux olympiques
 --
    ©FFME
    Tags : coupe du monde, jeux olympiques, relais mixte, ski-alpinisme,
-   sprint</text>
+   sprint
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-27">
 <text>
    Paris 2024 : selon Airbnb, Villeneuve-Minervois est l’une des 24
@@ -4355,10 +4382,11 @@ plus accueillantes de Terre de jeux
    sportifs ou non de s’essayer à différentes disciplines. Mardi 22
    novembre, la multinationale de location en ligne Airbnb – partenaire de
    l’événement sportif – a révélé les villes et villages "Terres de jeux"
-   les plus accueillants. Parmi eux, Villeneuve-Minervois, 1 000</text>
+   les plus accueillants. Parmi eux, Villeneuve-Minervois, 1 000
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-28">
 <text>
      * Mode
@@ -4387,10 +4415,11 @@ Jeux olympiques de Paris 2024 : nouvelle phase de vente de billets ce jeudi
 --
    objectif de 10 millions au total. En revanche, les organisateurs
    refusent pour le moment de communiquer sur la billetterie des Jeux
-   paralympiques et renvoient à la fin de l’année, où un premier bilan</text>
+   paralympiques et renvoient à la fin de l’année, où un premier bilan
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-29">
 <text>
 
@@ -4421,10 +4450,11 @@ Une aire de jeux inclusive immense
 --
      * Caen >gt
      * Plus de jeux, moins d'animaux : voici à quoi va ressembler la
-       Colline aux oiseaux</text>
+       Colline aux oiseaux
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-30">
 <text>
        (BUTTON) Afficher / masquer la sous-section Historique
@@ -4949,10 +4979,11 @@ modifier le code]
 --
      * Article contenant un appel à traduction en anglais
      * Portail:Jeux/Articles liés
-     * Portail:Loisirs et divertissements/Articles liés</text>
+     * Portail:Loisirs et divertissements/Articles liés
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-31">
 <text>
 
@@ -4981,10 +5012,11 @@ Comment les jeux en ligne permettent aux hackers de blanchir leur argent
 --
      * Partenaires
      * Jeux-concours
-     * Plan du site</text>
+     * Plan du site
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-32">
 <text>
    #BREIZH-INFO » Flux BREIZH-INFO » Flux des commentaires BREIZH-INFO »
@@ -5063,10 +5095,11 @@ La position de la Commission pour les jeux
    l’Ontario d’utiliser des athlètes actifs ou retraités dans leur
    marketing, à moins qu’ils ne les utilisent pour promouvoir des
    pratiques de jeu responsables. En ce qui concerne l’utilisation de
-   célébrités en général, les les influences des médias sociaux, les</text>
+   célébrités en général, les les influences des médias sociaux, les
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-33">
 <text>
 
@@ -5191,10 +5224,11 @@ Télécharger des jeux-vidéo avec le Pass Culture
 --
 
    - Il est possible de télécharger des jeux-vidéo sur la plateforme pass
-   culture</text>
+   culture
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-34">
 <text>
           + La boutique Capital
@@ -5287,10 +5321,11 @@ buralistes. Les grilles «EuroDreams»vendues à 2,50 euros peuvent bous faire
        Entreprises et marchés
      *
    Française des Jeux (FDJ) cale : le conseil Bourse
-       Entreprises et marchés</text>
+       Entreprises et marchés
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-35">
 <text>
           + Cocaïne
@@ -5375,10 +5410,11 @@ effets - risques
 --
      * (BUTTON) Title
        Jeux de hasard et d'argent Effets-Risques Pratique Conséquences
-       Cadre légal Prévention</text>
+       Cadre légal Prévention
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-36">
 <text>
           + Bilan annuel Alcool
@@ -5600,10 +5636,11 @@ Impacts financiers des jeux d'argent et de hasard
    réalisation des études scientifiques sur les JAH et les addictions à
    ces jeux (Art. 3 de la loi du 12 mai 2010 modifié par l’ordonnance du 2
    octobre 2019 réformant la régulation des jeux d’argent et de hasard).
-   Dans ce cadre, l’OFDT contribue à documenter l’action et les politiques</text>
+   Dans ce cadre, l’OFDT contribue à documenter l’action et les politiques
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-37">
 <text>
 
@@ -5623,10 +5660,11 @@ champagne !
    Minute Margaux
 --
      * * Kiosque Figaro : iPhone | Android
-     * * Figaro Jeux : iPhone | Android</text>
+     * * Figaro Jeux : iPhone | Android
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-38">
 <text>
    Menu
@@ -5677,10 +5715,11 @@ Habituée des jeux de grattage
      * 4 Insolite. "Une très belle surprise" : Macron gagne à un jeu de
        grattage après s'être arrêté à l'improviste dans un bar PMU
      * 5 Jeux. Elle remporte un demi-million d'euro grâce à un jeu de
-       grattage : quels sont les plus gros gains dans l'Hérault ?</text>
+       grattage : quels sont les plus gros gains dans l'Hérault ?
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-39">
 <text>
    #Gus &amp Co » Flux Gus &amp Co » Flux des commentaires Gus &amp Co »
@@ -6042,10 +6081,11 @@ Dépenses annuelles consacrées aux jeux de société
        Noël 2023 : Notre sélection des jeux de société à offrir cette
        année
      * Quelques idées de jeux à jouer avec un simple paquet de cartes
-       Quelques idées de jeux à jouer avec un simple paquet de cartes</text>
+       Quelques idées de jeux à jouer avec un simple paquet de cartes
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-40">
 <text>
           + Les Pionniers de Chamonix
@@ -6109,10 +6149,11 @@ Jeux de société et figurines de collection
    d’objet de collection : les licences comme Marvel, Star Wars, Pokémon,
    Harry Potter ou Lego tirent leur épingle du jeu », analyse Frédérique
    Tutt. Ainsi, sur les neuf premiers mois de 2023, les jeux de cartes ont
-   connu une croissance de 12 %, les puzzles adultes de 11 % et les</text>
+   connu une croissance de 12 %, les puzzles adultes de 11 % et les
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-41">
 <text>
      * Pétanque et sport boules
@@ -6127,10 +6168,11 @@ Jeux de société et figurines de collection
        de jeux de société
 
 Saint-Maurice-des-Champs Après leur repas, les aînés se sont retrouvés autour
-de cartes et de jeux de société</text>
+de cartes et de jeux de société
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-42">
 <text>
 
@@ -6260,10 +6302,11 @@ Entre 1 à 6 ans pour éditer un jeu de société
 --
      * Toulouse >gt
      * Le défi des auteurs de jeux de société en France : créativité,
-       passion et lutte pour la reconnaissance financière</text>
+       passion et lutte pour la reconnaissance financière
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-43">
 <text>
    Vous êtes ici : Les dossiers de Le Mag du Senior >gt Loisirs &amp Culture >gt
@@ -6367,10 +6410,11 @@ Quels jeux choisir pour les personnes âgées ?
      * Jeux sensoriels : en quoi peuvent-ils aider les personnes âgées ?
        Jeux sensoriels : en quoi peuvent-ils aider les personnes âgées ?
        Les jeux sensoriels, c'est-à-dire les activités qui ont pour but de
-       solliciter nos 5 sens (la vue, l'ouïe, l'odorat, le goût et le</text>
+       solliciter nos 5 sens (la vue, l'ouïe, l'odorat, le goût et le
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-44">
 <text>
      * Newsletter
@@ -6416,10 +6460,11 @@ inaugurée
 --
      * Partenaires
      * Jeux-concours
-     * Programme TV Cote d'Azur</text>
+     * Programme TV Cote d'Azur
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-45">
 <text>
 
@@ -6539,10 +6584,11 @@ Sorties jeux vidéo : notre sélection pour le mois de mars !
 Jeu mobile : Timberman séduira tous les fans de platformer
 
 Jeux vidéo
-       • Temps de lecture 1 min</text>
+       • Temps de lecture 1 min
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-46">
 <text>
      * Mode
@@ -6611,10 +6657,11 @@ pas encore battu ?
 --
    plus :
    Divertissement Science Cadeau de Noël Noël Jeu
-   Matthieu Balu</text>
+   Matthieu Balu
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-47">
 <text>
      * Mode
@@ -6651,10 +6698,11 @@ pas encore battu ?
 --
    plus :
    Etats-Unis New York Times Jeu Médias
-   Vincent Gibert</text>
+   Vincent Gibert
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-48">
 <text>
      * Mode
@@ -6682,10 +6730,11 @@ pas encore battu ?
 --
    plus :
    Culture Jeu Actualités
-   Nadege El Ghomari</text>
+   Nadege El Ghomari
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-49">
 <text>
      * Mode
@@ -6733,10 +6782,11 @@ important)
 --
    Actualités Technologie Intelligence artificielle (IA) Google Ibm échecs
    Neurones Jeux Jeu de go Jeu Cesan C'est demain Angoulême 2016
-   Grégory Rozières</text>
+   Grégory Rozières
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-50">
 <text>
      * Mode
@@ -6778,10 +6828,11 @@ Mölkky: ce qu'il faut savoir sur ce jeu de quilles qui envahit la France
 --
    plus :
    Bobo Jeu Sport Tendances Vidéo Life
-   Matthieu Carlier</text>
+   Matthieu Carlier
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-51">
 <text>
      * Mode
@@ -6815,10 +6866,11 @@ Googlinette, le jeu de devinettes sur les recherches Google
 --
    plus :
    Google Insolite Jeu Le bon lien Technologie Actualités
-   Lauren Provost</text>
+   Lauren Provost
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-52">
 <text>
                o Éducation à la responsabilité
@@ -6961,10 +7013,11 @@ violentes » (MEN-Sceren, 2011) ​
 --
    l'éducation nationale intervenant dans le cadre d'une séance de
    prévention des « jeux » dangereux et des pratiques violentes en collège
-   a été réalisée par un groupe de travail composé de personnels de</text>
+   a été réalisée par un groupe de travail composé de personnels de
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-53">
 <text>
 
@@ -7086,10 +7139,11 @@ Les jeux vidéo: un phénomène marginal?
    très populaire.
 --
 
-Directives de protection de la jeunesse en matière de jeux vidéo</text>
+Directives de protection de la jeunesse en matière de jeux vidéo
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-54">
 <text>
           + Culture
@@ -7196,10 +7250,11 @@ psychologue décrypte l'impact des jeux vidéos sur les jeunes
    11 heures: où et comment se former au jeu vidéo dans le Var?
    13 heures: comment réaliser un doublage de personnage dans un jeu
    vidéo?
-   14h30: conflits enfants-parents : est-ce la faute aux jeux vidéo?</text>
+   14h30: conflits enfants-parents : est-ce la faute aux jeux vidéo?
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-55">
 <text>
           + La boutique Capital
@@ -7225,10 +7280,11 @@ condamné à de la prison ferme par le tribunal correctionnel de Caen.
 --
      *
    Sony: Profits records au premier trimestre avec les jeux vidéo en ligne
-       Entreprises et marchés</text>
+       Entreprises et marchés
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-56">
 <text>
      * Mode
@@ -7255,10 +7311,11 @@ Bruno des "12 coups de midi" bat le record de gains dans un jeu télévisé
 --
    plus :
    Record 12 coups de midi Jean-Luc Reichmann Jeu Divertissement
-   Marie Terrier</text>
+   Marie Terrier
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-57">
 <text>
      * Mode
@@ -7289,10 +7346,11 @@ Boulet
 --
    plus :
    Covid-19 Enfant Dessin Jeu Culture
-   Poonam Singh Aujla</text>
+   Poonam Singh Aujla
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-58">
 <text>
      * Mode
@@ -7305,10 +7363,11 @@ Boulet
 --
    plus :
    Audio Éducation Bien-être Life Coach à domicile Enfance Vidéo Jeu
-   Petite enfance Parentalité Vie de famille</text>
+   Petite enfance Parentalité Vie de famille
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-59">
 <text>
 
@@ -7335,10 +7394,11 @@ des «casinos illégaux»
    pour lancer son entreprise. D’abord une plate-forme de jeu de combat
    qu’il revendra, avant de se concentrer sur la diffusion multimédia en
    direct avec des contenus tels que les jeux, le sport, les variétés. Une
-   réussite qui le fait entrer dans la liste des milliardaires Hurun en</text>
+   réussite qui le fait entrer dans la liste des milliardaires Hurun en
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-60">
 <text>
 
@@ -7425,10 +7485,11 @@ Les principaux risques associés aux jeux vidéo
    cerner les risques qui y sont associés. Pour en savoir plus sur les
 --
    Une bonne façon d’amorcer la discussion avec votre ado est de prendre
-   le temps de jouer avec lui·elle aux jeux vidéo qui l’intéressent.</text>
+   le temps de jouer avec lui·elle aux jeux vidéo qui l’intéressent.
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-61">
 <text>
 
@@ -7458,10 +7519,11 @@ Douai : un nouvel espace de jeux et de détente au Faubourg d’Esquerchin
    comporte une structure ludique avec toboggan et une balançoire adaptée
    aux personnes handicapées.
    faubourg esquerchin douai faubourg esquerchin douai Deux aires de jeux,
-   des trampolines, un plateau sportif et du mobilier urbain ont été</text>
+   des trampolines, un plateau sportif et du mobilier urbain ont été
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-62">
 <text>
           + casques
@@ -7549,10 +7611,11 @@ vidéo
    pop culture jeux vidéo
 
    Un joueur de Zelda: Tears of the Kingdom a recréé un énorme Godzilla
-   dans le jeu — et en a fait un film</text>
+   dans le jeu — et en a fait un film
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-63">
 <text>
 
@@ -7594,10 +7657,11 @@ Futur des jeux vidéo : Microsoft veut zapper la console
    Angry Birds, le jeu emblématique du casual game
 
 Jeux vidéo : le japonais Sega s'apprête à racheter le créateur d'« Angry
-Birds »</text>
+Birds »
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-64">
 <text>
 
@@ -7704,10 +7768,11 @@ est, depuis 2021, en situation de monopole sur le segment. Une position qui
 
 --
 
-   Microsoft peut-il devenir le nouveau Netflix du jeu vidéo ?</text>
+   Microsoft peut-il devenir le nouveau Netflix du jeu vidéo ?
+</text>
 </page> §
 
-<lang="FR">
+
 <page="FR-65">
 <text>
      * patrimoine (BUTTON) Sous-menu patrimoine
@@ -7761,6 +7826,8 @@ féminise avec des équipes mixtes
 --
 
    [hit.xiti?s=573499&amps2=9&ampp=jeux-video::articles::il_n_y_avait_que_des_eq
-   uipes_de_gars_le_jeu_video_ea_sport_fc24_se_feminise_avec_des_equipes_m</text>
+   uipes_de_gars_le_jeu_video_ea_sport_fc24_se_feminise_avec_des_equipes_m
+</text>
 </page> §
 
+</lang>
