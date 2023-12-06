@@ -136,29 +136,59 @@ sans expression régulière mais peut les transformer en /jeu/ tout au singulier
 - ouverture des fichiers contextes sur itrameur et exploration basique (concordances, nuages de points, sections etc)
 
 ## Séance 11 
+
 correction des exos
 - pas forcément besoin du ls 
-- & considéré comme un 
+- § symbole de paragraphe 
+- la commande `meld` = comparaison de fichiers 
+- page dédié aux restulats de l'annalyse dan sun fichier HTML
+- Quel python commande `wich`
+- Lancer l'environement `source demo_venv/bin/activate`
+- utiliser pip dans les environements 
+- prétraitement des corpus pour jeux/jeu/jeux-/jeu-/...
+- script des profs coocurents.py : 
+	sur chaque ligne 1 item (mot ou groupe genre jeux-vidéo)
+	recrée le tableau des coocurents 
+	quand besoin d'expressions régulières/insensibilité à la case 
+	aide script pour le manuel du script = nom_script -help 
+	trier par ordre de spécificité 
+	`-N nb` (seulement nb ligne)
+	`-i` = insensible à la case 
+	`target "jeux?-?.*"` autres options `--match-mod regex` = expression régulière 
+	`-t` -> résultats proches de iTrameur (spécificités de comptes =/=)
+	Peut mettre fr-* et il roule sur tous les fichiers 
+- jeu/jeu-vidéo ? -> vidéo comme coocurent ?  
+
+
 
 
 ## TO DO
 - [X] script contexte par langue DONE 
-- [X] grep "jeux" 
+- [ ] grep "jeux" 
+- [ ] prétraitement de jeux/jeu // game/games avec script des profs coocurents.py 
 - [X] rajouter boucle dans dump éviter erreurs 404 DONE
 test si $response == "200"
-
-```{if [$response == "200"]
+```
+{ if [$response == "200"]
 then 
 	lynx -dump -nolist ./aspirations/${langue}-${lineno}.html > ./dump...
-fi}```
-
+fi }
+```
 - [ ] monter le site web 
+	- à la racine 
 - [X] grep -c à la place de |wc // ne pas utiliser -c qui compte les lignes et non les occurences
 - [X] -i pour ne pas prendre en compte les cases -o pour les mots 
 - [X] nbr occurences vérifier bien 0 
 - [X] création dump dans la boucle pour que les fichiers ne soient pas créer pour les urls vides 
-et peut mettre $dump et $nbroccurences à 0 pour que ce ne soit pas remplacer par la valeur précédente DONE
+et peut mettre `$dump` et $nbroccurences à 0 pour que ce ne soit pas remplacer par la valeur précédente DONE
 - [X] grep -C suivi du nombre de ligne = contexte de l'occurence 
 - [ ] Concordancier à améliorer 
 accent considéré comme _ avec \-Wsegmentation
+- [ ] prétraitement (script dump) pour jeux
+- [ ] hypothése choix de mot 
+- [ ] infirmer/affirmer not hypothèses dans pages résultats 
+- [ ] iconv en UTF-8 pour Fr et Ch 
+- [ ] lynx - assume_charset pour iconv 
+
+
 
