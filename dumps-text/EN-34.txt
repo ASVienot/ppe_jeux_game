@@ -50,7 +50,7 @@ A Brief History of Games
 
    by Janaki Mythily Kumar , Mario Herger and Rikke Friis Dam | 1 year ago
    | 11 min read
-   816 shares
+   818 shares
    Share Share page on Facebook Tweet Share page on Twitter Share Share
    page on LinkedIn
    (BUTTON) Cite this article
@@ -258,24 +258,24 @@ References & Where to Learn More
    Hero Image: Author/Copyright holder: Nick Kellingley. Copyright terms
    and licence: CC BY-NC-ND
 
-Journey Mapping
+Design for a Better World with Don Norman
 
-   Journey Mapping
+   Design for a Better World with Don Norman
    Closes in
    0
    days
-   9
+   14
    hrs
-   13
+   1
    mins
-   47
+   22
    secs
    booked
    View Course
 
 Get Weekly UX Insights
 
-   Join 310,978 designers who get useful UX tips from our newsletter.
+   Join 310,940 designers who get useful UX tips from our newsletter.
    ____________________ A valid email address is required.
    ____________________
    (BUTTON) Go
@@ -283,7 +283,7 @@ Get Weekly UX Insights
 Topics in This Article
 
    Gamification
-   816 shares
+   818 shares
    Share Share page on Facebook Tweet Share page on Twitter Share Share
    page on LinkedIn
    (BUTTON) Cite this article
@@ -317,7 +317,7 @@ The Persona Template for Gamification
    The Persona Template for Gamification
    For any gamification project, you’ll need to do research on players in
    order to determine what they will require from th
-     * 692 shares
+     * 693 shares
      * 3 years ago
 
    Read article
@@ -348,7 +348,7 @@ Display Achievements to Encourage Website Usage
    Display Achievements to Encourage Website Usage
    You are doing so great; you’re top of the class! Don’t you just love to
    hear a compliment like this? We’re all human, an
-     * 667 shares
+     * 668 shares
      * 3 years ago
 
    Read article
@@ -389,7 +389,7 @@ Work in Games
    Very few people look forward to work. If you weren’t working, you could
    be doing something fun. Yet, work isn’t the oppo
      * 496 shares
-     * 6 mths ago
+     * 7 mths ago
 
    Read article
 
@@ -434,7 +434,7 @@ Footer navigation
 
    Interaction Design Foundation Logo
 
-   With 164,559 graduates, the Interaction Design Foundation is the
+   With 164,689 graduates, the Interaction Design Foundation is the
    biggest online design school globally. We were founded in 2002.
 
 Connect With Us
@@ -447,7 +447,7 @@ Connect With Us
 
 Get Inspired Weekly
 
-   Join 310,978 designers and get weekly inspiration and design tips in
+   Join 310,940 designers and get weekly inspiration and design tips in
    your inbox.
    Email ____________________ ____________________
    (BUTTON) Subscribe
@@ -525,11 +525,11 @@ Cite according to academic standards
    Kumar, J., Herger, M. and Dam, R. F. (2022, February 19). A Brief
    History of Games. Interaction Design Foundation - IxDF.
    Kumar, Janaki., Herger, Mario. and Dam, Rikke Friis. “A Brief History
-   of Games” Interaction Design Foundation - IxDF. 3 Dec. 2023
+   of Games” Interaction Design Foundation - IxDF. 6 Dec. 2023
    J. Kumar., M. Herger. and R. F. Dam. “A Brief History of Games”
-   Interaction Design Foundation - IxDF. (accessed Dec. 3, 2023).
+   Interaction Design Foundation - IxDF. (accessed Dec. 6, 2023).
    Janaki Kumar., Mario Herger. and Rikke Friis Dam. 2022. A Brief History
-   of Games Retrieved December 3, 2023 from
+   of Games Retrieved December 6, 2023 from
    [ ] Cite selection
    Copied to clipboard!
 
@@ -549,7 +549,7 @@ New to UX Design? We’re giving you a free ebook!
    (BUTTON) Download free ebook Go
    A valid email address is required.
    [X] Get free UX design learning material every week
-   310,978 designers enjoy our newsletter—sure you don’t want to receive
+   310,940 designers enjoy our newsletter—sure you don’t want to receive
    it?
 
    (BUTTON)
@@ -568,5 +568,5 @@ New to UX Design? We’re Giving You a Free ebook!
    (BUTTON) Download free ebook Go
    A valid email address is required.
    [X] Get free UX design learning material every week
-   310,978 designers enjoy our newsletter—sure you don’t want to receive
+   310,940 designers enjoy our newsletter—sure you don’t want to receive
    it?

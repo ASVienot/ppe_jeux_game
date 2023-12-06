@@ -362,7 +362,7 @@ Written by Mike Ludo
 
    Sound & Design
 
-   Healthy Food & Art mikeludo.com | mykeff.com |
+   Ciao, buon appetito. mikeludo.com youtube.com/@mykeff
    amazon.com/author/michaelfilimowicz
    Follow
    (BUTTON)
@@ -463,18 +463,18 @@ Understanding Games: How Video Games & Board Games Work
    --
    (BUTTON)
 
-   The Enchanted Scribe Presents — The Art of Campaign Creation: Adapting
-   the Story Spine Structure to D&D Using ChatGPT
-   Danny McKeever
+   Unplugged Entertainment: 15 Fun Board Games to Pass the Time
+   Charles McKinven
 
-   Danny McKeever
+   Charles McKinven
 
-The Art of Campaign Creation: Adapting the Story Spine Structure to D&D Using
-ChatGPT
+Unplugged Entertainment: 15 Fun Board Games to Pass the Time
 
-Introduction: Understanding D&D’s Narrative Layers
+In the digital age, where screens dominate our leisure time, there’s
+something special about gathering around a table to enjoy a board…
 
-   5 min read·Sep 13
+   (BUTTON)
+   ·4 min read·Nov 4
 
    --
 
@@ -482,54 +482,70 @@ Lists
 
 Stories to Help You Grow as a Designer
 
-   11 stories·415 saves
+   11 stories·420 saves
    Bogus invitation for interview email
 
 Interesting Design Topics
 
-   203 stories·257 saves
+   203 stories·261 saves
    A phone with a tweet on it describing a deepfake video of the Ukrainian
    president, with a labeled fake image in the background
 
 AI Regulation
 
-   6 stories·208 saves
+   6 stories·210 saves
 
 Figma 101
 
-   7 stories·303 saves
+   7 stories·309 saves
 
-   Re-Thinking The ‘When’ And ‘How’ Of Brain Death
-   Gabriel A. Silva
+   Game Designer’s Creative Secrets | Design Patterns
+   Vinicius Antonio
 
-   Gabriel A. Silva
+   Vinicius Antonio
 
-Re-Thinking The ‘When’ And ‘How’ Of Brain Death
+Game Designer’s Creative Secrets | Design Patterns
 
-In an article published yesterday in MIT Technology Review, Rachel Nuwer
-wrote a thought provoking piece exploring the boundaries between…
+A brief introduction to Game Design Patterns, a way to visualize and create
+mechanics for your games
 
-   4 min read·4 days ago
+   4 min read·Sep 29
 
    --
 
-   4
+   1
 
-   The ChatGPT Hype Is Over — Now Watch How Google Will Kill ChatGPT.
-   AL Anany
+   end of ux?
+   Michal Malewicz
 
-   AL Anany
+   Michal Malewicz
 
-The ChatGPT Hype Is Over — Now Watch How Google Will Kill ChatGPT.
+Golden age of UX is over?
 
-It never happens instantly. The business game is longer than you know.
+We’re living in a post-design era.
 
    (BUTTON)
-   ·6 min read·Sep 1
+   ·7 min read·Jul 31
 
    --
 
-   612
+   70
+
+   Diablo 4’s Beta Shows the Horror of Modern AAA Design
+   Josh Bycer
+
+   Josh Bycer
+
+Diablo 4’s Beta Shows the Horror of Modern AAA Design
+
+A Bloody, Sanitized Experience
+
+   (BUTTON)
+   ·6 min read·Apr 11
+
+   --
+
+   6
 
    UI/ UX Designer — A trendy career is coming to an end?
    Sylvie Vu
@@ -545,24 +561,7 @@ UX Designer who told me that “Hey, you should move to the UI/…
 
    --
 
-   154
-
-   Attack on Titan: A Compelling Journey into Humanity, Morality, and
-   Power
-   Wadood
-
-   Wadood
-
-Attack on Titan: A Compelling Journey into Humanity, Morality, and Power
-
-Photo by Dex Ezekiel on Unsplash
-
-   (BUTTON)
-   ·4 min read·1 day ago
-
-   --
-
-   1
+   156
    See more recommendations
 
    Help

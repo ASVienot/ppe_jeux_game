@@ -26,8 +26,8 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
 </style>
 <link rel='stylesheet' id='wp-show-posts-css' href='https://www.moneyunder30.com/wp-content/plugins/wp-show-posts/css/wp-show-posts-min.css?ver=1.1.4' media='all' />
-<link rel='stylesheet' id='lasso-live-css' href='https://www.moneyunder30.com/wp-content/plugins/lasso/admin/assets/css/lasso-live.min.css?ver=1699641814' media='all' />
-<link rel='stylesheet' id='lasso-table-frontend-css' href='https://www.moneyunder30.com/wp-content/plugins/lasso/admin/assets/css/lasso-table-frontend.min.css?ver=1699641814' media='all' />
+<link rel='stylesheet' id='lasso-live-css' href='https://www.moneyunder30.com/wp-content/plugins/lasso/admin/assets/css/lasso-live.min.css?ver=1701809122' media='all' />
+<link rel='stylesheet' id='lasso-table-frontend-css' href='https://www.moneyunder30.com/wp-content/plugins/lasso/admin/assets/css/lasso-table-frontend.min.css?ver=1701809122' media='all' />
 <link rel='stylesheet' id='generate-style-grid-css' href='https://www.moneyunder30.com/wp-content/themes/generatepress/assets/css/unsemantic-grid.min.css?ver=3.3.0' media='all' />
 <link rel='stylesheet' id='generate-style-css' href='https://www.moneyunder30.com/wp-content/themes/generatepress/assets/css/style.min.css?ver=3.3.0' media='all' />
 <style id='generate-style-inline-css'>
@@ -741,7 +741,7 @@ padding: 10px 15px 30px;}
 				}
 			</style><noscript><style>.perfmatters-lazy[data-src]{display:none !important;}</style></noscript><style>.perfmatters-lazy.pmloaded,.perfmatters-lazy.pmloaded>img,.perfmatters-lazy>img.pmloaded,.perfmatters-lazy[data-ll-status=entered]{animation:500ms pmFadeIn}@keyframes pmFadeIn{0%{opacity:0}100%{opacity:1}}</style></head>
 
-<body class="page-template-default page page-id-105413 page-child parent-pageid-155685 wp-custom-logo wp-embed-responsive post-image-below-header post-image-aligned-right sticky-menu-fade mobile-header mobile-header-logo mobile-header-sticky wp-schema-pro-2.7.10 lasso-v321 no-sidebar nav-below-header one-container fluid-header active-footer-widgets-3 nav-aligned-center header-aligned-center dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+<body class="page-template-default page page-id-105413 page-child parent-pageid-155685 wp-custom-logo wp-embed-responsive post-image-below-header post-image-aligned-right sticky-menu-fade mobile-header mobile-header-logo mobile-header-sticky wp-schema-pro-2.7.10 lasso-v323 no-sidebar nav-below-header one-container fluid-header active-footer-widgets-3 nav-aligned-center header-aligned-center dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
 	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<nav id="mobile-header" itemtype="https://schema.org/SiteNavigationElement" itemscope class="main-navigation mobile-header-navigation has-branding has-sticky-branding">
 			<div class="inside-navigation grid-container grid-parent">
 				<div class="site-logo mobile-header-logo">
@@ -1763,16 +1763,21 @@ _lc.additional_params_map = {
 };
 </script>
 			<!-- Lasso tracking events - Performance -->
-			<script type="text/javascript" src="https://js.getlasso.co/lasso-performance.min.js?ver=321" defer></script>
+			<script type="text/javascript" src="https://js.getlasso.co/lasso-performance.min.js?ver=323" defer></script>
 			<script type="text/javascript" defer>
 				document.addEventListener("DOMContentLoaded", function() {
-					LassoEvents.init({
-						'lssid': 'f7b543572d9d6ec47f35a9edd88b99e7',
-						'lsid': 'ls-40455edb0e1d15f4d79ad383a9825412',
-						'pid': '105413',
-						'ipa': '',
-						'performance': '1',
-					});
+					let lasso_event = setInterval(() => {
+						if (typeof LassoEvents !== 'undefined') {
+							clearInterval(lasso_event);
+							LassoEvents.init({
+								'lssid': 'f7b543572d9d6ec47f35a9edd88b99e7',
+								'lsid': 'ls-3db8e881bef5e2e93ea236505e280753',
+								'pid': '105413',
+								'ipa': '',
+								'performance': '1',
+							});
+						}
+					}, 200);
 				});
 			</script>
 			<script id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><script src="https://static.myfinance.com/widget/myFinance.js"></script><script src='https://www.moneyunder30.com/wp-content/plugins/gp-premium/menu-plus/functions/js/sticky.min.js?ver=2.3.2' id='generate-sticky-js'></script>

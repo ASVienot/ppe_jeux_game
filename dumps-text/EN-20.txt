@@ -33,6 +33,26 @@ Webinars
    Search  everything  in all resources
 
      * Browse
+     * Learning Areas
+          + English
+          + Numeracy
+          + Science
+          + Health/P.E.
+          + Geography
+          + Technology
+          + The Arts
+          + Social Studies
+          + History
+          + Languages (Other Than English)
+          + Special Educational Needs
+          + All Learning Areas →
+     * Stages
+          + Foundation Stage
+          + Key Stage 1
+          + Key Stage 2 Lower
+          + Key Stage 2 Upper
+          + Key Stage 3
+          + All Stages →
 
      * Christmas 2023
      * FREE
@@ -63,9 +83,9 @@ Webinars
 
    Topics
      * Christmas 2023
+     * Back to School 2023
      * Maths Warm-ups
-     * Maths Games
-     * Little Learners Month
+     * Escape Room Activities
      * Classroom Events
      * National Curriculum
      * Free Resources All Topics

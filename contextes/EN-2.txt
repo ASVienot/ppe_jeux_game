@@ -1184,22 +1184,23 @@ Video game
    Video games have caused controversy since the 1970s.^[124] Parents and
    children's advocates regularly raise concerns that violent video games
    can influence young players into performing those violent acts in real
-   life, and events such as the Columbine High School massacre in 1999 in
-   which the perpetrators specifically alluded to using video games to
-   plot out their attack, raised further fears.^[citation needed] Medical
-   experts and mental health professionals have also raised concerned that
-   video games may be addictive, and the World Health Organization has
-   included "gaming disorder" in the 11th revision of its International
 --
-   the American Psychiatric Association, have stated that there is
-   insufficient evidence that video games can create violent tendencies or
-   lead to addictive behavior,^[125] though agree that video games
-   typically use a compulsion loop in their core design that can create
+   which some claimed the perpetrators specifically alluded to using video
+   games to plot out their attack, raised further fears.^[citation needed]
+   Medical experts and mental health professionals have also raised
+   concerned that video games may be addictive, and the World Health
+   Organization has included "gaming disorder" in the 11th revision of its
 --
-   behavior.^[126]^[127]^[128] Even with case law establishing that video
-   games qualify as a protected art form, there has been pressure on the
-   video game industry to keep their products in check to avoid
-   over-excessive violence particularly for games aimed at younger
+   experts, including the American Psychiatric Association, have stated
+   that there is insufficient evidence that video games can create violent
+   tendencies or lead to addictive behavior,^[125] though agree that video
+   games typically use a compulsion loop in their core design that can
+   create dopamine that can help reinforce the desire to continue to play
+--
+   addictive behavior.^[126]^[127]^[128] Even with case law establishing
+   that video games qualify as a protected art form, there has been
+   pressure on the video game industry to keep their products in check to
+   avoid over-excessive violence particularly for games aimed at younger
    children. The potential addictive behavior around games, coupled with
    increased used of post-sale monetization of video games, has also
    raised concern among parents, advocates, and government officials about
@@ -1781,7 +1782,7 @@ Video game
 
 --
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Video_game&oldid=1180909347
+   "https://en.wikipedia.org/w/index.php?title=Video_game&oldid=1188389972
    "
 --
    Categories:
