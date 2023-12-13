@@ -1,9 +1,9 @@
-    #OFDT - NouveautÃ©s OFDT - DonnÃ©es europÃ©ennes
+    #OFDT - Nouveautés OFDT - Données européennes
 
      * Aller au menu
      * Aller au contenu
-     * Aller Ã  la recherche
-     * Aide accessibilitÃ©
+     * Aller à la recherche
+     * Aide accessibilité
 
    (BUTTON) Afficher le menu OFDT
    ____________________
@@ -15,39 +15,39 @@
      * EN
 
      * L'OFDT
-          + AssemblÃ©e gÃ©nÃ©rale
-          + CollÃ¨ge scientifique
-          + Ã‰quipe
+          + Assemblée générale
+          + Collège scientifique
+          + Équipe
           + Reitox
           + Appels d'offres
           + Recrutement
-     * ActualitÃ©s et presse
-          + NouveautÃ©s OFDT
+     * Actualités et presse
+          + Nouveautés OFDT
           + Lettre Actu
           + Infos presse
      * Produits et addictions
           + Toutes substances confondues
-          + De A Ã  Z
+          + De A à Z
      * Populations et contextes
-          + Usages de drogues Ã  l'adolescence
-          + Usages de drogues fÃ©minins
-          + Drogues et sÃ©curitÃ© routiÃ¨re
+          + Usages de drogues à l'adolescence
+          + Usages de drogues féminins
+          + Drogues et sécurité routière
           + Addictions et milieu professionnel
-          + Addictions en milieu carcÃ©ral
-     * RÃ©gions et territoires
-          + AccÃ¨s aux donnÃ©es par rÃ©gions
-          + RÃ©seau des sites TREND
+          + Addictions en milieu carcéral
+     * Régions et territoires
+          + Accès aux données par régions
+          + Réseau des sites TREND
           + Focus sur les DOM
      * Europe et international
-          + ActualitÃ©s europÃ©ennes
+          + Actualités européennes
           + Projets internationaux
      * Publications de l'OFDT
           + Collections
           + Date de parution
-     * Dispositifs d'enquÃªte et d'observation
+     * Dispositifs d'enquête et d'observation
           + ARAMIS 2
           + ASTRACAN
-          + Baro SantÃ© publique France
+          + Baro Santé publique France
           + CIPPAL
           + E-Games
           + EMOA
@@ -65,33 +65,33 @@
           + TUPSALCO
           + Sources statistiques
      * Statistiques et infographie
-          + SÃ©ries statistiques
+          + Séries statistiques
           + Tableau de bord tabac
           + Tableau de bord annuel TSO
           + Bilan annuel Alcool
-          + Bilan annuel Jeux dâ€™argent et de hasard
-          + Lâ€™offre de stupÃ©fiants en France
+          + Bilan annuel Jeux d'argent et de hasard
+          + L'offre de stupéfiants en France
           + Infographies
      * Aide aux acteurs
-          + PrÃ©vention
-          + RepÃ©rage prÃ©coce
+          + Prévention
+          + Repérage précoce
           + Traitements
-          + RÃ©duction des risques
-          + Ã‰valuation
+          + Réduction des risques
+          + Évaluation
 
     1. Accueil
     2. Produits et addictions
-    3. De A Ã  Z
+    3. De A à Z
     4. Jeux d'argent et de hasard
 
    A+ A-
      * Alcool
      * Cannabis
-     * CocaÃ¯ne/crack
-     * HallucinogÃ¨nes
-     * HÃ©roine et opioÃ¯des
+     * Cocaïne/crack
+     * Hallucinogènes
+     * Héroine et opioïdes
      * MDMA/Ecstasy
-     * MÃ©dicaments
+     * Médicaments
      * NPS
      * Solvants
      * Tabac
@@ -103,150 +103,150 @@
 Jeux d'argent et de hasard
 
 
-   En application de lâ€™ordonnance nÂ° 2019-1015 du 2 octobre 2019 rÃ©formant
-   la rÃ©gulation des jeux dâ€™argent et de hasard et du dÃ©cret nÂ° 2020-494
-   du 28 avril 2020 relatif aux modalitÃ©s de mise Ã  disposition de l'offre
-   de jeux et des donnÃ©es de jeux, les missions de lâ€™Observatoire des jeux
-   ont Ã©tÃ© transfÃ©rÃ©es Ã  lâ€™OFDT le 1er juillet 2020.
+   En application de l'ordonnance n° 2019-1015 du 2 octobre 2019 réformant
+   la régulation des jeux d'argent et de hasard et du décret n° 2020-494
+   du 28 avril 2020 relatif aux modalités de mise à disposition de l'offre
+   de jeux et des données de jeux, les missions de l'Observatoire des jeux
+   ont été transférées à l'OFDT le 1er juillet 2020.
 
-   Depuis sa mise en place, lâ€™ensemble de la production de lâ€™ODJ a Ã©tÃ©
-   mise Ã  disposition des citoyens, des professionnels et des dÃ©cideurs
-   sur son site Internet. Dans le cadre du transfert et de la continuitÃ©
-   des missions, ces contenus sont dÃ©sormais accessibles sous forme
+   Depuis sa mise en place, l'ensemble de la production de l'ODJ a été
+   mise à disposition des citoyens, des professionnels et des décideurs
+   sur son site Internet. Dans le cadre du transfert et de la continuité
+   des missions, ces contenus sont désormais accessibles sous forme
    d'archive.
 
 
-pss_presentation.jpg PrÃ©sentation
+pss_presentation.jpg Présentation
 
    top4.jpg haut du document
 
-   Les jeux dâ€™argent et de hasard (JAH) sont dÃ©finis comme Â« toutes
-   opÃ©rations offertes au public, sous quelque dÃ©nomination que ce soit,
-   pour faire naÃ®tre lâ€™espÃ©rance dâ€™un gain qui serait duÌ‚, mÃªme
+   Les jeux d'argent et de hasard (JAH) sont définis comme « toutes
+   opérations offertes au public, sous quelque dénomination que ce soit,
+   pour faire naître l'espérance d'un gain qui serait du^, même
    partiellement, au hasard et pour lesquelles un sacrifice financier est
-   exigÃ© de la part des participants Â». Il sâ€™agit actuellement en France :
-     * Des jeux de tirage. Jeu de loterie oÃ¹ le joueur, en misant une
-       somme dâ€™argent, essaie de trouver quels seront les numÃ©ros gagnants
-       qui sont tirÃ©s au hasard. Pour cela, le joueur coche/sÃ©lectionne
-       dans une grille un ou plusieurs numÃ©ros.
+   exigé de la part des participants ». Il s'agit actuellement en France :
+     * Des jeux de tirage. Jeu de loterie où le joueur, en misant une
+       somme d'argent, essaie de trouver quels seront les numéros gagnants
+       qui sont tirés au hasard. Pour cela, le joueur coche/sélectionne
+       dans une grille un ou plusieurs numéros.
 
-     * Des jeux de grattage. Jeu de loterie oÃ¹ le joueur achÃ¨te un ticket
-       qui contient une ou plusieurs cases Ã  gratter pour dÃ©couvrir sâ€™il a
-       gagnÃ©.
+     * Des jeux de grattage. Jeu de loterie où le joueur achète un ticket
+       qui contient une ou plusieurs cases à gratter pour découvrir s'il a
+       gagné.
 
-     * Des paris hippiques. Ce jeu consiste Ã  parier de lâ€™argent sur
-       lâ€™issue dâ€™une course de chevaux.
+     * Des paris hippiques. Ce jeu consiste à parier de l'argent sur
+       l'issue d'une course de chevaux.
 
-     * Des paris sportifs. Ce jeu consiste Ã  parier de lâ€™argent sur
-       lâ€™issue dâ€™une rencontre sportive (ex : prÃ©ciser le score final,
+     * Des paris sportifs. Ce jeu consiste à parier de l'argent sur
+       l'issue d'une rencontre sportive (ex : préciser le score final,
        choisir un gagnant).
 
-     * Du poker. Jeu de cartes qui se pratique Ã  plusieurs joueurs qui
-       misent de lâ€™argent (le poker gratuit nâ€™est pas inclus dans
-       lâ€™enquÃªte). Le but du jeu est de remporter les jetons des
+     * Du poker. Jeu de cartes qui se pratique à plusieurs joueurs qui
+       misent de l'argent (le poker gratuit n'est pas inclus dans
+       l'enquête). Le but du jeu est de remporter les jetons des
        adversaires en constituant la meilleure combinaison de cartes. Il
        comprend de nombreuses formes et variantes.
 
-     * Des machines Ã  sous. Celles-ci se prÃ©sentent sous une forme
-       mÃ©canique ou Ã©lectronique. Le joueur doit insÃ©rer de l'argent pour
+     * Des machines à sous. Celles-ci se présentent sous une forme
+       mécanique ou électronique. Le joueur doit insérer de l'argent pour
        actionner des rouleaux dont la combinaison finale permet de
-       remporter ou non un gain. Les parties sont gÃ©nÃ©ralement trÃ¨s
+       remporter ou non un gain. Les parties sont généralement très
        rapides.
 
      * Des jeux de casino. Un casino est un lieu proposant des jeux
-       dâ€™argent et de hasard. En dehors des machines Ã  sous et du poker,
-       les casinos gÃ¨rent dâ€™autres jeux tels que : la roulette, le craps,
+       d'argent et de hasard. En dehors des machines à sous et du poker,
+       les casinos gèrent d'autres jeux tels que : la roulette, le craps,
        le black jack et autres jeux de cartes, le baccara et autres jeux
-       de dÃ©s.
+       de dés.
 
-   Tous ces types de jeux font lâ€™objet dâ€™une offre lÃ©gale ouverte au
-   public majeur par lâ€™intermÃ©diaire dâ€™un rÃ©seau physique de vente et/ou
-   sur Internet (sauf pour les machines Ã  sous et jeux de casino). Ils
-   sont rÃ©gulÃ©s au titre de la rÃ©glementation des jeux dâ€™argent et de
-   hasard. Dâ€™autres types de jeux pouvant Ãªtre assimilÃ©s Ã  ces derniers
-   sont pratiquÃ©s mais ne sont pas rÃ©gulÃ©s. Il sâ€™agit notamment des paris
-   sur des compÃ©titions de e-sports (compÃ©titions de jeux Ã©lectroniques
+   Tous ces types de jeux font l'objet d'une offre légale ouverte au
+   public majeur par l'intermédiaire d'un réseau physique de vente et/ou
+   sur Internet (sauf pour les machines à sous et jeux de casino). Ils
+   sont régulés au titre de la réglementation des jeux d'argent et de
+   hasard. D'autres types de jeux pouvant être assimilés à ces derniers
+   sont pratiqués mais ne sont pas régulés. Il s'agit notamment des paris
+   sur des compétitions de e-sports (compétitions de jeux électroniques
    tels que League of Legends ou Super Smash Bros).
 
-   Dâ€™autres jeux peuvent Ãªtre pratiquÃ©s avec mises et gains (non autorisÃ©s
+   D'autres jeux peuvent être pratiqués avec mises et gains (non autorisés
    par la loi), impliquant au moins une part de hasard : des jeux de
-   cartes, des jeux de sociÃ©tÃ© ou de stratÃ©gie, des jeux dâ€™adresse (tels
-   que le billard, les flÃ©chettes, la pÃ©tanque, etc.).
+   cartes, des jeux de société ou de stratégie, des jeux d'adresse (tels
+   que le billard, les fléchettes, la pétanque, etc.).
 
-   Par ailleurs, peuvent Ãªtre considÃ©rÃ©s comme des JAH certains paris
-   financiers de type hautement spÃ©culatifs (le Forex et les options
-   binaires, c'est-Ã -dire dont l'issue n'a que deux solutions). Il sâ€™agit
-   de parier sur la hausse ou la baisse d'un actif financier ou dâ€™une
-   monnaie sur une pÃ©riode de temps trÃ¨s courte. Ce type de spÃ©culation
-   demeure aujourdâ€™hui marginale.
+   Par ailleurs, peuvent être considérés comme des JAH certains paris
+   financiers de type hautement spéculatifs (le Forex et les options
+   binaires, c'est-à-dire dont l'issue n'a que deux solutions). Il s'agit
+   de parier sur la hausse ou la baisse d'un actif financier ou d'une
+   monnaie sur une période de temps très courte. Ce type de spéculation
+   demeure aujourd'hui marginale.
 
 
 pss_production_offre.jpg Production / offre
 
    top4.jpg haut du document
 
-Un secteur Ã©conomique ancien et important
+Un secteur économique ancien et important
 
-   D'abord interdits par l'Ã‰tat royal et longtemps clandestins, les jeux
-   de hasard et d'argent ont Ã©tÃ© lÃ©galisÃ©s en France Ã  la fin du XVIIIe
-   siÃ¨cle avec la crÃ©ation de la Loterie royale. DÃ¨s le XIXe siÃ¨cle, les
-   casinos apparaissent (dÃ©cret de 1806), suivis au XXe siÃ¨cle par le PMU
+   D'abord interdits par l'État royal et longtemps clandestins, les jeux
+   de hasard et d'argent ont été légalisés en France à la fin du XVIIIe
+   siècle avec la création de la Loterie royale. Dès le XIXe siècle, les
+   casinos apparaissent (décret de 1806), suivis au XXe siècle par le PMU
    (Pari mutuel urbain, en 1931) et la Loterie nationale (en 1933). Ces
-   trois opÃ©rateurs de jeux se partagent encore actuellement en France la
+   trois opérateurs de jeux se partagent encore actuellement en France la
    plus grande part du secteur du jeu.
 
-   Le PMU bÃ©nÃ©ficie dâ€™une situation de monopole pour commercialiser des
-   paris hippiques (hors hippodromes) via son rÃ©seau de points de vente
-   rÃ©partis sur le territoire national (13 436 points de vente recensÃ©s en
-   2022). De mÃªme, la FranÃ§aise des jeux (FDJ) bÃ©nÃ©ficie dâ€™une situation
+   Le PMU bénéficie d'une situation de monopole pour commercialiser des
+   paris hippiques (hors hippodromes) via son réseau de points de vente
+   répartis sur le territoire national (13 436 points de vente recensés en
+   2022). De même, la Française des jeux (FDJ) bénéficie d'une situation
    similaire pour la commercialisation de jeux de tirage/grattage et de
    paris sportifs en point de vente (environ 29 862 en 2022). Les 203
-   Ã©tablissements de casinos viennent Ã©toffer cette offre physique en
-   commercialisant des jeux de tables et de machines Ã  sous. Cette offre
-   physique de jeux est complÃ©tÃ©e par une offre sur Internet oÃ¹, depuis
-   2010, la France a mis en place un nouveau rÃ©gime dâ€™agrÃ©ments
-   dâ€™opÃ©rateurs privÃ©s sur un secteur limitÃ© de jeux dâ€™argent : paris
+   établissements de casinos viennent étoffer cette offre physique en
+   commercialisant des jeux de tables et de machines à sous. Cette offre
+   physique de jeux est complétée par une offre sur Internet où, depuis
+   2010, la France a mis en place un nouveau régime d'agréments
+   d'opérateurs privés sur un secteur limité de jeux d'argent : paris
    sportifs, paris hippiques, jeux de cercle. Seuls les jeux de loterie en
    ligne restent sous monopole de la FDJ.
 
 Les jeux d'argent sur Internet
 
-   Lâ€™offre rÃ©gulÃ©e de jeux dâ€™argent et de hasard sur Internet se limite
+   L'offre régulée de jeux d'argent et de hasard sur Internet se limite
    aux secteurs suivants : les jeux de loterie (tirage ou grattage) pour
    67 %, les paris sportifs (50 %), le poker (32 %) et les paris hippiques
-   (23 %). Sâ€™il Ã©tait possible dâ€™engager une prise de jeu aux paris
-   sportifs et aux paris hippiques sur Internet via lâ€™offre commerciale de
-   la FDJ et du PMU, la loi du 12 mai 2010 a permis lâ€™arrivÃ©e de nouveaux
-   acteurs dans un secteur dâ€™activitÃ© jusque-lÃ  sous monopole. Avec une
-   ouverture maÃ®trisÃ©e Ã  la concurrence sur trois segments (paris
+   (23 %). S'il était possible d'engager une prise de jeu aux paris
+   sportifs et aux paris hippiques sur Internet via l'offre commerciale de
+   la FDJ et du PMU, la loi du 12 mai 2010 a permis l'arrivée de nouveaux
+   acteurs dans un secteur d'activité jusque-là sous monopole. Avec une
+   ouverture maîtrisée à la concurrence sur trois segments (paris
    sportifs, paris hippiques et jeux de cercle), la France a vu
-   sâ€™implanter sur son marchÃ© de nouveaux opÃ©rateurs. Fin 2022, 17
-   opÃ©rateurs se partageaient 30 agrÃ©ments.
+   s'implanter sur son marché de nouveaux opérateurs. Fin 2022, 17
+   opérateurs se partageaient 30 agréments.
 
-   RÃ©fÃ©rences :
+   Références :
      * Eroukmanoff V, Les jeux d'argent et de hasard en 2022, OFDT, 2023,
        9 p.
 
 Impacts financiers des jeux d'argent et de hasard
 
-   Lâ€™industrie des jeux dâ€™argent et de hasard draine plusieurs dizaines de
-   milliers dâ€™emplois directs et indirects et totalisait en 2022 un
-   chiffre dâ€™affaires de prÃ¨s de 12,9 milliards d'euros. Les dÃ©penses de
-   jeu nâ€™ont cessÃ© de croÃ®tre et reprÃ©sentent 12,0 % des dÃ©penses liÃ©es
-   aux loisirs et Ã  la culture (contre 8,9 % en 2008). Actuellement, la
-   dÃ©pense nette par habitant majeur sâ€™Ã©lÃ¨ve Ã  un peu plus de 240 euros
+   L'industrie des jeux d'argent et de hasard draine plusieurs dizaines de
+   milliers d'emplois directs et indirects et totalisait en 2022 un
+   chiffre d'affaires de près de 12,9 milliards d'euros. Les dépenses de
+   jeu n'ont cessé de croître et représentent 12,0 % des dépenses liées
+   aux loisirs et à la culture (contre 8,9 % en 2008). Actuellement, la
+   dépense nette par habitant majeur s'élève à un peu plus de 240 euros
    (contre 169 euros en 2008).
 
-   En France, la fiscalitÃ© des jeux est assise sur les mises (Ã 
-   lâ€™exception des casinos), chaque activitÃ© faisant lâ€™objet de
-   prÃ©lÃ¨vements spÃ©cifiques. La rÃ©forme dessinÃ©e par la loi PACTE (plan
+   En France, la fiscalité des jeux est assise sur les mises (à
+   l'exception des casinos), chaque activité faisant l'objet de
+   prélèvements spécifiques. La réforme dessinée par la loi PACTE (plan
    d'action pour la croissance et la transformation des entreprises) en
-   2019 entraÃ®ne Ã©galement une refonte partielle de la fiscalitÃ© associÃ©e
-   aux jeux dâ€™argent : pour les paris sportifs en ligne, lâ€™assiette des
-   prÃ©lÃ¨vements initialement assis sur le volume des mises est reportÃ©e
-   sur le produit brut des jeux des opÃ©rateurs au 1er janvier 2020.
+   2019 entraîne également une refonte partielle de la fiscalité associée
+   aux jeux d'argent : pour les paris sportifs en ligne, l'assiette des
+   prélèvements initialement assis sur le volume des mises est reportée
+   sur le produit brut des jeux des opérateurs au 1er janvier 2020.
 
-   RÃ©fÃ©rences :
+   Références :
      * Eroukmanoff V, Les jeux d'argent et de hasard en 2022, OFDT, 2023,
        9 p.
 
@@ -255,139 +255,139 @@ pss_consommation.jpg Consommation
 
    top4.jpg haut du document
 
-Ã€ l'adolescence
+À l'adolescence
 
-   En 2022, 27,5 % des 17 ans ont rÃ©pondu avoir jouÃ© Ã  un jeu dâ€™argent et
-   de hasard au moins une fois dans lâ€™annÃ©e et 4,0 % ont dit avoir jouÃ© au
+   En 2022, 27,5 % des 17 ans ont répondu avoir joué à un jeu d'argent et
+   de hasard au moins une fois dans l'année et 4,0 % ont dit avoir joué au
    moins une fois par semaine. Bien que le recul de la pratique des JAH
-   entre 2017 et 2022 sâ€™observe quel que soit le sexe, celle-ci reste plus
-   Ã©levÃ©e chez les garÃ§ons que chez les filles. Ainsi, il y avait prÃ¨s
-   dâ€™un tiers de joueurs dans lâ€™annÃ©e parmi les garÃ§ons en 2022 (32,2 %),
+   entre 2017 et 2022 s'observe quel que soit le sexe, celle-ci reste plus
+   élevée chez les garçons que chez les filles. Ainsi, il y avait près
+   d'un tiers de joueurs dans l'année parmi les garçons en 2022 (32,2 %),
    contre 47,0 % en 2017. Chez les filles, il y avait 22,7 % de joueuses
-   dans lâ€™annÃ©e en 2022, contre 30,5 % en 2017.
-   Les jeux de tirage, de grattage ou jeux instantanÃ©s constituent la
-   premiÃ¨re catÃ©gorie de jeux pratiquÃ©s dans lâ€™annÃ©e Ã  lâ€™adolescence (20,2
-   %). Viennent ensuite les pronostics et les paris sportifs, rapportÃ©s
-   par 11,9 % des adolescents, puis les Â« jeux de casino Â», dÃ©clarÃ©s par
-   5,1 % des joueurs. Quel que soit le type de jeu, les garÃ§ons sont plus
+   dans l'année en 2022, contre 30,5 % en 2017.
+   Les jeux de tirage, de grattage ou jeux instantanés constituent la
+   première catégorie de jeux pratiqués dans l'année à l'adolescence (20,2
+   %). Viennent ensuite les pronostics et les paris sportifs, rapportés
+   par 11,9 % des adolescents, puis les « jeux de casino », déclarés par
+   5,1 % des joueurs. Quel que soit le type de jeu, les garçons sont plus
    souvent joueurs. La part des jeunes jouant sur Internet est en
-   progression, passant de 17,4 % en 2017 Ã  27,9 % en 2022.
-   En 2022, 1,3 % des jeunes de 17 ans ayant jouÃ© au moins une fois dans
-   lâ€™annÃ©e prÃ©sentent un risque Ã©levÃ© de jeu problÃ©matique, selon lâ€™Indice
-   canadien du jeu excessif (cf. infra ICJE), avec lÃ  encore, une trÃ¨s
-   nette surreprÃ©sentation masculine. RapportÃ©e Ã  lâ€™ensemble de la
-   population adolescente de 17 ans, la prÃ©valence des comportements de
-   jeux potentiellement Ã  risque excessif est estimÃ©e Ã  0,4 %.
+   progression, passant de 17,4 % en 2017 à 27,9 % en 2022.
+   En 2022, 1,3 % des jeunes de 17 ans ayant joué au moins une fois dans
+   l'année présentent un risque élevé de jeu problématique, selon l'Indice
+   canadien du jeu excessif (cf. infra ICJE), avec là encore, une très
+   nette surreprésentation masculine. Rapportée à l'ensemble de la
+   population adolescente de 17 ans, la prévalence des comportements de
+   jeux potentiellement à risque excessif est estimée à 0,4 %.
 
-   RÃ©fÃ©rences :
+   Références :
      * Brissot A., Philippon A., Spilka S. Niveaux de pratique des jeux
-       d'argent et de hasard Ã  la fin de l'adolescence en 2017. EnquÃªte
+       d'argent et de hasard à la fin de l'adolescence en 2017. Enquête
        ESCAPAD 2017. Note 2018-03. Saint-Denis, OFDT, 2018, 12 p.
-     * DATA. Les jeux dâ€™argent et de hasard Ã  17 ans. RÃ©sultats dâ€™ESCAPAD
-       2022. Tendances, OFDT, 2023, nÂ° 157, 4 p.
+     * DATA. Les jeux d'argent et de hasard à 17 ans. Résultats d'ESCAPAD
+       2022. Tendances, OFDT, 2023, n° 157, 4 p.
 
 Chez les adultes
 
-   Dâ€™aprÃ¨s les donnÃ©es du BaromÃ¨tre santÃ© 2019, 47,2 % des 18-75 ans ont
-   jouÃ© Ã  un jeu dâ€™argent et de hasard durant lâ€™annÃ©e Ã©coulÃ©e. Les jeux de
-   loterie (tirage ou grattage) sont le plus souvent dÃ©clarÃ©s (43,3 % des
+   D'après les données du Baromètre santé 2019, 47,2 % des 18-75 ans ont
+   joué à un jeu d'argent et de hasard durant l'année écoulée. Les jeux de
+   loterie (tirage ou grattage) sont le plus souvent déclarés (43,3 % des
    18-75 ans), devant les paris sportifs ou hippiques (respectivement 5,2
    % et 3,7 % des 18-75 ans), les jeux de casino et le poker. Les supports
    de jeux traditionnels (points de vente de la FDJ ou du PMU, casinos)
-   demeurent dominants mÃªme si la part des prises de jeu rÃ©alisÃ©e sur
+   demeurent dominants même si la part des prises de jeu réalisée sur
    Internet est en augmentation constante. En effet, le jeu en ligne
-   concernait, en 2019, 16,1 % de lâ€™ensemble des joueurs.
+   concernait, en 2019, 16,1 % de l'ensemble des joueurs.
 
-   Cette activitÃ© est relativement plus frÃ©quente chez les actifs, Ã¢gÃ©s de
-   25 Ã  64 ans, chez les professions intermÃ©diaires plus que chez les
-   cadres ou les professions intellectuelles supÃ©rieures.
+   Cette activité est relativement plus fréquente chez les actifs, âgés de
+   25 à 64 ans, chez les professions intermédiaires plus que chez les
+   cadres ou les professions intellectuelles supérieures.
 
-   Parmi les personnes ayant dÃ©clarÃ© avoir jouÃ© Ã  un jeu dâ€™argent et de
-   hasard au cours de lâ€™annÃ©e Ã©coulÃ©e, 4,4 % peuvent Ãªtre classÃ©s au
-   regard de lâ€™ICJE comme joueurs Ã  risque modÃ©rÃ© et 1,6 % comme des
-   joueurs excessifs. RapportÃ©e Ã  lâ€™ensemble de la population des 18-75
-   ans, cela reprÃ©senterait, respectivement, environ 1 million de
-   personnes dâ€™une part et 370 000 dâ€™autre part.
+   Parmi les personnes ayant déclaré avoir joué à un jeu d'argent et de
+   hasard au cours de l'année écoulée, 4,4 % peuvent être classés au
+   regard de l'ICJE comme joueurs à risque modéré et 1,6 % comme des
+   joueurs excessifs. Rapportée à l'ensemble de la population des 18-75
+   ans, cela représenterait, respectivement, environ 1 million de
+   personnes d'une part et 370 000 d'autre part.
 
-   RÃ©fÃ©rences :
+   Références :
      * Costes J.-M., Eroukmanoff V., Les pratiques de jeux d'argent sur
        Internet en France en 2017. Les notes de l'Observatoire des jeux,
-       ODJ, 2018, nÂ° 9, 8 p.
-     * Costes J.-M., Richard J.-B., Eroukmanoff V., Le NÃ©zet O., Philippon
-       A., Les Francais et les jeux d'argent et de hasard. RÃ©sultats du
-       BaromÃ¨tre de SantÃ© publique France 2019. Tendances, OFDT, 2020, nÂ°
+       ODJ, 2018, n° 9, 8 p.
+     * Costes J.-M., Richard J.-B., Eroukmanoff V., Le Nézet O., Philippon
+       A., Les Francais et les jeux d'argent et de hasard. Résultats du
+       Baromètre de Santé publique France 2019. Tendances, OFDT, 2020, n°
        138, 6 p.
 
 
-pss_consequences.jpg ConsÃ©quences
+pss_consequences.jpg Conséquences
 
    top4.jpg haut du document
 
-Un impact sanitaire et social encore mal dÃ©crit en France
+Un impact sanitaire et social encore mal décrit en France
 
-   Lâ€™Ã©tat des connaissances sur lâ€™impact sanitaire, le coÃ»t social et
-   individuel induit par une pratique problÃ©matique du jeu dâ€™argent est
-   encore parcellaire. Si les bÃ©nÃ©fices Ã©conomiques de lâ€™industrie du jeu
-   et ses retombÃ©es en termes dâ€™emploi sont connus, il est difficile de
-   mesurer la part des joueurs qui rencontrent des difficultÃ©s liÃ©es Ã 
-   leurs pratiques de jeu. Pourtant, lâ€™impact sur les individus et leurs
-   proches peut Ãªtre considÃ©rable. Les consÃ©quences financiÃ¨res, pouvant
-   aller jusquâ€™au surendettement ou Ã  la faillite sont les plus directes.
-   Mais les difficultÃ©s peuvent Ã©galement Ãªtre relationnelles et
-   familiales (sÃ©parations, isolementâ€¦), professionnelles (perte
-   dâ€™emploi...), psychologiques (dÃ©pression, anxiÃ©tÃ©â€¦) ou encore physiques
-   (symptÃ´mes liÃ©s Ã  la consommation associÃ©e dâ€™alcool ou dâ€™autres
-   produits psychoactifs, dÃ©nutrition, suicideâ€¦).
+   L'état des connaissances sur l'impact sanitaire, le coût social et
+   individuel induit par une pratique problématique du jeu d'argent est
+   encore parcellaire. Si les bénéfices économiques de l'industrie du jeu
+   et ses retombées en termes d'emploi sont connus, il est difficile de
+   mesurer la part des joueurs qui rencontrent des difficultés liées à
+   leurs pratiques de jeu. Pourtant, l'impact sur les individus et leurs
+   proches peut être considérable. Les conséquences financières, pouvant
+   aller jusqu'au surendettement ou à la faillite sont les plus directes.
+   Mais les difficultés peuvent également être relationnelles et
+   familiales (séparations, isolement...), professionnelles (perte
+   d'emploi...), psychologiques (dépression, anxiété...) ou encore
+   physiques (symptômes liés à la consommation associée d'alcool ou
+   d'autres produits psychoactifs, dénutrition, suicide...).
 
-   RÃ©fÃ©rence :
-     * Massin S. Ã‰tude socio-Ã©conomique des jeux de hasard et d'argent en
-       France. Marseille, UMR912 SESSTIM (Inserm / IRD UniversitÃ©
+   Référence :
+     * Massin S. Étude socio-économique des jeux de hasard et d'argent en
+       France. Marseille, UMR912 SESSTIM (Inserm / IRD Université
        Aix-Marseille) ; ORS PACA, 2014, 40 p.
 
 
-   Lâ€™Indice canadien du jeu excessif (ICJE) permet dâ€™estimer le niveau de
-   risque des joueurs sur des critÃ¨res cliniques auto-Ã©valuÃ©s.
+   L'Indice canadien du jeu excessif (ICJE) permet d'estimer le niveau de
+   risque des joueurs sur des critères cliniques auto-évalués.
    Infographie-JAH1.jpg
 
 
-pss_cadre_legal.jpg Cadre lÃ©gal et orientations publiques rÃ©centes
+pss_cadre_legal.jpg Cadre légal et orientations publiques récentes
 
    top4.jpg haut du document
 
-   Au cours de la derniÃ¨re dÃ©cennie (2010 â€“ 2020), le contexte
-   rÃ©glementaire relatif aux jeux dâ€™argent et de hasard a profondÃ©ment
-   Ã©voluÃ©.
+   Au cours de la dernière décennie (2010 - 2020), le contexte
+   réglementaire relatif aux jeux d'argent et de hasard a profondément
+   évolué.
 
-   En 2010, la France sâ€™est dotÃ©e dâ€™un nouveau cadre lÃ©gal et
-   rÃ©glementaire rÃ©gulant le secteur des jeux d'argent et de hasard en
-   ligne (loi du 12 mai 2010) en introduisant une ouverture maÃ®trisÃ©e Ã  la
-   concurrence du marchÃ© des paris en ligne (paris sportifs, paris
-   hippiques et jeux de cercle), mettant fin au monopole dâ€™Ã‰tat de la FDJ
-   et du PMU. Cette loi confie la rÃ©gulation du marchÃ© des jeux d'argent
-   et de hasard en ligne Ã  une autoritÃ© administrative indÃ©pendante,
-   lâ€™autoritÃ© de rÃ©gulation des jeux en ligne (ARJEL).
+   En 2010, la France s'est dotée d'un nouveau cadre légal et
+   réglementaire régulant le secteur des jeux d'argent et de hasard en
+   ligne (loi du 12 mai 2010) en introduisant une ouverture maîtrisée à la
+   concurrence du marché des paris en ligne (paris sportifs, paris
+   hippiques et jeux de cercle), mettant fin au monopole d'État de la FDJ
+   et du PMU. Cette loi confie la régulation du marché des jeux d'argent
+   et de hasard en ligne à une autorité administrative indépendante,
+   l'autorité de régulation des jeux en ligne (ARJEL).
 
-   En 2019, Ã  lâ€™occasion de loi PACTE du 22 mai 2019 nÂ° 2019-486 relative
-   Ã  la croissance et la transformation des entreprises qui prÃ©voie
-   notamment la privatisation de la FDJ, la rÃ©gulation du secteur des jeux
-   dâ€™argent a Ã©tÃ© rÃ©formÃ©e et confiÃ©e Ã  lâ€™AutoritÃ© Nationale des Jeux
-   (ANJ) qui succÃ¨de Ã  lâ€™AutoritÃ© de rÃ©gulation des jeux en ligne (ARJEL)
-   avec un pÃ©rimÃ¨tre Ã©largi et des pouvoirs renforcÃ©s.
+   En 2019, à l'occasion de loi PACTE du 22 mai 2019 n° 2019-486 relative
+   à la croissance et la transformation des entreprises qui prévoie
+   notamment la privatisation de la FDJ, la régulation du secteur des jeux
+   d'argent a été réformée et confiée à l'Autorité Nationale des Jeux
+   (ANJ) qui succède à l'Autorité de régulation des jeux en ligne (ARJEL)
+   avec un périmètre élargi et des pouvoirs renforcés.
 
-   Dans lâ€™objectif de contribuer Ã  rÃ©aliser les objectifs de la politique
-   de lâ€™Ã‰tat en matiÃ¨re de jeux dâ€™argent et de hasard, un observatoire des
-   jeux (ODJ) avait Ã©tÃ© crÃ©Ã© en 2011 (dÃ©cret du 9 mars 2011). Ã€ compter du
-   1er juillet 2020, en application du dÃ©cret nÂ° 2020-494 du 28 avril 2020
-   relatif aux modalitÃ©s de mise Ã  disposition de l'offre de jeux et des
-   donnÃ©es de jeux, lâ€™OFDT a repris les missions de lâ€™ODJ relatives Ã  la
-   rÃ©alisation des Ã©tudes scientifiques sur les JAH et les addictions Ã 
-   ces jeux (Art. 3 de la loi du 12 mai 2010 modifiÃ© par lâ€™ordonnance du 2
-   octobre 2019 rÃ©formant la rÃ©gulation des jeux dâ€™argent et de hasard).
-   Dans ce cadre, lâ€™OFDT contribue Ã  documenter lâ€™action et les politiques
-   publiques de ses membres (Mildeca, SantÃ©, IntÃ©rieur, Agriculture,
-   Budget, Sports) mais aussi celles de lâ€™ANJ.
+   Dans l'objectif de contribuer à réaliser les objectifs de la politique
+   de l'État en matière de jeux d'argent et de hasard, un observatoire des
+   jeux (ODJ) avait été créé en 2011 (décret du 9 mars 2011). À compter du
+   1er juillet 2020, en application du décret n° 2020-494 du 28 avril 2020
+   relatif aux modalités de mise à disposition de l'offre de jeux et des
+   données de jeux, l'OFDT a repris les missions de l'ODJ relatives à la
+   réalisation des études scientifiques sur les JAH et les addictions à
+   ces jeux (Art. 3 de la loi du 12 mai 2010 modifié par l'ordonnance du 2
+   octobre 2019 réformant la régulation des jeux d'argent et de hasard).
+   Dans ce cadre, l'OFDT contribue à documenter l'action et les politiques
+   publiques de ses membres (Mildeca, Santé, Intérieur, Agriculture,
+   Budget, Sports) mais aussi celles de l'ANJ.
 
-Plus d'infos en vidÃ©o : matinale OFDT 1^er juin 2022
+Plus d'infos en vidéo : matinale OFDT 1^er juin 2022
 
 
 
@@ -395,15 +395,15 @@ Plus d'infos en vidÃ©o : matinale OFDT 1^er juin 2022
 
 
 
-   DerniÃ¨re mise Ã  jour : octobre 2023
+   Dernière mise à jour : octobre 2023
 
      * Publications
      * Portail documentaire
-     * Dispositifs d'enquÃªte et d'observation
+     * Dispositifs d'enquête et d'observation
      * Statistiques et infographie
      * Aide aux acteurs
 
-Restez informÃ©
+Restez informé
 
      *
      *
@@ -413,11 +413,11 @@ Restez informÃ©
 
 Lettre actu
 
-   Toute l'actualitÃ© de l'OFDT par courriel : abonnez-vous!
+   Toute l'actualité de l'OFDT par courriel : abonnez-vous!
 
-Ã€ propos de l'OFDT
+À propos de l'OFDT
 
-     * L'Ã©tablissement
+     * L'établissement
      * Contact
      * Partenaires
 
@@ -429,6 +429,6 @@ OFDT
 
    Tel : (33 1) 41 62 77 16
 
-   Aide accessibilitÃ© â€¢ Mentions lÃ©gales et donnÃ©es personnelles â€¢ Gestion
+   Aide accessibilité o Mentions légales et données personnelles o Gestion
    des cookies
-   Â© 2014 Agence Web Coteo Coteo Web - CrÃ©ation de site internet
+   © 2014 Agence Web Coteo Coteo Web - Création de site internet

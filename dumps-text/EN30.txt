@@ -132,32 +132,32 @@ Archery Hunting for Small Game
 
    Bow Hunting Philosophy
    My personal philosophy on bow selection is identical to my philosophy
-   on rifles and shotguns. That is, I’m looking for a versatile hunting
+   on rifles and shotguns. That is, I'm looking for a versatile hunting
    tool that can handle a wide variety of species under ever-shifting sets
    of circumstances be it calling javelina in the desert, perched high in
    a Midwest oak tree for whitetail deer, or still-hunting a Northern
    spruce forest for snowshoe hares.
 
    Nothing will meet these all of these challenges as efficiently as a
-   fast-shooting compound bow. What’s more, by using the same bow for both
-   big game and small game hunting, you’ll be practicing for big game
+   fast-shooting compound bow. What's more, by using the same bow for both
+   big game and small game hunting, you'll be practicing for big game
    hunting while chasing small game, and vice-versa.
 
    Traditional vs Compound
-   But if you’re considering a bow purchase strictly for small game, and
+   But if you're considering a bow purchase strictly for small game, and
    more particularly for flushed rabbits and game birds, you should
    consider going with a traditional recurve or longbow that will allow
    you to take snapshots at the fast-moving game. A compound bow must be
    held at full draw to aim and fire; this takes time and prevents snap
    shooting. Here are some additional pros and cons to consider when
-   purchasing a bow that you’ll use for small game hunting.
+   purchasing a bow that you'll use for small game hunting.
    Top: Compound bow. This is a Hoyt Carbon Spyder with Easton Full Metal
    Jacket Arrow and a Wasp Archery fixed blade broadhead. Bottom: A
    traditional bow. Shown here is a Hoyt Tiburon recurve with High Plains
    Hunter arrow and Judo small game point.
 
    Compound Bow
-   Pros: More accurate than traditional bows at longer ranges; it’s far
+   Pros: More accurate than traditional bows at longer ranges; it's far
    easier to gain a comfortable level of proficiency with a compound than
    it is with a traditional bow .
 
@@ -223,11 +223,11 @@ Still-Hunting for Small Game
    Steven Rinella
    Steven Rinella
 
-   It’s been speculated by anthropologists that human language came as a
+   It's been speculated by anthropologists that human language came as a
    result of our need to organize hunting activities. As hunters, we rely
    on a commonality of terms in order to share information, swap stories,
-   and ask questions. When one of us says something, it’s helpful if the
-   rest of us knows what they’re talking about. To that end, here’s a
+   and ask questions. When one of us says something, it's helpful if the
+   rest of us knows what they're talking about. To that end, here's a
    basic rundown of methods and strategies used by small game hunters:
    still hunting; spot and stalk...
    Tips for Recovering Downed Small Game
@@ -240,7 +240,7 @@ Tips for Recovering Downed Small Game
    Steven Rinella
 
    You made the shot, and the bird crumpled and fell toward the ground. If
-   you’re lucky, recovery will be as simple as walking over there and
+   you're lucky, recovery will be as simple as walking over there and
    picking it up. Often, though, things are much more tricky than that.
    Recovery can be hard, time-consuming work when hunting in brushy or
    swampy areas where downed small game can be hidden from sight. Here are
@@ -258,7 +258,7 @@ Tips for Jump-Shooting and Flushing Small Game
    Jump-shooting and flushing have slightly different connotations.
    Jump-shooting generally refers to putting ducks and geese up off the
    water and then taking flying-away shots at the birds. Flushing implies
-   upland game, “flushed” out of heavy cover. But despite these casual
+   upland game, "flushed" out of heavy cover. But despite these casual
    differences, the concepts are very similar in practice. In the above
    scenario, a hunter and her lab are working some old clearcuts and
    abandoned farmstead properties for ruffed...
@@ -327,6 +327,6 @@ Tips for Jump-Shooting and Flushing Small Game
      * Do Not Sell My
        Personal Information
 
-   © 2023 MeatEater, Inc.
+   � 2023 MeatEater, Inc.
    Privacy Policy
    Returns & Exchanges

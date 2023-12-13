@@ -1,7 +1,7 @@
    #alternate
 
    Trending
-     * Most expensive Pokémon card
+     * Most expensive Pok�mon card
      * Best board games
      * MTG Arena codes
      * Yu-Gi-Oh! Banlist
@@ -57,9 +57,9 @@ Board game types explained: a beginner's guide to tabletop gaming terms
    the conversation when you meet these peers, there are all sorts of
    potential barriers to even the friendliest of pastimes.
 
-   Board gaming, as one of humanity’s oldest hobbies, can be one of the
+   Board gaming, as one of humanity's oldest hobbies, can be one of the
    most welcoming activities around. You can start anywhere and with
-   anyone - you can learn how to play D&D in a board games shop or café,
+   anyone - you can learn how to play D&D in a board games shop or caf�,
    crack out a party board game down the pub, learn how to play Magic: The
    Gathering with an established club, or simply enjoy playing around the
    kitchen table with your friends or even all by yourself thanks to the
@@ -68,21 +68,21 @@ Board game types explained: a beginner's guide to tabletop gaming terms
    But like everything that a lot of people spend a lot of time on, a
    whole specialist language has built up around board games, not least of
    which is the various genres that tabletop games get grouped into.
-   What’s a deckbuilder compared to a deck construction game? What makes a
+   What's a deckbuilder compared to a deck construction game? What makes a
    living card game different to a trading card game, and is that the same
    as an expandable deck game? What do you actually do in a
    worker-placement board game?
 
-   Fear not; to help those of you who haven’t yet had a proper chance to
+   Fear not; to help those of you who haven't yet had a proper chance to
    learn your roll-and-writes from your roll-and-moves, Dicebreaker has
-   put together the following beginner’s guide to the different types of
+   put together the following beginner's guide to the different types of
    board game types and what they mean.
 
-   Bear in mind that many of these board game types aren’t exhaustive or
+   Bear in mind that many of these board game types aren't exhaustive or
    exclusive, and many board games will fall into more than one of these
    categories - or might be something else entirely. However, the
    following board game terms represent the most common types of games on
-   the tabletop, so they’re a good place to start next time you’re
+   the tabletop, so they're a good place to start next time you're
    wondering if something really is a Eurogame, or just happens to have a
    farmer on the cover.
    Shobu abstract strategy board game photo Shobu is an example of a
@@ -106,7 +106,7 @@ Area control
 
    Board games with some form of map or board defining a space that
    players compete to dominate, usually through adding their own pieces to
-   regions or areas or removing opponents’ pieces. Sometimes the control
+   regions or areas or removing opponents' pieces. Sometimes the control
    can come through denying access to areas rather than taking them
    yourself - it could be argued that Scrabble is an example of the genre!
 
@@ -158,11 +158,11 @@ Dexterity
    Board games involving physical skill, whether using the whole body as
    in Twister or just the fingers for moving things about, as with
    removing blocks in Jenga. This can include flicking discs or other
-   objects with your fingers like Flick ‘em Up, balancing things in games
+   objects with your fingers like Flick `em Up, balancing things in games
    such as Beasts of Balance or even throwing objects around, like Dungeon
    Fighter.
 
-   Examples: Cube Quest, Catacombs, Flip Ships, Flick ‘em Up, crokinole,
+   Examples: Cube Quest, Catacombs, Flip Ships, Flick `em Up, crokinole,
    Beasts of Balance.
 
 Drafting
@@ -191,8 +191,8 @@ Dungeon-crawler
 
 Engine-builder
 
-   Over the course of an engine-building board game, you’ll build an
-   “engine”: something that takes your starting resources and/or actions
+   Over the course of an engine-building board game, you'll build an
+   "engine": something that takes your starting resources and/or actions
    and turns them into more resources, which turn into even more
    resources, which - somewhere along the line - will usually turn into a
    form of victory points.
@@ -201,12 +201,12 @@ Engine-builder
 
 Eurogame
 
-   Often shortened to just ‘Euro’, these are strategy-focused board games
+   Often shortened to just `Euro', these are strategy-focused board games
    that prioritise limited-randomness over theme. Usually competitive with
    interaction between players through passive competition rather than
    aggressive conflict. Named for the fact many of the early games of this
    style were developed in Europe - particularly Germany - in contrast to
-   the more thematic but chance-driven “American-style” games of the time.
+   the more thematic but chance-driven "American-style" games of the time.
    (Sometimes referred to as 'Ameritrash' by those who dislike the high
    luck element.)
 
@@ -218,7 +218,7 @@ Eurogame
 Push-your-luck
 
    Board games that invite you to take ever bigger risks to achieve
-   increasingly valuable rewards - or to decide to keep what you’ve got
+   increasingly valuable rewards - or to decide to keep what you've got
    before you lose everything. Think the card game blackjack or deciding
    whether to give an uncertain answer on Who Wants to be a Millionaire?
    Sometimes also called press-your-luck.
@@ -241,8 +241,8 @@ Roll-and-write
    of the game, so even in games where everyone uses the same dice,
    slightly different choices at the start can lead to very different end
    results. Some games twist the name by replacing the dice with something
-   like cards for a ‘flip-and-write’ (Welcome To…) or the writing with
-   something like placing miniatures for a ‘roll-and-build’ (Era: Medieval
+   like cards for a `flip-and-write' (Welcome To...) or the writing with
+   something like placing miniatures for a `roll-and-build' (Era: Medieval
    Age).
 
    Examples: Yahtzee, Railroad Ink, Ganz Schon Clever, Corinth.
@@ -270,16 +270,16 @@ Storytelling
    are tasked with inventing and describing something prompted by a single
    card.
 
-   Examples: The King’s Dilemma, Tales of the Arabian Nights.
+   Examples: The King's Dilemma, Tales of the Arabian Nights.
 
    IFRAME: https://www.youtube-nocookie.com/embed/x3UqyzjFmqg?autoplay=0
 
 Worker-placement
 
    Board games where you choose actions from spaces on the board by
-   assigning your pool of “workers” - often thematically actual workers in
+   assigning your pool of "workers" - often thematically actual workers in
    your employ - to them. Usually Eurogames, with player interaction
-   created because actions one player has taken often can’t be taken by or
+   created because actions one player has taken often can't be taken by or
    come with a cost for anyone else.
 
    Examples: Charterstone, Agricola, Caverna, Lords of Waterdeep.
@@ -288,10 +288,10 @@ Wargame
 
    Players pit armies against each other, represented by collections of
    miniatures or tokens on a map, with a grid or actual measured distances
-   for movement. Eliminate the opponent’s figures or achieve objectives to
+   for movement. Eliminate the opponent's figures or achieve objectives to
    win, with combat usually dictated by dice rolls or card play.
 
-   Examples: Warhammer 40,000, Memoir ‘44, Risk, Axis & Allies.
+   Examples: Warhammer 40,000, Memoir `44, Risk, Axis & Allies.
 
    Dicebreaker is the home for friendly board game lovers
 
@@ -356,7 +356,7 @@ Wargame
    Dicebreaker is owned by Gamer Network Limited, a ReedPop company and
    subsidiary of Reed Exhibitions Limited.
 
-   © 2023 Gamer Network Limited, Gateway House, 28 The Quadrant, Richmond,
+   � 2023 Gamer Network Limited, Gateway House, 28 The Quadrant, Richmond,
    Surrey, TW9 1DN, United Kingdom, registered under company number
    03882481.
 

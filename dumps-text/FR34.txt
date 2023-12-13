@@ -4,25 +4,25 @@
 
    [ ] [ ]
 
-   (BUTTON) prÃ©cÃ©dent
+   (BUTTON) précédent
 
-   Malheureusement, nous nâ€™avons pas pu envoyer cet article. Merci de
-   rÃ©essayer ultÃ©rieurement.
+   Malheureusement, nous n'avons pas pu envoyer cet article. Merci de
+   réessayer ultérieurement.
 
-   L'adresse email xxxx@xxxx.com ne semble pas Ãªtre correcte. Merci de
-   vÃ©rifier votre saisie.
+   L'adresse email xxxx@xxxx.com ne semble pas être correcte. Merci de
+   vérifier votre saisie.
 
-   Merci, lâ€™article a bien Ã©tÃ© envoyÃ©.
+   Merci, l'article a bien été envoyé.
    (BUTTON) Fermer
 
-   Chargement en coursâ€¦
+   Chargement en cours...
    (BUTTON) fermer
 
    Vous souhaitez partager cet article :
    Email du ou des destinataire(s) :
    email ____________________
 
-   Si vous souhaitez ajouter plusieurs destinataires, sÃ©parez les adresses
+   Si vous souhaitez ajouter plusieurs destinataires, séparez les adresses
    email par des virgules.
    Votre message (facultatif)
    ____________________________________________________________
@@ -30,23 +30,23 @@
    ____________________________________________________________
    ____________________________________________________________
 
-   Ouest-France nâ€™utilisera pas les emails fournis pour dâ€™autres
+   Ouest-France n'utilisera pas les emails fournis pour d'autres
    communications sans le consentement du ou des destinataires.
    (BUTTON) Partager l'article
 
    [ ]
 
-   Ã€ lire fermer
-     * Vous devez vous connecter pour afficher vos articles sauvegardÃ©s
+   À lire fermer
+     * Vous devez vous connecter pour afficher vos articles sauvegardés
 
    (*)
    ( )
    ( )
 
    MENU
-   prÃ©cÃ©dent
+   précédent
    Ouest-France
-   Petits Ã©crans Petits Ã©crans
+   Petits écrans Petits écrans
    Jeux Jeux
    Newsletters Newsletters
    Podcasts Podcasts
@@ -61,24 +61,24 @@
 
    Mes services
      *
-     * Ã€ lire
-     * Communes prÃ©fÃ©rÃ©es
-     * BibliothÃ¨que
+     * À lire
+     * Communes préférées
+     * Bibliothèque
      *
 
-   Se dÃ©connecter
+   Se déconnecter
    Image de la une
 
    Lundi
    27 novembre 2023
    Lire
    Ouest-France
-     * ActualitÃ©
+     * Actualité
      * Nos parutions
-     * RÃ©gions
+     * Régions
      * Communes Communes
      * Sport
-     * VidÃ©os
+     * Vidéos
      * Programme TV
      * Annonces Annonces
      *
@@ -98,9 +98,9 @@
      * Normandie
      * Caen
      * Bayeux
-     * Saint-LÃ´
+     * Saint-Lô
      * Granville
-     * AlenÃ§on
+     * Alençon
      * Flers
      * Le Havre
      * Rouen
@@ -120,7 +120,7 @@
      * Parthenay
      * Thouars
 
-     * Autres rÃ©gions
+     * Autres régions
      * Paris
      * Toulouse
      * Nice
@@ -131,14 +131,14 @@
     1. Immobilier
     2. Shopping
     3. Automobile
-    4. ObsÃ¨ques
+    4. Obsèques
     5. Comparateur
     6. Codes Promo
-    7. Estimation immobiliÃ¨re
-    8. Annonces lÃ©gales
+    7. Estimation immobilière
+    8. Annonces légales
     9. Passez votre annonce
-   10. Offres dâ€™emploi
-   11. MarchÃ©s Publics
+   10. Offres d'emploi
+   11. Marchés Publics
 
    [ ]
 
@@ -148,41 +148,41 @@
    Image de la une
    Jeux Jeux
    Newsletters Newsletters
-   Petits Ã©crans Petits Ã©crans
+   Petits écrans Petits écrans
    Communes Communes
-     * ActualitÃ©
+     * Actualité
      * Le Journal
      * Parutions
      * Communes
-     * RÃ©gions
+     * Régions
      * Sport
           + Jeux olympiques
                o JO - Paris 2024
-               o ActualitÃ©s autour des jeux olympiques
+               o Actualités autour des jeux olympiques
                o Jeux paralympiques
                o Direct
                o Parcours de la flamme olympique
-               o CÃ©rÃ©monie d'ouverture JO 2024
-               o AthlÃ¨tes et Ã©quipes qualifiÃ©s
-               o FranÃ§ais et FranÃ§aises qualifiÃ©s
-               o Villes-hÃ´tes JO 2024
-               o RÃ©sultats des JO
-               o VidÃ©os
+               o Cérémonie d'ouverture JO 2024
+               o Athlètes et équipes qualifiés
+               o Français et Françaises qualifiés
+               o Villes-hôtes JO 2024
+               o Résultats des JO
+               o Vidéos
                o Newsletter
-     * VIDÃ‰OS
+     * VIDÉOS
      * Podcasts
      * Et vous
-     * Ã‰conomie
+     * Économie
      * Entreprises
-     * Ã‰tudiant
+     * Étudiant
      * Mer
-     * ObsÃ¨ques
+     * Obsèques
      * Annonces
      * Partenaires
      * Services
      * Programme TV
      * Loisirs
-     * Ã‰vÃ©nements
+     * Événements
      * Codes Promo
      * Shopping
      * Ouest-France Communication
@@ -191,25 +191,25 @@
      * Accueil
      * Jeux Olympiques
 
-ENTRETIEN. JO 2024 : Â« Lâ€™hÃ©ritage des Jeux de Paris se mesurera Ã  sept ans Â»
+ENTRETIEN. JO 2024 : « L'héritage des Jeux de Paris se mesurera à sept ans »
 
-   Les Jeux olympiques de Paris se tiendront du 26 juillet au 11 aoÃ»t.
-   Mais le projet du comitÃ© dâ€™organisation sâ€™Ã©tend bien au-delÃ  de lâ€™Ã©tÃ©
-   2024, avec lâ€™ambition dâ€™ancrer lâ€™hÃ©ritage des JO 2024 sur le temps
-   long. Un objectif pas forcÃ©ment simple Ã  assumer, selon le sociologue
+   Les Jeux olympiques de Paris se tiendront du 26 juillet au 11 août.
+   Mais le projet du comité d'organisation s'étend bien au-delà de l'été
+   2024, avec l'ambition d'ancrer l'héritage des JO 2024 sur le temps
+   long. Un objectif pas forcément simple à assumer, selon le sociologue
    Hugo Bourbilleres.
    Les Jeux olympiques de Paris auront lieu du vendredi 26 juillet au
-   dimanche 11 aoÃ»t.
+   dimanche 11 août.
    Les Jeux olympiques de Paris auront lieu du vendredi 26 juillet au
-   dimanche 11 aoÃ»t. | PHOTO : : BENOIT TESSIER/REUTERS (BUTTON) Voir en
-   plein Ã©cran
+   dimanche 11 août. | PHOTO : : BENOIT TESSIER/REUTERS (BUTTON) Voir en
+   plein écran
    (BUTTON) fermer
      * Les Jeux olympiques de Paris auront lieu du vendredi 26 juillet au
-       dimanche 11 aoÃ»t. Les Jeux olympiques de Paris auront lieu du
-       vendredi 26 juillet au dimanche 11 aoÃ»t. | PHOTO : : BENOIT
+       dimanche 11 août. Les Jeux olympiques de Paris auront lieu du
+       vendredi 26 juillet au dimanche 11 août. | PHOTO : : BENOIT
        TESSIER/REUTERS
 
-   Ouest-France Recueilli par Didrick POMELLE. PubliÃ© le 24/11/2023 Ã 
+   Ouest-France Recueilli par Didrick POMELLE. Publié le 24/11/2023 à
    06h15
 
    Abonnez-vous
@@ -222,128 +222,128 @@ ENTRETIEN. JO 2024 : Â« Lâ€™hÃ©ritage des Jeux de Paris se mesurera Ã  sept ans 
 
    Newsletter Jeux Olympiques Paris 2024
 
-   Suivez toute l'actualitÃ© des Jeux de Paris ainsi que les Ã©preuves et
-   les athlÃ¨tes Ã  ne pas manquer
+   Suivez toute l'actualité des Jeux de Paris ainsi que les épreuves et
+   les athlètes à ne pas manquer
 
    Merci de saisir votre adresse e-mail
    ____________________
    (BUTTON) OK
 
-   Votre e-mail, avec votre consentement, est utilisÃ© par Ouest-France
+   Votre e-mail, avec votre consentement, est utilisé par Ouest-France
    pour recevoir notre newsletter. En savoir plus.
 
    Principal pilier de la candidature de Paris pour les Jeux olympiques
-   2024, lâ€™hÃ©ritage immatÃ©riel des Jeux est abondement mis en avant par le
-   comitÃ© en charge de lâ€™organisation. Lâ€™un des principaux enjeux est de
-   dÃ©montrer quâ€™un Ã©vÃ©nement dâ€™une telle ampleur peut Ãªtre une rÃ©ussite
-   durable. Mais alors, que faut-il attendre des JO en termes dâ€™impact
-   social ? Le sociologue Hugo Bourbilleres, maÃ®tre de confÃ©rences Ã  lâ€™UFR
-   STAPS Ã  lâ€™UniversitÃ© Rennes II, a menÃ© plusieurs travaux sur la
-   question. Il apporte son Ã©clairage.
+   2024, l'héritage immatériel des Jeux est abondement mis en avant par le
+   comité en charge de l'organisation. L'un des principaux enjeux est de
+   démontrer qu'un événement d'une telle ampleur peut être une réussite
+   durable. Mais alors, que faut-il attendre des JO en termes d'impact
+   social ? Le sociologue Hugo Bourbilleres, maître de conférences à l'UFR
+   STAPS à l'Université Rennes II, a mené plusieurs travaux sur la
+   question. Il apporte son éclairage.
 
-   Lâ€™ampleur de lâ€™hÃ©ritage immatÃ©riel promu par les Jeux de Paris a-t-elle
-   quelque chose dâ€™inÃ©dit ?
+   L'ampleur de l'héritage immatériel promu par les Jeux de Paris a-t-elle
+   quelque chose d'inédit ?
 
-   Par sa forme, non. En 2012, les Jeux de Londres avaient Ã©tÃ© qualifiÃ©s
-   de Â« Legacyâ€™s Games Â» (les Jeux de lâ€™hÃ©ritage, en franÃ§ais). Câ€™Ã©tait un
-   premier tournant. Ce qui est nouveau avec Paris 2024, câ€™est le contexte
-   dans lequel ces diffÃ©rentes stratÃ©gies sâ€™Ã©tablissent. Ces grands
-   Ã©vÃ©nements sont de plus en plus contestÃ©s. Donc lâ€™hÃ©ritage est plus que
-   jamais nÃ©cessaire pour garantir lâ€™acceptabilitÃ© sociale de lâ€™Ã©vÃ©nement.
-   De ce point de vue, lâ€™enjeu est beaucoup plus fort quâ€™en 2012. Pour les
-   Franciliens, les FranÃ§ais mais aussi pour toutes les grandes villes du
-   monde qui pourraient accueillir un grand Ã©vÃ©nement sportif dans les
-   annÃ©es Ã  venir.
+   Par sa forme, non. En 2012, les Jeux de Londres avaient été qualifiés
+   de « Legacy's Games » (les Jeux de l'héritage, en français). C'était un
+   premier tournant. Ce qui est nouveau avec Paris 2024, c'est le contexte
+   dans lequel ces différentes stratégies s'établissent. Ces grands
+   événements sont de plus en plus contestés. Donc l'héritage est plus que
+   jamais nécessaire pour garantir l'acceptabilité sociale de l'événement.
+   De ce point de vue, l'enjeu est beaucoup plus fort qu'en 2012. Pour les
+   Franciliens, les Français mais aussi pour toutes les grandes villes du
+   monde qui pourraient accueillir un grand événement sportif dans les
+   années à venir.
 
-   Selon vous, Paris 2024 aura plus de comptes Ã  rendre que les
-   prÃ©cÃ©dentes villes hÃ´tes ?
+   Selon vous, Paris 2024 aura plus de comptes à rendre que les
+   précédentes villes hôtes ?
 
-   On peut le supposer. Dâ€™autant que câ€™est un argument trÃ¨s fort de la
-   candidature. Pas toujours simple Ã  assumer. On lâ€™a vu avec la question
+   On peut le supposer. D'autant que c'est un argument très fort de la
+   candidature. Pas toujours simple à assumer. On l'a vu avec la question
    de la charte sociale pour les travailleurs des sites olympiques. Sa
-   mise en place concrÃ¨te a Ã©tÃ© compliquÃ©e et nâ€™empÃªche pas les
+   mise en place concrète a été compliquée et n'empêche pas les
    controverses.
 
-   Les Jeux de Paris ont lâ€™ambition de rassurer le CIO (comitÃ©
-   international olympique) et les futurs organisateurs. Lâ€™enjeu est
-   Ã©norme : prouver quâ€™on peut encore organiser un grand Ã©vÃ©nement sportif
-   international (GESI) selon un modÃ¨le vertueux.
+   Les Jeux de Paris ont l'ambition de rassurer le CIO (comité
+   international olympique) et les futurs organisateurs. L'enjeu est
+   énorme : prouver qu'on peut encore organiser un grand événement sportif
+   international (GESI) selon un modèle vertueux.
 
-     Depuis 30 ou 40 ans, la communautÃ© scientifique a le recul pour se
-     rendre compte que lâ€™impact rÃ©el des Jeux est souvent minime.
+     Depuis 30 ou 40 ans, la communauté scientifique a le recul pour se
+     rendre compte que l'impact réel des Jeux est souvent minime.
 
-     â€” Hugo Bourbilleres, maÃ®tre de confÃ©rences Ã  lâ€™UFR STAPS Ã 
-     lâ€™UniversitÃ© Rennes II.
+     -- Hugo Bourbilleres, maître de conférences à l'UFR STAPS à
+     l'Université Rennes II.
 
    Dans cette optique, quel est le moment le plus important pour les
-   organisateurs ? Avant ou aprÃ¨s les Jeux ?
+   organisateurs ? Avant ou après les Jeux ?
 
-   Nos travaux montrent que tout ce qui se joue avant lâ€™Ã©vÃ©nement sportif
-   a un impact trÃ¨s important sur la rÃ©ussite de lâ€™Ã©vÃ©nement et la
-   perception que vont en avoir les gens. Le fait quâ€™il y ait des
-   controverses tous les quinze jours reprÃ©sente une menace. Mais pour
+   Nos travaux montrent que tout ce qui se joue avant l'événement sportif
+   a un impact très important sur la réussite de l'événement et la
+   perception que vont en avoir les gens. Le fait qu'il y ait des
+   controverses tous les quinze jours représente une menace. Mais pour
    nuancer cela, il y avait eu beaucoup de contestations avant Londres
-   2012. Ce qui nâ€™a pas empÃªchÃ© une bonne perception. Car les Jeux ont un
-   pouvoir exceptionnel pour capter lâ€™espace et lâ€™attention
-   mÃ©diatiques. Câ€™est un rouleau compresseur.
+   2012. Ce qui n'a pas empêché une bonne perception. Car les Jeux ont un
+   pouvoir exceptionnel pour capter l'espace et l'attention
+   médiatiques. C'est un rouleau compresseur.
 
-   ParitÃ© femmes-hommes ? Coup dâ€™accÃ©lÃ©rateur pour la Seine-Saint-Denis ?
-   Est-ce quâ€™un volet spÃ©cifique de lâ€™hÃ©ritage pourrait prendre le
+   Parité femmes-hommes ? Coup d'accélérateur pour la Seine-Saint-Denis ?
+   Est-ce qu'un volet spécifique de l'héritage pourrait prendre le
    dessus ?
 
-   Lâ€™hÃ©ritage est souvent pluriel. Il ne faut pas oublier non plus le
-   dÃ©veloppement de lâ€™activitÃ© physique et sportive, qui est trÃ¨s mis en
-   avant dans la rhÃ©torique de Paris 2024. Lâ€™emploi. Mais ces effets sont
-   Ã  nuancer. La communautÃ© scientifique a le recul, depuis 30 ou 40 ans,
-   pour se rendre compte que lâ€™impact rÃ©el est souvent minime. Lâ€™exemple
-   du dÃ©veloppement de lâ€™activitÃ© physique et sportive lors des
-   prÃ©cÃ©dentes Ã©ditions le prouve.
+   L'héritage est souvent pluriel. Il ne faut pas oublier non plus le
+   développement de l'activité physique et sportive, qui est très mis en
+   avant dans la rhétorique de Paris 2024. L'emploi. Mais ces effets sont
+   à nuancer. La communauté scientifique a le recul, depuis 30 ou 40 ans,
+   pour se rendre compte que l'impact réel est souvent minime. L'exemple
+   du développement de l'activité physique et sportive lors des
+   précédentes éditions le prouve.
 
-     Ã€ Londres, les grandes ambitions sur le dÃ©veloppement de lâ€™activitÃ©
-     sportive se sont heurtÃ©es aux politiques dâ€™austÃ©ritÃ©
+     À Londres, les grandes ambitions sur le développement de l'activité
+     sportive se sont heurtées aux politiques d'austérité
 
-     â€” Hugo Bourbilleres, maÃ®tre de confÃ©rences Ã  lâ€™UFR STAPS Ã 
-     lâ€™UniversitÃ© Rennes II.
+     -- Hugo Bourbilleres, maître de conférences à l'UFR STAPS à
+     l'Université Rennes II.
 
-   Ã€ partir de quand le bilan de lâ€™hÃ©ritage des Jeux pourra Ãªtre analysÃ© ?
+   À partir de quand le bilan de l'héritage des Jeux pourra être analysé ?
 
-   Pour le CIO, lâ€™hÃ©ritage se mesurera Ã  sept ans. Peu importent les
-   sujets, seul le temps long permettra de juger. Câ€™est aussi la
-   principale difficultÃ©, dâ€™ancrer les Jeux dans le temps long. Car
-   au-delÃ  des Jeux, il y a des mandats politiques, variÃ©s et Ã©phÃ©mÃ¨res.
-   Tout cela est donc prÃ©caire.
+   Pour le CIO, l'héritage se mesurera à sept ans. Peu importent les
+   sujets, seul le temps long permettra de juger. C'est aussi la
+   principale difficulté, d'ancrer les Jeux dans le temps long. Car
+   au-delà des Jeux, il y a des mandats politiques, variés et éphémères.
+   Tout cela est donc précaire.
 
-   Les Jeux sont toujours trÃ¨s fertiles en termes de messages et de
-   symboles. Câ€™est un point de dÃ©part trÃ¨s important. Mais comment est-ce
-   que cela se traduit dans les faits ? La paritÃ© des athlÃ¨tes pour 2024
+   Les Jeux sont toujours très fertiles en termes de messages et de
+   symboles. C'est un point de départ très important. Mais comment est-ce
+   que cela se traduit dans les faits ? La parité des athlètes pour 2024
    est un bel exemple. Comment cela va se prolonger dans les clubs, selon
-   les disciplines. Tout cela reste trÃ¨s incertain.
+   les disciplines. Tout cela reste très incertain.
 
-   LIRE AUSSI. ENTRETIEN. Tony Estanguet, prÃ©sident de Paris 2024 : Â« Ces
-   Jeux olympiques seront dingues ! Â»
+   LIRE AUSSI. ENTRETIEN. Tony Estanguet, président de Paris 2024 : « Ces
+   Jeux olympiques seront dingues ! »
 
-   Lâ€™hÃ©ritage des Jeux dÃ©pendra donc aussi des prochaines Ã©chÃ©ances
+   L'héritage des Jeux dépendra donc aussi des prochaines échéances
    politiques ?
 
-   Tout Ã  fait. Il y a des travaux trÃ¨s intÃ©ressants menÃ©s aprÃ¨s Londres
-   2012 sur ce point. Les grandes ambitions sur le dÃ©veloppement de
-   lâ€™activitÃ© sportive se sont heurtÃ©es aux politiques dâ€™austÃ©ritÃ©. Les
-   enjeux symboliques sont trÃ¨s importants et câ€™est pour cela que les
-   organisateurs vont communiquer allÃ©grement dessus. Mais lâ€™impact social
-   est trÃ¨s difficile Ã  quantifier car il doit Ãªtre mesurÃ© dans le temps
-   long, avec les populations locales, en sâ€™appuyant sur le maillage
-   associatif et politique. Câ€™est le plus gros dÃ©fi et câ€™est beaucoup plus
+   Tout à fait. Il y a des travaux très intéressants menés après Londres
+   2012 sur ce point. Les grandes ambitions sur le développement de
+   l'activité sportive se sont heurtées aux politiques d'austérité. Les
+   enjeux symboliques sont très importants et c'est pour cela que les
+   organisateurs vont communiquer allégrement dessus. Mais l'impact social
+   est très difficile à quantifier car il doit être mesuré dans le temps
+   long, avec les populations locales, en s'appuyant sur le maillage
+   associatif et politique. C'est le plus gros défi et c'est beaucoup plus
    incertain.
 
      * Jeux Olympiques
      * Sport
-     * ActualitÃ© en continu
+     * Actualité en continu
      * Regards
-     * SociÃ©tÃ©
+     * Société
 
    (BUTTON) gauche (BUTTON) droite
 
-   Trouver le vÃ©hicule
+   Trouver le véhicule
 
    qu'il vous faut
 
@@ -351,9 +351,9 @@ ENTRETIEN. JO 2024 : Â« Lâ€™hÃ©ritage des Jeux de Paris se mesurera Ã  sept ans 
    (BUTTON) J'y vais
    ouestfrance -auto.com
 
-Le sport en un coup dâ€™Å“il
+Le sport en un coup d'oeil
 
-    1. RÃ©sultats et classements
+    1. Résultats et classements
     2. En direct Sport amateur en direct
 
    En continu
@@ -362,57 +362,57 @@ Le sport en un coup dâ€™Å“il
 
      *
    11h49
-       F1. Verstappen imbattable, Hamilton toujours sans victoireâ€¦ Les
+       F1. Verstappen imbattable, Hamilton toujours sans victoire... Les
        tops et les flops de la saison
      *
    11h46
-       Next Gen ATP. Dates, joueurs, chaÃ®ne TVâ€¦ Tout savoir sur le tournoi
-       des pÃ©pites du tennis
+       Next Gen ATP. Dates, joueurs, chaîne TV... Tout savoir sur le
+       tournoi des pépites du tennis
      *
    11h35
-       Mort de GÃ©rard Collomb : le cercueil de lâ€™ancien maire de Lyon
-       exposÃ© Ã  lâ€™hÃ´tel de ville ce lundi
+       Mort de Gérard Collomb : le cercueil de l'ancien maire de Lyon
+       exposé à l'hôtel de ville ce lundi
      *
    11h33
-        DIRECT. Guerre IsraÃ«l-Hamas : dernier jour prÃ©vu de la trÃªve, des
+        DIRECT. Guerre Israël-Hamas : dernier jour prévu de la trêve, des
        discussions pour la prolonger
      *
    11h30
-       Â« Un si grand soleil Â». RÃ©sumÃ©s en avance des Ã©pisodes du
-       27 novembre au 1er dÃ©cembre 2023
+       « Un si grand soleil ». Résumés en avance des épisodes du
+       27 novembre au 1er décembre 2023
 
      *
    26/11
-       Paris 2024. Â« Un grand pays de sport Â», Â« On sera prÃªt Â» : la
-       ministre rÃ©pond Ã  Manaudou et Hidalgo
+       Paris 2024. « Un grand pays de sport », « On sera prêt » : la
+       ministre répond à Manaudou et Hidalgo
      *
    26/11
        Hockey : deux Pordicaises aux Jeux Olympiques de Paris
      *
    26/11
-       VIDÃ‰O. Qui est Titouan Castryck, ce prodige du kayak qui fonce vers
+       VIDÉO. Qui est Titouan Castryck, ce prodige du kayak qui fonce vers
        Paris 2024 ?
      *
    26/11
-       Ces ingÃ©nieurs trÃ©gorrois dâ€™Orange Lannion en mission trÃ¨s spÃ©ciale
-       pour les JO 2024 bloquÃ©
+       Ces ingénieurs trégorrois d'Orange Lannion en mission très spéciale
+       pour les JO 2024 bloqué
      *
    25/11
-       Â« Je me sens trahie Â» : Julia Tolofua ne digÃ¨re sa non-sÃ©lection
+       « Je me sens trahie » : Julia Tolofua ne digère sa non-sélection
        pour les JO 2024
 
    Newsletter Jeux Olympiques Paris 2024
 
-   Suivez toute l'actualitÃ© des Jeux de Paris ainsi que les Ã©preuves et
-   les athlÃ¨tes Ã  ne pas manquer
+   Suivez toute l'actualité des Jeux de Paris ainsi que les épreuves et
+   les athlètes à ne pas manquer
 
    Merci de saisir votre adresse e-mail
    ____________________
    (BUTTON) OK
 
-   Votre e-mail, avec votre consentement, est utilisÃ© par Ouest-France
+   Votre e-mail, avec votre consentement, est utilisé par Ouest-France
    pour recevoir notre newsletter. En savoir plus.
-   Ailleurs sur le Web Contenus SponsorisÃ©s
+   Ailleurs sur le Web Contenus Sponsorisés
 
    Annonces Auto
    Avec ouestfrance-auto.com
@@ -420,84 +420,84 @@ Le sport en un coup dâ€™Å“il
    Mercedes Classe G
    Mercedes Classe G
 
-   72 990 â‚¬
+   72 990 EUR
 
-   SablÃ©-sur-sarthe
+   Sablé-sur-sarthe
 
    Voir l'annonce
 
    Mini Cooper
    Mini Cooper
 
-   25 990 â‚¬
+   25 990 EUR
 
-   Saint-lÃ´
+   Saint-lô
 
    Voir l'annonce
 
    Porsche Cayenne
    Porsche Cayenne
 
-   97 990 â‚¬
+   97 990 EUR
 
-   BiÃ©ville-beuville
+   Biéville-beuville
 
    Voir l'annonce
    Toutes les annonces Auto
 
    Les tops articles sur : Jeux Olympiques
 
-   Olivier Krumbholz prendra sa retraite aprÃ¨s les Jeux olympiques.
-   SÃ©bastien Gardillou, en bas Ã  gauche, pourrait prendre sa place. Ã€
-   moins quâ€™un binÃ´me avec Emmanuel Mayonnade ne soit constituÃ©.
-   Handball. Ã€ la tÃªte de lâ€™Ã©quipe de France fÃ©minine, la succession
-   dâ€™Olivier Krumbholz dÃ©jÃ  Ã©tudiÃ©e
+   Olivier Krumbholz prendra sa retraite après les Jeux olympiques.
+   Sébastien Gardillou, en bas à gauche, pourrait prendre sa place. À
+   moins qu'un binôme avec Emmanuel Mayonnade ne soit constitué.
+   Handball. À la tête de l'équipe de France féminine, la succession
+   d'Olivier Krumbholz déjà étudiée
    25/11
 
-   Julia Tolofua nâ€™a pas Ã©tÃ© sÃ©lectionnÃ© pour participer aux Jeux
+   Julia Tolofua n'a pas été sélectionné pour participer aux Jeux
    olympiques de Paris 2024.
-   Â« Je me sens trahie Â» : Julia Tolofua ne digÃ¨re sa non-sÃ©lection pour
+   « Je me sens trahie » : Julia Tolofua ne digère sa non-sélection pour
    les JO 2024
 
-   La fÃ©dÃ©ration franÃ§aise de judo a dÃ©voilÃ© une premiÃ¨re liste de
-   judokates et judokas sÃ©lectionnÃ©s pour les Jeux olympiques de Paris
-   2024, ce vendredi. Une dÃ©cision que conteste Julia Tolofua (+78 kg),
-   non-sÃ©lectionnÃ©e au profit de Romane Dicko.
+   La fédération française de judo a dévoilé une première liste de
+   judokates et judokas sélectionnés pour les Jeux olympiques de Paris
+   2024, ce vendredi. Une décision que conteste Julia Tolofua (+78 kg),
+   non-sélectionnée au profit de Romane Dicko.
    25/11
 
-   CompÃ©titeur, Hugo Hay visera une sÃ©lection pour les championnats
-   dâ€™Europe au Festival de cross Ã  Carhaix, dimanche.
-   Cross-country. Â« Nous ne sommes pas des robots Â» : les FranÃ§ais face au
-   dilemme des JO 2024  bloquÃ©
+   Compétiteur, Hugo Hay visera une sélection pour les championnats
+   d'Europe au Festival de cross à Carhaix, dimanche.
+   Cross-country. « Nous ne sommes pas des robots » : les Français face au
+   dilemme des JO 2024  bloqué
 
-   En Ãªtre ou ne pas en Ãªtre ? Telle est la question. Alors que le site de
-   Kerampuilh accueille pour la premiÃ¨re fois le Festival du cross, du 22
+   En être ou ne pas en être ? Telle est la question. Alors que le site de
+   Kerampuilh accueille pour la première fois le Festival du cross, du 22
    au 29 novembre, avec des places en jeu chez les hommes pour les
-   championnats dâ€™Europe. La plupart des athlÃ¨tes sont dÃ©jÃ  dans leur
-   prÃ©paration olympique Ã  neuf mois des Jeux olympiques 2024 et ne font
+   championnats d'Europe. La plupart des athlètes sont déjà dans leur
+   préparation olympique à neuf mois des Jeux olympiques 2024 et ne font
    pas de Carhaix, un obje...
    25/11
 
    Hexagone
-   VIDÃ‰O. Qui est Titouan Castryck, ce prodige du kayak qui fonce vers
+   VIDÉO. Qui est Titouan Castryck, ce prodige du kayak qui fonce vers
    Paris 2024 ?
    26/11
 
-   Amelie OudÃ©a-CastÃ©ra a rÃ©agi aux rÃ©cents propos de Florent Manaudou et
+   Amelie Oudéa-Castéra a réagi aux récents propos de Florent Manaudou et
    Anne Hidalgo.
-   Paris 2024. Â« Un grand pays de sport Â», Â« On sera prÃªt Â» : la ministre
-   rÃ©pond Ã  Manaudou et Hidalgo
+   Paris 2024. « Un grand pays de sport », « On sera prêt » : la ministre
+   répond à Manaudou et Hidalgo
    26/11
 
-   Bertille et ClÃ©mentine Dufay vont participer aux Jeux Olympiques de
+   Bertille et Clémentine Dufay vont participer aux Jeux Olympiques de
    Paris.
    Hockey : deux Pordicaises aux Jeux Olympiques de Paris
    26/11
 
-   AprÃ¨s les Jeux olympiques 2024, les voies spÃ©ciales sur le pÃ©riphÃ©rique
-   vont Ãªtre maintenues et rÃ©servÃ©es pour certains vÃ©hicules.
-   JO 2024. Ã€ Paris, Ã  quoi serviront les Â« voies olympiques Â» du
-   pÃ©riphÃ©rique aprÃ¨s les Jeux ?
+   Après les Jeux olympiques 2024, les voies spéciales sur le périphérique
+   vont être maintenues et réservées pour certains véhicules.
+   JO 2024. À Paris, à quoi serviront les « voies olympiques » du
+   périphérique après les Jeux ?
    24/11
 
    (BUTTON) Voir plusVoir moins
@@ -505,17 +505,17 @@ Le sport en un coup dâ€™Å“il
    Nos partenaires
 
    Le Mag Sport Auto
-   La grille presque complÃ¨te en MotoGP, Honda annonce le nom du
-   remplaÃ§ant de Marquez
+   La grille presque complète en MotoGP, Honda annonce le nom du
+   remplaçant de Marquez
    Le Mag Sport Auto 09h51
 
-   Les infos du 25 et 26 novembre que vous avez peut-Ãªtre ratÃ©es
-   Les infos du 25 et 26 novembre que vous avez peut-Ãªtre ratÃ©es
+   Les infos du 25 et 26 novembre que vous avez peut-être ratées
+   Les infos du 25 et 26 novembre que vous avez peut-être ratées
    Foot Amateur 09h22
 
-   Stade Rennais : L'hommage trÃ¨s appuyÃ© de Benjamin Bourigeaud au
+   Stade Rennais : L'hommage très appuyé de Benjamin Bourigeaud au
    'soldat' Bruno Genesio
-   Stade Rennais : L'hommage trÃ¨s appuyÃ© de Benjamin Bourigeaud au
+   Stade Rennais : L'hommage très appuyé de Benjamin Bourigeaud au
    'soldat' Bruno Genesio
    MadeInFoot 09h21
 
@@ -529,9 +529,9 @@ Le sport en un coup dâ€™Å“il
    Le programme TV foot du jour (27 Novembre 2023)
    MadeInFoot 09h20
 
-   Entretien vÃ©lo : 10 conseils pour que votre trajet quotidien se passe
+   Entretien vélo : 10 conseils pour que votre trajet quotidien se passe
    bien
-   Entretien vÃ©lo : 10 conseils pour que votre trajet quotidien se passe
+   Entretien vélo : 10 conseils pour que votre trajet quotidien se passe
    bien
    Weelz 25/11
 
@@ -549,11 +549,11 @@ Le sport en un coup dâ€™Å“il
      * []
      * []
 
-   TÃ©lÃ©chargez gratuitement les applications
+   Téléchargez gratuitement les applications
 
    Un autre regard sur le sport
 
-   DÃ©couvrez la rubrique Prolongation : des longs rÃ©cits et des chroniques
+   Découvrez la rubrique Prolongation : des longs récits et des chroniques
    de champions
    (BUTTON) Lire les articles
 
@@ -572,15 +572,15 @@ Le sport en un coup dâ€™Å“il
    ____________________
    (BUTTON) Ok
 
-   Votre e-mail, avec votre consentement, est utilisÃ© par Ouest-France
+   Votre e-mail, avec votre consentement, est utilisé par Ouest-France
    pour recevoir notre newsletter. En savoir plus.
 
-   Sites d'actualitÃ©
+   Sites d'actualité
      * Ouest-France
      * Appli Android Ouest-France
      * Appli iOS Ouest-France
      * Courrier de l'Ouest
-     * Presse OcÃ©an
+     * Presse Océan
      * Le Maine-libre
      * Autres sites du groupe
 
@@ -589,9 +589,9 @@ Le sport en un coup dâ€™Å“il
      * Contactez-nous
      * FAQ
      * Rejoignez-nous
-     * Ouest-France SolidaritÃ©
+     * Ouest-France Solidarité
      * Archives du site
-     * Ã‰galitÃ© professionnelle
+     * Égalité professionnelle
      * Modifier mes choix de cookies
 
    Shopping
@@ -608,17 +608,17 @@ Le sport en un coup dâ€™Å“il
      * Bons Plans Canal+
 
    Les applications mobiles du groupe SIPA Ouest-France disponibles en
-   tÃ©lÃ©chargement
-     * Mentions lÃ©gales
-     * DonnÃ©es personnelles
+   téléchargement
+     * Mentions légales
+     * Données personnelles
      * Cookies
      * CGU
      * Qui sommes-nous ?
-     * Tarifs de rÃ©fÃ©rences
+     * Tarifs de références
      * Charte utilisateur
      * Plan du site
-     * Plan des Ã©lections
-     * Â© Ouest-France
+     * Plan des élections
+     * © Ouest-France
 
      *
 
@@ -626,5 +626,5 @@ Le sport en un coup dâ€™Å“il
 
    []
 
-   TÃ©lÃ©chargez notre application
+   Téléchargez notre application
    (BUTTON) fermer

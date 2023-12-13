@@ -45,38 +45,88 @@ Contents
      * (Top)
      * 1Categories
        (BUTTON) Toggle Categories subsection
-          + 1.1In-game advertising
-               o 1.1.1Static in-game advertising
-               o 1.1.2Dynamic in-game advertising
-          + 1.2Advergames
-          + 1.3Through-the-line advertising
-     * 2Industry impact
-       (BUTTON) Toggle Industry impact subsection
-          + 2.1Prevalence and efficacy
-          + 2.2Mobile
-          + 2.3ESRB
-     * 3Legislative developments
-       (BUTTON) Toggle Legislative developments subsection
-          + 3.1Academic research
-          + 3.2United States legislation
-               o 3.2.1Children's Online Privacy Protection Act of 1998
-               o 3.2.2Do Not Track Kids Acts
-               o 3.2.3Targeted advergame marketing
-     * 4Examples
-       (BUTTON) Toggle Examples subsection
-          + 4.1Food and beverages
-          + 4.2Movies and entertainment
-          + 4.3Cross-franchise promotion
-          + 4.4Miscellaneous
-     * 5See also
-     * 6References
+
+     * 1.1In-game advertising
+
+     * 1.1.1Static in-game advertising
+
+     1.1.2Dynamic in-game advertising
+
+     1.2Advergames
+
+
+
+   1.3Through-the-line advertising
+
+
+
+   2Industry impact
+
+   (BUTTON) Toggle Industry impact subsection
+     * 2.1Prevalence and efficacy
+
+
+
+   2.2Mobile
+
+
+
+   2.3ESRB
+
+
+
+   3Legislative developments
+
+   (BUTTON) Toggle Legislative developments subsection
+     * 3.1Academic research
+
+
+
+   3.2United States legislation
+
+     * 3.2.1Children's Online Privacy Protection Act of 1998
+
+
+
+   3.2.2Do Not Track Kids Acts
+
+
+
+   3.2.3Targeted advergame marketing
+
+
+
+   4Examples
+
+   (BUTTON) Toggle Examples subsection
+     * 4.1Food and beverages
+
+
+
+   4.2Movies and entertainment
+
+
+
+   4.3Cross-franchise promotion
+
+
+
+   4.4Miscellaneous
+
+
+
+   5See also
+
+
+
+   6References
 
    [ ] Toggle the table of contents
 
 Advertising in video games
 
    [ ] 1 language
-     * Türkçe
+     * T�rk�e
 
    Edit links
 
@@ -321,7 +371,7 @@ Advergames[edit]
    were developed and distributed on floppy disk.^[15] These games were
    distributed for free, often bundled with other products from the
    company advertised for. The first floppy disk advergames were developed
-   to serve dual purposes—as promotional incentives that drive response
+   to serve dual purposes--as promotional incentives that drive response
    and as media that deliver awareness. American Home Foods Chef Boyardee
    issued one of the earliest floppy-disk advergames.^[16] Some brands,
    like Kool-Aid and Pepsi, created early advergames on gaming platforms.
@@ -342,7 +392,7 @@ Advergames[edit]
    World Food Program) and Urban Jungle, an educational traffic
    simulation.
 
-Through-the-line advertising[edit]
+  Through-the-line advertising[edit]
 
    [220px-ILoveBees_-_Homepage.png] I Love Bees makes use of
    "link-chasing" and is designed to foster viral marketing.
@@ -373,7 +423,7 @@ Through-the-line advertising[edit]
 
 Industry impact[edit]
 
-Prevalence and efficacy[edit]
+  Prevalence and efficacy[edit]
 
    In 2019, a survey conducted by deltaDNA found that 94% of free-to-play
    video game developers incorporate some form of in-game
@@ -397,7 +447,7 @@ Prevalence and efficacy[edit]
    positive brand attitudes than passively added advertisements, such as
    posters or billboards.^[21]
 
-Mobile[edit]
+  Mobile[edit]
 
    Mobile in-game advertisements are advertisements within mobile games
    that lead the user to the website or installation page of the
@@ -418,7 +468,7 @@ Mobile[edit]
    advertising contributed $39.9 billion in revenue to the mobile gaming
    industry.^[28]
 
-ESRB[edit]
+  ESRB[edit]
 
    The Entertainment Software Rating Board (ESRB) assigns ratings based on
    a detailed questionnaire about the game's content and a gameplay clip
@@ -446,7 +496,7 @@ ESRB[edit]
 
 Legislative developments[edit]
 
-Academic research[edit]
+  Academic research[edit]
 
    The University of Bath's Institute for Policy Research researched the
    use of advergames in marketing to children in the United Kingdom.^[33]
@@ -456,9 +506,9 @@ Academic research[edit]
    these findings, the University called for "urgent government action to
    protect children from the subconscious effects of advergames."^[33]
 
-United States legislation[edit]
+  United States legislation[edit]
 
-Children's Online Privacy Protection Act of 1998[edit]
+    Children's Online Privacy Protection Act of 1998[edit]
 
    The Children's Online Privacy Protection Act of 1998 (COPPA) directs
    the Federal Trade Commission (FTC) to protect the personal data
@@ -469,7 +519,7 @@ Children's Online Privacy Protection Act of 1998[edit]
    is targeted toward children or has knowledge that it is collecting data
    from children.^[36]
 
-Do Not Track Kids Acts[edit]
+    Do Not Track Kids Acts[edit]
 
    Representatives Edward Markey [D-MA] and Joe Barton [R-TX] proposed the
    Do Not Track Kids Act of 2011 as an amendment to COPPA.^[37] The bill
@@ -490,7 +540,7 @@ Do Not Track Kids Acts[edit]
    2013, 2015, and 2018, though none of them passed through the committee
    stage.^[39]^[40]^[41]^[42]^[43]^[44]
 
-Targeted advergame marketing[edit]
+    Targeted advergame marketing[edit]
 
    A bill was recently introduced in the Senate that proposes restrictions
    on the use of information obtained through advergames to market to
@@ -501,7 +551,7 @@ Targeted advergame marketing[edit]
 
 Examples[edit]
 
-Food and beverages[edit]
+  Food and beverages[edit]
 
      * Mattel's M Network division released the "promogame" Kool-Aid Man
        for the Atari 2600 and Intellivision in 1983. The game was
@@ -543,7 +593,7 @@ Food and beverages[edit]
        the protagonist is able to consume the energy drink for a boost to
        their stamina meter.^[52]
 
-Movies and entertainment[edit]
+  Movies and entertainment[edit]
 
      * Cineplex Entertainment features an advergame open to the public,
        known as Top Popper during non-contest periods and Peel and Pop
@@ -555,7 +605,7 @@ Movies and entertainment[edit]
        one player at a time to become Thanos, giving them several new
        abilities and a regenerating shield.^[53]
 
-Cross-franchise promotion[edit]
+  Cross-franchise promotion[edit]
 
      * Mario & Sonic at the Olympic Games (2007) was a collaboration
        between Nintendo and Sega that put their mascots head-to-head in a
@@ -567,7 +617,7 @@ Cross-franchise promotion[edit]
        Smash Bros. Ultimate.^[57]^[58] Players can add the duo to their
        roster by purchasing it as DLC.^[57]^[58]
 
-Miscellaneous[edit]
+  Miscellaneous[edit]
 
      * BMW's BMW M3 Challenge (online, 2008) includes both ATL- and
        BTL-form advergaming. BMW worked with 10tacle Studios^[59] to
@@ -602,14 +652,14 @@ References[edit]
     1. ^ Terlutter, Ralf; Capella, Michael L. (2013). "The Gamification of
        Advertising: Analysis and Research Directions of In-Game
        Advertising, Advergames, and Advertising in Social Network Games".
-       Journal of Advertising. 42 (2–3): 95–112.
+       Journal of Advertising. 42 (2-3): 95-112.
        doi:10.1080/00913367.2013.774610. S2CID 144798265.
     2. ^ "Advertisers pay for video games / Product placement tradition no
        longer free ride for business". SFGATE. 25 July 2005.
     3. ^ ^a ^b ^c Yang, Moonhee; Roskos-Ewoldsen, David R.; Dinu, Lucian;
        Arpan, Laura M. (2006). "The Effectiveness of "in-Game"
        Advertising: Comparing College Students' Explicit and Implicit
-       Memory for Brand Names". Journal of Advertising. 35 (4): 143–152.
+       Memory for Brand Names". Journal of Advertising. 35 (4): 143-152.
        doi:10.2753/JOA0091-3367350410. S2CID 18993931.
     4. ^ "Advergaming". Issues in IMC. Archived from the original on
        2014-03-22. Retrieved 2020-04-02.
@@ -621,7 +671,7 @@ References[edit]
        Digital Games: A Threat and a Possibility". Retrieved 2020-04-02.
     8. ^ ""Advergames, Viral games, and online flash games design" Front
        Network". Frontnetwork.net. Retrieved 2010-06-23.
-    9. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l "» Dynamic vs. Static In-Game
+    9. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l "� Dynamic vs. Static In-Game
        Advertising: a Comparison". 3 September 2012. Retrieved 2020-04-03.
    10. ^ Tassi, Paul. "Analyst Says Video Game Advertising Will Double by
        2016". Forbes. Retrieved 2020-04-03.
@@ -893,7 +943,7 @@ References[edit]
 
    Themes
      * Advergame
-     * Bishōjo
+     * Bishojo
      * Christian
      * Comedy
      * Educational
@@ -984,7 +1034,7 @@ References[edit]
      * This page was last edited on 16 November 2023, at 22:31 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

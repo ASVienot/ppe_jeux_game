@@ -45,44 +45,133 @@ Contents
      * (Top)
      * 1History
        (BUTTON) Toggle History subsection
-          + 1.114th and 15th centuries
-          + 1.216th century
-          + 1.317th century
-          + 1.418th century
-     * 2Types
-       (BUTTON) Toggle Types subsection
-          + 2.1Trick-taking games
-          + 2.2Matching games
-          + 2.3Shedding games
-          + 2.4Catch and collect games
-          + 2.5Fishing games
-          + 2.6Comparing games
-          + 2.7Patience and solitaire games
-          + 2.8Drinking card games
-          + 2.9Compendium games
-          + 2.10Collectible card games (CCGs)
-          + 2.11Living card games (LCGs)
-          + 2.12Casino or gambling card games
-               o 2.12.1Poker games
-          + 2.13Other card games
-               o 2.13.1Simulation card games
-          + 2.14Fictional card games
-     * 3Typical structure of card games
-       (BUTTON) Toggle Typical structure of card games subsection
-          + 3.1Number and association of players
-          + 3.2Direction of play
-          + 3.3Determining who deals
-          + 3.4Hands, rounds and games
-          + 3.5Shuffling
-          + 3.6Deal
-     * 4Rules
-       (BUTTON) Toggle Rules subsection
-          + 4.1Rule infractions
-     * 5Playing cards
-     * 6See also
-     * 7References
-     * 8Bibliography
-     * 9External links
+
+     * 1.114th and 15th centuries
+
+     1.216th century
+
+     1.317th century
+
+
+
+   1.418th century
+
+
+
+   2Types
+
+   (BUTTON) Toggle Types subsection
+     * 2.1Trick-taking games
+
+
+
+   2.2Matching games
+
+
+
+   2.3Shedding games
+
+
+
+   2.4Catch and collect games
+
+
+
+   2.5Fishing games
+
+
+
+   2.6Comparing games
+
+
+
+   2.7Patience and solitaire games
+
+
+
+   2.8Drinking card games
+
+
+
+   2.9Compendium games
+
+
+
+   2.10Collectible card games (CCGs)
+
+
+
+   2.11Living card games (LCGs)
+
+
+
+   2.12Casino or gambling card games
+
+     * 2.12.1Poker games
+
+
+
+   2.13Other card games
+
+     * 2.13.1Simulation card games
+
+
+
+   2.14Fictional card games
+
+
+
+   3Typical structure of card games
+
+   (BUTTON) Toggle Typical structure of card games subsection
+     * 3.1Number and association of players
+
+
+
+   3.2Direction of play
+
+
+
+   3.3Determining who deals
+
+
+
+   3.4Hands, rounds and games
+
+
+
+   3.5Shuffling
+
+
+
+   3.6Deal
+
+
+
+   4Rules
+
+   (BUTTON) Toggle Rules subsection
+     * 4.1Rule infractions
+
+
+
+   5Playing cards
+
+
+
+   6See also
+
+
+
+   7References
+
+
+
+   8Bibliography
+
+
+
+   9External links
 
    [ ] Toggle the table of contents
 
@@ -90,78 +179,78 @@ Card game
 
    [ ] 73 languages
      * Afrikaans
-     * Ænglisc
-     * العربية
+     * �nglisc
+     * a+l+e+r+b+y+tm
      * Asturianu
-     * अवधी
-     * Azərbaycanca
-     * تۆرکجه
-     * বাংলা
-     * Беларуская
-     * Български
-     * Català
-     * Čeština
+     * ��
+     * Az@rbaycanca
+     * t+r+�g+h+
+     * ����
+     * Belaruskaya
+     * B"lgarski
+     * Catal�
+     * Cestina
      * Cymraeg
      * Dansk
      * Deitsch
      * Deutsch
      * Eesti
-     * Español
+     * Espa�ol
      * Esperanto
      * Euskara
-     * فارسی
-     * Français
+     * f+a+r+s+
+     * Fran�ais
      * Frysk
      * Gaeilge
      * Galego
-     * 한국어
+     * ��
      * Ido
      * Bahasa Indonesia
-     * Íslenska
+     * �slenska
      * Italiano
-     * עברית
+     * E+B+R+J+T+
      * Jawa
-     * ಕನ್ನಡ
-     * Қазақша
+     * ���
+     * azasha
      * Kiswahili
-     * Kriyòl gwiyannen
-     * Latviešu
-     * Lietuvių
+     * Kriy�l gwiyannen
+     * Latviesu
+     * Lietuviu
      * Limburgs
      * Magyar
-     * മലയാളം
+     * �����
      * Bahasa Melayu
-     * Nāhuatl
+     * Nahuatl
      * Nederlands
-     * 日本語
-     * Norsk bokmål
+     * ��
+     * Norsk bokm�l
      * Norsk nynorsk
      * Nouormand
      * Polski
-     * Português
-     * Română
-     * Русский
-     * Саха тыла
+     * Portugu�s
+     * Rom�na
+     * Russkij
+     * Saha tyla
      * Seeltersk
      * Simple English
-     * Slovenčina
-     * Slovenščina
-     * Српски / srpski
-     * Srpskohrvatski / српскохрватски
+     * Slovencina
+     * Slovenscina
+     * Srpski / srpski
+     * Srpskohrvatski / srpskohrvatski
      * Suomi
      * Svenska
      * Tagalog
-     * தமிழ்
-     * తెలుగు
-     * ไทย
-     * Türkçe
-     * Українська
-     * اردو
-     * Tiếng Việt
+     * ����
+     * ��
+     * �
+     * T�rk�e
+     * Ukrayins'ka
+     * a+r+d+w+
+     * Tie>'ng Vie>-.t
      * Walon
-     * 吴语
-     * 粵語
-     * 中文
+     * ��
+     * �
+     * �
 
    Edit links
 
@@ -231,10 +320,11 @@ Card game
    identifiable from one side only, so that each player knows only the
    cards they hold and not those held by anyone else. For this reason card
    games are often characterized as games of chance or "imperfect
-   information"—as distinct from games of strategy or perfect information,
-   where the current position is fully visible to all players throughout
-   the game.^[1] Many games that are not generally placed in the family of
-   card games do in fact use cards for some aspect of their play.
+   information"--as distinct from games of strategy or perfect
+   information, where the current position is fully visible to all players
+   throughout the game.^[1] Many games that are not generally placed in
+   the family of card games do in fact use cards for some aspect of their
+   play.
 
    Some games that are placed in the card game genre involve a board. The
    distinction is that the play in a card game chiefly depends on the use
@@ -253,9 +343,9 @@ History[edit]
    evidently very simple, the game is not named. In fact the earliest
    games to be mentioned by name are Gleek, Ronfa and Condemnade, the
    latter being the game played by the aforementioned card cheats. All
-   three are recorded during the 15th century,^[2] along with Karnöffel,
+   three are recorded during the 15th century,^[2] along with Karn�ffel,
    first mentioned in 1426 and which is still played in several forms
-   today, including Bruus, Knüffeln, Kaiserspiel and Styrivolt.
+   today, including Bruus, Kn�ffeln, Kaiserspiel and Styrivolt.
 
    Since the arrival trick-taking games in Europe in the late 14th
    century, there have only been two major innovations. The first was the
@@ -269,7 +359,7 @@ History[edit]
    of Europe with the notable exceptions of the British Isles, the Iberian
    Peninsula, and the Balkans.^[6] However, we do not know the rules of
    the early Tarot games; the earliest detailed description in any
-   language being those published by the Abbé de Marolles in Nevers in
+   language being those published by the Abb� de Marolles in Nevers in
    1637.^[7]^[8]
 
    The concept of trumps was sufficiently powerful that it was soon
@@ -280,8 +370,8 @@ History[edit]
    Spaniard who left his native country for Milan in 1509 never to return;
    thus the game may date to the late 15th century.^[9]^[10]^[11]
 
-   Others games that may well date to the 15th century are Pochen – the
-   game of Bocken or Boeckels being attested in Strasbourg in 1441^[12] –
+   Others games that may well date to the 15th century are Pochen - the
+   game of Bocken or Boeckels being attested in Strasbourg in 1441^[12] -
    and Thirty-One, which is first mentioned in a French translation of a
    1440 sermon by the Italian, Saint Bernadine, the name actually
    referring to two different card games: one like Pontoon and one like
@@ -292,10 +382,10 @@ History[edit]
    In the 16th century printed documents replace handwritten sources and
    card games become a popular topic with preachers, autobiographists and
    writers in general. A key source of the games in vogue in France and
-   Europe at that time is François Rabelais, whose fictional character
+   Europe at that time is Fran�ois Rabelais, whose fictional character
    Gargantua played no less than 30 card games, many of which are
-   recognisable. They include: Aluette, Bête, Cent, Coquimbert, Coucou,
-   Flush or Flux, Gé (Pairs), Gleek, Lansquenet, Piquet, Post and Pair,
+   recognisable. They include: Aluette, B�te, Cent, Coquimbert, Coucou,
+   Flush or Flux, G� (Pairs), Gleek, Lansquenet, Piquet, Post and Pair,
    Primero, Ronfa, Triomphe, Sequence, Speculation, Tarot and
    Trente-et-Un; possibly Rams, Mouche and Brandeln as well.^[14] Girolamo
    Cardano also provides invaluable information including the earliest
@@ -308,7 +398,7 @@ History[edit]
    which is the earliest known English point-trick game.^[16] In Scotland,
    the game of Mawe, testified in the 1550s, evolved from a country game
    into one played at the royal Scottish court, becoming a favourite of
-   James I.^[17] The ancestor of Cribbage – a game called Noddy – is
+   James I.^[17] The ancestor of Cribbage - a game called Noddy - is
    mentioned for the first time in 1589, "Noddy" being the Knave turned
    for trump at the start of play.^[18]
 
@@ -317,7 +407,7 @@ History[edit]
    The 17th century saw an upsurge in the number of new games being
    reported as well as the first sets of rules, those for Piquet appearing
    in 1632 and Reversis in 1634.^[8] The first French games compendium, La
-   Maison Académique, appeared in 1654 and it was followed in 1674 by
+   Maison Acad�mique, appeared in 1654 and it was followed in 1674 by
    Charles Cotton's The Compleat Gamester, although an earlier manuscript
    of games by Francis Willughby was written sometime between 1665 and
    1670.^[19] Cotton records the first rules for the classic English games
@@ -337,7 +427,7 @@ History[edit]
    prime minister to King Louis XIV, became very popular at the French
    royal court. Called Hoc Mazarin, it had three phases, the final one of
    which evolved into a much simpler game called Manille that was renamed
-   Comète on the appearance of Halley's Comet in 1682.^[21] In Comète the
+   Com�te on the appearance of Halley's Comet in 1682.^[21] In Com�te the
    aim is to be first to shed all one's hand cards to sequences laid out
    in rows on the table. However, there are certain cards known as 'stops'
    or hocs: cards that end a sequence and give the one who played it the
@@ -351,20 +441,20 @@ History[edit]
    bidding.^[3] This first emerged in the Spanish game of Ombre, an
    evolution of Triomphe that "in its time, was the most successful card
    game ever invented."^[24] Ombre's origins are unclear and obfuscated by
-   the existence of a game called Homme or Bête in France, ombre and homme
+   the existence of a game called Homme or B�te in France, ombre and homme
    being respectively Spanish and French for 'man'. In Ombre, the player
    who won the bidding became the "Man" and played alone against the other
    two. The game spread rapidly across Europe, spawning variants for
    different numbers of players and known as Quadrille, Quintille,
-   Médiateur and Solo. Quadrille went on to become highly fashionable in
+   M�diateur and Solo. Quadrille went on to become highly fashionable in
    England during the 18th century and is mentioned several times, for
    example, in Jane Austen's Pride and Prejudice.
 
    The first rules of any game in the German language were those for
-   Rümpffen published in 1608 and later expanded in several subsequent
+   R�mpffen published in 1608 and later expanded in several subsequent
    editions. In addition, the first German games compendium, Palamedes
    Redivivus appeared in 1678, containing the rules for Hoick (Hoc),
-   Ombre, Picquet (sic), Rümpffen and Thurnspiel.
+   Ombre, Picquet (sic), R�mpffen and Thurnspiel.
 
 18th century[edit]
 
@@ -405,7 +495,7 @@ Trick-taking games[edit]
        Ace-Ten family which includes many national games such as German
        Skat, French Belote, Dutch Klaberjass, Austrian Schnapsen, Spanish
        Tute, Swiss Jass, Portuguese Sueca, Italian Briscola and Czech
-       Mariáš. Pinochle is an American example of French or Swiss origin.
+       Mari�s. Pinochle is an American example of French or Swiss origin.
        All Tarot card games are of the point-trick variety including
        German Cego, Austrian Tarock, French Tarot and Italian Minchiate.
 
@@ -443,7 +533,7 @@ Catch and collect games[edit]
    discard pile such as Slapjack. Egyptian Ratscrew has both of these
    features.
 
-Fishing games[edit]
+  Fishing games[edit]
 
    "Fishing game" redirects here. For the video game genre, see fishing
    video game.
@@ -457,7 +547,7 @@ Fishing games[edit]
    card games of Italy. Cassino is the only fishing game to be widely
    played in English-speaking countries. Zwicker has been described as a
    "simpler and jollier version of Cassino", played in Germany.^[26]
-   Tablanet (tablić) is a fishing-style game popular in Balkans.
+   Tablanet (tablic) is a fishing-style game popular in Balkans.
 
   Comparing games[edit]
 
@@ -512,7 +602,7 @@ Fishing games[edit]
    art. New card sets are released periodically and sold as starter decks
    or booster packs. Obtaining the different cards makes the game a
    collectible card game, and cards are sold or traded on the secondary
-   market. Magic: The Gathering, Pokémon, and Yu-Gi-Oh! are well-known
+   market. Magic: The Gathering, Pok�mon, and Yu-Gi-Oh! are well-known
    collectible card games.
 
   Living card games (LCGs)[edit]
@@ -582,7 +672,7 @@ Fishing games[edit]
 
   Fictional card games[edit]
 
-   See also: List of fictional games § Card games
+   See also: List of fictional games � Card games
 
    Many games, including card games, are fabricated by science fiction
    authors and screenwriters to distance a culture depicted in the story
@@ -606,7 +696,7 @@ Typical structure of card games[edit]
    [220px-Paul_C%C3%A9zanne%2C_1892-95%2C_Les_joueurs_de_carte_%28The_Card
    _Players%29%2C_60_x_73_cm%2C_oil_on_canvas%2C_Courtauld_Institute_of_Ar
    t%2C_London.jpg] The Card Players, 1895 by Paul
-   Cézanne[220px-Card_game%2C_circa_1930s.jpg] Historically, card games
+   C�zanne[220px-Card_game%2C_circa_1930s.jpg] Historically, card games
    such as whist and contract bridge were opportunities for quiet
    socializing, as shown in this 1930s magic lantern slide photo taken in
    Seattle, Washington.
@@ -815,7 +905,7 @@ Rules[edit]
    "house rules" under which they play the game. A set of house rules may
    be accepted as valid by a group of players wherever they play, as it
    may also be accepted as governing all play within a particular house,
-   café, or club.
+   caf�, or club.
 
    When a game becomes sufficiently popular, so that people often play it
    with strangers, there is a need for a generally accepted set of rules.
@@ -851,7 +941,7 @@ Rules[edit]
    Union in England. The rules of skat are governed by The International
    Skat Players Association and, in Germany, by the Deutscher Skatverband
    which publishes the Skatordnung. The rules of French tarot are governed
-   by the Fédération Française de Tarot. The rules of Schafkopf are laid
+   by the F�d�ration Fran�aise de Tarot. The rules of Schafkopf are laid
    down by the Schafkopfschule in Munich. Even in these cases, the rules
    must only be followed at games sanctioned by these governing bodies or
    where the tournament organisers specify them. Players in informal
@@ -920,18 +1010,18 @@ Playing cards[edit]
    century
 
    Playing cards first appeared in Europe in the last quarter of the 14th
-   century.^[31]^: 35  The earliest European references speak of a Saracen
+   century.^[31]^: 35 The earliest European references speak of a Saracen
    or Moorish game called naib, and in fact an almost complete Mamluk
    Egyptian deck of 52 cards in a distinct oriental design has survived
    from around the same time, with the four suits swords, polo sticks,
    cups and coins and the ranks king, governor, second governor, and ten
-   to one.^[31]^: 40f ^[32]
+   to one.^[31]^: 40f ^[32]
 
    The 1430s in Italy saw the invention of the tarot deck, a full
    Latin-suited deck augmented by suitless cards with painted motifs that
    played a special role as trumps. Tarot card games are still played with
    (subsets of) these decks in parts of Central Europe. A full tarot deck
-   contains 14 cards in each suit; low cards labeled 1–10, and court cards
+   contains 14 cards in each suit; low cards labeled 1-10, and court cards
    valet (jack), chevalier (cavalier/knight), dame (queen), and roi
    (king), plus the fool or excuse card, and 21 trump cards. In the 18th
    century the card images of the traditional Italian tarot decks became
@@ -951,13 +1041,13 @@ Playing cards[edit]
 
    The French suits were introduced around 1480 and, in France, mostly
    replaced the earlier Latin suits of swords, clubs, cups and
-   coins.^[31]^: 43  (which are still common in Spanish- and
+   coins.^[31]^: 43 (which are still common in Spanish- and
    Portuguese-speaking countries as well as in some northern regions of
-   Italy)^[31]^: 30f  The suit symbols, being very simple and
-   single-color, could be stamped onto the playing cards to create a deck,
-   thus only requiring special full-color card art for the court cards.
-   This drastically simplifies the production of a deck of cards versus
-   the traditional Italian deck, which used unique full-color art for each
+   Italy)^[31]^: 30f The suit symbols, being very simple and single-color,
+   could be stamped onto the playing cards to create a deck, thus only
+   requiring special full-color card art for the court cards. This
+   drastically simplifies the production of a deck of cards versus the
+   traditional Italian deck, which used unique full-color art for each
    card in the deck. The French suits became popular in English playing
    cards in the 16th century (despite historic animosity between France
    and England), and from there were introduced to British colonies
@@ -998,7 +1088,7 @@ Playing cards[edit]
    mother-of-pearl gambling tokens used in scoring and bidding of card
    games.
 
-   In the 17th century, a French, five-trick, gambling game called Bête
+   In the 17th century, a French, five-trick, gambling game called B�te
    became popular and spread to Germany, where it was called La Bete and
    England where it was named Beast. It was a derivative of Triomphe and
    was the first card game in history to introduce the concept of
@@ -1006,7 +1096,7 @@ Playing cards[edit]
 
    Chinese handmade mother-of-pearl gaming counters were used in scoring
    and bidding of card games in the West during the approximate period of
-   1700–1840. The gaming counters would bear an engraving such as a coat
+   1700-1840. The gaming counters would bear an engraving such as a coat
    of arms or a monogram to identify a family or individual. Many of the
    gaming counters also depict Chinese scenes, flowers or animals. Queen
    Charlotte is one prominent British individual who is known to have
@@ -1040,20 +1130,20 @@ References[edit]
     3. ^ ^a ^b Dummett (1980), p. 173.
     4. ^ Dummett (1980), p. 173.
     5. ^ Pratesi, Franco (1989). "Italian Cards - New Discoveries". The
-       Playing-Card. 18 (1, 2): 28–32, 33–38.
+       Playing-Card. 18 (1, 2): 28-32, 33-38.
     6. ^ David Parlett, Oxford Dictionary of Card Games, pg. 300 Oxford
        University Press (1996) ISBN 0-19-869173-4
     7. ^ Regles dv Jev des Tarots at tarock.info. Retrieved 4 January
        2023.
-    8. ^ ^a ^b ^c ^d Depaulis (2002), pp. 313–316.
+    8. ^ ^a ^b ^c ^d Depaulis (2002), pp. 313-316.
     9. ^ Vives, Juan Luis; Foster, Watson (1908). Tudor School-Boy Life.
-       London: J.M. Dent & Company. pp. 185–197.
+       London: J.M. Dent & Company. pp. 185-197.
    10. ^ Maldonado, Juan; Smith, Warren; Colahan, Clark (2009). Spanish
        Humanism on the Verge of the Picaresque. Leuven: Leuven University
-       Press. pp. 23–59.
+       Press. pp. 23-59.
    11. ^ Pratesi, Franco (1988). "Juan Maldonado: A Writer to be
-       Remembered". The Playing-Card. 16 (4): 117–121.
-   12. ^ Depaulis (1990), pp. 52–67.
+       Remembered". The Playing-Card. 16 (4): 117-121.
+   12. ^ Depaulis (1990), pp. 52-67.
    13. ^ Parlett (1990), p. 80.
    14. ^ Rabelais (1534), Ch. XXII.
    15. ^ Skelton (1522).
@@ -1078,9 +1168,9 @@ References[edit]
        December 27, 2019. Retrieved October 12, 2020.
    28. ^ ^a ^b Temple, Robert K.G. (2007). The Genius of China: 3,000
        Years of Science, Discovery, and Invention (3rd edition). London:
-       André Deutsch, pp. 130–131. ISBN 978-0-233-00202-6.
+       Andr� Deutsch, pp. 130-131. ISBN 978-0-233-00202-6.
    29. ^ Zhou, Songfang. "On the Story of Late Tang Poet Li He", Journal
-       of the Graduates Sun Yat-sen University, 1997, Vol. 18, No. 3:31–35
+       of the Graduates Sun Yat-sen University, 1997, Vol. 18, No. 3:31-35
    30. ^ Needham, Joseph and Tsien Tsuen-Hsuin. (1985). Science and
        Civilization in China: Volume 5, Chemistry and Chemical Technology,
        Part 1, Paper and Printing. Cambridge University Press., reprinted
@@ -1090,7 +1180,7 @@ References[edit]
        ISBN 978-0-19-214165-1.
    32. ^ Dummett, Michael; Abu-Deeb, Kamal (1973), "Some remarks on Mamluk
        playing cards", Journal of the Warburg and Courtauld Institutes,
-       63: 106–128, doi:10.2307/751160, JSTOR 751160, S2CID 192948205
+       63: 106-128, doi:10.2307/751160, JSTOR 751160, S2CID 192948205
    33. ^ "Euchre: history of, by David Parlett". www.parlettgames.uk.
        Archived from the original on May 4, 2019. Retrieved December 29,
        2022.
@@ -1111,16 +1201,16 @@ Bibliography[edit]
      * Depaulis, Thierry (1985). "Le Jeu de Cartes: Quelques Regles du
        Passe" in The Playing-Card. Vol. XIII (3). February 1985.
 
-   ISSN 0305-2133 pp. 74–80.
+   ISSN 0305-2133 pp. 74-80.
 
      Depaulis, Thierry (1990). "Pochspiel: an 'International' Card Game of
-   the 15th Century – Part I" in The Playing-Card, Vol. 19, No. 2
-   (November 1990), pp. 52–67.
+   the 15th Century - Part I" in The Playing-Card, Vol. 19, No. 2
+   (November 1990), pp. 52-67.
 
      Florio, John (1591). Second Frutes. London: Woodcock.
 
      Parlett, David (2007). "The origins of Euchre" in The Playing-Card,
-   35 (4), Apr–June 2007. ISSN 1752-671X pp. 255–261.
+   35 (4), Apr-June 2007. ISSN 1752-671X pp. 255-261.
 
      Parlett, David (1991). A History of Card Games, OUP, Oxford.
    ISBN 0-19-282905-X
@@ -1162,7 +1252,7 @@ External links[edit]
      * Ochse, leg dich!
      * Pig
      * Quartets
-     * Schlafmütze
+     * Schlafm�tze
      * War
 
    Commerce
@@ -1179,9 +1269,9 @@ External links[edit]
 
      * Chase the Ace
      * Coucou
-     * Cuccù
+     * Cucc�
      * Gnav
-     * Höllfahren
+     * H�llfahren
      * Hypp
      * Hexenspiel
      * Kille
@@ -1209,7 +1299,7 @@ External links[edit]
      * Buraco
      * Canasta
      * Carioca
-     * Chinchón
+     * Chinch�n
      * Colonel
      * Conquian
      * Continental Rummy
@@ -1229,7 +1319,7 @@ External links[edit]
      * Thirty-one
      * Three thirteen
      * Tonk
-     * Treppenrommé
+     * Treppenromm�
      * Viennese Rummy
      * Yaniv
      * 500 rum
@@ -1273,7 +1363,7 @@ External links[edit]
      * Craits
      * Crazy Eights
      * Cheat
-     * Daifugō
+     * Daifugo
      * Dou dizhu
      * Dupa biskupa
      * Durak
@@ -1296,8 +1386,8 @@ External links[edit]
      * Speed
      * Spit
      * Switch
-     * Tiến lên
-     * Vändtia
+     * Tie>'n l�n
+     * V�ndtia
 
      * {{Historical card games}} {{Patience}} {{Trick-taking card games}}
        {{Tarot and Tarock card games}}
@@ -1321,7 +1411,7 @@ External links[edit]
      * All Fours
      * Auction bridge
      * Barbu
-     * Baśka (16)
+     * Baska (16)
      * Bid whist
      * Bisca (40)
      * Black Lady
@@ -1329,7 +1419,7 @@ External links[edit]
      * Bluke
      * Bonken
      * Boston
-     * Bourré
+     * Bourr�
      * Bridge
      * Call-ace Whist
      * Cinch
@@ -1350,8 +1440,8 @@ External links[edit]
      * Knockout Whist
      * Konter a Matt (24)
      * Kop (16)
-     * Köpknack
-     * Knüffeln (48)
+     * K�pknack
+     * Kn�ffeln (48)
      * Lanterloo
      * Mizerka
      * Napoleon
@@ -1365,16 +1455,16 @@ External links[edit]
      * Polskpas (24)
      * Put
      * Ristikontra
-     * Rödskägg
+     * R�dsk�gg
      * Shelem
      * Sheng ji
      * Sixty-three
      * Sjavs (Danish) (20)
-     * Skærvindsel (28)
+     * Sk�rvindsel (28)
      * Smear
      * Spades
      * Spoil Five
-     * Stýrivolt (48)
+     * St�rivolt (48)
      * Sueca (40)
      * Tarneeb
      * Thunee (24)
@@ -1389,9 +1479,9 @@ External links[edit]
    36 cards
 
      * Agram
-     * Bräus
+     * Br�us
      * Brus
-     * Brús
+     * Br�s
      * Bruus
      * Bura
      * Catch the Ten
@@ -1402,7 +1492,7 @@ External links[edit]
      * Marjapussi
      * Scharwenzel
      * Six-Bid Solo
-     * Svängknack
+     * Sv�ngknack
      * Tapp
      * Tarabish
      * Trekort
@@ -1424,11 +1514,11 @@ External links[edit]
      * Bruus
      * Chouine
      * Coinche
-     * Écarté
-     * Enflé
+     * �cart�
+     * Enfl�
      * Euchre
      * Fipsen
-     * Fünf dazu
+     * F�nf dazu
      * Herzblatt
      * Kaiser
      * Klaberjass/Bela
@@ -1445,11 +1535,11 @@ External links[edit]
      * Piquet
      * Polignac
      * Preferans
-     * Préférence
+     * Pr�f�rence
      * Rams
      * Schwimmen
      * Sheepshead
-     * Siebenschräm
+     * Siebenschr�m
      * Sjavs
      * Skat
      * Solo 66
@@ -1474,7 +1564,7 @@ External links[edit]
      * Mulatschak
      * Perlaggen (33)
      * Schnalzen (33)
-     * Württemberg Tarock
+     * W�rttemberg Tarock
 
    German packs
    32 cards
@@ -1504,7 +1594,7 @@ External links[edit]
      * Lorum
      * Lupfen (20)
      * Lusti-Kartl'n
-     * Mariáš
+     * Mari�s
      * Matzlfangen
      * Mauscheln
      * Mucken
@@ -1538,7 +1628,7 @@ External links[edit]
      * Brisca
      * Briscola
      * Calabresella
-     * Gilé
+     * Gil�
      * Julepe
      * Tressette
      * Truc
@@ -1662,7 +1752,7 @@ External links[edit]
      * This page was last edited on 26 November 2023, at 19:35 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

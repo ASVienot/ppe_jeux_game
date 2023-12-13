@@ -3,19 +3,19 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KTMQFBW
 
    [logo-mobile-www.png?version=20231124111711]
-   TÃ©lÃ©chargez
+   Téléchargez
    notre application
    Ouvrir
 
-   Journal Ã©conomique et financier
+   Journal économique et financier
    s'abonner
      * Lire le journal
      * Newsletters
      Rubriques
      * +
-     * Ã‰conomie
+     * Économie
           + France
-          + Union europÃ©enne
+          + Union européenne
           + International
           + Politique
           + Bourse
@@ -23,61 +23,61 @@
           + Industrie
           + Services
           + Banques / Finance
-          + Transitions Ã‰cologiques
+          + Transitions Écologiques
      * Tech
-          + MÃ©dias
-          + PublicitÃ©
+          + Médias
+          + Publicité
           + Internet
           + Informatique
           + Electronique
-          + TÃ©lÃ©coms
+          + Télécoms
           + Innovation et Start-up
           + Start-up
           + French Tech
-          + MobilitÃ©s : cap 2024
-     * IdÃ©es
+          + Mobilités : cap 2024
+     * Idées
           + Tribunes
-          + Ã‰ditos
+          + Éditos
           + Blogs
-          + Podcast - Les HÃ©ritiÃ¨res
+          + Podcast - Les Héritières
           + Engage-moi
      * Culture / Lifestyle
-     * RÃ©gions
-          + Auvergne-RhÃ´ne-Alpes
-          + Bourgogne-Franche-ComtÃ©
+     * Régions
+          + Auvergne-Rhône-Alpes
+          + Bourgogne-Franche-Comté
           + Bretagne
           + Centre-Val de Loire
           + Corse
           + Grand Est
           + Hauts-de-France
-          + ÃŽle-de-France
+          + Île-de-France
           + Normandie
           + Nouvelle-Aquitaine
           + Occitanie - Montpellier
           + Occitanie - Toulouse
           + Pays de la Loire
-          + RÃ©gion Sud - Marseille
-          + RÃ©gion Sud - Nice
+          + Région Sud - Marseille
+          + Région Sud - Nice
           + Smart cities
      * La Tribune Dimanche
-          + La Tribune Dimanche nÂ°9 - 3 dÃ©cembre 2023
-          + La Tribune Dimanche nÂ°8 - 26 novembre 2023
-          + La Tribune Dimanche nÂ°7 - 19 novembre 2023
-          + La Tribune Dimanche nÂ°6 - 12 novembre 2023
-          + La Tribune Dimanche NÂ°5 - 5 novembre 2023
+          + La Tribune Dimanche n°9 - 3 décembre 2023
+          + La Tribune Dimanche n°8 - 26 novembre 2023
+          + La Tribune Dimanche n°7 - 19 novembre 2023
+          + La Tribune Dimanche n°6 - 12 novembre 2023
+          + La Tribune Dimanche N°5 - 5 novembre 2023
      La Tribune +
      * +
-     * Espace AbonnÃ©
-     * Kiosque NumÃ©rique
+     * Espace Abonné
+     * Kiosque Numérique
      * T la Revue
-     * Voir nos annonces lÃ©gales
-     * DÃ©poser vos annonces lÃ©gales
+     * Voir nos annonces légales
+     * Déposer vos annonces légales
      Services
      * +
      * La Tribune Now
-     * SupplÃ©ment
-     * Paroles d'Experts avec MÃ©dias France
-     * MobilitÃ© : cap 2024
+     * Supplément
+     * Paroles d'Experts avec Médias France
+     * Mobilité : cap 2024
      * Fonction Finance 2.0 avec Cegid
      * After Work avec Bpifrance
      * #LaTribuneBusiness Interviews
@@ -85,7 +85,7 @@
      * #LaTribuneBusiness TV
      * Le Comparateur Assurance
      * Transformations durables avec Mazars
-     * AccÃ©lÃ©rer avec le Cloud par AWS
+     * Accélérer avec le Cloud par AWS
      * Fisher Investments
      * Le portage salarial
      * VisionAir avec Bpifrance
@@ -96,22 +96,22 @@
      * Tech For Future
      * Sommet du Grand Paris
      * Paris Air Forum
-     * Forum ZÃ©ro Carbone
-     * Partageons l'Ã©conomie
-     * Une Ã©poque formidable
+     * Forum Zéro Carbone
+     * Partageons l'économie
+     * Une époque formidable
      * Transformons la France
-     * Les CafÃ©s de La Tribune Dimanche
-     * Tous nos Ã©vÃ©nements en rÃ©gion
-     Ã©ditions rÃ©gionales
+     * Les Cafés de La Tribune Dimanche
+     * Tous nos événements en région
+     éditions régionales
      * +
      * Bordeaux - Nouvelle-Aquitaine
-     * Dijon - Bourgogne-Franche-ComtÃ©
+     * Dijon - Bourgogne-Franche-Comté
      * Lille - Hauts-de-France
-     * Lyon - Auvergne-RhÃ´ne-Alpes
-     * Marseille/Nice - RÃ©gion SUD
+     * Lyon - Auvergne-Rhône-Alpes
+     * Marseille/Nice - Région SUD
      * Montpellier - Occitanie
      * Nantes - Pays-de-la-Loire
-     * Paris - ÃŽle-de-France
+     * Paris - Île-de-France
      * Rennes - Bretagne
      * Rouen - Normandie
      * Strasbourg - Grand Est
@@ -119,35 +119,35 @@
      * Tours - Centre-Val de Loire
      * Se connecter
 
-     * Ã‰conomie
+     * Économie
           + France
-               o PrÃ©sidentielles 2022
-               o Le Monde d'aprÃ¨s
+               o Présidentielles 2022
+               o Le Monde d'après
                o La Tribune de la French Fab
-          + Union europÃ©enne
+          + Union européenne
           + International
-               o Le G20 en six leÃ§ons
+               o Le G20 en six leçons
           + Politique
           + Bourse
           + International
           + Politique
        Bercy
-       Bruno Le Maire se dit Â« dÃ©terminÃ© Â» Ã  rÃ©duire le dÃ©ficit public de
+       Bruno Le Maire se dit « déterminé » à réduire le déficit public de
        la France
        La secretaire d'etat au commerce, gina raimondo, lors d'une
        audition, a washington
-       La Chine est Â« la menace la plus importante que nous ayons jamais
-       connue Â», selon la ministre amÃ©ricaine du Commerce 2
+       La Chine est « la menace la plus importante que nous ayons jamais
+       connue », selon la ministre américaine du Commerce 2
        Bruno Le Maire
-       Bruno Le Maire veut rÃ©duire le dÃ©lai de recours suite Ã  un
-       licenciement Ã  deux mois
+       Bruno Le Maire veut réduire le délai de recours suite à un
+       licenciement à deux mois
      * Entreprises & Finance
           + Industrie
                o Automobile
-               o AÃ©ronautique & DÃ©fense
+               o Aéronautique & Défense
                o Agroalimentaire & Biens de con...
                o Energie & Environnement
-               o Biens d'Ã©quipement & BTP & Imm...
+               o Biens d'équipement & BTP & Imm...
                o Chimie & Pharmacie
                o Industrie lourde
           + Services
@@ -156,111 +156,111 @@
                o Tourisme & Loisirs
           + Banques / Finance
                o Banque
-               o Industrie financiÃ¨re
+               o Industrie financière
                o Assurance
-          + Transitions Ã‰cologiques
+          + Transitions Écologiques
                o Web TV
-               o L'actualitÃ©
+               o L'actualité
                o La Tribune de la COP21
-       Pau PyrÃ©nÃ©s
-       HydrogÃ¨ne naturel : un premier permis d'exploration vient d'Ãªtre
-       dÃ©livrÃ© en France
+       Pau Pyrénés
+       Hydrogène naturel : un premier permis d'exploration vient d'être
+       délivré en France
        Al Jaber
-       COP28 : La sortie des Ã©nergies fossiles est Â« inÃ©vitable Â», selon
-       le prÃ©sident Al Jaber
-       Matthieu Pigasse, le 29 novembre Ã  Paris.
+       COP28 : La sortie des énergies fossiles est « inévitable », selon
+       le président Al Jaber
+       Matthieu Pigasse, le 29 novembre à Paris.
        Matthieu Pigasse, le banquier qui voit le monde en noir
      * Tech
-          + MÃ©dias
-          + PublicitÃ©
+          + Médias
+          + Publicité
           + Internet
           + Informatique
           + Electronique
-          + TÃ©lÃ©coms
+          + Télécoms
           + Innovation et Start-up
           + Start-up
           + French Tech
-          + MobilitÃ©s : cap 2024
+          + Mobilités : cap 2024
        Microsoft au sommet du microsoft theatre a los angeles, en
        californie
-       ChatGPT : aprÃ¨s la crise chez OpenAI, Microsoft met un pied dans le
-       conseil dâ€™administration de la startup 2
+       ChatGPT : après la crise chez OpenAI, Microsoft met un pied dans le
+       conseil d'administration de la startup 2
        IA intelligence artificielle ACPR
-       Corse : MIRA, lâ€™Ã©cole dâ€™ingÃ© qui va rÃ©volutionner lâ€™espace
-       mÃ©diterranÃ©en
+       Corse : MIRA, l'école d'ingé qui va révolutionner l'espace
+       méditerranéen
        Elon musk, au sommet sur la securite de l'ia a bletchley park
        Elon Musk insulte les annonceurs qui boycottent X (ex-Twitter) 4
-     * IdÃ©es
+     * Idées
           + Tribunes
-          + Ã‰ditos
+          + Éditos
           + Blogs
                o Commodities & Influence
                o Homo Numericus
                o 40 nuances de Next
                o Inside Davos
-               o Aux coeurs de lâ€™innovation
+               o Aux coeurs de l'innovation
                o Essais auto
-               o Le Tour du Monde de lâ€™Innovati...
-               o GÃ©nÃ©ration Peur de rien
+               o Le Tour du Monde de l'Innovati...
+               o Génération Peur de rien
                o Vu de Bruxelles
-          + Podcast - Les HÃ©ritiÃ¨res
+          + Podcast - Les Héritières
           + Engage-moi
-       Ã‰dito Bruno Jeudy
-       La percÃ©e de Bardella doit sonner comme une alerte
-       Chronique FranÃ§ois Clemenceau
-       Chronique de FranÃ§ois Clemenceau : la peur des voisins dâ€™IsraÃ«l
+       Édito Bruno Jeudy
+       La percée de Bardella doit sonner comme une alerte
+       Chronique François Clemenceau
+       Chronique de François Clemenceau : la peur des voisins d'Israël
        Saint-Malo
-       Johanna Rolland, prÃ©sidente de France Urbaine : Â« Donnez-nous le
-       pouvoir de rÃ©guler lâ€™immobilier local Â» 1
+       Johanna Rolland, présidente de France Urbaine : « Donnez-nous le
+       pouvoir de réguler l'immobilier local » 1
      * Culture / Lifestyle
-     * RÃ©gions
-          + Auvergne-RhÃ´ne-Alpes
-          + Bourgogne-Franche-ComtÃ©
+     * Régions
+          + Auvergne-Rhône-Alpes
+          + Bourgogne-Franche-Comté
           + Bretagne
           + Centre-Val de Loire
           + Corse
           + Grand Est
           + Hauts-de-France
-          + ÃŽle-de-France
+          + Île-de-France
           + Normandie
           + Nouvelle-Aquitaine
           + Occitanie - Montpellier
           + Occitanie - Toulouse
           + Pays de la Loire
-          + RÃ©gion Sud - Marseille
-          + RÃ©gion Sud - Nice
+          + Région Sud - Marseille
+          + Région Sud - Nice
           + Smart cities
                o La Tribune de Carlos Moreno
-       Vue prÃ©liminaire architecturale datant de juillet 2023 et
-       susceptible dâ€™Ã©volutions
-       Nouveaux rÃ©acteurs nuclÃ©aires Ã  Gravelines : le calendrier des
-       travaux se prÃ©cise
+       Vue préliminaire architecturale datant de juillet 2023 et
+       susceptible d'évolutions
+       Nouveaux réacteurs nucléaires à Gravelines : le calendrier des
+       travaux se précise
        femmes industrie
-       Hauts-de-France : 37.000 entreprises Ã  vendre d'ici Ã  cinq ans
-       Depuis six ans, la PME a enclenchÃ© une diversification de ses
-       activitÃ©s
-       En Bourgogne-Franche-ComtÃ©, deux entreprises sÃ©lectionnÃ©es pour le
+       Hauts-de-France : 37.000 entreprises à vendre d'ici à cinq ans
+       Depuis six ans, la PME a enclenché une diversification de ses
+       activités
+       En Bourgogne-Franche-Comté, deux entreprises sélectionnées pour le
        programme ETIncelles
      * La Tribune Dimanche
-          + La Tribune Dimanche nÂ°9 - 3 dÃ©cembre 2023
-          + La Tribune Dimanche nÂ°8 - 26 novembre 2023
-          + La Tribune Dimanche nÂ°7 - 19 novembre 2023
-          + La Tribune Dimanche nÂ°6 - 12 novembre 2023
-          + La Tribune Dimanche NÂ°5 - 5 novembre 2023
+          + La Tribune Dimanche n°9 - 3 décembre 2023
+          + La Tribune Dimanche n°8 - 26 novembre 2023
+          + La Tribune Dimanche n°7 - 19 novembre 2023
+          + La Tribune Dimanche n°6 - 12 novembre 2023
+          + La Tribune Dimanche N°5 - 5 novembre 2023
 
-     * Ã‰conomie
+     * Économie
      * Entreprises & Finance
      * Tech
-     * IdÃ©es
+     * Idées
      * Culture / Lifestyle
-     * RÃ©gions
+     * Régions
      * La Tribune Dimanche
 
      * CAC 40 7 346,15 PTS +0,48%
      * + FORTES HAUSSES CAC 40 WORLDLINE +5,87% ALSTOM +3,87%
      * + FORTES BAISSES CAC 40 SOCIETE GENERALE -0,76% DANONE -0,64%
      * DOW JONES +0,82% NASDAQ 100 +0,31% EURONEXT 100 +0,77%
-     * Or +0,33% OAT 10 ans +1,36% PÃ©trole Brent -5,25%
+     * Or +0,33% OAT 10 ans +1,36% Pétrole Brent -5,25%
 
 
 
@@ -270,11 +270,11 @@
 
                                     Tribunes
 
-     Jeux vidÃ©o : lâ€™e-sport, discipline trÃ¨s populaire... mais en crise
+       Jeux vidéo : l'e-sport, discipline très populaire... mais en crise
 
-   OPINION. MalgrÃ© des revenus qui se chiffrent en milliard, trÃ¨s peu
-   dâ€™Ã©quipes e-sportives sâ€™avÃ¨rent rentables. Des pistes de rÃ©flexion
-   existent nÃ©anmoins pour reconfigurer la discipline. Par Reynald Brion,
+   OPINION. Malgré des revenus qui se chiffrent en milliard, très peu
+   d'équipes e-sportives s'avèrent rentables. Des pistes de réflexion
+   existent néanmoins pour reconfigurer la discipline. Par Reynald Brion,
    TBS Education
 
    Reynald Brion
@@ -298,126 +298,126 @@
      *
      *
 
-   (CrÃ©dits : Reuters)
+   (Crédits : Reuters)
 
-   Avec de plus en plus d'Ã©vÃ©nements sur le sol
-   franÃ§ais, l'e-sport (pratique compÃ©titive du jeu vidÃ©o) semble
+   Avec de plus en plus d'événements sur le sol
+   français, l'e-sport (pratique compétitive du jeu vidéo) semble
    s'installer durablement sur le territoire national. Pour le BLAST TV
-   Major Counter Strike au printemps et les LEC Season Finals 2023 dÃ©but
-   septembre, deux Ã©vÃ©nements internationaux majeurs de la discipline,
-   Paris et Ã  Montpellier ont accueilli des dizaines de milliers de
+   Major Counter Strike au printemps et les LEC Season Finals 2023 début
+   septembre, deux événements internationaux majeurs de la discipline,
+   Paris et à Montpellier ont accueilli des dizaines de milliers de
    spectateurs, sans compter un large public en ligne.
 
-   L'e-sport semble mÃªme Ãªtre pris trÃ¨s au sÃ©rieux par le gouvernement
-   franÃ§ais, qui a annoncÃ©, en marge des Jeux Olympiques 2024,
-   un Ã©vÃ©nement esport autour du jeu de course Trackmania. En attendant
-   peut-Ãªtre que des mÃ©dailles olympiques rÃ©compensent les plus grands as
-   des manettes. Depuis septembre 2023, le CIO s'est dotÃ© d'une commission
-   travaillant sur le sujet, avec Ã  sa tÃªte le franÃ§ais David Lappartient,
-   prÃ©sident de l'Union cycliste internationale. Le parlement a Ã©galement
-   rÃ©cemment votÃ© un abaissement de la TVA Ã  5,5% pour les billeteries
-   e-sport, alignant ce taux avec celui appliquÃ© aux autres Ã©vÃ©nements
+   L'e-sport semble même être pris très au sérieux par le gouvernement
+   français, qui a annoncé, en marge des Jeux Olympiques 2024,
+   un événement esport autour du jeu de course Trackmania. En attendant
+   peut-être que des médailles olympiques récompensent les plus grands as
+   des manettes. Depuis septembre 2023, le CIO s'est doté d'une commission
+   travaillant sur le sujet, avec à sa tête le français David Lappartient,
+   président de l'Union cycliste internationale. Le parlement a également
+   récemment voté un abaissement de la TVA à 5,5% pour les billeteries
+   e-sport, alignant ce taux avec celui appliqué aux autres événements
    sportifs et culturels.
 
-   L'e-sport, ce sont des revenus estimÃ©s Ã  plus de 1,38 milliard de
-   dollars en 2022, 5 %, de plus par rapport Ã  2021. C'est aussi plus de
-   530 millions de spectateurs dans le monde. Cependant, malgrÃ© ces
-   chiffres positifs, la dynamique semble ralentir, et de rÃ©cents
-   Ã©vÃ©nements laissent penser qu'il pourrait bientÃ´t se retrouver dans une
-   situation complexe au niveau Ã©conomique. De nombreux problÃ¨mes liÃ©s Ã 
-   la durabilitÃ© et Ã  la viabilitÃ© du systÃ¨me ont Ã©galement Ã©tÃ© mis en
-   avant ainsi que des pistes de rÃ©flexions pour y faire face Ã  l'instar
+   L'e-sport, ce sont des revenus estimés à plus de 1,38 milliard de
+   dollars en 2022, 5 %, de plus par rapport à 2021. C'est aussi plus de
+   530 millions de spectateurs dans le monde. Cependant, malgré ces
+   chiffres positifs, la dynamique semble ralentir, et de récents
+   événements laissent penser qu'il pourrait bientôt se retrouver dans une
+   situation complexe au niveau économique. De nombreux problèmes liés à
+   la durabilité et à la viabilité du système ont également été mis en
+   avant ainsi que des pistes de réflexions pour y faire face à l'instar
    de celles issues de nos travaux.
 
 Des structures non rentables
 
-   La structuration mÃªme de ce marchÃ© est Ã  la source de nombreuses
-   difficultÃ©s. DiffÃ©rents acteurs, notamment, sont parties prenantes du
-   secteur, avec des rapports de force totalement dÃ©sÃ©quilibrÃ©s.
+   La structuration même de ce marché est à la source de nombreuses
+   difficultés. Différents acteurs, notamment, sont parties prenantes du
+   secteur, avec des rapports de force totalement déséquilibrés.
 
-   D'un cÃ´tÃ© nous retrouvons les Ã©diteurs de jeux vidÃ©o, tels que Riot
-   Games, Valve ou Epic Games. On pourrait trÃ¨s schÃ©matiquement les
-   comparer Ã  des fÃ©dÃ©rations sportives ayant la propriÃ©tÃ© intellectuelle
-   de leur sport : ils peuvent, Ã  tout moment, modifier toutes les rÃ¨gles
-   et pratiques mises en place dans leurs compÃ©titions.
+   D'un côté nous retrouvons les éditeurs de jeux vidéo, tels que Riot
+   Games, Valve ou Epic Games. On pourrait très schématiquement les
+   comparer à des fédérations sportives ayant la propriété intellectuelle
+   de leur sport : ils peuvent, à tout moment, modifier toutes les règles
+   et pratiques mises en place dans leurs compétitions.
 
-   De l'autre cÃ´tÃ©, nous avons les Ã©quipes e-sportives, les joueurs, les
-   organisateurs de tournois et les communautÃ©s de fans qui s'adaptent aux
-   rÃ¨gles des Ã©diteurs afin de survivre dans l'Ã©cosystÃ¨me. Enfin, il
-   existe des parties prenantes extÃ©rieurs, principalement les sponsors et
-   les mÃ©dias, qui sont lÃ  pour financer les Ã©quipes, tournois, et joueurs
-   dans un objectif de visibilitÃ© ou d'image de marque, permettant ainsi
+   De l'autre côté, nous avons les équipes e-sportives, les joueurs, les
+   organisateurs de tournois et les communautés de fans qui s'adaptent aux
+   règles des éditeurs afin de survivre dans l'écosystème. Enfin, il
+   existe des parties prenantes extérieurs, principalement les sponsors et
+   les médias, qui sont là pour financer les équipes, tournois, et joueurs
+   dans un objectif de visibilité ou d'image de marque, permettant ainsi
    aux structures en place de survivre.
 
-   Ã€ l'heure actuelle, les Ã©quipes e-sportives, mÃªme les plus importantes,
-   ne sont pour une grande majoritÃ© d'entre elles pas rentables d'un point
-   de vue financier. Elles ont besoin de levÃ©es de fonds et d'une forte
-   prÃ©sence des sponsors afin de survivre. Vitality, l'une des plus
-   grosses structures e-sportives franÃ§aises avait par exemple
-   levÃ© 50 millions d'euros sur trois ans dÃ©but 2022 afin de continuer Ã 
-   se dÃ©velopper sur la scÃ¨ne du jeu d'action Counter Strike : Global
+   À l'heure actuelle, les équipes e-sportives, même les plus importantes,
+   ne sont pour une grande majorité d'entre elles pas rentables d'un point
+   de vue financier. Elles ont besoin de levées de fonds et d'une forte
+   présence des sponsors afin de survivre. Vitality, l'une des plus
+   grosses structures e-sportives françaises avait par exemple
+   levé 50 millions d'euros sur trois ans début 2022 afin de continuer à
+   se développer sur la scène du jeu d'action Counter Strike : Global
    Offensive.
 
-   Si les promesses d'une future rentabilitÃ© semblaient suffire Ã  attirer
-   de nombreux sponsors dans les plus grosses Ã©quipes jusqu'il y a peu, la
-   crise Covid et le manque de vision Ã  moyen terme semblent dÃ©sormais les
-   dÃ©courager. Certains sponsors et investisseurs n'hÃ©sitent d'ailleurs
-   pas Ã  couper leurs financements. L'exemple le plus frappant est celui
-   de BMW qui a annoncÃ© se retirer progressivement de l'e-sport en dÃ©but
-   d'annÃ©e 2023 alors qu'ils Ã©taient hautement investis Ã  travers 5 des
+   Si les promesses d'une future rentabilité semblaient suffire à attirer
+   de nombreux sponsors dans les plus grosses équipes jusqu'il y a peu, la
+   crise Covid et le manque de vision à moyen terme semblent désormais les
+   décourager. Certains sponsors et investisseurs n'hésitent d'ailleurs
+   pas à couper leurs financements. L'exemple le plus frappant est celui
+   de BMW qui a annoncé se retirer progressivement de l'e-sport en début
+   d'année 2023 alors qu'ils étaient hautement investis à travers 5 des
    plus grosses structures internationales depuis 2019 (G2 et Fnatic en
-   Europe, T1 en CorÃ©e du Sud, Cloud 9 en AmÃ©rique du Nord et Fun Plus
+   Europe, T1 en Corée du Sud, Cloud 9 en Amérique du Nord et Fun Plus
    Phoenix en Chine).
 
    D'autres grosses structures, telles que TeamSoloMid et 100 Thieves,
-   deux structures amÃ©ricaines Ã©valuÃ©es en 2021 Ã  plus de 400 millions de
+   deux structures américaines évaluées en 2021 à plus de 400 millions de
    dollars chacune selon Forbes en 2022, ont par ailleurs mis fin
-   Ã  plusieurs contrats Ã  la suite de problÃ¨mes financiers. Evil Genius,
-   l'une des plus grosses Ã©quipes amÃ©ricaines, a mÃªme dÃ©localisÃ© certaines
-   de ses opÃ©rations en AmÃ©rique du Sud afin de survivre. En France, LDLC
-   OL, association historique de l'e-sport en France liÃ©e Ã  l'Olympique
-   lyonnais, a, quant Ã  elle, annoncÃ© l'arrÃªt total de toutes ses
-   opÃ©rations dans l'esport en mai 2023.
+   à plusieurs contrats à la suite de problèmes financiers. Evil Genius,
+   l'une des plus grosses équipes américaines, a même délocalisé certaines
+   de ses opérations en Amérique du Sud afin de survivre. En France, LDLC
+   OL, association historique de l'e-sport en France liée à l'Olympique
+   lyonnais, a, quant à elle, annoncé l'arrêt total de toutes ses
+   opérations dans l'esport en mai 2023.
 
 Trois pistes de reconfigurations
 
-   Alarmistes en apparence, ces cas pourraient aussi Ãªtre les premiers
-   indicateurs d'une rÃ©vision entiÃ¨re du systÃ¨me. Les Ã©diteurs,
-   propriÃ©taires des jeux, semblent dÃ©tenir des clefs de rÃ©ponse possibles
-   pour permettre une stabilitÃ© Ã©conomique des grosses Ã©quipes. En effet,
-   alors que dans les sports traditionnels les droits mÃ©dias reprÃ©sentent
-   la majoritÃ© des revenus des Ã©quipes et des ligues, ils sont quasiment
-   inexistants dans l'e-sport. Les tournois sont majoritairement diffusÃ©s
-   sur des plates-formes de streaming oÃ¹ l'accÃ¨s est gratuit. Les Ã©diteurs
+   Alarmistes en apparence, ces cas pourraient aussi être les premiers
+   indicateurs d'une révision entière du système. Les éditeurs,
+   propriétaires des jeux, semblent détenir des clefs de réponse possibles
+   pour permettre une stabilité économique des grosses équipes. En effet,
+   alors que dans les sports traditionnels les droits médias représentent
+   la majorité des revenus des équipes et des ligues, ils sont quasiment
+   inexistants dans l'e-sport. Les tournois sont majoritairement diffusés
+   sur des plates-formes de streaming où l'accès est gratuit. Les éditeurs
    pourraient alors opter pour une meilleure redistribution de l'argent
-   gÃ©nÃ©rÃ© par les jeux et indirectement les compÃ©titions, afin d'assurer
-   la pÃ©rennitÃ© des Ã©quipes et de leurs ligues.
+   généré par les jeux et indirectement les compétitions, afin d'assurer
+   la pérennité des équipes et de leurs ligues.
 
-   Un autre Ã©lÃ©ment de solution pourrait provenir des communautÃ©s
-   e-sportives elles-mÃªmes. Les spectateurs semblent de plus en plus
-   s'organiser en groupes de supporters, Ã  l'instar du sport classique.
-   Ils semblent prÃªts Ã  consommer et Ã  s'organiser pour soutenir leurs
-   Ã©quipes et joueurs favoris. Pour rÃ©pondre Ã  leurs attentes et de les
-   pousser Ã  s'engager plus encore, les Ã©quipes pourraient rÃ©flÃ©chir ainsi
-   des expÃ©riences innovantes afin de s'assurer une forme de revenus
-   fixes. Il s'agit notamment de soigner le fait d'Ãªtre perÃ§u comme un
+   Un autre élément de solution pourrait provenir des communautés
+   e-sportives elles-mêmes. Les spectateurs semblent de plus en plus
+   s'organiser en groupes de supporters, à l'instar du sport classique.
+   Ils semblent prêts à consommer et à s'organiser pour soutenir leurs
+   équipes et joueurs favoris. Pour répondre à leurs attentes et de les
+   pousser à s'engager plus encore, les équipes pourraient réfléchir ainsi
+   des expériences innovantes afin de s'assurer une forme de revenus
+   fixes. Il s'agit notamment de soigner le fait d'être perçu comme un
    sport. Comme nous le montrons dans nos travaux, cela renforce, pour les
-   marques, l'engagement du consommateur, la valeur perÃ§ue, et l'intention
-   d'achat de produits liÃ©s.
+   marques, l'engagement du consommateur, la valeur perçue, et l'intention
+   d'achat de produits liés.
 
-   Enfin, la structuration mÃªme des Ã©quipes semble devoir Ãªtre rÃ©visÃ©e
-   afin d'assurer leur pÃ©rennitÃ©. Par exemple, malgrÃ© la crise, ENCE, une
-   structure e-sportive finlandaise, a rÃ©ussi Ã  dÃ©gager
-   un bÃ©nÃ©fice d'environ 1 million d'euros en 2022. Ce bÃ©nÃ©fice est, selon
-   le PDG, largement dÃ» aux constantes performances de la structure
+   Enfin, la structuration même des équipes semble devoir être révisée
+   afin d'assurer leur pérennité. Par exemple, malgré la crise, ENCE, une
+   structure e-sportive finlandaise, a réussi à dégager
+   un bénéfice d'environ 1 million d'euros en 2022. Ce bénéfice est, selon
+   le PDG, largement dû aux constantes performances de la structure
    sur Counter Strikes et a une bonne gestion de sa masse salariale. La
-   crise pourrait donc Ãªtre une opportunitÃ© pour les Ã©quipes e-sports de
-   rÃ©introduire des salaires en phase avec le marchÃ© et les bÃ©nÃ©fices de
-   l'e-sport. Des Ã©diteurs tels que Riot Games, qui dÃ©veloppe notamment
-   les arÃ¨nes de bataille de League of Legends, rÃ©flÃ©chissent par ailleurs
-   Ã  implÃ©menter un plafonnement des salaires dans certaines de leurs
-   compÃ©titions afin d'Ã©viter des rÃ©munÃ©rations trop importantes ne
-   permettant pas une rentabilitÃ© des Ã©quipes.
+   crise pourrait donc être une opportunité pour les équipes e-sports de
+   réintroduire des salaires en phase avec le marché et les bénéfices de
+   l'e-sport. Des éditeurs tels que Riot Games, qui développe notamment
+   les arènes de bataille de League of Legends, réfléchissent par ailleurs
+   à implémenter un plafonnement des salaires dans certaines de leurs
+   compétitions afin d'éviter des rémunérations trop importantes ne
+   permettant pas une rentabilité des équipes.
 
    IFRAME:
    https://counter.theconversation.com/content/214331/count.gif?distributo
@@ -427,7 +427,7 @@ Trois pistes de reconfigurations
 
     Par Reynald Brion, Assistant Professor in Marketing, TBS Education
 
-   La version originale de cet article a Ã©tÃ© publiÃ©e sur The Conversation.
+   La version originale de cet article a été publiée sur The Conversation.
 
    Reynald Brion
    01 Nov 2023, 13:13
@@ -450,24 +450,24 @@ Trois pistes de reconfigurations
      *
      *
 
-   (BUTTON) RÃ©diger un commentaire
+   (BUTTON) Rédiger un commentaire
 
 Newsletter - Votre Tribune de la semaine
 
    Chaque samedi, votre rendez-vous avec Philippe Mabille qui
-   revient sur les faits marquants de l'actualitÃ© de la semaine.
-   (BUTTON) S'inscrire Ã  la newsletter (BUTTON) S'inscrire Ã  la newsletter
+   revient sur les faits marquants de l'actualité de la semaine.
+   (BUTTON) S'inscrire à la newsletter (BUTTON) S'inscrire à la newsletter
 
    (BUTTON)
 
-Inscription Ã  Votre Tribune de la semaine
+Inscription à Votre Tribune de la semaine
 
    (BUTTON)
-   Chaque samedi, retour sur les faits marquants de l'actualitÃ©
+   Chaque samedi, retour sur les faits marquants de l'actualité
    par Philippe Mabille
      __________________________________________________________________
 
-CrÃ©er un compte
+Créer un compte
 
    ____________________
    Identifiant
@@ -476,22 +476,22 @@ CrÃ©er un compte
    ____________________
    Nom
    ____________________
-   PrÃ©nom
+   Prénom
    ____________________
    Profession
-   [Choisissez une Profession___________]
+   [Choisissez une Profession_________]
    Date de naissance
    ____________________
    Code Postal
    ____________________
    Pays
-   [Choisissez un Pays________________]
-   CivilitÃ©
+   [Choisissez un Pays______________]
+   Civilité
    (*) None ( ) Mme ( ) M.
    [ ] J'accepte de recevoir les newsletters de La Tribune
    [ ] J'accepte de recevoir les offres des partenaires de La Tribune
-   Je mâ€™inscris
-   Jâ€™ai dÃ©jÃ  un compte
+   Je m'inscris
+   J'ai déjà un compte
 
    (BUTTON)
 
@@ -499,42 +499,42 @@ Merci pour votre inscription !
 
    (BUTTON)
 
-   DerniÃ¨re Ã©tape : confirmez votre inscription dans lâ€™email que vous
+   Dernière étape : confirmez votre inscription dans l'email que vous
    venez de recevoir.
 
-   Pensez Ã  vÃ©rifier vos courriers indÃ©sirables.
+   Pensez à vérifier vos courriers indésirables.
 
-   Ã€ trÃ¨s bientÃ´t sur le site de La Tribune et dans nos newsletters,
-   La rÃ©daction de La Tribune.
+   À très bientôt sur le site de La Tribune et dans nos newsletters,
+   La rédaction de La Tribune.
    (BUTTON) Je retourne sur le site
 
    (BUTTON)
 
-Inscription Ã  la newsletter Votre Tribune de la semaine
+Inscription à la newsletter Votre Tribune de la semaine
 
    (BUTTON)
-   Chaque jeudi, les derniÃ¨res actualitÃ©s Dans votre boite mail a 9h
+   Chaque jeudi, les dernières actualités Dans votre boite mail a 9h
      __________________________________________________________________
 
-   Voulez-vous souscrire Ã  la newsletter ? (BUTTON) Oui (BUTTON) Non
+   Voulez-vous souscrire à la newsletter ? (BUTTON) Oui (BUTTON) Non
 
    (BUTTON)
 
-Inscription Ã  Votre Tribune de la semaine
+Inscription à Votre Tribune de la semaine
 
    (BUTTON)
-   Chaque samedi, retour sur les faits marquants de l'actualitÃ©
+   Chaque samedi, retour sur les faits marquants de l'actualité
    par Philippe Mabille
      __________________________________________________________________
 
-Connexion Ã  mon compte
+Connexion à mon compte
 
    ____________________
-   ____________________ Mot de passe oubliÃ© ?
+   ____________________ Mot de passe oublié ?
    Identifiant ou mot de passe incorrect.
-   [ ] Rester connectÃ©
+   [ ] Rester connecté
    (BUTTON) Je me connecte
-   Jâ€™ai n'ai pas encore de compte
+   J'ai n'ai pas encore de compte
 
    (BUTTON)
 
@@ -542,82 +542,82 @@ Merci pour votre inscription !
 
    (BUTTON)
 
-   Ã€ trÃ¨s bientÃ´t sur le site de La Tribune et dans nos newsletters,
-   La rÃ©daction de La Tribune.
+   À très bientôt sur le site de La Tribune et dans nos newsletters,
+   La rédaction de La Tribune.
    (BUTTON) Je retourne sur le site
 
    (BUTTON)
 
-Vous Ãªtes dÃ©jÃ  inscrit !
+Vous êtes déjà inscrit !
 
    (BUTTON)
 
-   DÃ©couvrez l'ensemble des newsletters de La Tribune
-   La rÃ©daction de La Tribune
-   Je dÃ©couvre
+   Découvrez l'ensemble des newsletters de La Tribune
+   La rédaction de La Tribune
+   Je découvre
 
    (BUTTON)
 
-RÃ©initialisez votre mot de passe
+Réinitialisez votre mot de passe
 
    (BUTTON)
-   Merci de saisir l'adresse mail fournie lors de la crÃ©ation de votre
-   compte, un email vous sera envoyÃ© avec vos informations de connexion.
+   Merci de saisir l'adresse mail fournie lors de la création de votre
+   compte, un email vous sera envoyé avec vos informations de connexion.
    ____________________
    (BUTTON) Valider
-   Je n'ai pas encore de compte Revenir Ã  la page prÃ©cÃ©dente
+   Je n'ai pas encore de compte Revenir à la page précédente
 
    (BUTTON)
 
-Email envoyÃ© !
+Email envoyé !
 
    (BUTTON)
 
-   Un e-mail contenant vos informations de connexion a Ã©tÃ© envoyÃ©.
+   Un e-mail contenant vos informations de connexion a été envoyé.
 
-   Ã€ trÃ¨s bientÃ´t sur le site de La Tribune et dans nos newsletters,
-   La rÃ©daction de La Tribune.
+   À très bientôt sur le site de La Tribune et dans nos newsletters,
+   La rédaction de La Tribune.
    (BUTTON) Je retourne sur le site
 
    (BUTTON)
      __________________________________________________________________
 
-   Sâ€™inscrire Ã  la newsletter Votre Tribune de la semaine
+   S'inscrire à la newsletter Votre Tribune de la semaine
 
-   Sur le mÃªme sujet
+   Sur le même sujet
    A worker walks past cases for various Electronic Arts Inc. video games
    at the company's headquarters in Redwood City, California, U.S., on
    Tuesday, July 20, 2010. Electronic Arts, the world's second-biggest
    video-game publisher, is in the middle of a market shift, moving away
    from its declining cons
 
-Jeux vidÃ©o : pourquoi le modÃ¨le du Â« free-to-play Â» a encore de beaux jours
+Jeux vidéo : pourquoi le modèle du « free-to-play » a encore de beaux jours
 devant lui
 
    Apres solarwinds, nobelium s'en prend aux agences gouvernementales et
    ong, selon microsoft
 
-Futur des jeux vidÃ©o : Microsoft veut zapper la console
+Futur des jeux vidéo : Microsoft veut zapper la console
 
-   Angry Birds, le jeu emblÃ©matique du casual game
+   Angry Birds, le jeu emblématique du casual game
 
-Jeux vidÃ©o : le japonais Sega s'apprÃªte Ã  racheter le crÃ©ateur d'Â« Angry
-Birds Â»
+Jeux vidéo : le japonais Sega s'apprête à racheter le créateur d'« Angry
+Birds »
 
    Sujets les + lus
 
    |
 
-   Sujets les + commentÃ©s
+   Sujets les + commentés
 
    1
 
-   Shanghai Automotive crÃ©e le plus grand groupe chinois automobile
+   Shanghai Automotive crée le plus grand groupe chinois automobile
      __________________________________________________________________
 
    2
 
-   GÃ©oLean attend une nouvelle dynamique de son Â« Doing CenterÂ»
+   GéoLean attend une nouvelle dynamique de son « Doing Center»
      __________________________________________________________________
 
    3
@@ -632,7 +632,7 @@ Birds Â»
 
    5
 
-   Poutine promet d'Ã©tendre les capacitÃ©s militaires la Russie en 2023
+   Poutine promet d'étendre les capacités militaires la Russie en 2023
      __________________________________________________________________
 
    1
@@ -643,25 +643,25 @@ Birds Â»
 
    2
 
-   revue T Â« Une rÃ©industrialisation mÃªme rÃ©ussie ne recrÃ©era pas les 2,5
-   millions d'emplois dÃ©truits depuis 1975 Â» (Olivier Lluansi) (40)
+   revue T « Une réindustrialisation même réussie ne recréera pas les 2,5
+   millions d'emplois détruits depuis 1975 » (Olivier Lluansi) (40)
      __________________________________________________________________
 
    3
 
-   S&P maintient la note de la France Ã  Â« AA Â» malgrÃ© la hausse de la
+   S&P maintient la note de la France à « AA » malgré la hausse de la
    charge de sa dette (23)
      __________________________________________________________________
 
    4
 
-   France : premier recul du PIB depuis plus dâ€™un an ravivant la crainte
-   d'une rÃ©cession (22)
+   France : premier recul du PIB depuis plus d'un an ravivant la crainte
+   d'une récession (22)
      __________________________________________________________________
 
    5
 
-   revue T Chez les ultra-riches, mieux vaut hÃ©riter que travailler (21)
+   revue T Chez les ultra-riches, mieux vaut hériter que travailler (21)
      __________________________________________________________________
 
    Commentaire 0
@@ -676,33 +676,33 @@ Birds Â»
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   [ ] Recevoir un email si quelqu'un rÃ©pond Ã  mon commentaire.
+   [ ] Recevoir un email si quelqu'un répond à mon commentaire.
    (BUTTON) Envoyer un commentaire
 
-   Votre email ne sera pas affichÃ© publiquement.
+   Votre email ne sera pas affiché publiquement.
    Tous les champs sont obligatoires.
 
    Il n'y a actuellement aucun commentaire concernant cet article.
-   Soyez le premier Ã  donner votre avis !
-   (BUTTON) RÃ©diger un commentaire
+   Soyez le premier à donner votre avis !
+   (BUTTON) Rédiger un commentaire
 
    close
 
    -
 
    Merci pour votre commentaire. Il sera visible prochainement sous
-   rÃ©serve de validation.
+   réserve de validation.
 
-   Hors-sÃ©rie - SpÃ©cial RÃ©industrialisation
+   Hors-série - Spécial Réindustrialisation
 
-   Dossier SpÃ©cial - RÃ©industrialisation
+   Dossier Spécial - Réindustrialisation
 
    [20231202.jpg]
 
    _
    [catalog-cover-large.jpeg]
 
-   Annonces lÃ©gales
+   Annonces légales
 
    SUIVRE LA TRIBUNE
 
@@ -712,54 +712,54 @@ Birds Â»
      *
      *
 
-   Ã€ lire aussi
+   À lire aussi
 
    Avec
    La Tribune.fr,
-   prenez les bonnes dÃ©cisions
+   prenez les bonnes décisions
    S'abonner
 
-   Journal Ã©conomique et financier
+   Journal économique et financier
      * Nous contacter
-     * Charte d'indÃ©pendance et de dÃ©ontologie
-     * Mentions LÃ©gales
+     * Charte d'indépendance et de déontologie
+     * Mentions Légales
      * CGU
      * CGU Pro
      * Gestion des cookies
-     * Politique de confidentialitÃ©
+     * Politique de confidentialité
      * Consentement
 
-   LaTribune.fr | Tous droits rÃ©servÃ©s
+   LaTribune.fr | Tous droits réservés
 
    [logo-www.png?version=20231124111711]
 
    Nous contacter
    CGU
    CGU PRO
-   ParamÃ©trer les cookies
-   Politique de confidentialitÃ©
+   Paramétrer les cookies
+   Politique de confidentialité
    Abonnement
-   Mentions LÃ©gales
+   Mentions Légales
 
    Vous avez choisi de refuser les cookies
-   Chaque jour, l'ensemble de la rÃ©daction de La Tribune se mobilise pour
-   vous fournir le meilleur de l'information Ã©conomique.
+   Chaque jour, l'ensemble de la rédaction de La Tribune se mobilise pour
+   vous fournir le meilleur de l'information économique.
    En acceptant les cookies ou en vous abonnant, vous soutenez le travail
-   d'une rÃ©daction engagÃ©e partout en France.
-   S'abonner pour 1â‚¬ Accepter les cookies
-   DÃ©jÃ  abonnÃ©(e) ? Connectez-vous
+   d'une rédaction engagée partout en France.
+   S'abonner pour 1EUR Accepter les cookies
+   Déjà abonné(e) ? Connectez-vous
 
      * La Tribune +
-          + Espace AbonnÃ©
-          + Kiosque NumÃ©rique
+          + Espace Abonné
+          + Kiosque Numérique
           + T la Revue
-          + Voir nos annonces lÃ©gales
-          + DÃ©poser vos annonces lÃ©gales
+          + Voir nos annonces légales
+          + Déposer vos annonces légales
      * Services
           + La Tribune Now
-          + SupplÃ©ment
-          + Paroles d'Experts avec MÃ©dias France
-          + MobilitÃ© : cap 2024
+          + Supplément
+          + Paroles d'Experts avec Médias France
+          + Mobilité : cap 2024
           + Fonction Finance 2.0 avec Cegid
           + After Work avec Bpifrance
           + #LaTribuneBusiness Interviews
@@ -767,7 +767,7 @@ Birds Â»
           + #LaTribuneBusiness TV
           + Le Comparateur Assurance
           + Transformations durables avec Mazars
-          + AccÃ©lÃ©rer avec le Cloud par AWS
+          + Accélérer avec le Cloud par AWS
           + Fisher Investments
           + Le portage salarial
           + VisionAir avec Bpifrance
@@ -777,21 +777,21 @@ Birds Â»
           + Tech For Future
           + Sommet du Grand Paris
           + Paris Air Forum
-          + Forum ZÃ©ro Carbone
-          + Partageons l'Ã©conomie
-          + Une Ã©poque formidable
+          + Forum Zéro Carbone
+          + Partageons l'économie
+          + Une époque formidable
           + Transformons la France
-          + Les CafÃ©s de La Tribune Dimanche
-          + Tous nos Ã©vÃ©nements en rÃ©gion
-     * Ã©ditions rÃ©gionales
+          + Les Cafés de La Tribune Dimanche
+          + Tous nos événements en région
+     * éditions régionales
           + Bordeaux - Nouvelle-Aquitaine
-          + Dijon - Bourgogne-Franche-ComtÃ©
+          + Dijon - Bourgogne-Franche-Comté
           + Lille - Hauts-de-France
-          + Lyon - Auvergne-RhÃ´ne-Alpes
-          + Marseille/Nice - RÃ©gion SUD
+          + Lyon - Auvergne-Rhône-Alpes
+          + Marseille/Nice - Région SUD
           + Montpellier - Occitanie
           + Nantes - Pays-de-la-Loire
-          + Paris - ÃŽle-de-France
+          + Paris - Île-de-France
           + Rennes - Bretagne
           + Rouen - Normandie
           + Strasbourg - Grand Est
@@ -809,32 +809,32 @@ Birds Â»
      * Mon compte
      * S'abonner
 
-   Journal Ã©conomique et financier
+   Journal économique et financier
    s'abonner
      * Lire le journal
      * Newsletters
      Rubriques
      * +
-     * Ã‰conomie
+     * Économie
      * Entreprises & Finance
      * Tech
-     * IdÃ©es
+     * Idées
      * Culture / Lifestyle
-     * RÃ©gions
+     * Régions
      * La Tribune Dimanche
      La Tribune +
      * +
-     * Espace AbonnÃ©
-     * Kiosque NumÃ©rique
+     * Espace Abonné
+     * Kiosque Numérique
      * T la Revue
-     * Voir nos annonces lÃ©gales
-     * DÃ©poser vos annonces lÃ©gales
+     * Voir nos annonces légales
+     * Déposer vos annonces légales
      Services
      * +
      * La Tribune Now
-     * SupplÃ©ment
-     * Paroles d'Experts avec MÃ©dias France
-     * MobilitÃ© : cap 2024
+     * Supplément
+     * Paroles d'Experts avec Médias France
+     * Mobilité : cap 2024
      * Fonction Finance 2.0 avec Cegid
      * After Work avec Bpifrance
      * #LaTribuneBusiness Interviews
@@ -842,7 +842,7 @@ Birds Â»
      * #LaTribuneBusiness TV
      * Le Comparateur Assurance
      * Transformations durables avec Mazars
-     * AccÃ©lÃ©rer avec le Cloud par AWS
+     * Accélérer avec le Cloud par AWS
      * Fisher Investments
      * Le portage salarial
      * VisionAir avec Bpifrance
@@ -853,22 +853,22 @@ Birds Â»
      * Tech For Future
      * Sommet du Grand Paris
      * Paris Air Forum
-     * Forum ZÃ©ro Carbone
-     * Partageons l'Ã©conomie
-     * Une Ã©poque formidable
+     * Forum Zéro Carbone
+     * Partageons l'économie
+     * Une époque formidable
      * Transformons la France
-     * Les CafÃ©s de La Tribune Dimanche
-     * Tous nos Ã©vÃ©nements en rÃ©gion
-     Ã©ditions rÃ©gionales
+     * Les Cafés de La Tribune Dimanche
+     * Tous nos événements en région
+     éditions régionales
      * +
      * Bordeaux - Nouvelle-Aquitaine
-     * Dijon - Bourgogne-Franche-ComtÃ©
+     * Dijon - Bourgogne-Franche-Comté
      * Lille - Hauts-de-France
-     * Lyon - Auvergne-RhÃ´ne-Alpes
-     * Marseille/Nice - RÃ©gion SUD
+     * Lyon - Auvergne-Rhône-Alpes
+     * Marseille/Nice - Région SUD
      * Montpellier - Occitanie
      * Nantes - Pays-de-la-Loire
-     * Paris - ÃŽle-de-France
+     * Paris - Île-de-France
      * Rennes - Bretagne
      * Rouen - Normandie
      * Strasbourg - Grand Est
@@ -876,12 +876,12 @@ Birds Â»
      * Tours - Centre-Val de Loire
      * Se connecter
 
-     * Ã‰conomie
+     * Économie
      * Entreprises & Finance
      * Tech
-     * IdÃ©es
+     * Idées
      * Culture / Lifestyle
-     * RÃ©gions
+     * Régions
      * La Tribune Dimanche
 
    S'abonner

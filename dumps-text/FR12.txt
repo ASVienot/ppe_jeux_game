@@ -4,38 +4,38 @@
 
    Pourquoi voyez-vous ce message ?
 
-   Vous avez choisi de refuser le dÃ©pÃ´t de cookies, vous pouvez Ã  tout
+   Vous avez choisi de refuser le dépôt de cookies, vous pouvez à tout
    moment modifier votre choix, ici.
 
    Le contenu de ce site est le fruit du travail de journalistes qui vous
-   apportent chaque jour une information locale de qualitÃ©, fiable,
-   complÃ¨te, et des services en ligne innovants. Ce travail sâ€™appuie sur
-   les revenus complÃ©mentaires de la publicitÃ© et de lâ€™abonnement.
+   apportent chaque jour une information locale de qualité, fiable,
+   complète, et des services en ligne innovants. Ce travail s'appuie sur
+   les revenus complémentaires de la publicité et de l'abonnement.
    Je m'abonne
 
-   DÃ©jÃ  abonnÃ© ?
+   Déjà abonné ?
    Connectez-vous
 
-   Connectez-vous ou crÃ©ez un compte
+   Connectez-vous ou créez un compte
 
-   Pour pouvoir enregistrer un article, un compte est nÃ©cessaire.
-   Se connecter ou crÃ©er un compte
+   Pour pouvoir enregistrer un article, un compte est nécessaire.
+   Se connecter ou créer un compte
 
-   DÃ©finir votre page d'accueil
+   Définir votre page d'accueil
      * Colmar - Guebwiller
      * Mulhouse - Thann
-     * SÃ©lestat - Erstein
-     * Sundgau - Trois-FrontiÃ¨res
+     * Sélestat - Erstein
+     * Sundgau - Trois-Frontières
 
-     * VidÃ©os
+     * Vidéos
      * Newsletters
-     * MÃ©tÃ©o
+     * Météo
      * Libra Memoria
      * Boutique
      * LeCLUB
-     * Mon SÃ©jour en Montagne
+     * Mon Séjour en Montagne
 
-   Journal numÃ©rique
+   Journal numérique
    Mulhouse
 
    Mulhouse
@@ -43,46 +43,46 @@
    lun. 27/11/2023
    Lire le journal
    L'Alsace
-   S'abonner Se connecter Me connecter/ Mâ€™inscrire
-   CrÃ©ation de compte
-     * Activer JavaScript dans votre navigateur pour accÃ©der Ã 
+   S'abonner Se connecter Me connecter/ M'inscrire
+   Création de compte
+     * Activer JavaScript dans votre navigateur pour accéder à
        l'inscription sur notre site
 
-   CivilitÃ©
-   (*) Madame ( ) Monsieur ( ) SociÃ©tÃ©
+   Civilité
+   (*) Madame ( ) Monsieur ( ) Société
    Siret ____________________
    Nom ____________________
-   PrÃ©nom ____________________
+   Prénom ____________________
    Adresse e-mail ____________________
    Mot de passe ____________________
-   [ ] Je souhaite recevoir les communications et les exclusivitÃ©s du
+   [ ] Je souhaite recevoir les communications et les exclusivités du
    Groupe EBRA
    [ ] Je souhaite recevoir les communications des partenaires du Groupe
    EBRA
-   [ ] J'ai lu et acceptÃ© les Conditions gÃ©nÃ©rales d'utilisation
+   [ ] J'ai lu et accepté les Conditions générales d'utilisation
 
    Si vous voyez ce champ, ne le remplissez pas ____________________
    ____________________
    Je m'inscris
 
    L'Alsace, en tant que responsable de traitement, recueille dans ce
-   formulaire des informations qui sont enregistrÃ©es dans un fichier
-   informatisÃ© par son Service Relations Clients, la finalitÃ© Ã©tant
-   dâ€™assurer la crÃ©ation et la gestion de votre compte, ainsi que des
+   formulaire des informations qui sont enregistrées dans un fichier
+   informatisé par son Service Relations Clients, la finalité étant
+   d'assurer la création et la gestion de votre compte, ainsi que des
    abonnements et autres services souscrits. Si vous y avez consenti, ces
-   donnÃ©es peuvent Ã©galement Ãªtre utilisÃ©es pour lâ€™envoi de newsletters
-   et/ou dâ€™offres promotionnelles par L'Alsace, les sociÃ©tÃ©s qui lui sont
-   affiliÃ©es et/ou ses partenaires commerciaux. Vous pouvez exercer en
-   permanence vos droits dâ€™accÃ¨s, rectification, effacement, limitation,
+   données peuvent également être utilisées pour l'envoi de newsletters
+   et/ou d'offres promotionnelles par L'Alsace, les sociétés qui lui sont
+   affiliées et/ou ses partenaires commerciaux. Vous pouvez exercer en
+   permanence vos droits d'accès, rectification, effacement, limitation,
    opposition, retirer votre consentement et/ou pour toute question
-   relative au traitement de vos donnÃ©es Ã  caractÃ¨re personnel en
+   relative au traitement de vos données à caractère personnel en
    contactant s.lecteur@lalsace.fr ou consulter les liens suivants :
-   Protection des donnÃ©es, CGU du site et Contact. Le DÃ©lÃ©guÃ© Ã  la
-   Protection des DonnÃ©es personnelles (dpo@ebra.fr) est en copie de toute
-   demande relative Ã  vos informations personnelles.
-   Vous Ãªtes dÃ©jÃ  inscrit ? Connectez-vous
+   Protection des données, CGU du site et Contact. Le Délégué à la
+   Protection des Données personnelles (dpo@ebra.fr) est en copie de toute
+   demande relative à vos informations personnelles.
+   Vous êtes déjà inscrit ? Connectez-vous
    L'Alsace
-     * ActualitÃ©
+     * Actualité
      * Alsace
      * Sport
      * Faits divers
@@ -92,15 +92,15 @@
      * Services
      *
 
-     * Ã€ la Une
+     * À la Une
      * Fil info
      * France-Monde
      * Coronavirus
-     * Ã‰conomie
+     * Économie
      * Politique
-     * Lâ€™Ã©ditorial
-     * Ã‰ducation
-     * MÃ©tÃ©o
+     * L'éditorial
+     * Éducation
+     * Météo
      * Environnement
      * Insolite
 
@@ -108,34 +108,34 @@
      * L'actu du Haut-Rhin
           + Colmar - Guebwiller
           + Mulhouse - Thann
-          + Sundgau - Trois-FrontiÃ¨res
+          + Sundgau - Trois-Frontières
      * L'actu du Bas-Rhin
           + Selestat - Erstein
-     * Rheinblick â€“ Lâ€™actualitÃ© transfrontaliÃ¨re
+     * Rheinblick - L'actualité transfrontalière
 
-   Je choisis mon Ã©dition favorite
-     * Toute l'actualitÃ© sportive
+   Je choisis mon édition favorite
+     * Toute l'actualité sportive
      * Matches en direct
-     * RÃ©sultats et classements
-     * Le billet de la rÃ©daction
-     * Les dossiers de la rÃ©daction
+     * Résultats et classements
+     * Le billet de la rédaction
+     * Les dossiers de la rédaction
      * >nos clubs alsaciens
           + Racing club de Strasbourg
           + Volley Mulhouse Alsace
           + Mulhouse Olympic Natation
-          + Mulhouse Basket AgglomÃ©ration
+          + Mulhouse Basket Agglomération
           + ASPTT Mulhouse-Rixheim
           + SIG
           + SAHB
      * Jeux Olympiques Paris 2024
-     * TiercÃ©
+     * Tiercé
      * Tous les sports
           + Football national et international
-          + Football rÃ©gional
+          + Football régional
           + Basket-ball
           + Volley-ball
           + Rugby
-          + AthlÃ©tisme
+          + Athlétisme
           + Auto-moto
           + Cyclisme
           + Handball
@@ -143,35 +143,35 @@
           + Tennis
           + Sports nautiques
           + Sports de combat
-          + Sports dâ€™hiver
+          + Sports d'hiver
           + Autres sports
      * Jeux olympiques Paris 2024
 
      * Tous les faits divers
           + Colmar Guebwiller
-          + Sungdau Trois FrontiÃ¨res
+          + Sungdau Trois Frontières
           + Mulhouse Thann
           + Selestat Erstein
 
      * Nos grands formats
      * Le Lab
      * Nos podcasts
-     * Nos vidÃ©os
+     * Nos vidéos
      * Nos galeries
-     * Nos dÃ©sinfox
+     * Nos désinfox
 
-     * Toute l'actualitÃ© culturelle
-     * CinÃ©ma
+     * Toute l'actualité culturelle
+     * Cinéma
      * Livres
      * Musique
-     * TÃ©lÃ©vision - SÃ©ries - Streaming
+     * Télévision - Séries - Streaming
      * Diverto.TV
           + Programme TV
-     * Programme cinÃ©
+     * Programme ciné
      * Pour Sortir, l'agenda des sorties
 
      * Tous nos magazines
-          + SantÃ©
+          + Santé
           + Lifestyle
           + Immobilier
           + Automobile
@@ -183,27 +183,27 @@
      * Les Lecteurs Voyageurs > maintenant dans Services
      * Le JDE - Le Journal de Enfants
      * #IciOnAgit !
-     * Saisons dâ€™Alsace
+     * Saisons d'Alsace
      * Passion Vosges
-     * SupplÃ©ments numÃ©riques
+     * Suppléments numériques
 
      * Boutique
      * Live shopping
      * Les Lecteurs Voyageurs
           + Le programme de nos voyages
-     * Libra Memoria - avis de dÃ©cÃ¨s
-     * Annonces immobiliÃ¨res
+     * Libra Memoria - avis de décès
+     * Annonces immobilières
      * Annonces automobile
      * > paroles de partenaires
           + Articles partenaires
      * Infos Services
-     * Annonces Judiciaires et LÃ©gales
-     * Vie des SociÃ©tÃ©s
-     * MarchÃ©s publics
-     * France MarchÃ©s Portail dâ€™appels dâ€™offres
+     * Annonces Judiciaires et Légales
+     * Vie des Sociétés
+     * Marchés publics
+     * France Marchés Portail d'appels d'offres
      * Le groupe EBRA
-          + PrÃ©sentation du groupe
-          + EBRA MÃ©dias
+          + Présentation du groupe
+          + EBRA Médias
           + EBRA Events
      * Articles partenaires
 
@@ -214,10 +214,10 @@
    ____________________ Ok
    ____________________ Ok
 
-   L'Ã©dition du soir en numÃ©rique dÃ¨s 21h30 Le journal en numÃ©rique dÃ¨s 5h
-   AccÃ©dez Ã  tous les contenus en illimitÃ©
+   L'édition du soir en numérique dès 21h30 Le journal en numérique dès 5h
+   Accédez à tous les contenus en illimité
    S'abonner
-     * ActualitÃ©
+     * Actualité
      * Alsace
      * Sport
      * Faits divers
@@ -226,15 +226,15 @@
      * Magazines
      * Services
 
-     * Ã€ la Une
+     * À la Une
      * Fil info
      * France-Monde
      * Coronavirus
-     * Ã‰conomie
+     * Économie
      * Politique
-     * Lâ€™Ã©ditorial
-     * Ã‰ducation
-     * MÃ©tÃ©o
+     * L'éditorial
+     * Éducation
+     * Météo
      * Environnement
      * Insolite
 
@@ -242,34 +242,34 @@
      * L'actu du Haut-Rhin
           + Colmar - Guebwiller
           + Mulhouse - Thann
-          + Sundgau - Trois-FrontiÃ¨res
+          + Sundgau - Trois-Frontières
      * L'actu du Bas-Rhin
           + Selestat - Erstein
-     * Rheinblick â€“ Lâ€™actualitÃ© transfrontaliÃ¨re
+     * Rheinblick - L'actualité transfrontalière
 
-   Je choisis mon ï¿½dition favorite
-     * Toute l'actualitÃ© sportive
+   Je choisis mon ½dition favorite
+     * Toute l'actualité sportive
      * Matches en direct
-     * RÃ©sultats et classements
-     * Le billet de la rÃ©daction
-     * Les dossiers de la rÃ©daction
+     * Résultats et classements
+     * Le billet de la rédaction
+     * Les dossiers de la rédaction
      * >nos clubs alsaciens
           + Racing club de Strasbourg
           + Volley Mulhouse Alsace
           + Mulhouse Olympic Natation
-          + Mulhouse Basket AgglomÃ©ration
+          + Mulhouse Basket Agglomération
           + ASPTT Mulhouse-Rixheim
           + SIG
           + SAHB
      * Jeux Olympiques Paris 2024
-     * TiercÃ©
+     * Tiercé
      * Tous les sports
           + Football national et international
-          + Football rÃ©gional
+          + Football régional
           + Basket-ball
           + Volley-ball
           + Rugby
-          + AthlÃ©tisme
+          + Athlétisme
           + Auto-moto
           + Cyclisme
           + Handball
@@ -277,39 +277,39 @@
           + Tennis
           + Sports nautiques
           + Sports de combat
-          + Sports dâ€™hiver
+          + Sports d'hiver
           + Autres sports
      * Jeux olympiques Paris 2024
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Tous les faits divers
           + Colmar Guebwiller
-          + Sungdau Trois FrontiÃ¨res
+          + Sungdau Trois Frontières
           + Mulhouse Thann
           + Selestat Erstein
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Nos grands formats
      * Le Lab
      * Nos podcasts
-     * Nos vidÃ©os
+     * Nos vidéos
      * Nos galeries
-     * Nos dÃ©sinfox
+     * Nos désinfox
 
-   Je choisis mon ï¿½dition favorite
-     * Toute l'actualitÃ© culturelle
-     * CinÃ©ma
+   Je choisis mon ½dition favorite
+     * Toute l'actualité culturelle
+     * Cinéma
      * Livres
      * Musique
-     * TÃ©lÃ©vision - SÃ©ries - Streaming
+     * Télévision - Séries - Streaming
      * Diverto.TV
           + Programme TV
-     * Programme cinÃ©
+     * Programme ciné
      * Pour Sortir, l'agenda des sorties
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Tous nos magazines
-          + SantÃ©
+          + Santé
           + Lifestyle
           + Immobilier
           + Automobile
@@ -321,51 +321,51 @@
      * Les Lecteurs Voyageurs > maintenant dans Services
      * Le JDE - Le Journal de Enfants
      * #IciOnAgit !
-     * Saisons dâ€™Alsace
+     * Saisons d'Alsace
      * Passion Vosges
-     * SupplÃ©ments numÃ©riques
+     * Suppléments numériques
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Boutique
      * Live shopping
      * Les Lecteurs Voyageurs
           + Le programme de nos voyages
-     * Libra Memoria - avis de dÃ©cÃ¨s
-     * Annonces immobiliÃ¨res
+     * Libra Memoria - avis de décès
+     * Annonces immobilières
      * Annonces automobile
      * > paroles de partenaires
           + Articles partenaires
      * Infos Services
-     * Annonces Judiciaires et LÃ©gales
-     * Vie des SociÃ©tÃ©s
-     * MarchÃ©s publics
-     * France MarchÃ©s Portail dâ€™appels dâ€™offres
+     * Annonces Judiciaires et Légales
+     * Vie des Sociétés
+     * Marchés publics
+     * France Marchés Portail d'appels d'offres
      * Le groupe EBRA
-          + PrÃ©sentation du groupe
-          + EBRA MÃ©dias
+          + Présentation du groupe
+          + EBRA Médias
           + EBRA Events
      * Articles partenaires
 
-   Je choisis mon ï¿½dition favorite
-   Journal numÃ©rique
+   Je choisis mon ½dition favorite
+   Journal numérique
    Mulhouse
 
    Mulhouse
 
    lun. 27/11/2023
    Lire le journal
-     * VidÃ©os
+     * Vidéos
      * Newsletters
-     * MÃ©tÃ©o
+     * Météo
      * Libra Memoria
      * Boutique
      * LeCLUB
-     * Mon SÃ©jour en Montagne
+     * Mon Séjour en Montagne
 
    Icone de l'application mobile
 
-   Retrouvez tous nos contenus et notre journal en numÃ©rique
-   TÃ©lÃ©chargez gratuitement l'app
+   Retrouvez tous nos contenus et notre journal en numérique
+   Téléchargez gratuitement l'app
    Suivez-nous
      * Facebook
      * Twitter
@@ -375,151 +375,151 @@
      * Contact
      * FAQ
      * CGAU du site
-     * Informations lÃ©gales
-     * Protection des donnÃ©es
+     * Informations légales
+     * Protection des données
      * Politique RSE
 
      *
-     * Magazine SantÃ©
-     * Faire du sport grÃ¢ce aux jeux vidÃ©o : est-ce vraiment du sport ?
+     * Magazine Santé
+     * Faire du sport grâce aux jeux vidéo : est-ce vraiment du sport ?
 
-SantÃ© - Bien-Ãªtre Faire du sport grÃ¢ce aux jeux vidÃ©o : est-ce vraiment du
+Santé - Bien-être Faire du sport grâce aux jeux vidéo : est-ce vraiment du
 sport ?
 
-   Les Ã©crans sont omniprÃ©sents dans notre sociÃ©tÃ©. Les plus jeunes en
-   particulier nâ€™ont jamais connu de monde sans smartphone et autres
-   tablettes numÃ©riques. Pour lutter contre la sÃ©dentaritÃ© associÃ©e Ã  ces
-   usages et encourager lâ€™activitÃ© physique, une solution consiste Ã 
-   associer les deux : lâ€™exergaming. PrÃ©sentation.
-   En partenariat avec Destination SantÃ© - 10 juin 2023 Ã  19:00 - Temps de
+   Les écrans sont omniprésents dans notre société. Les plus jeunes en
+   particulier n'ont jamais connu de monde sans smartphone et autres
+   tablettes numériques. Pour lutter contre la sédentarité associée à ces
+   usages et encourager l'activité physique, une solution consiste à
+   associer les deux : l'exergaming. Présentation.
+   En partenariat avec Destination Santé - 10 juin 2023 à 19:00 - Temps de
    lecture :
     |
-   Ces jeux peuvent-ils remplacer le sport ? Sâ€™il ne sâ€™agit pas de
-   cautionner leur usage exclusif Ã  la place dâ€™une activitÃ© physique hors
-   Ã©crans, ces exergames semblent Ãªtre utiles pour complÃ©ter une activitÃ©
+   Ces jeux peuvent-ils remplacer le sport ? S'il ne s'agit pas de
+   cautionner leur usage exclusif à la place d'une activité physique hors
+   écrans, ces exergames semblent être utiles pour compléter une activité
    physique insuffisante au quotidien. Photo Adobe Stock
    01 / 03
 
-   Ces jeux peuvent-ils remplacer le sport ? Sâ€™il ne sâ€™agit pas de
-   cautionner leur usage exclusif Ã  la place dâ€™une activitÃ© physique hors
-   Ã©crans, ces exergames semblent Ãªtre utiles pour complÃ©ter une activitÃ©
+   Ces jeux peuvent-ils remplacer le sport ? S'il ne s'agit pas de
+   cautionner leur usage exclusif à la place d'une activité physique hors
+   écrans, ces exergames semblent être utiles pour compléter une activité
    physique insuffisante au quotidien. Photo Adobe Stock
    Quoi que vous proposiez, votre enfant ou votre ado refuse de se
-   bouger ? Voici une option qui pourrait fonctionner : lâ€™exergaming ou
-   lâ€™active gaming. Photo Adobe Stock
+   bouger ? Voici une option qui pourrait fonctionner : l'exergaming ou
+   l'active gaming. Photo Adobe Stock
    02 / 03
 
    Quoi que vous proposiez, votre enfant ou votre ado refuse de se
-   bouger ? Voici une option qui pourrait fonctionner : lâ€™exergaming ou
-   lâ€™active gaming. Photo Adobe Stock
-   Ces jeux constituent en effet un outil contre le surpoids, lâ€™obÃ©sitÃ© et
-   toutes les pathologies associÃ©es. Photo Adobe Stock
+   bouger ? Voici une option qui pourrait fonctionner : l'exergaming ou
+   l'active gaming. Photo Adobe Stock
+   Ces jeux constituent en effet un outil contre le surpoids, l'obésité et
+   toutes les pathologies associées. Photo Adobe Stock
    03 / 03
 
-   Ces jeux constituent en effet un outil contre le surpoids, lâ€™obÃ©sitÃ© et
-   toutes les pathologies associÃ©es. Photo Adobe Stock
+   Ces jeux constituent en effet un outil contre le surpoids, l'obésité et
+   toutes les pathologies associées. Photo Adobe Stock
 
-   Footing, natation ou mÃªme promenade au parcâ€¦ Quoi que vous proposiez,
+   Footing, natation ou même promenade au parc... Quoi que vous proposiez,
    votre enfant ou votre ado refuse de se bouger ? Voici une option qui
-   pourrait fonctionner : lâ€™exergaming ou lâ€™active gaming. Il sâ€™agit de
-   jouer sur tablette, console ou encore ordinateur Ã  des jeux vidÃ©o
-   nÃ©cessitant dâ€™utiliser ses muscles.
+   pourrait fonctionner : l'exergaming ou l'active gaming. Il s'agit de
+   jouer sur tablette, console ou encore ordinateur à des jeux vidéo
+   nécessitant d'utiliser ses muscles.
 
-   Ainsi, par exemple, sur la console Nintendo SwitchÂ®, il est possible de
+   Ainsi, par exemple, sur la console Nintendo Switch®, il est possible de
    jouer au tennis ou encore au golf en mimant les gestes de la
-   disciplineâ€¦ tout en restant dans votre salon. Une maniÃ¨re de rendre le
-   sport plus ludique pour les jeunes notamment.
+   discipline... tout en restant dans votre salon. Une manière de rendre
+   le sport plus ludique pour les jeunes notamment.
 
-   Il existe aussi de nombreux jeux dâ€™exergaming notamment via les
-   applications. Des dispositifs spÃ©cifiques tels que des plateaux
+   Il existe aussi de nombreux jeux d'exergaming notamment via les
+   applications. Des dispositifs spécifiques tels que des plateaux
    sensoriels pour danser avec des jeux comme Just Dance ou faire de la
    boxe en rythme avec Fitness Boxing 2.
-   Le plaisir du jeu et la possibilitÃ© de pratiquer Ã  plusieurs amÃ©liore
-   le bien-Ãªtre et la sociabilitÃ©. Photo Adobe Stock
+   Le plaisir du jeu et la possibilité de pratiquer à plusieurs améliore
+   le bien-être et la sociabilité. Photo Adobe Stock
 
-   Le plaisir du jeu et la possibilitÃ© de pratiquer Ã  plusieurs amÃ©liore
-   le bien-Ãªtre et la sociabilitÃ©. Photo Adobe Stock
+   Le plaisir du jeu et la possibilité de pratiquer à plusieurs améliore
+   le bien-être et la sociabilité. Photo Adobe Stock
 
 Alternative au sport ?
 
    Mais alors, est-ce vraiment efficace ? Ces jeux peuvent-ils remplacer
-   le sport ? Sâ€™il ne sâ€™agit pas de cautionner leur usage exclusif Ã  la
-   place dâ€™une activitÃ© physique hors Ã©crans, ces exergames semblent Ãªtre
-   utiles pour complÃ©ter une activitÃ© physique insuffisante au quotidien.
+   le sport ? S'il ne s'agit pas de cautionner leur usage exclusif à la
+   place d'une activité physique hors écrans, ces exergames semblent être
+   utiles pour compléter une activité physique insuffisante au quotidien.
 
-   Face Ã  la sÃ©dentaritÃ© grandissante, notamment chez les plus jeunes, ces
-   jeux constituent en effet un outil contre le surpoids, lâ€™obÃ©sitÃ© et
-   toutes les pathologies associÃ©es.
+   Face à la sédentarité grandissante, notamment chez les plus jeunes, ces
+   jeux constituent en effet un outil contre le surpoids, l'obésité et
+   toutes les pathologies associées.
 
-   Câ€™est en tout cas lâ€™avis de lâ€™American College of Sports
-   Medicine : Â« de nombreuses Ã©tudes ont montrÃ© que plusieurs types
-   dâ€™exergames peuvent Ãªtre Ã  lâ€™origine dâ€™une activitÃ© physique modÃ©rÃ©e et
-   avoir un rÃ©el impact physiologique Â».
+   C'est en tout cas l'avis de l'American College of Sports
+   Medicine : « de nombreuses études ont montré que plusieurs types
+   d'exergames peuvent être à l'origine d'une activité physique modérée et
+   avoir un réel impact physiologique ».
 
-   Sans oublier que le plaisir du jeu et la possibilitÃ© de pratiquer Ã 
-   plusieurs amÃ©liore le bien-Ãªtre et la sociabilitÃ©. Et grÃ¢ce Ã  lâ€™aspect
-   portable des smartphones, tablettes et autres dispositifs numÃ©riques,
+   Sans oublier que le plaisir du jeu et la possibilité de pratiquer à
+   plusieurs améliore le bien-être et la sociabilité. Et grâce à l'aspect
+   portable des smartphones, tablettes et autres dispositifs numériques,
    les exergames sont aussi transportables.
 
-   OÃ¹ que vous soyez, il est dÃ©sormais possible de pratiquer. Â« Ce type
-   dâ€™activitÃ© est bon pour la santÃ© et suffisamment attractif pour
-   permettre dâ€™amÃ©liorer les niveaux dâ€™activitÃ© physique dans toutes les
-   populations Â», estime encore lâ€™American College of Sports Medicine.
-   Alors nâ€™hÃ©sitez plus !
+   Où que vous soyez, il est désormais possible de pratiquer. « Ce type
+   d'activité est bon pour la santé et suffisamment attractif pour
+   permettre d'améliorer les niveaux d'activité physique dans toutes les
+   populations », estime encore l'American College of Sports Medicine.
+   Alors n'hésitez plus !
 
    Source : American College of Sports Medicine - The Role of Exergaming
    in Improving Physical Activity: A Review J Phys Act Health. 2014 May;
-   11(4): 864â€“870. doi: 10.1123/jpah.2011-0425 â€“ Commission europÃ©enne
-     * Magazine SantÃ©
+   11(4): 864-870. doi: 10.1123/jpah.2011-0425 - Commission européenne
+     * Magazine Santé
      * France - Monde
      * Magazine
      * Fil Info
-     * Bien-Ãªtre
+     * Bien-être
      *
 
    0 commentaire
    (BUTTON) COMMENTAIRES SUIVANTS
-   RÃ©agir
+   Réagir
 
      * Sites du groupe EBRA
           + L'Alsace
           + Le Bien Public
-          + Le DauphinÃ© LibÃ©rÃ©
-          + Les DerniÃ¨res Nouvelles d'Alsace
-          + L'Est RÃ©publicain
-          + Le Journal de SaÃ´ne-et-Loire
-          + Le ProgrÃ¨s
-          + Le RÃ©publicain Lorrain
+          + Le Dauphiné Libéré
+          + Les Dernières Nouvelles d'Alsace
+          + L'Est Républicain
+          + Le Journal de Saône-et-Loire
+          + Le Progrès
+          + Le Républicain Lorrain
           + Vosges Matin
           + Le JDE
-          + La NuÃ©e bleue
+          + La Nuée bleue
           + Le groupe EBRA
-     * Nos thÃ©matiques
+     * Nos thématiques
           + Sport
           + Faits divers
           + Politique
-          + Ã‰conomie
+          + Économie
           + Environnement
           + Lifestyle
           + Culture - Loisirs
           + Les Lecteurs Voyageurs
-          + Ã‰lections
-          + Nos chartes Ã©ditoriales
+          + Élections
+          + Nos chartes éditoriales
      * Nos services
           + Boutique
           + Diverto.TV
           + Guide d'achat
-          + Avis de dÃ©cÃ¨s
-          + Annonces immobiliÃ¨res
+          + Avis de décès
+          + Annonces immobilières
           + Annonces automobile
           + Nos partenaires
           + Pour sortir
           + Application mobile
-          + Offre Guest: offrez le journal Ã  vos clients
-          + Charte de modÃ©ration
+          + Offre Guest: offrez le journal à vos clients
+          + Charte de modération
           + Devenez porteur de presse
           + Archives
-          + PublicitÃ©: Communiquez sur nos supports
+          + Publicité: Communiquez sur nos supports
 
    Suivez-nous
      * Facebook
@@ -530,8 +530,8 @@ Alternative au sport ?
      * Contact
      * FAQ
      * CGAU du site
-     * Informations lÃ©gales
-     * Protection des donnÃ©es
+     * Informations légales
+     * Protection des données
      * Politique RSE
 
    OJD Digital Ad Trust Display
@@ -539,13 +539,13 @@ Alternative au sport ?
      * A la une
      * Fil Info
      * Alsace
-     * VidÃ©o
+     * Vidéo
      * Rechercher
 
    Alsace
      * 68 Haut-Rhin
           + Colmar - Guebwiller
           + Mulhouse - Thann
-          + Sundgau - Trois-FrontiÃ¨res
+          + Sundgau - Trois-Frontières
      * 67 Bas-Rhin
           + Selestat - Erstein

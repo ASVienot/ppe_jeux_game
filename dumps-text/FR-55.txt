@@ -2,21 +2,21 @@
    [logo-large.svg] [close.svg]
    Politique arrow-down
      * Sondage
-     * AssemblÃ©e nationale
-     * RÃ©forme des retraites
+     * Assemblée nationale
+     * Réforme des retraites
      * Emmanuel Macron
-     * Elections europÃ©ennes 2024
+     * Elections européennes 2024
 
    France arrow-down
      * Emploi
      * JO Paris 2024
-     * ImpÃ´t
+     * Impôt
      * Immobilier
      * Faits divers
      * Transport
-     * Ã‰conomie
+     * Économie
      * Police
-     * SantÃ©
+     * Santé
      * Justice
      * Terrorisme
 
@@ -30,11 +30,11 @@
      * Europe
      * Science
      * Covid-19
-     * Conflit israÃ©lo-palestinien
+     * Conflit israélo-palestinien
 
    Environnement arrow-down
-     * MÃ©tÃ©o
-     * Ã‰nergies
+     * Météo
+     * Énergies
      * Changement climatique
      * Ecologie
      * Restriction d'eau
@@ -47,32 +47,32 @@
      * LGBT+
      * Psychologie
      * Vie de bureau
-     * Bien-Ãªtre
+     * Bien-être
      * Alimentation
      * Femmes
-     * ParentalitÃ©
-     * Ã‰ducation
-     * SantÃ©
+     * Parentalité
+     * Éducation
+     * Santé
 
    Culture arrow-down
-     * MÃ©dias
+     * Médias
      * Mode
-     * Jeux vidÃ©o
-     * SÃ©ries TV
+     * Jeux vidéo
+     * Séries TV
      * Musique
      * Livre
-     * CinÃ©ma
+     * Cinéma
 
    Divertissement arrow-down
-     * TÃ©lÃ©vision
+     * Télévision
      * Sport
      * NRJ Music Awards
-     * RÃ©seaux sociaux
+     * Réseaux sociaux
      * People
      * Insolite
 
    Prise de parole arrow-down
-     * TÃ©moignage
+     * Témoignage
      * Tribune
 
    JO Paris 2024 arrow-down
@@ -81,7 +81,7 @@
      * Billets JO 2024
      * Jeux Paralympiques 2024
 
-   VidÃ©os
+   Vidéos
    Plus arrow-down
      * En transit.ion
      * Escapade en Valais
@@ -89,15 +89,15 @@
 
    (BUTTON) [dropdown.svg] [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
      * [dropdown.svg]
      * [logo-large.svg] [logo-small.svg]
 
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
    Life 20/04/2013 08:10
 
-MÃ¶lkky: ce qu'il faut savoir sur ce jeu de quilles qui envahit la France
+Mölkky: ce qu'il faut savoir sur ce jeu de quilles qui envahit la France
 
    Par Matthieu Carlier
      * [partage-facebook.svg]
@@ -106,201 +106,201 @@ MÃ¶lkky: ce qu'il faut savoir sur ce jeu de quilles qui envahit la France
      * [partage-linkedin.svg]
      * [partage-email.svg]
 
-   Photo Flickr/ Ã‚Â·MirÃ‚Â·
-   Flickr/ Ã‚Â·MirÃ‚Â·
+   Photo Flickr/ Â·MirÂ·
+   Flickr/ Â·MirÂ·
 
-   TENDANCES - Le 19 aoÃ»t 2012, Lahti, charmante bourgade finlandaise,
+   TENDANCES - Le 19 août 2012, Lahti, charmante bourgade finlandaise,
    bruit d'une ferveur toute cocorico. Alors qu'en France, on n'a d'yeux
-   que pour les rÃ©cents mÃ©daillÃ©s olympiques, un petit club nantais vient
-   de remporter les championnats du monde de mÃ¶lkky. La surprise est
-   d'autant plus grande que jamais personne auparavant n'avait rÃ©ussi Ã 
-   dÃ©trÃ´ner les Finlandais dans leur discipline-reine. Sur leurs terres,
+   que pour les récents médaillés olympiques, un petit club nantais vient
+   de remporter les championnats du monde de mölkky. La surprise est
+   d'autant plus grande que jamais personne auparavant n'avait réussi à
+   détrôner les Finlandais dans leur discipline-reine. Sur leurs terres,
    qui plus est.
 
-   Par les vertes contrÃ©es de France et de Navarre, les cigales ont
-   continuÃ© Ã  chanter et l'Ã©vÃ¨nement est passÃ© (quasi) inaperÃ§u. Il faut
-   dire qu'Ã  l'Ã©vocation du mot "mÃ¶lkky", les chances sont grandes pour
-   que vous vienne Ã  l'esprit l'image d'un meuble Ikea ou d'un yaourt au
+   Par les vertes contrées de France et de Navarre, les cigales ont
+   continué à chanter et l'évènement est passé (quasi) inaperçu. Il faut
+   dire qu'à l'évocation du mot "mölkky", les chances sont grandes pour
+   que vous vienne à l'esprit l'image d'un meuble Ikea ou d'un yaourt au
    bifidus actif. Tout sauf d'un jeu de quilles.
    [logo-ads.png]
 
-   Car c'est bien de Ã§a dont il s'agit : un jeu de quilles en bois, ni
-   plus ni moins. Mais Ã  l'inverse de ses cousins, bowling, raquettes de
-   plage et consorts, le mÃ¶lkky prend de l'ampleur. Une trentaine
-   d'associations consacrÃ©es Ã  la discipline ont vu le jour depuis 2008
-   et, irrÃ©mÃ©diablement, les joueurs de mÃ¶lkky envahissent allÃ©es et
-   squares. D'ailleurs, Ã  l'occasion du rassemblement inter-clubs au
-   boulodrome de l'ASB, Ã  Paris, les associations signeront, ce samedi 20
-   avril, les papiers Ã©tablissant la formation d'une FÃ©dÃ©ration FranÃ§aise
-   de MÃ¶lkky.
+   Car c'est bien de ça dont il s'agit : un jeu de quilles en bois, ni
+   plus ni moins. Mais à l'inverse de ses cousins, bowling, raquettes de
+   plage et consorts, le mölkky prend de l'ampleur. Une trentaine
+   d'associations consacrées à la discipline ont vu le jour depuis 2008
+   et, irrémédiablement, les joueurs de mölkky envahissent allées et
+   squares. D'ailleurs, à l'occasion du rassemblement inter-clubs au
+   boulodrome de l'ASB, à Paris, les associations signeront, ce samedi 20
+   avril, les papiers établissant la formation d'une Fédération Française
+   de Mölkky.
 
-   Mike, membre du BÃ¢ton Mouche, la principale association francilienne
-   dÃ©diÃ©e Ã  la discipline (400 adhÃ©rents), explique:
+   Mike, membre du Bâton Mouche, la principale association francilienne
+   dédiée à la discipline (400 adhérents), explique:
 
-   Le mÃ¶lkky, c'est stratÃ©gique
+   Le mölkky, c'est stratégique
 
-   Mike a Ã©tÃ© l'un des premiers FranÃ§ais Ã  dÃ©couvrir le mÃ¶lkky. C'Ã©tait en
-   2007, lorsqu'un ami est rentrÃ© de ses vacances en Finlande avec un
+   Mike a été l'un des premiers Français à découvrir le mölkky. C'était en
+   2007, lorsqu'un ami est rentré de ses vacances en Finlande avec un
    exemplaire du jeu. "Comme on ne pouvait pas en acheter en France, j'ai
-   fabriquÃ© mon exemplaire moi-mÃªme", raconte-t-il.
+   fabriqué mon exemplaire moi-même", raconte-t-il.
    [logo-ads.png]
 
-   De fil en aiguille, il en vient Ã  organiser en 2009 le premier tournoi
-   national. Depuis, l'Ã©vÃ¨nement n'a cessÃ© de gagner en popularitÃ©. Ils
-   Ã©taient plusieurs centaines Ã  se retrouver pour l'Ã©dition 2012, Ã 
+   De fil en aiguille, il en vient à organiser en 2009 le premier tournoi
+   national. Depuis, l'évènement n'a cessé de gagner en popularité. Ils
+   étaient plusieurs centaines à se retrouver pour l'édition 2012, à
    Bordeaux:
    Vous ne pouvez pas visionner ce contenu car :
-     * Vous avez refusÃ© les cookies associÃ©s aux contenus issus de tiers
-       en vous abonnant. Vous ne pourrez donc pas lire nos vidÃ©os qui ont
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
        besoin de cookies tiers pour fonctionner.
-     * Vous utilisez un bloqueur de publicitÃ©. Nous vous conseillons de le
-       dÃ©sactiver afin dâ€™accÃ©der Ã  nos vidÃ©os.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d'accéder à nos vidéos.
 
-   Si vous n'Ãªtes dans aucun de ces deux cas, contactez-nous Ã 
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
    aide@huffingtonpost.fr.
 
    Alors, comment expliquer un tel engouement? Pour comprendre le
-   phÃ©nomÃ¨ne, parlons d'abord du jeu en lui-mÃªme. D'une, "mÃ¶lkky" se
-   prononce "meule-cul". On en rigole les premiÃ¨res fois, puis c'est comme
-   tout, Ã§a passe. De deux, le jeu est dÃ©rivÃ© du kyyka, une discipline
-   issue de CarÃ©lie, une rÃ©gion semi-autonome qui n'a jamais su trop
-   choisir entre la Finlande et la Russie. De trois, son crÃ©ateur est une
-   sorte d'Ã©cole de menuiserie basÃ©e prÃ¨s de Lahti, dans le sud de la
-   Finlande, qui a crÃ©Ã© le jeu pour rigoler, puis a fini par en faire une
-   marque dÃ©posÃ©e.
+   phénomène, parlons d'abord du jeu en lui-même. D'une, "mölkky" se
+   prononce "meule-cul". On en rigole les premières fois, puis c'est comme
+   tout, ça passe. De deux, le jeu est dérivé du kyyka, une discipline
+   issue de Carélie, une région semi-autonome qui n'a jamais su trop
+   choisir entre la Finlande et la Russie. De trois, son créateur est une
+   sorte d'école de menuiserie basée près de Lahti, dans le sud de la
+   Finlande, qui a créé le jeu pour rigoler, puis a fini par en faire une
+   marque déposée.
 
-   VoilÃ , Ã§a c'est pour les bases historiques. Maintenant, les rÃ¨gles. A
-   premiÃ¨re vue, rien ne distingue le mÃ¶lkky d'un petit bowling de plage,
-   sauf que les quilles sont numÃ©rotÃ©es de 1 Ã  12 et que la boule s'est
-   convertie en bÃ¢ton (le mÃ¶lkky), un peu comme le montre ce trÃ¨s beau
-   lancer d'une touriste thaÃ¯landaise Ã  Paris Plages:
+   Voilà, ça c'est pour les bases historiques. Maintenant, les règles. A
+   première vue, rien ne distingue le mölkky d'un petit bowling de plage,
+   sauf que les quilles sont numérotées de 1 à 12 et que la boule s'est
+   convertie en bâton (le mölkky), un peu comme le montre ce très beau
+   lancer d'une touriste thaïlandaise à Paris Plages:
    [logo-ads.png]
    Photo
 
-   Attention, c'est lÃ  que se rÃ©vÃ¨le tout le cÃ´tÃ© stratÃ©gique de la
+   Attention, c'est là que se révèle tout le côté stratégique de la
    discipline. Car il ne s'agit pas ici de faire tomber toutes les
-   quilles, auquel cas il suffirait de lancer le mÃ¶lkky un peu n'importe
-   comment et l'on gagnerait Ã  tous les coups. Ici, il faut arriver Ã  50
+   quilles, auquel cas il suffirait de lancer le mölkky un peu n'importe
+   comment et l'on gagnerait à tous les coups. Ici, il faut arriver à 50
    points. Pile. Si l'on fait plus, la sentence est imparable: on
-   redescend Ã  25 points.
+   redescend à 25 points.
 
    Mais ce n'est pas tout: si l'on fait tomber une seule quille, on
-   engrange le nombre de points indiquÃ© en son sommet. Si l'on en fait
-   tomber plusieurs, les points marquÃ©s correspondent au nombre de quilles
-   Ã  terre. Par exemple, si j'ai 47 points, je peux soit faire tomber
-   uniquement la quille nÂ°3 pour arriver Ã  50, soit faire tomber 3
+   engrange le nombre de points indiqué en son sommet. Si l'on en fait
+   tomber plusieurs, les points marqués correspondent au nombre de quilles
+   à terre. Par exemple, si j'ai 47 points, je peux soit faire tomber
+   uniquement la quille n°3 pour arriver à 50, soit faire tomber 3
    quilles.
 
    On l'aura compris, les adeptes de lancer de troncs d'arbre peuvent
-   aller se rhabiller. Le mÃ¶lkky, c'est la finesse Ã  l'Ã©tat pur. Le
-   mÃ¶lkky, c'est un peu la Finlande sans la Finlande.
+   aller se rhabiller. Le mölkky, c'est la finesse à l'état pur. Le
+   mölkky, c'est un peu la Finlande sans la Finlande.
    [logo-ads.png]
 
-   Le mÃ¶lkky, c'est exotique
+   Le mölkky, c'est exotique
 
-   Mais si le raffinement expliquait Ã  lui seul le succÃ¨s, Nadine de
-   Rotschild serait personnalitÃ© prÃ©fÃ©rÃ©e des FranÃ§ais. Alors quoi?
+   Mais si le raffinement expliquait à lui seul le succès, Nadine de
+   Rotschild serait personnalité préférée des Français. Alors quoi?
 
-   Rendons Ã  CÃ©sar ce qui appartient Ã  CÃ©sar : le mÃ¶lkky, c'est exotique.
+   Rendons à César ce qui appartient à César : le mölkky, c'est exotique.
    Dire qu'on y joue, c'est un peu comme dire qu'on est kite-surfer ou
-   reporter animalier, mais en vingt fois plus Ã©nigmatique. Ceux qui, Ã  la
-   sortie du collÃ¨ge, avaient honte de jouer au croquet sur les
-   Buttes-Chaumont de peur qu'on les surprenne se donnent corps et Ã¢mes
+   reporter animalier, mais en vingt fois plus énigmatique. Ceux qui, à la
+   sortie du collège, avaient honte de jouer au croquet sur les
+   Buttes-Chaumont de peur qu'on les surprenne se donnent corps et âmes
    aux quilles finlandaises. Pourquoi? Parce que c'est aventureux et
-   bizarre. Une bizarrerie assumÃ©e.
+   bizarre. Une bizarrerie assumée.
 
-   Pas Ã©tonnant, donc, qu'au tournoi de Paris, des hommes-poulets cÃ´toient
-   un Japonais passÃ© lÃ  par hasard:
+   Pas étonnant, donc, qu'au tournoi de Paris, des hommes-poulets côtoient
+   un Japonais passé là par hasard:
    [logo-ads.png]
    Photo
 
-   Certes, le mÃ¶lkky ne diffÃ¨re pas tant que Ã§a du croquet: ils sont tous
-   les deux lents et en bois. Mais l'un a cette part de mystÃ¨re que
-   l'autre n'a pas. VoilÃ  un sport qui offre Ã  des cadres en chemisette de
-   lancer un totem phallique sur des quilles en bois. Le mÃ¶lkky, c'est la
-   rÃ©gression joyeuse.
+   Certes, le mölkky ne diffère pas tant que ça du croquet: ils sont tous
+   les deux lents et en bois. Mais l'un a cette part de mystère que
+   l'autre n'a pas. Voilà un sport qui offre à des cadres en chemisette de
+   lancer un totem phallique sur des quilles en bois. Le mölkky, c'est la
+   régression joyeuse.
 
-   Anne Sautier, responsable marketing chez Tactic, distributeur du mÃ¶lkky
+   Anne Sautier, responsable marketing chez Tactic, distributeur du mölkky
    en France, a sa petite explication: "A l'inverse du croquet, c'est
-   facile Ã  installer. Il suffit de prendre sa boÃ®te de mÃ¶lkky, de poser
-   les quilles Ã  terre et on est parti." Elle ajoute que, certes, le
-   mÃ¶lkky a trois paragraphes de rÃ¨gles (ce qui, pour un sport de plein
-   air, est dÃ©jÃ  beaucoup), "mais une fois les 5 premiÃ¨res minutes
-   d'introduction passÃ©es, on entre dedans trÃ¨s facilement, peu importe
-   son Ã¢ge. C'est trÃ¨s intuitif et convivial."
+   facile à installer. Il suffit de prendre sa boîte de mölkky, de poser
+   les quilles à terre et on est parti." Elle ajoute que, certes, le
+   mölkky a trois paragraphes de règles (ce qui, pour un sport de plein
+   air, est déjà beaucoup), "mais une fois les 5 premières minutes
+   d'introduction passées, on entre dedans très facilement, peu importe
+   son âge. C'est très intuitif et convivial."
 
-   Pour Mike du BÃ¢ton Mouche, ce qui fait le succÃ¨s du mÃ¶lkki, c'est qu'il
-   joue sur deux tableaux Ã  la fois: "C'est Ã  la fois tactique et simple
-   d'accÃ¨s", explique-t-il.
+   Pour Mike du Bâton Mouche, ce qui fait le succès du mölkki, c'est qu'il
+   joue sur deux tableaux à la fois: "C'est à la fois tactique et simple
+   d'accès", explique-t-il.
    [logo-ads.png]
 
    Bon, d'accord, c'est simple, tactique et intuitif. Mais finalement
-   c'est un peu aussi le cas des rackets de plage. Continuons Ã  enquÃªter.
+   c'est un peu aussi le cas des rackets de plage. Continuons à enquêter.
 
-   Le mÃ¶lkky, c'est Ã©cologique
+   Le mölkky, c'est écologique
 
-   Dans les annÃ©es 90, on avait la Game Boy. Dans les annÃ©es 2000, le
-   yo-yo clignotant. En 2013, on a le mÃ¶lkky. A l'heure de la voiture
-   hybride et des poubelles bleues, jaunes, rouges, orange, voir dÃ©barquer
+   Dans les années 90, on avait la Game Boy. Dans les années 2000, le
+   yo-yo clignotant. En 2013, on a le mölkky. A l'heure de la voiture
+   hybride et des poubelles bleues, jaunes, rouges, orange, voir débarquer
    un jeu de quilles en bois 100% naturel est dans l'ordre des choses. "Un
-   produit 100% naturel, fabriquÃ© en bouleau et en pin avec du bois en
-   provenance de nos forÃªts finlandaises", clame le site officiel
+   produit 100% naturel, fabriqué en bouleau et en pin avec du bois en
+   provenance de nos forêts finlandaises", clame le site officiel
    Molkky.com, non sans un certain opportunisme.
 
-   Anne Sautier tient Ã  rappeler qu'il s'agit d'un bois "imputrescible".
-   C'est-Ã -dire qu'il ne s'abÃ®me pas dans la neige ou dans l'eau. On peut
-   donc y jouer n'importe oÃ¹. "En plus c'est un bel objet", ajoute-t-elle.
-   Mais la beautÃ© a un prix: le mÃ¶lkky est dÃ©sormais disponible dans sa
-   version simple Ã  30â‚¬ et dans sa dÃ©clinaison deluxe, pour 40â‚¬. Les prix
-   peuvent mÃªme augmenter en fonction du point de vente.
+   Anne Sautier tient à rappeler qu'il s'agit d'un bois "imputrescible".
+   C'est-à-dire qu'il ne s'abîme pas dans la neige ou dans l'eau. On peut
+   donc y jouer n'importe où. "En plus c'est un bel objet", ajoute-t-elle.
+   Mais la beauté a un prix: le mölkky est désormais disponible dans sa
+   version simple à 30EUR et dans sa déclinaison deluxe, pour 40EUR. Les
+   prix peuvent même augmenter en fonction du point de vente.
 
-   Ecologie, rÃ©gression, prix Ã©levÃ©, autant de facteurs qui feraient dire
-   aux mauvaises langues que le mÃ¶lkky est un phÃ©nomÃ¨ne un peu bobo. La
-   boÃ®te de quilles tient d'ailleurs parfaitement sur une trottinette ou
-   le panier d'un VÃ©lib'. Toujours est-il que la discipline continue Ã 
-   monter en puissance. Les 17 et 18 aoÃ»t prochains, plusieurs centaines
-   de mÃ¶lkky-addicts devraient rÃ©pondre prÃ©sents aux prochains
-   championnats du monde de Lahti. Frais d'inscription : 90â‚¬.
+   Ecologie, régression, prix élevé, autant de facteurs qui feraient dire
+   aux mauvaises langues que le mölkky est un phénomène un peu bobo. La
+   boîte de quilles tient d'ailleurs parfaitement sur une trottinette ou
+   le panier d'un Vélib'. Toujours est-il que la discipline continue à
+   monter en puissance. Les 17 et 18 août prochains, plusieurs centaines
+   de mölkky-addicts devraient répondre présents aux prochains
+   championnats du monde de Lahti. Frais d'inscription : 90EUR.
 
    plus :
-   Bobo Jeu Sport Tendances VidÃ©o Life
+   Bobo Jeu Sport Tendances Vidéo Life
    Matthieu Carlier
    Envoyer une correction
    Newsletter
 
    Inscrivez-vous aux newsletters du HuffPost et recevez par email les
-   infos les plus importantes et une sÃ©lection de nos meilleurs articles
+   infos les plus importantes et une sélection de nos meilleurs articles
    ____________________ [email.svg]
 
-   En vous inscrivant Ã  ce service, vous acceptez que votre adresse mail
-   soit utilisÃ©e par le Huffington Post, responsable de traitement, pour
-   la gestion de votre inscription Ã  la newsletter.
-   ConformÃ©ment Ã  la loi du 06/01/1978 modifiÃ©e et au RÃ¨glement europÃ©en
-   nÂ°2016/679/UE du 27/04/2016, vous bÃ©nÃ©ficiez dâ€™un droit dâ€™accÃ¨s, de
-   modification, de portabilitÃ©, de suppression et dâ€™opposition au
+   En vous inscrivant à ce service, vous acceptez que votre adresse mail
+   soit utilisée par le Huffington Post, responsable de traitement, pour
+   la gestion de votre inscription à la newsletter.
+   Conformément à la loi du 06/01/1978 modifiée et au Règlement européen
+   n°2016/679/UE du 27/04/2016, vous bénéficiez d'un droit d'accès, de
+   modification, de portabilité, de suppression et d'opposition au
    traitement des informations vous concernant, que vous pouvez exercer
-   auprÃ¨s de dpo@groupelemonde.fr. Pour toute information complÃ©mentaire
-   ou rÃ©clamation: CNIL
-   (BUTTON) Sâ€™inscrire
+   auprès de dpo@groupelemonde.fr. Pour toute information complémentaire
+   ou réclamation: CNIL
+   (BUTTON) S'inscrire
    (BUTTON) (BUTTON) (BUTTON)
    (BUTTON) (BUTTON)
-   [logo-ads.png] PublicitÃ©
+   [logo-ads.png] Publicité
    [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
    Les sites du groupe arrow-down
    Le Monde
    Courrier International
-   TÃ©lÃ©rama
+   Télérama
    L'Obs
    La Vie
    Le Monde diplomatique
    Suivez-nous
    Facebook Instagram Twitter Youtube Dailymotion Flipboard Newsletters
    RSS
-   LÃ©gal - Infos arrow-down
-   Gestion des cookies Qui sommes-nous ? Mentions LÃ©gales Conditions
-   gÃ©nÃ©rales de vente Politique de confidentialitÃ© PublicitÃ© Contactez
+   Légal - Infos arrow-down
+   Gestion des cookies Qui sommes-nous ? Mentions Légales Conditions
+   générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
    #Le HuffPost : Life

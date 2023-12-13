@@ -1,9 +1,9 @@
-   #MÃ©tÃ©o quotidienne ActualitÃ© locale ActualitÃ© dÃ©partementale ActualitÃ©
-   sportive DerniÃ©res minutes
+   #Météo quotidienne Actualité locale Actualité départementale Actualité
+   sportive Derniéres minutes
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M55VGXP
 
-   Saint-Malo RennesVitrÃ©RedonFougÃ¨res Autres villes
+   Saint-Malo RennesVitréRedonFougères Autres villes
 
    S'inscrire
    Se connecter
@@ -11,7 +11,7 @@
    Mon compte Maville
      * Mon compte
      * Mon espace PRO
-     * DÃ©connexion
+     * Déconnexion
 
    Maville.com  par  Ouest-France
 
@@ -20,27 +20,27 @@
      * Info
        Accueil InfoInfo en continuInfo Saint-MaloInfo Ille-et-VilaineInfo
        BretagneEn France et dans le MondeInsoliteGaleries photos
-       infoArchives actualitÃ©
+       infoArchives actualité
      * Sport
-       Accueil SportActualitÃ©s sportives de St-MaloActualitÃ© sportive
-       rÃ©gionaleActus du Stade RennaisActualitÃ© sportive nationale et
+       Accueil SportActualités sportives de St-MaloActualité sportive
+       régionaleActus du Stade RennaisActualité sportive nationale et
        internationale
      * Salles de sport
      * Restos
        Accueil RestaurantsTrouvez un restaurantProfessionnel de la
-       restauration ?Toutes nos catÃ©goriesLes incontournables !
-     * CinÃ©
-       Accueil CinÃ©maLes sorties de la semaineTrouvez une sÃ©anceLes films
-       Ã  l'afficheActualitÃ© cinÃ©maArchives CinÃ©maSÃ©ries TV
+       restauration ?Toutes nos catégoriesLes incontournables !
+     * Ciné
+       Accueil CinémaLes sorties de la semaineTrouvez une séanceLes films
+       à l'afficheActualité cinémaArchives CinémaSéries TV
      * Sorties
-       Agenda des sortiesTourisme : guide des sortiesActualitÃ© de vos
+       Agenda des sortiesTourisme : guide des sortiesActualité de vos
        sorties
      * Jeux
        Accueil JeuxListe des jeuxListe des gagnants
      * Bons Plans
        Tous les bons Plans
      * Shopping
-     * MÃ©tÃ©o
+     * Météo
      * Pratique
        Infos pratiquesShoppingNaissancesUrgencesProgramme TVContactez-nous
      *
@@ -50,16 +50,16 @@
 
 Pourquoi dire Oui aux cookies ?
 
-   (BUTTON) RÃ©duire ce message
+   (BUTTON) Réduire ce message
 
    Nous avons besoin de vos cookies pour vous offrir la meilleure
-   expÃ©rience de lecture possible et vous proposer des articles
-   personnalisÃ©s selon votre lieu de vie et des publicitÃ©s selon vos
-   centres d'intÃ©rÃªt, avec une sÃ©curitÃ© maximale du site.
+   expérience de lecture possible et vous proposer des articles
+   personnalisés selon votre lieu de vie et des publicités selon vos
+   centres d'intérêt, avec une sécurité maximale du site.
 
-   Ils contribuent au modÃ¨le Ã©conomique de notre entreprise et permettent
-   aux journalistes de notre rÃ©daction dÃ©ployÃ©s Ã  travers la rÃ©gion, de
-   continuer Ã  concevoir une information fiable et de qualitÃ©, toujours
+   Ils contribuent au modèle économique de notre entreprise et permettent
+   aux journalistes de notre rédaction déployés à travers la région, de
+   continuer à concevoir une information fiable et de qualité, toujours
    proche de vous.
    Maville.com  par  Ouest-France
    J'accepte les cookies
@@ -67,42 +67,42 @@ Pourquoi dire Oui aux cookies ?
    Sport
    Qui, quoi ? ____________________
    (BUTTON)
-   Accueil Sport Comment lâ€™industrie du jeux vidÃ©o sâ€™installe en Bretagne
+   Accueil Sport Comment l'industrie du jeux vidéo s'installe en Bretagne
 
    logo Ouest-France
 
-   Contenu rÃ©servÃ© aux abonnÃ©s
+   Contenu réservé aux abonnés
    Dimanche 05 novembre 2023 16:23
 
-Comment lâ€™industrie du jeux vidÃ©o sâ€™installe en Bretagne
+Comment l'industrie du jeux vidéo s'installe en Bretagne
 
    ...
      *
 
-   photo crÃ©Ã© en 2021, le studio rennais wild wits games sort aetheris,
-   son premier jeu vidÃ©o, le 7 novembre prochain sur steam. 1
+   photo créé en 2021, le studio rennais wild wits games sort aetheris,
+   son premier jeu vidéo, le 7 novembre prochain sur steam. 1
 
-   CrÃ©Ã© en 2021, le studio rennais Wild Wits Games sort Aetheris, son
-   premier jeu vidÃ©o, le 7 novembre prochain sur Steam. Â© Wild Wits Games
+   Créé en 2021, le studio rennais Wild Wits Games sort Aetheris, son
+   premier jeu vidéo, le 7 novembre prochain sur Steam. © Wild Wits Games
 
-ReprÃ©sentant Ã  peine plus de 2 % de lâ€™industrie du jeu vidÃ©o, la Bretagne est
-encore loin dâ€™Ãªtre perÃ§ue comme une place forte du secteur en France.
-Pourtant, des titres y sont conÃ§us chaque annÃ©e et des professionnels,
-dÃ©butants ou confirmÃ©s, sâ€™installent rÃ©guliÃ¨rement dans la rÃ©gion.
+Représentant à peine plus de 2 % de l'industrie du jeu vidéo, la Bretagne est
+encore loin d'être perçue comme une place forte du secteur en France.
+Pourtant, des titres y sont conçus chaque année et des professionnels,
+débutants ou confirmés, s'installent régulièrement dans la région.
 
-   Câ€™est la grand-messe du jeu vidÃ©o en France. Jusquâ€™au dimanche
+   C'est la grand-messe du jeu vidéo en France. Jusqu'au dimanche
    5 novembre, la Paris Games Week accueille des gamers de tout horizon
-   pour leur faire dÃ©couvrir les derniÃ¨res sorties et quelques-uns des
+   pour leur faire découvrir les dernières sorties et quelques-uns des
    titres ...
 
-   Cet article est rÃ©servÃ© aux abonnÃ©s
+   Cet article est réservé aux abonnés
 
-   Pour un accÃ¨s immÃ©diat, abonnez-vous
+   Pour un accès immédiat, abonnez-vous
 
-   1Ã¨re semaine offerte
+   1ère semaine offerte
    J'en profite
 
-   DÃ©jÃ  abonnÃ© ? Je me connecte
+   Déjà abonné ? Je me connecte
    Steve HENOT.    Ouest-France
 
 Retrouvez d'autres actus sur les communes de :
@@ -113,7 +113,7 @@ Retrouvez d'autres actus sur les communes de :
 
    Donnez votre avis ...
    logo Ouest-France Abonnez-vous 1^er mois offert Acheter le journal du
-   jour Achetez le journal au format numÃ©rique
+   jour Achetez le journal au format numérique
 
      * merci d'indiquer un nom de film
        Titre de l'info *
@@ -121,7 +121,7 @@ Retrouvez d'autres actus sur les communes de :
        Nom du restaurant *
        ____________________
           + Choisir un resto :
-          + Cet Ã©tablissement est nouveau sur maville.com
+          + Cet établissement est nouveau sur maville.com
        merci d'indiquer un nom de restaurant
          ______________________________________________________________
 
@@ -132,13 +132,13 @@ Retrouvez d'autres actus sur les communes de :
        ____________________
        ____________________
        merci de saisir la ville du restaurant
-       TÃ©lÃ©chargez votre photo (2 Mo max)
+       Téléchargez votre photo (2 Mo max)
          ______________________________________________________________
 
        Nom du bar *
        ____________________
           + Choisir un bar :
-          + Cet Ã©tablissement est nouveau sur maville.com
+          + Cet établissement est nouveau sur maville.com
        merci d'indiquer un nom de bar
          ______________________________________________________________
 
@@ -151,14 +151,14 @@ Retrouvez d'autres actus sur les communes de :
        merci de saisir la ville du bar
          ______________________________________________________________
 
-       merci d'indiquer un titre Ã  votre avis
+       merci d'indiquer un titre à votre avis
        ____________________
 
 
 
    _
 
-     merci d'indiquer un contenu Ã  votre avis
+     merci d'indiquer un contenu à votre avis
    * Notez :
      *
      * 1
@@ -174,7 +174,7 @@ Retrouvez d'autres actus sur les communes de :
      * 3
      * 4
 
-   L'accueil / la qualitÃ© du service
+   L'accueil / la qualité du service
    merci d'indiquer une note pour l'accueil
      __________________________________________________________________
 
@@ -184,7 +184,7 @@ Retrouvez d'autres actus sur les communes de :
      * 3
      * 4
 
-   L'ambiance / le dÃ©cor
+   L'ambiance / le décor
    merci d'indiquer une note pour l'ambiance
      __________________________________________________________________
 
@@ -194,9 +194,9 @@ Retrouvez d'autres actus sur les communes de :
      * 3
      * 4
 
-   Le rapport qualitÃ© / prix
+   Le rapport qualité / prix
    merci d'indiquer une note pour le prix
-   TÃ©lÃ©chargez votre photo. Poids de votre photo : 2Mo max
+   Téléchargez votre photo. Poids de votre photo : 2Mo max
                        
 
      ____________________
@@ -204,48 +204,46 @@ Retrouvez d'autres actus sur les communes de :
 
 
    [ ] En cochant cette case, j'accepte et je reconnais avoir pris
-   connaissance des conditions gÃ©nÃ©rales d'utilisation et de la politique
-   de donnÃ©es personnelles.
+   connaissance des conditions générales d'utilisation et de la politique
+   de données personnelles.
 
      (BUTTON) Envoyer
-   Vos donnÃ©es personnelles font lâ€™objet dâ€™un traitement informatique par
-   la sociÃ©tÃ© Additi Multimedia, sur le fondement de l'exÃ©cution d'un
-   contrat et sont utilisÃ©es notamment pour prendre en compte, modÃ©rer et
-   rÃ©pondre Ã  vos commentaires sur les contenus mis en ligne sur le site.
-   Elles seront conservÃ©es conformÃ©ment Ã  notre politique de donnÃ©es
-   personnelles, sauf dispositions lÃ©gales particuliÃ¨res. Vous disposez
-   dâ€™un droit dâ€™accÃ¨s, de rectification, dâ€™opposition, de limitation et de
-   portabilitÃ©, en vous adressant directement Ã  pdp@sipa.ouest-france.fr
-   ou par courrier Ã  "DÃ©lÃ©guÃ© Ã  la Protection des DonnÃ©es Personnelles
-   SIPA Additi Multimedia - ZI Rennes Sud-Est,â€“ 10 rue du Breil â€“ 35051
-   Rennes cedex 9". Vous avez Ã©galement le droit dâ€™introduire une
-   rÃ©clamation auprÃ¨s de la CNIL. En savoir plus
+   Vos données personnelles font l'objet d'un traitement informatique par
+   la société Additi Multimedia, sur le fondement de l'exécution d'un
+   contrat et sont utilisées notamment pour prendre en compte, modérer et
+   répondre à vos commentaires sur les contenus mis en ligne sur le site.
+   Elles seront conservées conformément à notre politique de données
+   personnelles, sauf dispositions légales particulières. Vous disposez
+   d'un droit d'accès, de rectification, d'opposition, de limitation et de
+   portabilité, en vous adressant directement à pdp@sipa.ouest-france.fr
+   ou par courrier à "Délégué à la Protection des Données Personnelles
+   SIPA Additi Multimedia - ZI Rennes Sud-Est,- 10 rue du Breil - 35051
+   Rennes cedex 9". Vous avez également le droit d'introduire une
+   réclamation auprès de la CNIL. En savoir plus
 
      (BUTTON) OK
 
    Newsletter maville
 
-Abonnez-vous Ã  la newsletter - Saint-Malo
+Abonnez-vous à la newsletter - Saint-Malo
 
    ____________________ Je m'inscris
    En cours de recherche
-   Votre e-mail, avec votre consentement, est utilisÃ© par la sociÃ©tÃ©
-   Additi Multimedia pour recevoir les newsletters sÃ©lectionnÃ©es. En
+   Votre e-mail, avec votre consentement, est utilisé par la société
+   Additi Multimedia pour recevoir les newsletters sélectionnées. En
    savoir plus
 
 Quiz et jeux
 
      * 5 photo quiz. 15 questions sur barbie
-
-Quiz. 15 questions sur Barbie
+       Quiz. 15 questions sur Barbie
 
      * 30 photo quiz. 10 questions sur les girafes
-
-Quiz. 10 questions sur les girafes
-     * 28 photo quiz. johnny hallyday : la lÃ©gende du rock franÃ§ais aurait
-       cÃ©lÃ©brÃ© ses 80 ans
-
-Quiz. Johnny Hallyday : la lÃ©gende du rock franÃ§ais aurait cÃ©lÃ©brÃ© ses 80 ans
+    Quiz. 10 questions sur les girafes
+     * 28 photo quiz. johnny hallyday : la légende du rock français aurait
+       célébré ses 80 ans
+    Quiz. Johnny Hallyday : la légende du rock français aurait célébré ses
+       80 ans
 
      Tous les quiz
    Retour en haut
@@ -256,13 +254,13 @@ Rubriques site maville
      * Info
      * Sport
      * Restaurants
-     * CinÃ©ma
+     * Cinéma
      * Sorties
      *
 
      * Jeux
      * Shopping
-     * MÃ©tÃ©o
+     * Météo
      * Pratique
      * Bons plans du jour
      *
@@ -270,8 +268,8 @@ Rubriques site maville
 
      * Devenez annonceur
      * Cookies
-     * DonnÃ©es personnelles
-     * Mentions lÃ©gales
+     * Données personnelles
+     * Mentions légales
      * Plan du site
      * Contact
      * Modifier le consentement
@@ -282,7 +280,7 @@ Sites Ouest-France
      * Ouest-France Auto
      * Ouest-France Immo
      * Ouest-France Emploi
-     * Ouest-France SolidaritÃ©
+     * Ouest-France Solidarité
      *
      *
 
@@ -305,7 +303,7 @@ Sites Ouest-France
      * Montpellier
      * Nantes
      * Nice
-     * NÃ®mes
+     * Nîmes
      * Quimper
      * Rennes
      * Toulon
@@ -313,15 +311,15 @@ Sites Ouest-France
      * Vannes
 
      * Dinan
-     * FougÃ¨res
+     * Fougères
      * Guingamp
      * Lannion-Perros
      * Ploermel
      * Pontivy
      * Redon
      * Saint-Brieuc
-     * VitrÃ©
+     * Vitré
 
-   Les applications mobiles Ouest-France disponibles en tÃ©lÃ©chargement
-   maville.com par Â© Copyright maville.com | WEB66  ACPM OJD
-   AccÃ¨s au site Mobile
+   Les applications mobiles Ouest-France disponibles en téléchargement
+   maville.com par © Copyright maville.com | WEB66  ACPM OJD
+   Accès au site Mobile

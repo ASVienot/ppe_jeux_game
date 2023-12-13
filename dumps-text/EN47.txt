@@ -155,15 +155,15 @@ Beyond Wordle: the best word games to try next
    The debate continues to rage among Wordle players: has the New York
    Times ruined it? Why are there suddenly so many double-letter days
    (SWILL, seriously?); so many frustrating solutions that hinge on a
-   single, ambiguous letter? And what about “caulk”? Has something
+   single, ambiguous letter? And what about "caulk"? Has something
    changed? Or are people just losing interest? Since Wordle caught the
-   world’s attention, there has been a fast-flowing stream of copycats and
+   world's attention, there has been a fast-flowing stream of copycats and
    humorous takes on the word-guessing game, based on everything from
    swearing (Sweardle) to choral music (Byrdle) to geography (Worldle). If
-   you’re looking for something different, though, rather than just an
+   you're looking for something different, though, rather than just an
    inventive twist on the same theme, the Android and Apple app stores
    have many other word games you can play on your phone. Fans have been
-   quietly enjoying some of these for years – some offer a daily five or
+   quietly enjoying some of these for years - some offer a daily five or
    10 minutes of puzzle fun, while others let you sink as much time into
    them as you want.
    SpellTower
@@ -175,7 +175,7 @@ SpellTower
    players make words out of adjacent letter tiles in order to clear the
    play space. In the puzzle mode, subsequent layers of letters are
    continually added until the pile reaches the top of the screen and the
-   game ends. It’s a unique and compelling test of both your vocabulary
+   game ends. It's a unique and compelling test of both your vocabulary
    and your spatial planning skills, and like Wordle it gets you to see
    words as tactical objects as well as units of language.
    Wurdweb
@@ -189,7 +189,7 @@ Wurdweb
    too many words in one corner you can soon come adrift, and you have to
    make careful use of the premium squares. Scrabble fans will enjoy the
    way the game explores word placement strategies, and success unlocks
-   the more demanding “precise mode”, which requires players to finish on
+   the more demanding "precise mode", which requires players to finish on
    a specific square. Not for the faint-hearted.
    Baba Is You
    Baba Is You
@@ -198,46 +198,46 @@ Baba Is You
 
    As much a logic game as a word game, this endearingly lo-fi puzzler has
    you shifting words around to change the rules. Unshiftable boulders can
-   be pushed aside if you create the sentence ROCK IS MOVE; if there’s a
+   be pushed aside if you create the sentence ROCK IS MOVE; if there's a
    key hidden down a maze, try KEY IS YOU and you can possess it and move
    it somewhere more accessible. It will outsmart you, but it will also
    make you feel like a genius when you crack it.
-   Letter Quest: Grimm’s Journey
-   Letter Quest: Grimm’s Journey
+   Letter Quest: Grimm's Journey
+   Letter Quest: Grimm's Journey
 
-Letter Quest: Grimm’s Journey
+Letter Quest: Grimm's Journey
 
    A kind of slightly violent Scrabble, in Letter Quest, you guide a cute
    little grim reaper through dungeons full of monsters, defeating them by
    conjuring impressive words from a panel of letter tiles. Any word will
    do damage, but the fun comes from figuring out particularly appropriate
-   or long ones; there’s nothing quite as satisfying as defeating a
-   werewolf with “silver”. It’s a lovely combination of word puzzles and
+   or long ones; there's nothing quite as satisfying as defeating a
+   werewolf with "silver". It's a lovely combination of word puzzles and
    old-school dungeon-delving adventure. Anyone who played the fondly
    remembered Bookworm Adventures, sadly now scrubbed from existence, will
    especially enjoy this.
-   Love Wordle? Here are three reasons why you’ll love cryptic crosswords
+   Love Wordle? Here are three reasons why you'll love cryptic crosswords
    Read more
 
 Kitty Letter
 
    In this gently bizarre, free game, you unscramble words from a
    hexagonal grid of letters to send little armies of exploding cats
-   towards your opponent’s house. It’s quite frantic, rather than
+   towards your opponent's house. It's quite frantic, rather than
    contemplative, and more fun against a friend (or a stranger) online,
-   but there’s a single-player mode too, featuring surreal interactive
+   but there's a single-player mode too, featuring surreal interactive
    comics.
    Typeshift
    Typeshift
 
 Typeshift
 
-   This is not unlike Wordle – there’s a word that the game wants you to
-   guess, and you have to puzzle it out – but this gives you a slot
+   This is not unlike Wordle - there's a word that the game wants you to
+   guess, and you have to puzzle it out - but this gives you a slot
    machine wheel of different letters, and you spin each column around
    with your finger until something makes sense. It also has a mode where
    you have to figure out several words from crossword-style clues,
-   working with what you’re given. There’s something very satisfying about
+   working with what you're given. There's something very satisfying about
    the tactile nature of Typeshift, like playing with a padlock
    combination made of letters.
    Alphabear: Words Across Time
@@ -245,12 +245,12 @@ Typeshift
 
 Alphabear: Words Across Time
 
-   This is much cuter and weirder than anything you’ll find in a newspaper
-   puzzle app – it features little collectible square-headed bears, and
+   This is much cuter and weirder than anything you'll find in a newspaper
+   puzzle app - it features little collectible square-headed bears, and
    making longer, better words out of the letter grid in front of you
    creates more, bigger bears. It pairs word-building with the human
-   appetite for collecting things. The words you’ve spelled then get made
-   into absurd cartoons after every round. It’s very funny and adorable,
+   appetite for collecting things. The words you've spelled then get made
+   into absurd cartoons after every round. It's very funny and adorable,
    and appealing enough to draw kids into some spelling-related fun.
    Explore more on these topics
      * Puzzle games
@@ -314,5 +314,5 @@ Most viewed
      * Search UK jobs
 
    Back to top
-   © 2023 Guardian News & Media Limited or its affiliated companies. All
+   � 2023 Guardian News & Media Limited or its affiliated companies. All
    rights reserved. (dcr)

@@ -2,21 +2,21 @@
    [logo-large.svg] [close.svg]
    Politique arrow-down
      * Sondage
-     * AssemblÃ©e nationale
-     * RÃ©forme des retraites
+     * Assemblée nationale
+     * Réforme des retraites
      * Emmanuel Macron
-     * Elections europÃ©ennes 2024
+     * Elections européennes 2024
 
    France arrow-down
      * Emploi
      * JO Paris 2024
-     * ImpÃ´t
+     * Impôt
      * Immobilier
      * Faits divers
      * Transport
-     * Ã‰conomie
+     * Économie
      * Police
-     * SantÃ©
+     * Santé
      * Justice
      * Terrorisme
 
@@ -30,11 +30,11 @@
      * Europe
      * Science
      * Covid-19
-     * Conflit israÃ©lo-palestinien
+     * Conflit israélo-palestinien
 
    Environnement arrow-down
-     * MÃ©tÃ©o
-     * Ã‰nergies
+     * Météo
+     * Énergies
      * Changement climatique
      * Ecologie
      * Restriction d'eau
@@ -47,32 +47,32 @@
      * LGBT+
      * Psychologie
      * Vie de bureau
-     * Bien-Ãªtre
+     * Bien-être
      * Alimentation
      * Femmes
-     * ParentalitÃ©
-     * Ã‰ducation
-     * SantÃ©
+     * Parentalité
+     * Éducation
+     * Santé
 
    Culture arrow-down
-     * MÃ©dias
+     * Médias
      * Mode
-     * Jeux vidÃ©o
-     * SÃ©ries TV
+     * Jeux vidéo
+     * Séries TV
      * Musique
      * Livre
-     * CinÃ©ma
+     * Cinéma
 
    Divertissement arrow-down
-     * TÃ©lÃ©vision
+     * Télévision
      * Sport
      * NRJ Music Awards
-     * RÃ©seaux sociaux
+     * Réseaux sociaux
      * People
      * Insolite
 
    Prise de parole arrow-down
-     * TÃ©moignage
+     * Témoignage
      * Tribune
 
    JO Paris 2024 arrow-down
@@ -81,7 +81,7 @@
      * Billets JO 2024
      * Jeux Paralympiques 2024
 
-   VidÃ©os
+   Vidéos
    Plus arrow-down
      * En transit.ion
      * Escapade en Valais
@@ -89,16 +89,16 @@
 
    (BUTTON) [dropdown.svg] [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
      * [dropdown.svg]
      * [logo-large.svg] [logo-small.svg]
 
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
    [aab42ce_1658486451638-5c92d77522000033001b4d1f.jpeg]
    Nathalie Casso-Vicarini
 
-   Fondatrice et prÃ©sidente de lâ€™Association Ensemble pour lâ€™Education
+   Fondatrice et présidente de l'Association Ensemble pour l'Education
    Prise de parole
      * [partage-facebook.svg]
      * [partage-twitter.svg]
@@ -106,21 +106,21 @@
      * [partage-linkedin.svg]
      * [partage-email.svg]
 
-Pourquoi il est essentiel de laisser vos enfants jouer sans rÃ¨gles et
+Pourquoi il est essentiel de laisser vos enfants jouer sans règles et
 s'ennuyer
 
-   On a tendance Ã  vouloir multiplier les apprentissages chez les enfants
+   On a tendance à vouloir multiplier les apprentissages chez les enfants
    mais ils sont avant tout des chercheurs qui ont besoin de temps pour
-   explorer, expÃ©rimenter et trouver leurs limites d'eux-mÃªmes.
+   explorer, expérimenter et trouver leurs limites d'eux-mêmes.
    10/10/2018 07:00
    Vous ne pouvez pas visionner ce contenu car :
-     * Vous avez refusÃ© les cookies associÃ©s aux contenus issus de tiers
-       en vous abonnant. Vous ne pourrez donc pas lire nos vidÃ©os qui ont
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
        besoin de cookies tiers pour fonctionner.
-     * Vous utilisez un bloqueur de publicitÃ©. Nous vous conseillons de le
-       dÃ©sactiver afin dâ€™accÃ©der Ã  nos vidÃ©os.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d'accéder à nos vidéos.
 
-   Si vous n'Ãªtes dans aucun de ces deux cas, contactez-nous Ã 
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
    aide@huffingtonpost.fr.
 
    En savoir plus sur mon site.
@@ -129,65 +129,65 @@ s'ennuyer
    Photo HuffPost
    HuffPost
 
-   Quoi de neuf Le Huff ? L'info surprenante du jour: Une actualitÃ©
-       amusante, choquante, dÃ©calÃ©e ou simplement passÃ©e inaperÃ§ue que Le
-       HuffPost a dÃ©nichÃ©e pour vous.Cliquez ici pour accÃ©der Ã  la "skill"
-       AmazonCoach Ã  domicile : Le conseil bien-Ãªtre du HuffPost.
-       Alimentation, santÃ©, voyage, sexualitÃ©, bien-Ãªtre, vie pro et
-       familiale... Les conseils pour s'Ã©panouir des coachs sÃ©lectionnÃ©s
-       par Le HuffPost "C'est La vie".Cliquez ici pour accÃ©der Ã  la
+   Quoi de neuf Le Huff ? L'info surprenante du jour: Une actualité
+       amusante, choquante, décalée ou simplement passée inaperçue que Le
+       HuffPost a dénichée pour vous.Cliquez ici pour accéder à la "skill"
+       AmazonCoach à domicile : Le conseil bien-être du HuffPost.
+       Alimentation, santé, voyage, sexualité, bien-être, vie pro et
+       familiale... Les conseils pour s'épanouir des coachs sélectionnés
+       par Le HuffPost "C'est La vie".Cliquez ici pour accéder à la
        "skill" Amazon
 
    Vous ne pouvez pas visionner ce contenu car :
-     * Vous avez refusÃ© les cookies associÃ©s aux contenus issus de tiers
-       en vous abonnant. Vous ne pourrez donc pas lire nos vidÃ©os qui ont
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
        besoin de cookies tiers pour fonctionner.
-     * Vous utilisez un bloqueur de publicitÃ©. Nous vous conseillons de le
-       dÃ©sactiver afin dâ€™accÃ©der Ã  nos vidÃ©os.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d'accéder à nos vidéos.
 
-   Si vous n'Ãªtes dans aucun de ces deux cas, contactez-nous Ã 
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
    aide@huffingtonpost.fr.
 
    plus :
-   Audio Ã‰ducation Bien-Ãªtre Life Coach Ã  domicile Enfance VidÃ©o Jeu
-   Petite enfance ParentalitÃ© Vie de famille
+   Audio Éducation Bien-être Life Coach à domicile Enfance Vidéo Jeu
+   Petite enfance Parentalité Vie de famille
    Nathalie Casso-Vicarini
    Envoyer une correction
    Newsletter
 
    Inscrivez-vous aux newsletters du HuffPost et recevez par email les
-   infos les plus importantes et une sÃ©lection de nos meilleurs articles
+   infos les plus importantes et une sélection de nos meilleurs articles
    ____________________ [email.svg]
 
-   En vous inscrivant Ã  ce service, vous acceptez que votre adresse mail
-   soit utilisÃ©e par le Huffington Post, responsable de traitement, pour
-   la gestion de votre inscription Ã  la newsletter.
-   ConformÃ©ment Ã  la loi du 06/01/1978 modifiÃ©e et au RÃ¨glement europÃ©en
-   nÂ°2016/679/UE du 27/04/2016, vous bÃ©nÃ©ficiez dâ€™un droit dâ€™accÃ¨s, de
-   modification, de portabilitÃ©, de suppression et dâ€™opposition au
+   En vous inscrivant à ce service, vous acceptez que votre adresse mail
+   soit utilisée par le Huffington Post, responsable de traitement, pour
+   la gestion de votre inscription à la newsletter.
+   Conformément à la loi du 06/01/1978 modifiée et au Règlement européen
+   n°2016/679/UE du 27/04/2016, vous bénéficiez d'un droit d'accès, de
+   modification, de portabilité, de suppression et d'opposition au
    traitement des informations vous concernant, que vous pouvez exercer
-   auprÃ¨s de dpo@groupelemonde.fr. Pour toute information complÃ©mentaire
-   ou rÃ©clamation: CNIL
-   (BUTTON) Sâ€™inscrire
+   auprès de dpo@groupelemonde.fr. Pour toute information complémentaire
+   ou réclamation: CNIL
+   (BUTTON) S'inscrire
    (BUTTON) (BUTTON) (BUTTON)
    (BUTTON) (BUTTON)
-   [logo-ads.png] PublicitÃ©
+   [logo-ads.png] Publicité
    [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
    Les sites du groupe arrow-down
    Le Monde
    Courrier International
-   TÃ©lÃ©rama
+   Télérama
    L'Obs
    La Vie
    Le Monde diplomatique
    Suivez-nous
    Facebook Instagram Twitter Youtube Dailymotion Flipboard Newsletters
    RSS
-   LÃ©gal - Infos arrow-down
-   Gestion des cookies Qui sommes-nous ? Mentions LÃ©gales Conditions
-   gÃ©nÃ©rales de vente Politique de confidentialitÃ© PublicitÃ© Contactez
+   Légal - Infos arrow-down
+   Gestion des cookies Qui sommes-nous ? Mentions Légales Conditions
+   générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
    #Le HuffPost : Life

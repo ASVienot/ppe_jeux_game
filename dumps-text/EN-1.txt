@@ -45,38 +45,108 @@ Contents
      * (Top)
      * 1Definitions
        (BUTTON) Toggle Definitions subsection
-          + 1.1Ludwig Wittgenstein
-          + 1.2Roger Caillois
-          + 1.3Chris Crawford
-          + 1.4Other definitions
-     * 2Gameplay elements and classification
-       (BUTTON) Toggle Gameplay elements and classification subsection
-          + 2.1Tools
-          + 2.2Rules and aims
-          + 2.3Skill, strategy, and chance
-          + 2.4Single-player games
-          + 2.5Multiplayer games
-               o 2.5.1Game theory
-     * 3Types
-       (BUTTON) Toggle Types subsection
-          + 3.1Sports
-               o 3.1.1Lawn games
-          + 3.2Tabletop games
-               o 3.2.1Dexterity and coordination games
-               o 3.2.2Board games
-               o 3.2.3Card games
-               o 3.2.4Dice games
-               o 3.2.5Domino and tile games
-               o 3.2.6Pencil and paper games
-               o 3.2.7Guessing games
-          + 3.3Video games
-               o 3.3.1Online games
-          + 3.4Role-playing games
-          + 3.5Business games
-          + 3.6Simulation
-     * 4See also
-     * 5References
-     * 6Further reading
+
+     * 1.1Ludwig Wittgenstein
+
+     1.2Roger Caillois
+
+     1.3Chris Crawford
+
+     1.4Other definitions
+
+
+
+   2Gameplay elements and classification
+
+   (BUTTON) Toggle Gameplay elements and classification subsection
+     * 2.1Tools
+
+
+
+   2.2Rules and aims
+
+
+
+   2.3Skill, strategy, and chance
+
+
+
+   2.4Single-player games
+
+
+
+   2.5Multiplayer games
+
+     * 2.5.1Game theory
+
+
+
+   3Types
+
+   (BUTTON) Toggle Types subsection
+     * 3.1Sports
+
+     * 3.1.1Lawn games
+
+
+
+   3.2Tabletop games
+
+     * 3.2.1Dexterity and coordination games
+
+
+
+   3.2.2Board games
+
+
+
+   3.2.3Card games
+
+
+
+   3.2.4Dice games
+
+
+
+   3.2.5Domino and tile games
+
+
+
+   3.2.6Pencil and paper games
+
+
+
+   3.2.7Guessing games
+
+
+
+   3.3Video games
+
+     * 3.3.1Online games
+
+
+
+   3.4Role-playing games
+
+
+
+   3.5Business games
+
+
+
+   3.6Simulation
+
+
+
+   4See also
+
+
+
+   5References
+
+
+
+   6Further reading
 
    [ ] Toggle the table of contents
 
@@ -85,148 +155,148 @@ Game
    [ ] 144 languages
      * Afrikaans
      * Alemannisch
-     * አማርኛ
-     * العربية
-     * Aragonés
+     * emarNa
+     * a+l+e+r+b+y+tm
+     * Aragon�s
      * Arpetan
      * Asturianu
-     * Azərbaycanca
-     * تۆرکجه
-     * বাংলা
-     * Bân-lâm-gú
+     * Az@rbaycanca
+     * t+r+�g+h+
+     * ����
+     * B�n-l�m-g�
      * Basa Banyumasan
-     * Башҡортса
-     * Беларуская
-     * Беларуская (тарашкевіца)
-     * भोजपुरी
+     * Bash�ortsa
+     * Belaruskaya
+     * Belaruskaya (tarashkeviica)
+     * ���
      * Bikol Central
-     * Български
-     * བོད་ཡིག
+     * B"lgarski
+     * ���
      * Bosanski
      * Brezhoneg
-     * Català
-     * Чӑвашла
-     * Čeština
+     * Catal�
+     * CHvashla
+     * Cestina
      * Corsu
      * Cymraeg
      * Dansk
      * Deutsch
      * Eesti
-     * Ελληνικά
-     * Español
+     * Ellynika'
+     * Espa�ol
      * Esperanto
-     * Estremeñu
+     * Estreme�u
      * Euskara
-     * فارسی
+     * f+a+r+s+
      * Fiji Hindi
-     * Føroyskt
-     * Français
+     * F�royskt
+     * Fran�ais
      * Frysk
      * Furlan
      * Gaeilge
      * Gaelg
-     * Gàidhlig
+     * G�idhlig
      * Galego
-     * 贛語
-     * 한국어
+     *
+     * ��
      * Hausa
-     * Հայերեն
-     * हिन्दी
+     * �����
+     * ����
      * Hrvatski
      * Ido
      * Bahasa Indonesia
      * Interlingua
-     * ᐃᓄᒃᑎᑐᑦ / inuktitut
+     * � / inuktitut
      * IsiZulu
-     * Íslenska
-     * עברית
+     * �slenska
+     * E+B+R+J+T+
      * Jawa
-     * ಕನ್ನಡ
-     * Къарачай-малкъар
-     * ქართული
-     * Қазақша
+     * ���
+     * K"arachaj-malk"ar
+     * ���
+     * azasha
      * Kiswahili
-     * Kriyòl gwiyannen
-     * Kurdî
-     * Кыргызча
+     * Kriy�l gwiyannen
+     * Kurd�
+     * Kyrgyzcha
      * Ladino
-     * ລາວ
+     * ���
      * Latina
-     * Latviešu
-     * Lietuvių
+     * Latviesu
+     * Lietuviu
      * Limburgs
-     * Lingála
+     * Ling�la
      * Lingua Franca Nova
      * Livvinkarjala
      * Magyar
-     * Македонски
+     * Makedonski
      * Malagasy
-     * മലയാളം
-     * मराठी
-     * მარგალური
+     * �����
+     * ���
+     * ��
      * Bahasa Melayu
-     * Mirandés
+     * Mirand�s
      * Nederlands
-     * 日本語
-     * Нохчийн
+     * ��
+     * Nohchijn
      * Norfuk / Pitkern
-     * Norsk bokmål
+     * Norsk bokm�l
      * Norsk nynorsk
      * Nouormand
      * Occitan
-     * Oʻzbekcha / ўзбекча
-     * ਪੰਜਾਬੀ
-     * پنجابی
-     * پښتو
+     * O;Szbekcha / v%zbekcha
+     * ����
+     * p+n+g+a+b+
+     * p+t+w+
      * Patois
      * Picard
-     * Plattdüütsch
+     * Plattd��tsch
      * Polski
-     * Português
+     * Portugu�s
      * Qaraqalpaqsha
-     * Română
+     * Rom�na
      * Rumantsch
      * Runa Simi
-     * Русиньскый
-     * Русский
-     * Саха тыла
-     * संस्कृतम्
+     * Rusin'skyj
+     * Russkij
+     * Saha tyla
+     * ����
      * Scots
      * Seeltersk
      * Shqip
      * Sicilianu
      * Simple English
-     * Slovenčina
-     * Slovenščina
-     * کوردی
-     * Српски / srpski
-     * Srpskohrvatski / српскохрватски
+     * Slovencina
+     * Slovenscina
+     * �w+r+d+
+     * Srpski / srpski
+     * Srpskohrvatski / srpskohrvatski
      * Sunda
      * Suomi
      * Svenska
      * Tagalog
-     * தமிழ்
-     * Татарча / tatarça
-     * తెలుగు
-     * ไทย
-     * Тоҷикӣ
-     * ᏣᎳᎩ
-     * Türkçe
+     * ����
+     * Tatarcha / tatar�a
+     * ��
+     * �
+     * To�ik�
+     * ���
+     * T�rk�e
      * Tyap
-     * Українська
-     * اردو
-     * Vèneto
-     * Vepsän kel’
-     * Tiếng Việt
-     * Võro
+     * Ukrayins'ka
+     * a+r+d+w+
+     * V�neto
+     * Veps�n kel'
+     * Tie>'ng Vie>-.t
+     * V�ro
      * Walon
      * Winaray
-     * 吴语
+     * ��
      * Xitsonga
-     * ייִדיש
-     * 粵語
-     * Žemaitėška
-     * 中文
+     * J+J+iD+J+Sh
+     * �
+     * Zemaiteska
+     * �
 
    Edit links
 
@@ -278,11 +348,11 @@ Game
    (2019)[220px-Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sli
    ding_Drawer%2C_ca._1390-1353_B.C.E.%2C49.56a-b.jpg] Ancient Egyptian
    game board inscribed for Amenhotep III with separate sliding drawer,
-   from 1390 to 1353 BC, made of glazed faience, dimensions: 5.5 × 7.7 ×
+   from 1390 to 1353 BC, made of glazed faience, dimensions: 5.5 � 7.7 �
    21 cm, in the Brooklyn Museum (New York
    City)[220px-The_oldest_full_deck_of_playing_cards_known_%28DT206401%29.
    jpg] The oldest full deck of playing cards known, the Flemish Hunting
-   Deck, c. 1475–1480, paper with pen, ink, opaque paint, glazes, applied
+   Deck, c. 1475-1480, paper with pen, ink, opaque paint, glazes, applied
    silver and gold, in the Metropolitan Museum of Art from New York
    City[220px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google
    _Art_Project.jpg] Children's Games, 1560, Pieter Bruegel the
@@ -292,7 +362,7 @@ Game
    Museum of Art (Cleveland, Ohio,
    US)[220px-Paul_C%C3%A9zanne%2C_1892-95%2C_Les_joueurs_de_carte_%28The_C
    ard_Players%29%2C_60_x_73_cm%2C_oil_on_canvas%2C_Courtauld_Institute_of
-   _Art%2C_London.jpg] The Card Players, an 1895 painting by Paul Cézanne
+   _Art%2C_London.jpg] The Card Players, an 1895 painting by Paul C�zanne
    depicting a card game, in Courtauld Institute of Art (London)
 
    A game is a structured form of play, usually undertaken for
@@ -564,15 +634,17 @@ Game theory
 Types
 
    See also: List of game genres
+
    [220px-Tug-of-war.jpg] Tug of war is an easily organized, impromptu
    game that requires little equipment.
 
    Games can take a variety of forms, from competitive sports to board
    games and video games.
 
-Sports
+  Sports
 
    Main article: Sport
+
    Association football is a popular sport worldwide.
 
    Many sports require special equipment and dedicated playing fields,
@@ -587,7 +659,7 @@ Sports
    opponents or have traditional rivalries. The concept of fandom began
    with sports fans.
 
-Lawn games
+    Lawn games
 
    Lawn games are outdoor games that can be played on a lawn; an area of
    mowed grass (or alternately, on graded soil) generally smaller than a
@@ -596,7 +668,7 @@ Lawn games
    front or back yard. Common lawn games include horseshoes, sholf,
    croquet, bocce, and lawn bowls.
 
-Tabletop games
+  Tabletop games
 
    Main article: Tabletop game
 
@@ -871,8 +943,8 @@ Tabletop games
 
    Role-playing games, often abbreviated as RPGs, are a type of game in
    which the participants (usually) assume the roles of characters acting
-   in a fictional setting. The original role playing games – or at least
-   those explicitly marketed as such – are played with a handful of
+   in a fictional setting. The original role playing games - or at least
+   those explicitly marketed as such - are played with a handful of
    participants, usually face-to-face, and keep track of the developing
    fiction with pen and paper. Together, the players may collaborate on a
    story involving those characters; create, develop, and "explore" the
@@ -926,31 +998,31 @@ See also
 
    Main article: Outline of games
 
-     * Game club – Association of people united by a common interest or
+     * Game club - Association of people united by a common interest or
        goalPages displaying short descriptions of redirect targets
-     * Game mechanics – Construct, rule, or method designed for
+     * Game mechanics - Construct, rule, or method designed for
        interaction with a game's state
-     * Gamer – Hobbyist who plays video games
-     * Girls' games and toys – Subset of toy and games that appeal to
+     * Gamer - Hobbyist who plays video games
+     * Girls' games and toys - Subset of toy and games that appeal to
        female childrenPages displaying short descriptions of redirect
        targets
      * History of games
-     * Learning through play – Concept in education and psychology
-     * List of games – Overview of and topical guide to gamesPages
+     * Learning through play - Concept in education and psychology
+     * List of games - Overview of and topical guide to gamesPages
        displaying short descriptions of redirect targets
-     * Ludeme – Basic unit of play
-     * Ludibrium – Latin wordPages displaying wikidata descriptions as a
+     * Ludeme - Basic unit of play
+     * Ludibrium - Latin wordPages displaying wikidata descriptions as a
        fallback
-     * Ludology – Study of games and the act of playing themPages
+     * Ludology - Study of games and the act of playing themPages
        displaying short descriptions of redirect targets
-     * Ludomania – Repetitive gambling despite demonstrable harm and
+     * Ludomania - Repetitive gambling despite demonstrable harm and
        adverse consequencesPages displaying short descriptions of redirect
        targets
-     * Mobile game – Video game played on a mobile device
-     * N-player game – a game with n-players, typically used in contrast
+     * Mobile game - Video game played on a mobile device
+     * N-player game - a game with n-players, typically used in contrast
        to 2-player gamesPages displaying wikidata descriptions as a
        fallback
-     * Personal computer game – Electronic game played on a personal
+     * Personal computer game - Electronic game played on a personal
        computerPages displaying short descriptions of redirect targets
 
 References
@@ -984,14 +1056,14 @@ References
    13. ^ Avedon, Elliot; Sutton-Smith, Brian (1971). The Study of Games.
        J. Wiley. p. 405. ISBN 978-0-471-03839-9.
    14. ^ Suits, Bernard (1967). "What Is a Game?". Philosophy of Science.
-       34 (2): 148–156. doi:10.1086/288138. JSTOR 186102. S2CID 119699909.
+       34 (2): 148-156. doi:10.1086/288138. JSTOR 186102. S2CID 119699909.
    15. ^ McGonigal, Jane (2011). Reality is Broken. Penguin Books.
        ISBN 978-0-14-312061-2.
    16. ^ Schwyzer, Hubert (October 1969). "Rules and Practices". The
-       Philosophical Review. 78 (4): 451–467. doi:10.2307/2184198.
+       Philosophical Review. 78 (4): 451-467. doi:10.2307/2184198.
        ISSN 0031-8108. JSTOR 2184198.
    17. ^ ^a ^b Marsili, Neri (12 June 2018). "Truth and assertion: rules
-       versus aims" (PDF). Analysis. 78 (4): 638–648.
+       versus aims" (PDF). Analysis. 78 (4): 638-648.
        doi:10.1093/analys/any008. ISSN 0003-2638.
    18. ^ Kemp, Gary (2007). "Assertion as a practice". Truth and Speech
        Acts: Studies in the Philosophy of Language.
@@ -1006,7 +1078,7 @@ References
        doi:10.1103/PhysRevA.64.030301. S2CID 32056578.
    22. ^ De Schutter, Bob (March 2011). "Never Too Old to Play: The Appeal
        of Digital Games to an Older Audience". Games and Culture. 6 (2):
-       155–170. doi:10.1177/1555412010364978. ISSN 1555-4120.
+       155-170. doi:10.1177/1555412010364978. ISSN 1555-4120.
        S2CID 220317720.
    23. ^ Woodcock, Bruce Sterling (2008). "An Analysis of MMOG
        Subscription Growth". Retrieved 16 November 2008.
@@ -1054,7 +1126,7 @@ Further reading
    Other
      * Historical Dictionary of Switzerland
      * NARA
-     * İslâm Ansiklopedisi
+     * Isl�m Ansiklopedisi
 
    Retrieved from
    "https://en.wikipedia.org/w/index.php?title=Game&oldid=1188117610"
@@ -1084,12 +1156,12 @@ Further reading
      * Articles with NKC identifiers
      * Articles with HDS identifiers
      * Articles with NARA identifiers
-     * Articles with TDVİA identifiers
+     * Articles with TDVIA identifiers
 
      * This page was last edited on 3 December 2023, at 12:37 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

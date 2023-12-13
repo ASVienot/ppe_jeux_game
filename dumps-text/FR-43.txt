@@ -1,7 +1,7 @@
    #alternate publisher
 
    (BUTTON) Menu
-   Abonnez-vous 0,99â‚¬ le premier moisRechercher
+   Abonnez-vous 0,99EUR le premier moisRechercher
    Nouveau
    Le Figaro Cuisine
    5000 recettes exclusives
@@ -10,9 +10,9 @@
      * Guerre en Ukraine
      * Politique
      * International
-     * SociÃ©tÃ©
+     * Société
      * Vox
-     * Ã‰conomie
+     * Économie
      * Sport
      * Culture
      * Voyage
@@ -27,10 +27,10 @@
    Rubriques et services du Figaro
      * Le Figaro Live
      * Le Figaro Magazine
-     * La VÃ©rification
-     * Le Figaro Ã‰tudiant
+     * La Vérification
+     * Le Figaro Étudiant
      * Faits divers
-     * SantÃ©
+     * Santé
      * Sciences
      * Fig Data
      * Tech et web
@@ -39,7 +39,7 @@
      * Emploi
      * Art de vivre
      * Automobile
-     * Langue franÃ§aise
+     * Langue française
      * Golf
      * Histoire
      * TVMag
@@ -66,15 +66,15 @@
      * Figaro Store
      * TickeTac.com
      * Le Particulier
-     * MÃ©tÃ©o Consult
-     * La chaÃ®ne mÃ©tÃ©o
+     * Météo Consult
+     * La chaîne météo
      * Figaro Nautisme
      * Les voyages F
      * Cadremploi
      * Le Figaro Emploi
      * Immobilier
      * Immoneuf
-     * PropriÃ©tÃ©s de France
+     * Propriétés de France
      * Achat Terrain
      * Choose your boss
      * Marco Vasco
@@ -87,28 +87,28 @@
      * Mes commentaires
      * S'abonner
      * Aide et contact
-     * Se dÃ©connecter
+     * Se déconnecter
 
    Lire le PDF en ligne Lire le journal
-   Abonnez-vous 0,99â‚¬ le premier mois
+   Abonnez-vous 0,99EUR le premier mois
 
      * (BUTTON) Les vins
-     * (BUTTON) ActualitÃ©s
+     * (BUTTON) Actualités
      * (BUTTON) Tout sur le vin
      * (BUTTON) Les guides
-     * (BUTTON) ExpÃ©riences
-     * (BUTTON) VidÃ©os & podcasts
-     * Guides des millÃ©simes
+     * (BUTTON) Expériences
+     * (BUTTON) Vidéos & podcasts
+     * Guides des millésimes
      * Foire aux vins
 
-     * Par rÃ©gion
+     * Par région
           + Alsace
           + Bordeaux
           + Bourgogne
           + Champagne
           + Provence
-          + VallÃ©e de la Loire
-          + VallÃ©e du RhÃ´ne
+          + Vallée de la Loire
+          + Vallée du Rhône
           + Languedoc
           + Jura
           + Corse
@@ -119,22 +119,22 @@
      * Par couleur
           + Rouge
           + Blanc
-          + RosÃ©
+          + Rosé
      * Par prix
-          + Entre 5 et 15â‚¬
-          + Entre 15 et 30â‚¬
-          + Entre 30 et 50â‚¬
-          + Entre 50 et 100â‚¬
-          + Plus de 100â‚¬
+          + Entre 5 et 15EUR
+          + Entre 15 et 30EUR
+          + Entre 30 et 50EUR
+          + Entre 50 et 100EUR
+          + Plus de 100EUR
      * Par appellation
           + Champagne
-          + CÃ´te-RÃ´tie
+          + Côte-Rôtie
           + Saint-Emilion Grand Cru
           + Margaux
-          + CÃ´tes-de-Bourg
-          + Pouilly-FumÃ©
+          + Côtes-de-Bourg
+          + Pouilly-Fumé
           + Lalande De Pomerol
-     * Par cÃ©page
+     * Par cépage
           + Pinot noir
           + Chardonnay
           + Cabernet Sauvignon
@@ -142,7 +142,7 @@
           + Malbec
           + Cabernet Franc
           + Gamay
-     * Par millÃ©sime
+     * Par millésime
           + 2022
           + 2021
           + 2020
@@ -156,27 +156,27 @@
      * Par marchand
           + Twil
           + Jean Merlaut
-          + MillÃ©sima
+          + Millésima
           + Vinatis
           + La Grande Cave
           + iDealwine
      * Explorer les vins
-          + NouveautÃ©s : primeurs de Bordeaux 2022
+          + Nouveautés : primeurs de Bordeaux 2022
           + Bordeaux 2020 disponibles
 
-     * Par rÃ©gion
+     * Par région
           + Vins de Bordeaux
           + Vins de Bourgogne
           + Vins de Champagne
           + Vins du monde
-     * Par thÃ¨me
+     * Par thème
           + Primeurs
           + Les 50 meilleurs vignerons
           + Comprendre le vin
-          + Tops et sÃ©lections
+          + Tops et sélections
           + Spiritueux
           + Cocktails et mixologie
-          + BiÃ¨re et brasseries
+          + Bière et brasseries
           + Domaines et vignerons
           + Economie du vin
           + Terroir et viticulture
@@ -188,30 +188,30 @@
           + Rond
           + Tannin
           + Charnu
-          + CharpentÃ©
+          + Charpenté
           + Gouleyant
-          + BoisÃ©
+          + Boisé
      * Accords mets/vins
           + Accompagner une poularde de Bresse
-          + Vins blancs et plats Ã©picÃ©s !
-          + Quels desserts pour les vins de la VallÃ©e du RhÃ´ne ?
+          + Vins blancs et plats épicés !
+          + Quels desserts pour les vins de la Vallée du Rhône ?
           + Accompagner des agrumes
           + Comment marier le fromage avec le vin ?
           + Accompagner des champignons
 
-     * Guide des rÃ©gions et appellations
+     * Guide des régions et appellations
           + Bordeaux
-          + ChÃ¢teauneuf-du-pape
+          + Châteauneuf-du-pape
           + Bourgogne
           + Saint-Emilion Grand Cru
-          + CÃ´tes du RhÃ´ne
-          + VallÃ©e de la Loire
-          + Saint-EstÃ¨phe
+          + Côtes du Rhône
+          + Vallée de la Loire
+          + Saint-Estèphe
           + Bordeaux Rive Droite
           + Pomerol
           + Languedoc
-          + Autres rÃ©gions et appellations
-     * Guide des cÃ©pages
+          + Autres régions et appellations
+     * Guide des cépages
           + Viognier
           + Merlot
           + Malbec
@@ -222,184 +222,184 @@
           + Vermentino
           + Cinsault
           + Chardonnay
-          + Autres cÃ©pages
-     * Guide des millÃ©simes
+          + Autres cépages
+     * Guide des millésimes
      * Guide des foires aux vins
 
      * Nouveau - L'application Le Figaro Cuisine
      * Agenda
-     * SoirÃ©es vins
+     * Soirées vins
      * Oenotourisme
 
      * La minute du Figaro Vin
-     * Passeurs de GoÃ»t
-     * Toutes les vidÃ©os
+     * Passeurs de Goût
+     * Toutes les vidéos
      * Podcasts
      * Figaro Partner Vin
 
-   L'abus dâ€™alcool est dangereux pour la santÃ©. Ã€ consommer avec
-   modÃ©ration.
+   L'abus d'alcool est dangereux pour la santé. À consommer avec
+   modération.
    ____________________ (BUTTON)
 
 Jeux Concours - Remportez l'une des plus prestigieuses bouteilles de
 champagne !
 
-   Jeux concours - Avez-vous dÃ©jÃ  eu le privilÃ¨ge de goÃ»ter Ã  la
-   somptueuse cuvÃ©e Cristal 2002 des champagnes Louis Roederer en version
-   Magnum ? Du 24 Novembre au 31 DÃ©cembre 2023, tentez de remporter ce
-   prÃ©cieux flacon, d'une valeur de 1 100â‚¬.
+   Jeux concours - Avez-vous déjà eu le privilège de goûter à la
+   somptueuse cuvée Cristal 2002 des champagnes Louis Roederer en version
+   Magnum ? Du 24 Novembre au 31 Décembre 2023, tentez de remporter ce
+   précieux flacon, d'une valeur de 1 100EUR.
    Par Le Figaro Vin
-   PubliÃ© le 24/11/2023
+   Publié le 24/11/2023
    Vin
-   Remportez l'une des cuvÃ©es des caves de Taillevent Â© Le Figaro Vin
+   Remportez l'une des cuvées des caves de Taillevent © Le Figaro Vin
    Partager
    Imprimer
 
-   Depuis plusieurs dÃ©cennies, Les Caves de Taillevent, cÃ©lÃ¨bre
-   institution parisienne, proposent lâ€™une des plus belles collections de
-   vins & spiritueux au monde oÃ¹ se pressent novices et grands amateurs,
-   en quÃªte de conseils dâ€™experts, de vins rares comme de pÃ©pites en
-   devenir. Ã€ l'occasion des fÃªtes, le Figaro Vin s'associe aux Caves de
-   Taillevent pour vous offrir l'un des plus beaux champagnes Ã  sabrer le
-   soir du rÃ©veillon !
+   Depuis plusieurs décennies, Les Caves de Taillevent, célèbre
+   institution parisienne, proposent l'une des plus belles collections de
+   vins & spiritueux au monde où se pressent novices et grands amateurs,
+   en quête de conseils d'experts, de vins rares comme de pépites en
+   devenir. À l'occasion des fêtes, le Figaro Vin s'associe aux Caves de
+   Taillevent pour vous offrir l'un des plus beaux champagnes à sabrer le
+   soir du réveillon !
 
-   Â» Ã€ LIRE AUSSI : Notre sÃ©lection des 20 meilleurs champagnes extra
-   bruts Ã  partir de 35 â‚¬
+   » À LIRE AUSSI : Notre sélection des 20 meilleurs champagnes extra
+   bruts à partir de 35 EUR
 
-   100% des participants seront rÃ©compensÃ©s : pour chaque participation,
-   vous bÃ©nÃ©ficierez dâ€™un code promotionnel de -10% valable sur toute la
-   catÃ©gorie des coffrets cadeaux des Caves de Taillevent. Alors
-   nâ€™attendez plus, participez !
+   100% des participants seront récompensés : pour chaque participation,
+   vous bénéficierez d'un code promotionnel de -10% valable sur toute la
+   catégorie des coffrets cadeaux des Caves de Taillevent. Alors
+   n'attendez plus, participez !
 
-   Pour tenter votre chance, il vous suffit de rÃ©pondre aux 4 questions de
-   notre jeu concours ci-dessous jusqu'au 31 dÃ©cembre 2023. Les gagnants
-   seront tirÃ©s au sort Ã  l'issue du jeu.
+   Pour tenter votre chance, il vous suffit de répondre aux 4 questions de
+   notre jeu concours ci-dessous jusqu'au 31 décembre 2023. Les gagnants
+   seront tirés au sort à l'issue du jeu.
 
-   La rÃ©daction vous conseille :
-   Â» Notre sÃ©lection des meilleurs champagnes Ã  moins de 45 euros pour les
-   fÃªtes
-   Â» Notre sÃ©lection de 10 grands vins rouges du Languedoc encore
+   La rédaction vous conseille :
+   » Notre sélection des meilleurs champagnes à moins de 45 euros pour les
+   fêtes
+   » Notre sélection de 10 grands vins rouges du Languedoc encore
    abordables, mais plus pour longtemps
-   Â» Martin Cubertafond, auteur de Â«StratÃ©gie et marketing du champagneÂ» :
-   Â«Une stratÃ©gie de valeur construite sur les attributs des maisons
-   champenoises sÃ©culairesÂ»
+   » Martin Cubertafond, auteur de «Stratégie et marketing du champagne» :
+   «Une stratégie de valeur construite sur les attributs des maisons
+   champenoises séculaires»
 
-Ã€ lire aussi
+À lire aussi
 
-   Podcast Parlons vin Podcast Parlons Vin : Peut-on Ãªtre ivre avec une
-   biÃ¨re sans alcool ?
+   Podcast Parlons vin Podcast Parlons Vin : Peut-on être ivre avec une
+   bière sans alcool ?
 
-   Dans ce nouvel Ã©pisode de Parlons Vin, Alicia Dorey, journaliste et
-   responsable Ã©ditoriale du Figaro Vin, vous parle de liquides trop
-   sucrÃ©s, de panachÃ©s mal nÃ©gociÃ©s et de natation synchronisÃ©e.
+   Dans ce nouvel épisode de Parlons Vin, Alicia Dorey, journaliste et
+   responsable éditoriale du Figaro Vin, vous parle de liquides trop
+   sucrés, de panachés mal négociés et de natation synchronisée.
 
-   Bollinger - Vieilles Vignes FranÃ§aises 2012 Notre palmarÃ¨s 2023 des
-   meilleurs champagnes blancs de noirs pour les fÃªtes
+   Bollinger - Vieilles Vignes Françaises 2012 Notre palmarès 2023 des
+   meilleurs champagnes blancs de noirs pour les fêtes
 
-   ConsidÃ©rÃ© comme l'un des champagnes parmi les plus sophistiquÃ©s, le
-   blanc de noirs sÃ©duit les amateurs en raison de sa finesse, et de ses
-   lÃ©gers accents de fruits rouges. Voici nos coups de cÅ“ur de l'annÃ©e, Ã 
+   Considéré comme l'un des champagnes parmi les plus sophistiqués, le
+   blanc de noirs séduit les amateurs en raison de sa finesse, et de ses
+   légers accents de fruits rouges. Voici nos coups de coeur de l'année, à
    partir de 68 euros.
 
-   Jospin Eva Riunart NoÃ«l 2023 : 12 idÃ©es de cadeaux pour amateurs de vin
+   Jospin Eva Riunart Noël 2023 : 12 idées de cadeaux pour amateurs de vin
 
-   Le dÃ©compte avant le rÃ©veillon de NoÃ«l est presque entamÃ©. Alors pour
-   faire plaisir aux amateurs de vin, quâ€™ils soient nÃ©ophytes ou
-   confirmÃ©s, nous avons sÃ©lectionnÃ© quelques idÃ©es de cadeaux pour toutes
+   Le décompte avant le réveillon de Noël est presque entamé. Alors pour
+   faire plaisir aux amateurs de vin, qu'ils soient néophytes ou
+   confirmés, nous avons sélectionné quelques idées de cadeaux pour toutes
    les bourses.
 
-   Vin ChÃ¢teau Dassault : le domaine historique de Saint-Ã‰milion entre
-   dans une nouvelle Ã¨re
+   Vin Château Dassault : le domaine historique de Saint-Émilion entre
+   dans une nouvelle ère
 
-   Ã€ Saint-Ã©milion, avec un chai de derniÃ¨re gÃ©nÃ©ration et un vignoble
-   portÃ© Ã  40 hectares, la propriÃ©tÃ© change de dimension.
+   À Saint-émilion, avec un chai de dernière génération et un vignoble
+   porté à 40 hectares, la propriété change de dimension.
 
-   Vin Les whiskies Giraud, une marque franÃ§aise Ã  la conquÃªte du monde
+   Vin Les whiskies Giraud, une marque française à la conquête du monde
 
-   La cote de cette marque franÃ§aise de whisky haut de gamme ne cesse de
-   grimper, tout comme sa production. Retour sur une success story nÃ©e aux
+   La cote de cette marque française de whisky haut de gamme ne cesse de
+   grimper, tout comme sa production. Retour sur une success story née aux
    Etats-Unis.
 
-   Vin Vin blanc ou biÃ¨re : que mettre dans la choucroute ?
+   Vin Vin blanc ou bière : que mettre dans la choucroute ?
 
-   Mets traditionnel dâ€™outre-Rhin trÃ¨s rÃ©pandu en Alsace, la choucroute
-   sâ€™invite Ã  table, sur le coin dâ€™un mange-debout dâ€™un marchÃ© de noÃ«l
-   comme sur les nappes blanches dâ€™un Ã©toilÃ©. DÃ©couvrez lâ€™ingrÃ©dient
-   mystÃ¨re dâ€™une recette Ã  rÃ©aliser chez soi.
+   Mets traditionnel d'outre-Rhin très répandu en Alsace, la choucroute
+   s'invite à table, sur le coin d'un mange-debout d'un marché de noël
+   comme sur les nappes blanches d'un étoilé. Découvrez l'ingrédient
+   mystère d'une recette à réaliser chez soi.
    (BUTTON) Voir les commentaires
 
-     * RÃ©gions
+     * Régions
      * Agenda
 
-   Le guide des rÃ©gions
-   [LINK]-RÃ©gions viticoles
+   Le guide des régions
+   [LINK]-Régions viticoles
 
-   DÃ©couvrez les vins de France
-   en parcourant ses rÃ©gions viticoles
-   Toutes les rÃ©gions
+   Découvrez les vins de France
+   en parcourant ses régions viticoles
+   Toutes les régions
    L'agenda du vin
-   Le Figaro Vin : quatre maisons prestigieuses pour un dÃ®ner exclusif
-   OrganisÃ© le 13 dÃ©cembre Au Pavillon Ledoyen, une vente aux enchÃ¨res
-   exceptionnelle de vins rares offerts par 180 chefs Ã©toilÃ©s du monde
-   entier OrganisÃ© le 12 dÃ©cembre SoirÃ©e de dÃ©gustation de champagnes
-   millÃ©simÃ©s Ã  l'hÃ´tel du Meurice OrganisÃ© le 27 novembre Les dÃ®ners du
-   Figaro Vin : ChÃ¢teau Margaux OrganisÃ© le 22 novembre Le Salon Vini di
+   Le Figaro Vin : quatre maisons prestigieuses pour un dîner exclusif
+   Organisé le 13 décembre Au Pavillon Ledoyen, une vente aux enchères
+   exceptionnelle de vins rares offerts par 180 chefs étoilés du monde
+   entier Organisé le 12 décembre Soirée de dégustation de champagnes
+   millésimés à l'hôtel du Meurice Organisé le 27 novembre Les dîners du
+   Figaro Vin : Château Margaux Organisé le 22 novembre Le Salon Vini di
    Vignaioli : le grand rendez-vous annuel des vins naturels italiens
-   OrganisÃ© du 19 au 20 novembre 2023 Bordeaux autrement : en 2023, le
-   Salon des Outsiders de Bordeaux fÃªte ses dix ans OrganisÃ© du 16 au 18
+   Organisé du 19 au 20 novembre 2023 Bordeaux autrement : en 2023, le
+   Salon des Outsiders de Bordeaux fête ses dix ans Organisé du 16 au 18
    novembre 2023
    Tous les rendez-vous
-   DÃ®ner 13 dÃ©cembre
+   Dîner 13 décembre
    Jeu concours
    Minute Margaux
-   ChÃ¢teau du Tertre
+   Château du Tertre
    Lanson
      __________________________________________________________________
 
 Plus de services
 
-   (BUTTON) ConnaÃ®tre & dÃ©guster
-   ConnaÃ®tre & dÃ©guster Magazine du vin Tout savoir sur le vin Les
-   dÃ©gustations de vin Ã  l'aveugle sont-elles fiables ? La sÃ©lection des
-   cavistes Servir le vin, le comment du pourquoi Apprendre la dÃ©gustation
-   Le top des meilleurs vins italiens Investir dans le vin Apprendre Ã 
-   dÃ©guster un vin avec un pro Conseils pratiques pour choisir le vin Wine
-   Lister vous apprend Ã  gÃ©rer votre cave Qu'est-ce que le Prosecco ? A
+   (BUTTON) Connaître & déguster
+   Connaître & déguster Magazine du vin Tout savoir sur le vin Les
+   dégustations de vin à l'aveugle sont-elles fiables ? La sélection des
+   cavistes Servir le vin, le comment du pourquoi Apprendre la dégustation
+   Le top des meilleurs vins italiens Investir dans le vin Apprendre à
+   déguster un vin avec un pro Conseils pratiques pour choisir le vin Wine
+   Lister vous apprend à gérer votre cave Qu'est-ce que le Prosecco ? A
    qui appartient le vin le plus cher du monde ? Le meilleur whisky du
-   monde est japonais Ruinart, le goÃ»t n'a pas de couleur
+   monde est japonais Ruinart, le goût n'a pas de couleur
    (BUTTON) Accords Mets/Vins
-   Accords Mets/Vins Accords viandes et vins : dossier spÃ©cial Que boire
-   avec un soufflÃ© au Grand Marnier ? Que boire avec une paÃ«lla ? Que
+   Accords Mets/Vins Accords viandes et vins : dossier spécial Que boire
+   avec un soufflé au Grand Marnier ? Que boire avec une paëlla ? Que
    boire avec des fraises ? Que boire avec une tarte aux figues ? Que
    boire avec des sushis ? Que boire avec une ratatouille ? Que boire avec
    un tartare de boeuf ? Que boire avec une bouillabaisse ?
-   (BUTTON) Maisons de Champagne recherchÃ©es
-   Maisons de Champagne recherchÃ©es Billecart-Salmon Veuve-Clicquot Krug
+   (BUTTON) Maisons de Champagne recherchées
+   Maisons de Champagne recherchées Billecart-Salmon Veuve-Clicquot Krug
    Duval Leroy Jacquart Tous les vins
-   (BUTTON) RÃ©gions et Appellations
-   RÃ©gions et Appellations Champagne Alsace Beaujolais et Lyonnais VallÃ©e
+   (BUTTON) Régions et Appellations
+   Régions et Appellations Champagne Alsace Beaujolais et Lyonnais Vallée
    de la Loire Chateauneuf du Pape Savoie et Bugey Corse Roussillon
-   Sud-Ouest Bordeaux CÃ´tes-du-RhÃ´ne
+   Sud-Ouest Bordeaux Côtes-du-Rhône
 
    Nos liens utiles
      * Les vins
-     * Toute l'actualitÃ©
-     * Guide des millÃ©simes
-     * Guide des rÃ©gions/appellations
-     * Guide des cÃ©pages
+     * Toute l'actualité
+     * Guide des millésimes
+     * Guide des régions/appellations
+     * Guide des cépages
      * Dictionnaire
      * Agenda
-     * Å’notourisme
+     * OEnotourisme
 
    Une du FIgaro
    Le kiosque
-   Le Figaro (3 dÃ©cembre 2023)
-   Lire ce numÃ©ro
+   Le Figaro (3 décembre 2023)
+   Lire ce numéro
    Abonnement
-     * DÃ©couvrez toutes les offres
+     * Découvrez toutes les offres
 
-   Les articles en illimitÃ© 1â‚¬ le premier mois sans engagement
-     * GÃ©rer votre abonnement
+   Les articles en illimité 1EUR le premier mois sans engagement
+     * Gérer votre abonnement
      * Espace personnel
 
    Applications mobiles
@@ -411,5 +411,5 @@ Plus de services
      * Inscrivez-vous aux newsletters
 
    Suivez-nous sur
-   ParamÃ©trer les cookies Plan du site ConfidentialitÃ© La rÃ©daction Nos
-   partenaires Mentions lÃ©gales CrÃ©dits Charte Contact
+   Paramétrer les cookies Plan du site Confidentialité La rédaction Nos
+   partenaires Mentions légales Crédits Charte Contact

@@ -100,7 +100,7 @@
    Show
    Streaming
    The Nationalist Dilemma: A Global History of Economic Nationalism,
-   1776–Present
+   1776-Present
    Wilson Center
      * Topics
 
@@ -210,8 +210,8 @@ Serious Games for Opening Up Scientific Discovery
    EVE Online press kit
 
    NASA and the White House Office of Science and Technology Policy have
-   declared 2023 the “Year of Open Science,” which includes a focus on
-   “expanded opportunities for public engagement” (OSTP) with an eye to
+   declared 2023 the "Year of Open Science," which includes a focus on
+   "expanded opportunities for public engagement" (OSTP) with an eye to
    accelerating scientific discovery (NASA).  Open science has the power
    to change the culture of science by not only making research more
    transparent, but also by engaging those who are not traditionally
@@ -226,19 +226,19 @@ Serious Games for Opening Up Scientific Discovery
    but also speed up scientific research and make scientific discoveries,
    particularly within the field of medical science. As agencies and
    experts look to a Year of Open Science, learning from these
-   examples—and looking to the future potentials of games supporting
-   research—can help level up efforts.
+   examples--and looking to the future potentials of games supporting
+   research--can help level up efforts.
 
 Educational Games for Leading Research Questions
 
-   To understand how an agency can use games, let’s look at two ways of
+   To understand how an agency can use games, let's look at two ways of
    implementing games. First, institutions can develop a new game that is
    framed around a particular research question. Games can visualize data
    outside the lab, affording not only educational opportunities but
    lowering the barrier of entry to leading research. The National Cancer
    Institute at the National Institutes of Health put on a series in a
    virtual conference called DataViz+Cancer that highlights some key
-   considerations in using games–and other types of visualizations–in
+   considerations in using games-and other types of visualizations-in
    research. Two prominent examples illustrate this approach: Foldit and
    Eyewire. Both projects rely on crowd-sourcing data through a game to
    help accelerate research.
@@ -281,9 +281,9 @@ More about Eyewire
 
    In a similar vein, the Seung Lab at Princeton University developed
    Eyewire as part of a quest to map the some 100 trillion connections
-   between neurons in the human brain. Players reconstruct a neuron’s 3D
+   between neurons in the human brain. Players reconstruct a neuron's 3D
    structure from 2D cross sections, making connections that AI would
-   miss. The community’s work improves computational technologies with the
+   miss. The community's work improves computational technologies with the
    hopes of one day finding a cure for neurological disorders caused by
    miswired neurons. As reported in Nature, so far Eyewire players have
    reconstructed parts of retinal neurons, leading to breakthroughs in how
@@ -297,9 +297,9 @@ More about Eyewire
    distributing the task across thousands of computers ultimately enables
    massive participation.
 
-   But what makes it a game is the employment of play–and competition–that
+   But what makes it a game is the employment of play-and competition-that
    everyone from researchers to science educators appreciate. In both
-   instances the data becomes a “puzzle” for players to solve that are
+   instances the data becomes a "puzzle" for players to solve that are
    just a few steps beyond Wordle. These puzzles vary in complexity, but a
    sense of achievement is extrinsically motivated through a reward
    system.  In Foldit, there are arcade-style leaderboards and monthly
@@ -321,8 +321,8 @@ Commercial Game Companies Collaborating with Research Institutions
    it boasts a unique user base of 25 million globally with approximately
    300,000-400,000 players concurrently. It is a commercial game that has
    opened its doors to crowdsourcing scientific research through themed
-   content embedded in the game itself under a mini-game called “Project
-   Discovery.”
+   content embedded in the game itself under a mini-game called "Project
+   Discovery."
 
    IFRAME: https://www.youtube.com/embed/12p-VhlFAG8
 
@@ -334,10 +334,10 @@ More About EVE Online Project Discovery
    focusing on support for COVID-19, included McGill University, BD,
    Beckman Coulter, FlowJo, BC Cancer, Massively Multiplayer Online
    Science, and CCP Games (the studio that makes EVE Online), and the
-   project was supported by the European Union’s Horizon 2020 research and
+   project was supported by the European Union's Horizon 2020 research and
    innovation programme.
 
-   In “Project Discovery,” players have been tasked with supporting
+   In "Project Discovery," players have been tasked with supporting
    projects from discovering exoplanets (as above) to supporting the Human
    Protein Atlas (HPA), which aims to map proteins within human cells by
    cataloging different cell structures in over 250,000 images. In a
@@ -349,10 +349,10 @@ More About EVE Online Project Discovery
    researching COVID-19.
 
    There are a few things that were attributed to this success. First,
-   while an innovative mini-game, “Project Discovery” fits within the
+   while an innovative mini-game, "Project Discovery" fits within the
    overall feel of the game, with mechanics similar to other in-game
    tasks. But this mini-game also hits home on a nuanced way of
-   understanding player motivation: it isn’t just about in-game rewards.
+   understanding player motivation: it isn't just about in-game rewards.
    In the same report from IGN, EVE Online Creative Director, Bergur
    Finnbogason pointed out three primary player types: those playing for
    in-game rewards, those playing because they were already deeply
@@ -368,7 +368,7 @@ More About EVE Online Project Discovery
    like a fresh mechanic; and still others because it connects them to a
    broader community effort, scientific or otherwise.
 
-What’s Next?
+What's Next?
 
    These examples highlight ways that games have fostered the acceleration
    of scientific research while also expanding the scope of contributors
@@ -385,7 +385,7 @@ What’s Next?
    tapped into to increase scientific engagement. Some gamers value points
    and in-game rewards while others seek opportunities to explore new
    horizons in the game or deepen their play. Some prefer supporting a
-   broader community, while others relish competition. What’s also
+   broader community, while others relish competition. What's also
    important to know is that, at least in these cases, they can also
    ultimately support scientific discovery.
 
@@ -414,7 +414,7 @@ Ethan Hwang
 Serious Games Initiative
 
    The Serious Games Initiative communicates science and policy
-   complexities through the world’s most dynamic medium: gaming.  Read
+   complexities through the world's most dynamic medium: gaming.  Read
    more
    Science and Technology Innovation Program
 
@@ -447,12 +447,12 @@ Explore More
    Blog post
    Serious Games
    Games Round Up: Games for Change
-   By Sonja R. O’Brien on October 30, 2023
+   By Sonja R. O'Brien on October 30, 2023
    Artwork from Bury me, my Love that depicts people crossing a river
    Blog post
    Science and Technology
    Games Round Up: Human Migration
-   By Sonja R. O’Brien on June 7, 2023
+   By Sonja R. O'Brien on June 7, 2023
    01092020 - ED Games Expo - Kennedy Center-291
    External link
    Serious Games
@@ -508,7 +508,7 @@ Explore More
    Sign up for email updates
    Email Address ____________________
    (BUTTON) Submit
-   © 2023 The Wilson Center. All Rights Reserved
+   � 2023 The Wilson Center. All Rights Reserved
      * 2022 Donors
      * 990 Forms
      * Privacy Policy

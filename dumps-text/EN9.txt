@@ -69,7 +69,7 @@ TABLE OF CONTENTS
           + Conclusion
           + Author Contributions
           + Conflict of Interest
-          + Publisher’s Note
+          + Publisher's Note
           + References
 
      * (BUTTON) Export citation
@@ -136,7 +136,7 @@ Introduction
    violence.
 
    K12 students are refer to the students in the age group from
-   Kindergarten (usually 5–6 years old) to Grade 12 (usually 17–18 years
+   Kindergarten (usually 5-6 years old) to Grade 12 (usually 17-18 years
    old) (Kurt et al., 2022). Students in this age group usually have less
    self-control capability, and they are undoubtedly the biggest advocates
    of mobile game. When they play certain games for long periods of time
@@ -152,32 +152,32 @@ Introduction
 
    The pioneers of communication science, Lazarsfeld and Merton, argued
    that modern mass media have a clear negative function of
-   “psychoanesthesia.” Some violent mobile games reveal the nature of the
-   “psychoanesthesia” function in another textual dimension: they create
+   "psychoanesthesia." Some violent mobile games reveal the nature of the
+   "psychoanesthesia" function in another textual dimension: they create
    illusions through inexpensive and negative entertainment, thus eating
    away at the social mobility of those young people in an implicit
    cultural way (Kurt et al., 2022). Craig Anderson found that the
-   “psychoanesthetic” mechanism of violent mobile games increases the
+   "psychoanesthetic" mechanism of violent mobile games increases the
    physiological arousal of aggressive behavior, cognition, emotions, and
    violent impulses, and reduces pro-social behavior in adolescents
    (Elsherbiny and Al Maamari, 2021; Kurt et al., 2022). Accordingly,
-   violent behavior has become the main “product component” of mobile
-   games “inflicted” on adolescents. Moreover, its basic social
+   violent behavior has become the main "product component" of mobile
+   games "inflicted" on adolescents. Moreover, its basic social
    manifestations can be summarized in four points: firstly, it creates
    and activates networks of thinking related to violent aggression;
    secondly, it weakens the inhibition process of violence; thirdly, the
-   game’s violent reward rules allow aggressive behavior to be imitated
-   and reinforced in the “mimetic environment;” and fourthly, the binary
-   values of right and wrong in games can reduce young people’s empathy
+   game's violent reward rules allow aggressive behavior to be imitated
+   and reinforced in the "mimetic environment;" and fourthly, the binary
+   values of right and wrong in games can reduce young people's empathy
    (Elsherbiny and Al Maamari, 2021).
 
    Mobile games do not only imply a behavior, but also contain a value,
    which might be sometimes anti-social in nature. Violent mobile games on
    the Internet may portray the grandeur, hooliganism, and banditry of
    triad bosses and gangsters, contributing to the psychology of
-   adolescent violence. In particular, the propaganda of “materialism” in
+   adolescent violence. In particular, the propaganda of "materialism" in
    violent online games can easily lead young people to abandon their
-   original morals and values, so that the “money first” mentality
+   original morals and values, so that the "money first" mentality
    gradually seeps into their minds and leads to a distorted way of
    thinking and personality.
 
@@ -198,8 +198,8 @@ From Feature Phone to Smartphone
 
    Nowadays, almost everyone who owns a smartphone has been exposed to
    mobile games at one time or another. It may be a mini-game embedded in
-   a web page or app, or a large 3D online game like “Arena of Alor” or
-   “Player Unknown’s Battlegrounds” (De Gloria et al., 2014). These games
+   a web page or app, or a large 3D online game like "Arena of Alor" or
+   "Player Unknown's Battlegrounds" (De Gloria et al., 2014). These games
    have a huge update from the mobile games of over a decade ago, both in
    scale and in audio and video experience. And most mobile phones now
    have larger screens and touch screens have become the main way to use
@@ -218,7 +218,7 @@ From Feature Phone to Smartphone
    diverse needs of gamers (Wang et al., 2020). Gradually, mobile phones
    and mobile games have worked together to promote growth and form the
    industry shape we see today. In addition to entertainment, mobile games
-   also carry part of people’s social needs in their daily lives (Yang and
+   also carry part of people's social needs in their daily lives (Yang and
    Gong, 2021).
 
    Twenty years ago, the average person was still using 2G networks and
@@ -234,7 +234,7 @@ From Feature Phone to Smartphone
    Figure 1. Representative mobile games from 1994 to 2019.
 
    After 2003, color screen cell phones and PDAs began to occupy the
-   consumers’ vision, the hardware performance of cell phones began to
+   consumers' vision, the hardware performance of cell phones began to
    improve, the software and system functions were gradually enriched. At
    the same time, electronic games began to appear on cell phones in
    various forms (Syahrivar et al., 2022). Since Symbian had strict limits
@@ -248,9 +248,9 @@ From Feature Phone to Smartphone
    the opportunity, and some very well-known games such as Need for Speed,
    Call of Duty, Command and Conquer, and many others launched dedicated
    mobile versions (Berlo et al., 2020). Many small development teams and
-   enthusiasts also developed board games such as chess, Texas hold’em
+   enthusiasts also developed board games such as chess, Texas hold'em
    into mobile versions. A variety of mobile phone native games began to
-   appear at this time, such as “Tower Bloxx” and “Galaxy on Fire” in 2005
+   appear at this time, such as "Tower Bloxx" and "Galaxy on Fire" in 2005
    were enjoyable for handheld gamers at the time (Haney, 2017). Around
    2005, when client-side mobile games were just exploding, there were
    already many specialized game makers developing mobile games for
@@ -263,51 +263,51 @@ From Keyboard to Touch Screen
 
    In 2008, with the birth of iOS and Android, Apple successfully
    pioneered the touch screen cell phone, after the mobile game from the
-   constraints of the physical keyboard, such as “Angry Birds,” “Plants
-   vs. Zombies,” “Fruit Ninja,” “Temple Run” and a series of new hand
+   constraints of the physical keyboard, such as "Angry Birds," "Plants
+   vs. Zombies," "Fruit Ninja," "Temple Run" and a series of new hand
    quickly occupied the market share in 1 year (Vaiopoulou et al., 2021).
    The introduction of Angry Birds made the public realize for the first
    time that the era of mobile games may be coming (Kalogiannakis et al.,
    2022).
 
-   “Angry Birds”, developed by Rovio and launched in 2009, is another
+   "Angry Birds", developed by Rovio and launched in 2009, is another
    phenomenal product. Throughout the game, gamers only need to do one
    action, which is to press and hold the bird on the slingshot in the
    screen to drag and release (Villasana et al., 2020). Such a simple
-   operation overturned the public’s inherent impression of how mobile
+   operation overturned the public's inherent impression of how mobile
    games are presented, so Fruit Ninja and Cut the Rope, launched a year
    later, both became star products at the time for their sophisticated
    gameplay design and simple sliding operation (Thomas et al., 2019). Few
    people may know that the first release of the game Doodle Jump in 2009
    was developed for touchscreen phones, and only a year later came a
-   version that supported physical button phones. That’s because around
+   version that supported physical button phones. That's because around
    2010, the popularity of large-screen touch phones with smart systems
    made a radical change in the way mobile games were operated (Thomas et
    al., 2019).
 
    The birth of the iPhone and the resulting trend in the use of touch
-   screen created not only revolutionized the user’s experience of
+   screen created not only revolutionized the user's experience of
    operating cell phones, but also made hand games free from the
    limitations of the physical keyboard, with new operation ways of
-   playing other than “up, down, left and right” (Škařupová et al., 2016).
+   playing other than "up, down, left and right" (Skarupov� et al., 2016).
    If we say that the high price of iPhone may to a certain extent prevent
    the further expansion of the user scale of smartphones, Android is
    waiting for the opportunity to fill the gap to complete the last blow
    of smart phones to feature phones (Ghosh et al., 2018).
 
    Take iOS as an example, App Store is the only (or the main) channel
-   value, hand game developers still have the leisure of “slow work, fine
-   work,” but by the limitation of iPhone ownership, the income of
+   value, hand game developers still have the leisure of "slow work, fine
+   work," but by the limitation of iPhone ownership, the income of
    developers at this time is much shabbier compared with today (Bagaa et
    al., 2018). For example, in 2011, the highest-grossing handheld game in
-   China was “World War II Storm,” and its monthly flow was only $800,000
+   China was "World War II Storm," and its monthly flow was only $800,000
    (Paseka and Schwab, 2020).
 
    In 2010, Google announced its withdrawal from China because of its
    refusal to censor content. Although Android as an operating system was
    not affected much, but as we all know, Google Play, a connected
    service, was given the risk of instability (Liu et al., 2020). The
-   reason why smart phones are “smart” is that they allow users to obtain
+   reason why smart phones are "smart" is that they allow users to obtain
    applications through channels and support users to freely configure
    applications in hardware terminals, when the official channels of
    Android are covered with a layer of haze, coupled with the unique
@@ -321,9 +321,9 @@ From 2G to 5G
    With the issuance of 4G LTE license by the Ministry of Industry and
    Information Technology in 2013, domestic cell phone users officially
    ushered in the 4G era (Karabiyik et al., 2020). In 2014, the real-time
-   competitive MOBA hand game “Vainglory” was launched, emphasizing the
-   real-time nature of network online, while “Magic Spirit Summoning,”
-   “Tower Legend” and other nurturing RPG games, although the gameplay is
+   competitive MOBA hand game "Vainglory" was launched, emphasizing the
+   real-time nature of network online, while "Magic Spirit Summoning,"
+   "Tower Legend" and other nurturing RPG games, although the gameplay is
    focused on the standalone part, the official will regularly update a
    large amount of game content to keep the game fresh and the passion of
    gamers, so an efficient network becomes very important (Wang et al.,
@@ -331,7 +331,7 @@ From 2G to 5G
 
    4G networks (Figure 2) use LTE technology on the prime 1,800 and 800 M
    spectrum bands, with a theoretical maximum mobile network speed of 100
-   Mbps and actual 10 M–30 Mbps. 5G networks use Massive MIMO technology
+   Mbps and actual 10 M-30 Mbps. 5G networks use Massive MIMO technology
    in the 3.5 GHz range, which can theoretically reach a wireless data
    rate of 1 Gbps, greatly increasing wireless data bandwidth and enabling
    mobile games with less hourly delay and faster rate, giving gamers a
@@ -343,15 +343,15 @@ From 2G to 5G
    4G LTE and later 4G LTE-A networks, which can provide bandwidth based
    on priority, allowing more traffic to devices with higher download
    demands and transferring data to multiple devices at the same time,
-   thus making the mobile network a stronger experience. Whether it’s skin
+   thus making the mobile network a stronger experience. Whether it's skin
    updates for MOBAs or massive updates for nurturing games, which can be
-   downloaded to gamers’ phones faster (Buzzi et al., 2012).
+   downloaded to gamers' phones faster (Buzzi et al., 2012).
    FIGURE 2
    www.frontiersin.org
 
    Figure 2. Evolution of mobile generation from 1G to 5G.
 
-   In 2015, “Arena of Alor” was publicly tested together with “We MOBA”
+   In 2015, "Arena of Alor" was publicly tested together with "We MOBA"
    and other multiplayer online battle arena (MOBA) games, and most
    handheld gamers were brought into the tide of MOBA games (Buzzi et al.,
    2016). These games are not only fast to get started, but also have
@@ -360,7 +360,7 @@ From 2G to 5G
    are located, but also challenge the hardware performance of cell phones
    (Zhang et al., 2017). The complex lighting and particle effects in the
    game make the CPU and GPU in the SoC take a lot of pressure; at this
-   time, the modem in the phone can’t be idle and needs to coordinate the
+   time, the modem in the phone can't be idle and needs to coordinate the
    network to cope with transferring the various data that occur in the
    game. Such comprehensive needs have led more cell phone manufacturers
    to start launching products that emphasize cell phone performance and
@@ -368,11 +368,11 @@ From 2G to 5G
 
    This trend has prompted more developers to bring a wider variety of
    games with richer titles to the mobile platform. Almost every year,
-   several topical titles emerge, such as “Crackdown 3” in 2016, “Monument
-   Valley 2” in 2017, and “World in Pictures” and “Florence” in 2018,
-   which expose more smartphone users to the “video game” entertainment
+   several topical titles emerge, such as "Crackdown 3" in 2016, "Monument
+   Valley 2" in 2017, and "World in Pictures" and "Florence" in 2018,
+   which expose more smartphone users to the "video game" entertainment
    genre (Guo et al., 2019). For most gamers, the connected competitive
-   games like 2018’s Peaceful Elite handheld, Wild Ride 9: Racing Legends
+   games like 2018's Peaceful Elite handheld, Wild Ride 9: Racing Legends
    and the new Call of Duty Mobile in 2019 are their best choices (Guo et
    al., 2019).
 
@@ -381,7 +381,7 @@ From 2G to 5G
    but the way we work, live and play games has changed dramatically. As
    5G technology gets closer to us, mobile games will take on a more
    diverse look with new technology and new hardware, such as 5G cloud
-   games will also bring richer game products to more gamers, using 5G’s
+   games will also bring richer game products to more gamers, using 5G's
    high speed and low latency advantages, host and PC games will also
    become possible to load in real time on the mobile side (Habiba and
    Hossain, 2018). This will also bring a different game experience for
@@ -407,26 +407,26 @@ From 2G to 5G
 
 Psychosocial Effect of Mobile Game on K12 Children Education Performance
 
-Public Awareness—Negative Content of Mobile Game
+Public Awareness--Negative Content of Mobile Game
 
    Many elementary school students are addicted to mobile games and cannot
-   extricate themselves from games, some of them even steal their parents’
+   extricate themselves from games, some of them even steal their parents'
    money to recharge for playing games and play truant. They only think
    about the mobile games all day and all night, and think of all the ways
    to play games, so they are not interested in studying at all and their
    academic performance is in a mess. It seems obvious that the more time
    you spend playing games, the worse your academic performance, and there
    are studies that have found a correlation between time spent on video
-   games and students’ academic performance (Padilla-Walker et al., 2009).
+   games and students' academic performance (Padilla-Walker et al., 2009).
    But is poor academic performance really the fault of gaming? It is
-   important to note that “correlation” does not mean “causation”: for
-   example, just because “sleeping in shoes” is associated with “getting
-   up in the morning with a headache,” does that mean that “sleeping in
-   shoes causes headaches” is causal? In fact, why do you sleep with your
-   shoes on? The most likely reason is that one forgets to take off one’s
+   important to note that "correlation" does not mean "causation": for
+   example, just because "sleeping in shoes" is associated with "getting
+   up in the morning with a headache," does that mean that "sleeping in
+   shoes causes headaches" is causal? In fact, why do you sleep with your
+   shoes on? The most likely reason is that one forgets to take off one's
    shoes before lying down in bed after drinking too much, and this is the
-   factor that has a real causal relationship with “getting up in the
-   morning with a headache” (Seo et al., 2019).
+   factor that has a real causal relationship with "getting up in the
+   morning with a headache" (Seo et al., 2019).
 
    A student who is repeatedly frustrated with his grades, expects
    appreciation and has high expectations of himself, has no outlet for
@@ -452,11 +452,11 @@ Why Are Games Addictive but Learning Is Usually NOT?
    around you will not think you have changed, but 1 day you get a haircut
    and it becomes as short again as it was a year ago, people will be
    surprised and say what a big change you have made. But take that big
-   change and put it over a long period of time and it won’t feel like
-   much. It’s the same with studying, but many people fist pump and swear,
-   then study for a while, feel they haven’t made much progress, and give
-   up. This is the objective basis for the old cliché on Know Your Enemy
-   that “hard work doesn’t always lead to progress” (Chen and Gregory,
+   change and put it over a long period of time and it won't feel like
+   much. It's the same with studying, but many people fist pump and swear,
+   then study for a while, feel they haven't made much progress, and give
+   up. This is the objective basis for the old clich� on Know Your Enemy
+   that "hard work doesn't always lead to progress" (Chen and Gregory,
    2009). The game makes this process visible, turning a large amount into
    many tiny amounts, and it is important to feel that you are improving.
 
@@ -481,13 +481,13 @@ Rewards
    happens to almost everyone (Bavelier et al., 2011). This puts a lot of
    people off, so they choose not to try to work hard, so if they succeed
    they will be complacent and think they are clever, and if they fail it
-   won’t matter, after all they haven’t put much effort into it.
+   won't matter, after all they haven't put much effort into it.
 
 Uncertainty
 
    A known reward will motivate people, but unknown factors will really
    keep them going. A reward with appropriate uncertainty will be
-   exciting, it will increase people’s dopamine production and fascinate
+   exciting, it will increase people's dopamine production and fascinate
    people (Gentile et al., 2004). We encounter same situation when we read
    a novel. But when listening to a lesson, this is simply not possible.
    If we could figure out how humans learn and what motivates people to
@@ -506,7 +506,7 @@ The Psychosocial Impact of Mobile Games
    negative events that influence our perceptions of mobile games (Han et
    al., 2009).
 
-   According to Maslow’s Hierarchy of Needs theory (Figure 3), human needs
+   According to Maslow's Hierarchy of Needs theory (Figure 3), human needs
    are divided into five categories from low to high: physiological needs,
    security needs, social needs, respect needs, and self-actualization
    needs. When the lower level needs are satisfied, the next level needs
@@ -520,19 +520,19 @@ The Psychosocial Impact of Mobile Games
    2015) have found that people who have low self-esteem in real life, are
    lonely, lack social skills, and are less successful in real life tend
    to spend more time in video games (Winter et al., 2016). In turn,
-   playing video games further exacerbates gamers’ feelings of loneliness
+   playing video games further exacerbates gamers' feelings of loneliness
    and increased dissatisfaction with life (Kowert et al., 2015).
    FIGURE 3
    www.frontiersin.org
 
-   Figure 3. Maslow’s Hierarchy of Needs theory.
+   Figure 3. Maslow's Hierarchy of Needs theory.
 
    A successful mobile game is inevitably appealing because of the high
    sense of achievement that teenagers can feel in the game again. Imagine
    that people who are not respected in real life can be admired for their
    virtual achievements in the game, either through kryptonite (spending
    money to increase combat power) or through their skill in playing the
-   game. Even if you don’t make it to the top of the leader boards, you
+   game. Even if you don't make it to the top of the leader boards, you
    can still find a presence in a variety of ways. Moreover, in online
    games, without the constraints of real identities and conditions,
    gamers can communicate more flexibly and with less embarrassment of
@@ -559,7 +559,7 @@ Anti-social Behavior Caused by Mobile Games
    The content of many mobile games is full of fighting and killing,
    gunfire, wild and weird characters, mechanical and rough movements,
    absurd plot and fast rhythm, which have a serious negative impact on
-   students’ moral and psychological health. Those students who are
+   students' moral and psychological health. Those students who are
    addicted to games are often not calm enough, restless, impulsive,
    indifferent to others, and more violent, bringing certain destabilizing
    factors to the campus, family and society. They are in reality, but
@@ -570,7 +570,7 @@ Anti-social Behavior Caused by Mobile Games
    been designed and developed to entertain (or educate), it has to be
    admitted that many of them contain violent content. According to data
    from Children Now 2001, a non-profit organization concerned with
-   children’s learning and development, as early as 15 years ago, 89% of
+   children's learning and development, as early as 15 years ago, 89% of
    all games contained violent content, and nearly half of them contained
    severe violence (Bulduklu, 2017).
 
@@ -590,19 +590,19 @@ Anti-social Behavior Caused by Mobile Games
    were deeply affected by this (Foerster et al., 2019). This is not to
    say that violent play necessarily leads to violent behavior. However,
    when we are constantly trained to think about our enemies in games and
-   reinforced to react quickly and aggressively to each other’s actions,
+   reinforced to react quickly and aggressively to each other's actions,
    we constantly rehearse this script in our minds and feel threatened all
    the time, which translates into real-life situations where we are also
-   hostile to those around us and develop “hostile attribution bias”
+   hostile to those around us and develop "hostile attribution bias"
    (Venetz et al., 2014). For example, if Ming knocks over my cup, I will
    think that Ming thinks I am a bad person, that he is doing it on
    purpose, and that I have to beat him up to show him so that he would
    not do it again. But in reality, the aisle was too narrow and Ming was
    too fat and accidentally knocked it over. This attribution error is the
-   “hostile attribution bias.”
+   "hostile attribution bias."
 
    It must be clear here that it is not the video game that causes the
-   gamer’s antisocial behavior, but the violent content of the video game.
+   gamer's antisocial behavior, but the violent content of the video game.
    It is pointless and even counterproductive to make a blanket statement.
    We should advocate for the regulation of the video game market and the
    development of sensible game content, rather than a blanket ban on all
@@ -614,10 +614,10 @@ The Core Educational Value of Mobile Games
 
    Most scholars are studying how to make learning more interesting, so
    that students can learn by doing as what the mobile game does. This is
-   the dream of our educational researchers, and Dewey’s emphasis on
-   “learning by doing” does not seem to be working particularly well. In
+   the dream of our educational researchers, and Dewey's emphasis on
+   "learning by doing" does not seem to be working particularly well. In
    contrast, in a virtual environment we can learn by doing, which is
-   similar to the real thing, improving students’ problem-solving skills,
+   similar to the real thing, improving students' problem-solving skills,
    creativity and other higher-order skills, and helping to develop
    emotional and attitudinal values (Villasana et al., 2020). This is why
    educational scholars are proposing to implement gamified learning,
@@ -634,10 +634,10 @@ The Core Educational Value of Mobile Games
    fundamental and operational value, emphasizing the use of play to
    motivate learning. Playful thinking suggests going beyond playful forms
    and emphasizes the design of non-playful learning activities as
-   “games.” Playfulness is the most meaningful value emphasizing that
+   "games." Playfulness is the most meaningful value emphasizing that
    learners approach the process and outcomes of learning with the same
    spirit and attitude as play. The core link between the three aspects is
-   deep intrinsic motivation (Škařupová et al., 2016). Getting people to
+   deep intrinsic motivation (Skarupov� et al., 2016). Getting people to
    do something because they are challenged and to be curious, rather than
    being pushed to do something every day by external rewards and
    pressures.
@@ -661,13 +661,13 @@ Gamification of Education/Educational Mobile Games
    the game is too complex, it will take away from the main focus, the
    child will appear to be learning but spend more time playing, and the
    level of emotional arousal will be too high, which is not the desired
-   learning effect. Don’t design a product to be “revolutionary” right out
+   learning effect. Don't design a product to be "revolutionary" right out
    of the box, ground it and then change it incrementally, although this
-   is the opposite of what Google’s Page says (Huijsmans, 2019).
+   is the opposite of what Google's Page says (Huijsmans, 2019).
 
    This is because schooling is absolutely dominant in the educational
    lives of primary and secondary school children, and most of the people
-   who deliver schooling—the teachers—have extremely difficult to change
+   who deliver schooling--the teachers--have extremely difficult to change
    work habits and lack the motivation to change. There are many reasons
    for this, which will not be expanded. Therefore the initial product
    should ideally be close to the actual working habits of teachers, close
@@ -675,9 +675,9 @@ Gamification of Education/Educational Mobile Games
    high frequency needs of teachers in their daily work and cut in, so
    that they can first get started, develop trust and dependence, and then
    expand step by step, it will be more feasible. Educational products are
-   not super viable just because they are gamified, and you can’t expect
+   not super viable just because they are gamified, and you can't expect
    them to get a lot of users and get the desired conversion rate just
-   because they are “happy learning” (Schneider et al., 2020). It is
+   because they are "happy learning" (Schneider et al., 2020). It is
    always believed that educational products for primary and secondary
    schools should be a combination of online and offline. In addition to
    the online part of the product, it also needs to include an offline
@@ -689,9 +689,9 @@ Gamification of Education/Educational Mobile Games
    solution, not optional. Otherwise, even the best design will be
    short-lived and will end up like a normal game after its life cycle.
    So, as well as the product team, the operations team is equally
-   important (Cha and Seo, 2018). While designing the gamification, don’t
+   important (Cha and Seo, 2018). While designing the gamification, don't
    forget to build and polish the educational content itself, which is the
-   main part of the “hamburger.” Entrepreneurs are often in a hurry to get
+   main part of the "hamburger." Entrepreneurs are often in a hurry to get
    their products to market quickly and can easily over-gamify them. But
    the lifeblood of an educational product is still the quality of
    education, and when the learning effect is not reflected, it will face
@@ -703,7 +703,7 @@ Future Trends and Limitations in Educational Mobile Games
    learning with mobile learning; with VR/AR; with intelligent bodies;
    with brain science; with artificial intelligence and big data (Quelly
    et al., 2016; Black et al., 2018). If the research is to solve
-   students’ learning problems through mobile games, it is necessary to
+   students' learning problems through mobile games, it is necessary to
    combine various research results and educational results from game
    design. Experimental research in this area has been conducted and found
    it to be quite effective. Through this experiment, it is found that the
@@ -714,7 +714,7 @@ Future Trends and Limitations in Educational Mobile Games
    Still, games are games, and still there are four major limitation for
    the current development of educational mobile games.:
 
-   • The first major limitation is portability, that is, how what is
+   o The first major limitation is portability, that is, how what is
    learned in a mobile game transfers to the real world, which exposes the
    Achilles heel of mobile games. The challenges in video games are often
    fictional and have no connection to everyday life, but are rather a
@@ -722,13 +722,13 @@ Future Trends and Limitations in Educational Mobile Games
    such as battling dragons, racing jousts, and Tetris are not meaningful
    to everyday life and therefore not directly transferable.
 
-   • The second major limitation is simplicity. Mobile games simplify
+   o The second major limitation is simplicity. Mobile games simplify
    complex systems to their core and are procedural representations of the
    real world. The world we live in is much more complex and often defies
    the simple logic of the game. This results in learners often losing
    touch with the systems modeled in the game.
 
-   • The third major limitation is that games lack real-life environments.
+   o The third major limitation is that games lack real-life environments.
    Mobile games are not designed to have an effect on the gamer after the
    game is over. The K12 students are too different from the world they
    live in, and the real world is too complex. Even those games that have
@@ -738,7 +738,7 @@ Future Trends and Limitations in Educational Mobile Games
    and bad news for those who think that smart games automatically make
    people smart.
 
-   • The fourth major limitation relates to the above question about the
+   o The fourth major limitation relates to the above question about the
    environment. K12 students are usually unable to spontaneously establish
    a relationship between what they learn in mobile games and real life.
    They can grasp a great deal of information in mobile games and remember
@@ -784,7 +784,7 @@ Conclusion
    the virtual and real worlds. Radically speaking, it is only through
    pedagogical support that the barriers to knowledge transfer in gamified
    learning can be overcome and the potential for learning unlocked. This
-   new pedagogical role requires the teacher’s own interest, as well as
+   new pedagogical role requires the teacher's own interest, as well as
    active access to the space of gamified learning. This area deserves to
    be explored and experimented with and will present teachers with new
    pedagogical challenges.
@@ -803,7 +803,7 @@ Conflict of Interest
    any commercial or financial relationships that could be construed as a
    potential conflict of interest.
 
-Publisher’s Note
+Publisher's Note
 
    All claims expressed in this article are solely those of the authors
    and do not necessarily represent those of their affiliated
@@ -815,7 +815,7 @@ Publisher’s Note
 References
 
    Abeele, M., Schouten, A., and Antheunis, M. (2017). Personal, editable,
-   and always accessible. J. Soc. Pers. Relat. 34, 875–893. doi:
+   and always accessible. J. Soc. Pers. Relat. 34, 875-893. doi:
    10.1177/0265407516660636
 
    CrossRef Full Text | Google Scholar
@@ -826,9 +826,9 @@ References
 
    CrossRef Full Text | Google Scholar
 
-   Arteaga, S., González, V., Kurniawan, S., and Benavides, R. (2012).
-   Mobile games and design requirements to increase teenagers’ physical
-   activity. Pervasive Mob. Comput. 8, 900–908. doi:
+   Arteaga, S., Gonz�lez, V., Kurniawan, S., and Benavides, R. (2012).
+   Mobile games and design requirements to increase teenagers' physical
+   activity. Pervasive Mob. Comput. 8, 900-908. doi:
    10.1016/j.pmcj.2012.08.002
 
    CrossRef Full Text | Google Scholar
@@ -836,45 +836,45 @@ References
    Bagaa, M., Taleb, T., Laghrissi, A., Ksentini, A., and Flinck, H.
    (2018). Coalitional game for the creation of efficient virtual core
    network slices in 5g mobile systems. IEEE J. Sel. Areas Commun. 36,
-   469–484. doi: 10.1109/jsac.2018.2815398
+   469-484. doi: 10.1109/jsac.2018.2815398
 
    CrossRef Full Text | Google Scholar
 
    Bavelier, D., Green, C., Han, D., Renshaw, P., Merzenich, M., and
    Gentile, D. (2011). Brains on video games. Nat. Rev. Neurosci. 12,
-   763–768. doi: 10.1038/nrn3135
+   763-768. doi: 10.1038/nrn3135
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Berlo, Z., van Reijmersdal, E., and Rozendaal, E. (2020). Adolescents
    and handheld advertising: the roles of brand familiarity and smartphone
    attachment in the processing of mobile advergames. J. Cust. Behav. 19,
-   438–449. doi: 10.1002/cb.1822
+   438-449. doi: 10.1002/cb.1822
 
    CrossRef Full Text | Google Scholar
 
-   Black, D., O’Loughlin, K., and Wilson, L. (2018). Climate change and
+   Black, D., O'Loughlin, K., and Wilson, L. (2018). Climate change and
    the health of older people in Australia: a scoping review on the role
    of mobile applications (apps) in ameliorating impact. Australas. J.
-   Ageing. 37, 99–106. doi: 10.1111/ajag.12522
+   Ageing. 37, 99-106. doi: 10.1111/ajag.12522
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Boyer, B. (2015). Designer librarian: embedded in k12 online learning.
-   Techtrends 59, 71–76. doi: 10.1007/s11528-015-0855-9
+   Techtrends 59, 71-76. doi: 10.1007/s11528-015-0855-9
 
    CrossRef Full Text | Google Scholar
 
    Bulduklu, Y. (2017). Mobile games on the basis of uses and
    gratifications approach: a comparison of the mobile game habits of
    university and high school students. Convergence (London, England) 25,
-   901–917. doi: 10.1177/1354856517748159
+   901-917. doi: 10.1177/1354856517748159
 
    CrossRef Full Text | Google Scholar
 
    Buzzi, S. I. C., Klein, T., Poor, H., Yang, C., and Zappone, A. (2016).
    A survey of energy-efficient techniques for 5g networks and challenges
-   ahead. IEEE J. Sel. Areas Commun. 34, 697–709. doi:
+   ahead. IEEE J. Sel. Areas Commun. 34, 697-709. doi:
    10.1109/jsac.2016.2550338
 
    CrossRef Full Text | Google Scholar
@@ -882,7 +882,7 @@ References
    Buzzi, S., Colavolpe, G., Saturnino, D., and Zappone, A. (2012).
    Potential games for energy-efficient power control and subcarrier
    allocation in uplink multicell ofdma systems. IEEE J. Sel. Top. Signal
-   Process. 6, 89–103. doi: 10.1109/jstsp.2011.2177069
+   Process. 6, 89-103. doi: 10.1109/jstsp.2011.2177069
 
    CrossRef Full Text | Google Scholar
 
@@ -895,14 +895,14 @@ References
 
    Calpbinici, P., and Tas Arslan, F. (2019). Virtual behaviors affecting
    adolescent mental health: the usage of Internet and mobile phone and
-   cyberbullying. J. Child Adolesc. Psychiatr. Nurs. 32, 139–148. doi:
+   cyberbullying. J. Child Adolesc. Psychiatr. Nurs. 32, 139-148. doi:
    10.1111/jcap.12244
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Caplan, S., Williams, D., and Yee, N. (2009). Problematic internet use
    and psychosocial well-being among MMO players. Comput. Hum. Behav. 25,
-   1312–1319. doi: 10.1016/j.chb.2009.06.006
+   1312-1319. doi: 10.1016/j.chb.2009.06.006
 
    CrossRef Full Text | Google Scholar
 
@@ -915,25 +915,25 @@ References
 
    Chafouleas, S., Pickens, I., and Gherardi, S. (2021). Adverse childhood
    experiences (ACEs): translation into action in k12 education settings.
-   Sch. Ment. Health 13, 213–224. doi: 10.1007/s12310-021-09427-9
+   Sch. Ment. Health 13, 213-224. doi: 10.1007/s12310-021-09427-9
 
    CrossRef Full Text | Google Scholar
 
    Chan, D., and Cheng, G. (2004). A comparison of offline and online
    friendship qualities at different stages of relationship development.
-   J. Soc. Pers. Relat. 21, 305–320. doi: 10.1177/0265407504042834
+   J. Soc. Pers. Relat. 21, 305-320. doi: 10.1177/0265407504042834
 
    CrossRef Full Text | Google Scholar
 
    Chen, L. J. (2017). Critical components for inclusion of students with
    moderate intellectual disabilities into general junior high school.
-   Int. J. Dev. Disabil. 63, 8–16. doi: 10.1080/20473869.2015.1108006
+   Int. J. Dev. Disabil. 63, 8-16. doi: 10.1080/20473869.2015.1108006
 
    CrossRef Full Text | Google Scholar
 
    Chen, W.-B., and Gregory, A. (2009). Parental involvement as a
    protective factor during the transition to high school. J. Educ. Res.
-   103, 53–62.
+   103, 53-62.
 
    Google Scholar
 
@@ -959,13 +959,13 @@ References
 
    Elsherbiny, M., and Al Maamari, H. R. (2021). Game-based learning
    through mobile phone apps: effectively enhancing learning for social
-   work students. Soc. Work Educ. 40, 315–332. doi:
+   work students. Soc. Work Educ. 40, 315-332. doi:
    10.1080/02615479.2020.1737665
 
    CrossRef Full Text | Google Scholar
 
-   Foerster, M., Henneke, A., Chetty-Mhlanga, S., and Röösli, M. (2019).
-   Impact of adolescents’ screen time and nocturnal mobile phone-related
+   Foerster, M., Henneke, A., Chetty-Mhlanga, S., and R��sli, M. (2019).
+   Impact of adolescents' screen time and nocturnal mobile phone-related
    awakenings on sleep and general health symptoms: a prospective cohort
    study. Int. J. Environ. Res. Public Health 16:518. doi:
    10.3390/ijerph16030518
@@ -974,27 +974,27 @@ References
 
    Gentile, D., Lynch, P., Linder, J., and Walsh, D. (2004). The effects
    of violent video game habits on adolescent hostility, aggressive
-   behaviors, and school performance. J. Adolesc. 27, 5–22. doi:
+   behaviors, and school performance. J. Adolesc. 27, 5-22. doi:
    10.1016/j.adolescence.2003.10.002
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Ghosh, S., De, D., Deb, P., and Mukherjee, A. (2018). 5G-ZOOM-Game:
    small cell zooming using weighted majority cooperative game for energy
-   efficient 5G mobile network. Wirel. Netw. 26, 349–372. doi:
+   efficient 5G mobile network. Wirel. Netw. 26, 349-372. doi:
    10.1007/s11276-018-1818-9
 
    CrossRef Full Text | Google Scholar
 
    Guo, C., Gong, C., Guo, J., Xu, H., and Zhang, L. (2019).
-   TCQG—software-defined transmission control scheme in 5g networks from
+   TCQG--software-defined transmission control scheme in 5g networks from
    queuing game perspective. Sensors 19:4170. doi: 10.3390/s19194170
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Habiba, U., and Hossain, E. (2018). Auction mechanisms for
    virtualization in 5g cellular networks: basics, trends, and open
-   challenges. IEEE Commun. Surv. Tutor. 20, 2264–2293. doi:
+   challenges. IEEE Commun. Surv. Tutor. 20, 2264-2293. doi:
    10.1109/comst.2018.2811395
 
    CrossRef Full Text | Google Scholar
@@ -1002,7 +1002,7 @@ References
    Han, D., Lee, Y., Na, C., Ahn, J., Chung, U., Daniels, M., et al.
    (2009). The effect of methylphenidate on Internet video game play in
    children with attention-deficit/hyperactivity disorder. Compr.
-   Psychiatry 50, 251–256. doi: 10.1016/j.comppsych.2008.08.011
+   Psychiatry 50, 251-256. doi: 10.1016/j.comppsych.2008.08.011
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
@@ -1020,7 +1020,7 @@ References
 
    CrossRef Full Text | Google Scholar
 
-   Huijsmans, R. (2019). Becoming mobile and growing up: a “generationed”
+   Huijsmans, R. (2019). Becoming mobile and growing up: a "generationed"
    perspective on borderland mobilities, youth, and the household. Popul.
    Space Place 25:e2150. doi: 10.1002/psp.2150
 
@@ -1028,13 +1028,13 @@ References
 
    Huizenga, J., Admiraal, W., Akkerman, S., and Dam, G. (2009). Mobile
    game-based learning in secondary education: engagement, motivation and
-   learning in a mobile city game. J. Comput. Assist. Learn. 25, 332–344.
+   learning in a mobile city game. J. Comput. Assist. Learn. 25, 332-344.
    doi: 10.1111/j.1365-2729.2009.00316.x
 
    CrossRef Full Text | Google Scholar
 
    Jang, M., Lee, R., and Yoo, B. (2019). Does fun or freebie increase
-   in-app purchase? Inf. Syst. E Bus. Manag. 19, 439–457. doi:
+   in-app purchase? Inf. Syst. E Bus. Manag. 19, 439-457. doi:
    10.1007/s10257-019-00420-z
 
    CrossRef Full Text | Google Scholar
@@ -1055,57 +1055,57 @@ References
 
    Kowert, R., Vogelgesang, J., Festl, R., and Quandt, T. (2015).
    Psychosocial causes and consequences of online video game play. Comput.
-   Hum. Behav. 45, 51–58. doi: 10.1016/j.chb.2014.11.074
+   Hum. Behav. 45, 51-58. doi: 10.1016/j.chb.2014.11.074
 
    CrossRef Full Text | Google Scholar
 
-   Kurt, G., Atay, D., and Öztürk, H. (2022). Student engagement in K12
+   Kurt, G., Atay, D., and �zt�rk, H. (2022). Student engagement in K12
    online education during the pandemic: the case of Turkey. J. Res.
-   Technol. Educ. 54(sup1), S31–S47. doi: 10.1080/15391523.2021.1920518
+   Technol. Educ. 54(sup1), S31-S47. doi: 10.1080/15391523.2021.1920518
 
    CrossRef Full Text | Google Scholar
 
    Kyriakou, G., and Glentis, A. (2021). Skin in the game:
-   video-game–related cutaneous pathologies in adolescents. Int. J.
-   Pediatr. Adolesc. Med. 8, 68–75. doi: 10.1016/j.ijpam.2019.09.002
+   video-game-related cutaneous pathologies in adolescents. Int. J.
+   Pediatr. Adolesc. Med. 8, 68-75. doi: 10.1016/j.ijpam.2019.09.002
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
-   Laws, G., and Millward, L. (2001). Predicting parents’ satisfaction
-   with the education of their child with Down’s syndrome. Educ. Res. 43,
-   209–226. doi: 10.1080/00131880110051173
+   Laws, G., and Millward, L. (2001). Predicting parents' satisfaction
+   with the education of their child with Down's syndrome. Educ. Res. 43,
+   209-226. doi: 10.1080/00131880110051173
 
    CrossRef Full Text | Google Scholar
 
    Li, Y., Xiao, P., Dai, Z., Bi, B., Fu, D., and Hao, Y. (2021).
-   “Opportunities and challenges faced by the online educational services
-   in the post-COVID-19,” in. Proceedings of the 2nd International
-   Symposium on Education and Social Sciences (ESS 2021), Xi‘an, 148–159.
+   "Opportunities and challenges faced by the online educational services
+   in the post-COVID-19," in. Proceedings of the 2nd International
+   Symposium on Education and Social Sciences (ESS 2021), Xi`an, 148-159.
 
    Google Scholar
 
    Liu, E., Effiok, E., and Hitchcock, J. (2020). Survey on health care
-   applications in 5G networks. IET Commun. 14, 1073–1080. doi:
+   applications in 5G networks. IET Commun. 14, 1073-1080. doi:
    10.1049/iet-com.2019.0813
 
    CrossRef Full Text | Google Scholar
 
    Luder, R., Kunz, A., Pastore, G., and Paccaud, A. (2020). Beteiligung
    der eltern in der inklusion und ihre sichtweise auf die integrative
-   förderung ihrer kinder. Vierteljahresschr. Heilpädag. Nachbargeb. 89,
-   278–290.
+   f�rderung ihrer kinder. Vierteljahresschr. Heilp�dag. Nachbargeb. 89,
+   278-290.
 
    Google Scholar
 
    Ma, T., Song, L., Ning, S., Wang, H., Zhang, G., and Wu, Z. (2019).
-   Relationship between the incidence of de Quervain’s disease among
-   teenagers and mobile gaming. Int. Orthop. 43, 2587–2592. doi:
+   Relationship between the incidence of de Quervain's disease among
+   teenagers and mobile gaming. Int. Orthop. 43, 2587-2592. doi:
    10.1007/s00264-019-04389-9
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Manning, J., and Buttfield-Addison, P. (2017). Mobile Game Development
-   with Unity. Sebastopol, CA: O’Reilly Media.
+   with Unity. Sebastopol, CA: O'Reilly Media.
 
    Google Scholar
 
@@ -1117,14 +1117,14 @@ References
 
    Oberst, U., Wegmann, E., Stodt, B., Brand, M., and Chamarro, A. (2017).
    Negative consequences from heavy social networking in adolescents: the
-   mediating role of fear of missing out. J. Adolesc. 55, 51–60. doi:
+   mediating role of fear of missing out. J. Adolesc. 55, 51-60. doi:
    10.1016/j.adolescence.2016.12.008
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Padilla-Walker, L., Nelson, L., Carroll, J., and Jensen, A. (2009).
    More than a just a game: video game and internet use during emerging
-   adulthood. J. Youth Adolesc. 39, 103–113. doi:
+   adulthood. J. Youth Adolesc. 39, 103-113. doi:
    10.1007/s10964-008-9390-8
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -1136,16 +1136,16 @@ References
 
    CrossRef Full Text | Google Scholar
 
-   Paseka, A., and Schwab, S. (2020). Parents’ attitudes towards inclusive
+   Paseka, A., and Schwab, S. (2020). Parents' attitudes towards inclusive
    education and their perceptions of inclusive teaching practices and
-   resources. Eur. J. Spec. Needs Educ. 35, 254–272. doi:
+   resources. Eur. J. Spec. Needs Educ. 35, 254-272. doi:
    10.1080/08856257.2019.1665232
 
    CrossRef Full Text | Google Scholar
 
    Quelly, S., Norris, A., and DiPietro, J. (2016). Impact of mobile apps
    to combat obesity in children and adolescents: a systematic literature
-   review. J. Spec. Pediatr. Nurs. 21, 5–17. doi: 10.1111/jspn.12134
+   review. J. Spec. Pediatr. Nurs. 21, 5-17. doi: 10.1111/jspn.12134
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
@@ -1158,32 +1158,32 @@ References
 
    Rubino, I., Barberis, C., Xhembulla, J., and Malnati, G. (2015).
    Integrating a location-based mobile game in the museum visit. J.
-   Comput. Cult. Herit. 8, 1–18. doi: 10.1145/2724723
+   Comput. Cult. Herit. 8, 1-18. doi: 10.1145/2724723
 
    CrossRef Full Text | Google Scholar
 
    Schneider, T., Baum, L., Amy, A., and Marisa, C. (2020). I have most of
-   my asthma under control and I know how my asthma acts: users’
+   my asthma under control and I know how my asthma acts: users'
    perceptions of asthma self-management mobile app tailored for
-   adolescents. Health Informatics J. 26, 342–353. doi:
+   adolescents. Health Informatics J. 26, 342-353. doi:
    10.1177/1460458218824734
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Schwab, S. (2018). Attitudes Towards Inclusive Schooling: A Study on
-   Students’, Teachers’ and Parents’ Attitudes. Münster: Waxmann.
+   Students', Teachers' and Parents' Attitudes. M�nster: Waxmann.
 
    Google Scholar
 
    Seo, Y., Dolan, R., and Buchanan-Oliver, M. (2019). Playing games:
    advancing research on online and mobile gaming consumption. Internet
-   Res. 29, 289–292. doi: 10.1108/intr-04-2019-542
+   Res. 29, 289-292. doi: 10.1108/intr-04-2019-542
 
    CrossRef Full Text | Google Scholar
 
-   Škařupová, K., Ólafsson, K., and Blinka, L. (2016). The effect of
-   smartphone use on trends in European adolescents’ excessive Internet
-   use. Behav. Inf. Technol. 35, 68–74. doi: 10.1080/0144929x.2015.1114144
+   Skarupov�, K., �lafsson, K., and Blinka, L. (2016). The effect of
+   smartphone use on trends in European adolescents' excessive Internet
+   use. Behav. Inf. Technol. 35, 68-74. doi: 10.1080/0144929x.2015.1114144
 
    CrossRef Full Text | Google Scholar
 
@@ -1192,9 +1192,9 @@ References
 
    Google Scholar
 
-   Syahrivar, J., Chairy, C., Juwono, I., and Gyulavári, T. (2022). Pay to
+   Syahrivar, J., Chairy, C., Juwono, I., and Gyulav�ri, T. (2022). Pay to
    play in freemium mobile games: a compensatory mechanism. Int. J. Retail
-   Distrib. Manag. 50, 117–134. doi: 10.1108/ijrdm-09-2020-0358
+   Distrib. Manag. 50, 117-134. doi: 10.1108/ijrdm-09-2020-0358
 
    CrossRef Full Text | Google Scholar
 
@@ -1207,26 +1207,26 @@ References
    Thomas, G., Bennie, J., De Cocker, K., Castro, O., and Biddle, S.
    (2019). A descriptive epidemiology of screen-based devices by children
    and adolescents: a scoping review of 130 surveillance studies since
-   2000. Child Indic. Res. 13, 935–950. doi: 10.1007/s12187-019-09663-1
+   2000. Child Indic. Res. 13, 935-950. doi: 10.1007/s12187-019-09663-1
 
    CrossRef Full Text | Google Scholar
 
    Vaiopoulou, J., Papadakis, S., Sifaki, E., Stamovlasis, D., and
-   Kalogiannakis, M. (2021). Parents’ perceptions of educational apps use
+   Kalogiannakis, M. (2021). Parents' perceptions of educational apps use
    for kindergarten children: development and validation of a new
-   instrument (PEAU-p) and exploration of parents’ profiles. Behav. Sci.
+   instrument (PEAU-p) and exploration of parents' profiles. Behav. Sci.
    11:82. doi: 10.3390/bs11060082
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Venetz, M., Zurbriggen, C., and Eckhart, M. (2014). Entwicklung
    underste validierung einer kurzversion des,, fragebogens zur erfassung
-   von dimensionen der integration von schülern (FDI 4-6) “von haeberlin,
-   moser, bless und klaghofer. Empirische Sonderpädag. 6, 99–113.
+   von dimensionen der integration von sch�lern (FDI 4-6) "von haeberlin,
+   moser, bless und klaghofer. Empirische Sonderp�dag. 6, 99-113.
 
    Google Scholar
 
-   Villasana, M., Pires, I., Sá, J., Garcia, N., Teixeira, M., Zdravevski,
+   Villasana, M., Pires, I., S�, J., Garcia, N., Teixeira, M., Zdravevski,
    E., et al. (2020). Promotion of healthy lifestyles to teenagers with
    mobile devices: a case study in portugal. Healthcare 8:315. doi:
    10.3390/healthcare8030315
@@ -1234,7 +1234,7 @@ References
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Wang, J., Gamble, J., and Yang, Y. (2020). Mobile sensor-based
-   community gaming for improving vocational students’ sleep and academic
+   community gaming for improving vocational students' sleep and academic
    outcomes. Comput. Educ. 151:103812. doi: 10.1016/j.compedu.2020.103812
 
    CrossRef Full Text | Google Scholar
@@ -1242,33 +1242,33 @@ References
    Wang, L., Wang, Y., Ding, Z., and Wang, X. (2015). Cell selection game
    for densely-deployed sensor and mobile devices in 5g networks
    integrating heterogeneous cells and the internet of things. Sensors 15,
-   24230–24256. doi: 10.3390/s150924230
+   24230-24256. doi: 10.3390/s150924230
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    Winter, J., Wentzel, M., and Ahluwalia, S. (2016). Chairs!: a mobile
    game for organic chemistry students to learn the ring flip of
-   cyclohexane. J. Chem. Edu. 93, 1657–1659. doi:
+   cyclohexane. J. Chem. Edu. 93, 1657-1659. doi:
    10.1021/acs.jchemed.5b00872
 
    CrossRef Full Text | Google Scholar
 
-   Yang, Q., and Gong, X. (2021). The engagement–addiction dilemma: an
+   Yang, Q., and Gong, X. (2021). The engagement-addiction dilemma: an
    empirical evaluation of mobile user interface and mobile game
-   affordance. Internet Res. 31, 1745–1768. doi: 10.1108/intr-11-2020-0622
+   affordance. Internet Res. 31, 1745-1768. doi: 10.1108/intr-11-2020-0622
 
    CrossRef Full Text | Google Scholar
 
    Zappone, A., Sanguinetti, L., Bacci, G., Jorswieck, E., and Debbah, M.
    (2016). Energy-efficient power control: a look at 5g wireless
-   technologies. IEEE Trans. Signal Process. 64, 1668–1683. doi:
+   technologies. IEEE Trans. Signal Process. 64, 1668-1683. doi:
    10.1109/tsp.2015.2500200
 
    CrossRef Full Text | Google Scholar
 
    Zhang, S., Wu, Q., Xu, S., and Li, G. (2017). Fundamental green
    tradeoffs: progresses, challenges, and impacts on 5g networks. IEEE
-   Commun. Surv. Tutor. 19, 33–56. doi: 10.1109/comst.2016.2594120
+   Commun. Surv. Tutor. 19, 33-56. doi: 10.1109/comst.2016.2594120
 
    CrossRef Full Text | Google Scholar
 
@@ -1290,7 +1290,7 @@ References
    Michail Kalogiannakis, University of Crete, Greece
    Julie Vaiopoulou, Aristotle University of Thessaloniki, Greece
 
-   Copyright © 2022 Li, Xu, Hao, Xiao and Liu. This is an open-access
+   Copyright � 2022 Li, Xu, Hao, Xiao and Liu. This is an open-access
    article distributed under the terms of the Creative Commons Attribution
    License (CC BY). The use, distribution or reproduction in other forums
    is permitted, provided the original author(s) and the copyright

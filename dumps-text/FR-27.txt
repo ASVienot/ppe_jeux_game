@@ -1,18 +1,18 @@
-   #alternate alternate SudOuest : rss actualitÃ©s
+   #alternate alternate SudOuest : rss actualités
 
    IFRAME: //www.googletagmanager.com/ns.html?id=GTM-NG4RXS
 
-   RubriquesLa chaÃ®nePodcasts
+   RubriquesLa chaînePodcasts
    Mon compteS'identifierS'abonnerJournal
 
-   RechercherLa chaÃ®nePodcasts
+   RechercherLa chaînePodcasts
    JournalS'identifierMon compte
-   ğŸ“ Ma ville  ActualitÃ©  DÃ©clicLa sÃ©lection  Faits diversSport  Loisirs
-   Services  Ã‰tudiant  Annonces
+   Ma ville  Actualité  DéclicLa sélection  Faits diversSport  Loisirs
+   Services  Étudiant  Annonces
    (*)
      * Toutes les communes
      * Agen
-     * AngoulÃªme
+     * Angoulême
      * Arcachon
      * Bayonne
      * Bergerac
@@ -21,19 +21,19 @@
      * Dax
 
      * Langon
-     * La Rochelle ğŸ“
+     * La Rochelle
      * Libourne
      * Marmande
-     * MÃ©doc
+     * Médoc
      * Mont-de-Marsan
      * Oloron
      * Orthez
 
      * Pau
-     * PÃ©rigueux
-     * Rochefort ğŸ“
-     * Royan ğŸ“
-     * Saintes ğŸ“
+     * Périgueux
+     * Rochefort
+     * Royan
+     * Saintes
      * Saint-Jean-de-Luz
      * Villeneuve-sur-Lot
 
@@ -44,11 +44,11 @@
      * Economie
      * Environnement
 
-     * SantÃ©
-     * SociÃ©tÃ©
+     * Santé
+     * Société
 
    ( )
-     * SÃ©lection du jour
+     * Sélection du jour
      * Edition du soir
 
      * Premium
@@ -68,9 +68,9 @@
      * Basket
      * Surf
 
-     * Sports mÃ©caniques
+     * Sports mécaniques
      * Hockey
-     * RÃ©sultats
+     * Résultats
      * Jeux Olympiques
 
    ( )
@@ -78,8 +78,8 @@
      * Diverto
      * Gastronomie
 
-     * IdÃ©es
-     * TÃ©lÃ©vision
+     * Idées
+     * Télévision
      * Programme TV
 
      * Tourisme
@@ -88,11 +88,11 @@
 
    ( )
      * Archives
-     * Club abonnÃ©s
+     * Club abonnés
      * Jeux
 
      * Horoscope
-     * Ã‰vÃ¨nements
+     * Évènements
      * Billetterie
 
      * Bons plans
@@ -101,141 +101,141 @@
 
    ( )
      * Accueil
-     * LycÃ©e
+     * Lycée
      * Examens
 
      * Parcoursup
-     * Ã‰tudes supÃ©rieures
-     * Trouver votre Ã©cole
+     * Études supérieures
+     * Trouver votre école
 
-     * RÃ©sultats bac
-     * RÃ©sultats brevet
-     * SÃ©ries TV
+     * Résultats bac
+     * Résultats brevet
+     * Séries TV
 
    ( )
-     * Avis de dÃ©cÃ¨s
+     * Avis de décès
      * Emploi
 
      * Immobilier
 
-     * LÃ©gales
+     * Légales
 
    ' +
    '
    Sud Ouest
 
-   Toute l'actualitÃ© de votre rÃ©gion en continu sur notre application
+   Toute l'actualité de votre région en continu sur notre application
    (BUTTON) Voir
 
-En images. Jeux europÃ©ens du sport dâ€™entreprise Ã  Bordeaux : une cÃ©rÃ©monie
-dâ€™ouverture impressionnante
+En images. Jeux européens du sport d'entreprise à Bordeaux : une cérémonie
+d'ouverture impressionnante
 
     Lecture 1 min
    Accueil Sport
-   En images. Jeux europÃ©ens du sport dâ€™entreprise Ã  Bordeaux : une
-   cÃ©rÃ©monie dâ€™ouverture impressionnante 26 dÃ©lÃ©gations ont dÃ©filÃ© sous
-   lâ€™Å“il de Rai, parrain de cette 24e Ã©dition. Â© CrÃ©dit photo : guillaume
+   En images. Jeux européens du sport d'entreprise à Bordeaux : une
+   cérémonie d'ouverture impressionnante 26 délégations ont défilé sous
+   l'oeil de Rai, parrain de cette 24e édition. © Crédit photo : guillaume
    bonnaud / SUD OUEST
 
    Par Emmanuel Commissaire
-   PubliÃ© le 15/06/2023 Ã  9h00.
-   Mis Ã  jour le 15/06/2023 Ã  16h58.
-     * Ã‰couter
-     * RÃ©agir
+   Publié le 15/06/2023 à 9h00.
+   Mis à jour le 15/06/2023 à 16h58.
+     * Écouter
+     * Réagir
      * Partager
      * S'abonner
 
-   Avant les discours officiels, ce 14 juin, les dÃ©lÃ©gations des 26 pays
-   reprÃ©sentÃ©s ont dÃ©filÃ© sur la place des Quinconces
+   Avant les discours officiels, ce 14 juin, les délégations des 26 pays
+   représentés ont défilé sur la place des Quinconces
 
    IFRAME:
    //www.ultimedia.com/deliver/generic/iframe/mdtk/01948483/zone/1/showtit
    le/1/src/qklx553
 
-   Â« Je vous souhaite des Jeux exceptionnels Â», a dÃ©clarÃ© RaÃ­ aux quelque
-   7 500 participants de la 24^e Ã©dition des Jeux europÃ©ens du sport
-   dâ€™entreprise, qui se dÃ©rouleront jusquâ€™Ã  samedi 17 juin Ã  Bordeaux et
-   dans les environs. Lâ€™ancien footballeur du PSG est le parrain de cet
-   Ã©vÃ©nement qui rassemble cette annÃ©e 26 pays, lesquels ont dÃ©filÃ© par
-   ordre alphabÃ©tique ce 14 juin sur la place des Quinconces, oÃ¹ se tenait
-   la cÃ©rÃ©monie dâ€™ouverture en prÃ©sence du maire, Pierre Hurmic, et de la
-   ministre des Sports, AmÃ©lie OudÃ©a-CastÃ©ra. La dÃ©lÃ©gation ukrainienne,
-   qui comprend une vingtaine de membres, a Ã©tÃ© particuliÃ¨rement
+   « Je vous souhaite des Jeux exceptionnels », a déclaré Raí aux quelque
+   7 500 participants de la 24^e édition des Jeux européens du sport
+   d'entreprise, qui se dérouleront jusqu'à samedi 17 juin à Bordeaux et
+   dans les environs. L'ancien footballeur du PSG est le parrain de cet
+   événement qui rassemble cette année 26 pays, lesquels ont défilé par
+   ordre alphabétique ce 14 juin sur la place des Quinconces, où se tenait
+   la cérémonie d'ouverture en présence du maire, Pierre Hurmic, et de la
+   ministre des Sports, Amélie Oudéa-Castéra. La délégation ukrainienne,
+   qui comprend une vingtaine de membres, a été particulièrement
    applaudie.
-   Les dÃ©lÃ©gations sur la place. Les dÃ©lÃ©gations sur la place.
+   Les délégations sur la place. Les délégations sur la place.
    guillaume bonnaud / SUD OUEST
-   Sur le mÃªme sujet
+   Sur le même sujet
 
-   Coupe du monde de rugby Ã  Bordeaux : Â« Entreprises, dÃ©pÃªchez-vous ! Â»,
+   Coupe du monde de rugby à Bordeaux : « Entreprises, dépêchez-vous ! »,
    il reste des offres
-   Coupe du monde de rugby Ã  Bordeaux : Â« Entreprises, dÃ©pÃªchez-vous ! Â»,
+   Coupe du monde de rugby à Bordeaux : « Entreprises, dépêchez-vous ! »,
    il reste des offres
-   Ã€ moins de trois mois de la Coupe du monde de rugby, il reste des
-   offres Ã  destination des entreprises pour les cinq matchs organisÃ©s Ã 
+   À moins de trois mois de la Coupe du monde de rugby, il reste des
+   offres à destination des entreprises pour les cinq matchs organisés à
    Bordeaux
 
-   Un rapide tour des Ã©quipes a permis de constater que la plupart
-   comptent dans leurs rangs des prÃ©tendants Ã  la victoire. Malte va
-   aligner, par exemple, un double mÃ©daillÃ© dâ€™or de lâ€™Ã©dition 2019
-   disputÃ©e Ã  Salzbourg, en Autriche, sur 800 m et 1 500 m, deuxiÃ¨me par
-   ailleurs du 5 000 m, rÃ©sultats quâ€™il a rÃ©itÃ©rÃ©s trois ans plus tard Ã 
-   Arnhem, aux Pays-Bas. Lâ€™entreprise Airbus Defence and Space a des
-   reprÃ©sentants pour le moins polyvalents. Lâ€™un dâ€™eux a fini sur le
-   podium en squash aux Jeux mondiaux, en 2021 Ã  AthÃ¨nes, ainsi quâ€™Ã 
+   Un rapide tour des équipes a permis de constater que la plupart
+   comptent dans leurs rangs des prétendants à la victoire. Malte va
+   aligner, par exemple, un double médaillé d'or de l'édition 2019
+   disputée à Salzbourg, en Autriche, sur 800 m et 1 500 m, deuxième par
+   ailleurs du 5 000 m, résultats qu'il a réitérés trois ans plus tard à
+   Arnhem, aux Pays-Bas. L'entreprise Airbus Defence and Space a des
+   représentants pour le moins polyvalents. L'un d'eux a fini sur le
+   podium en squash aux Jeux mondiaux, en 2021 à Athènes, ainsi qu'à
    Arnhem, mais au lancer du poids.
 
    A lire aussi
-   VidÃ©o. Un tir de missile surprend les habitants de Nouvelle-Aquitaine
-   Boris Diaw Ã  Biscarrosse. Â« Autant quâ€™ils leur donnent la Coupe et on
-   nâ€™en parle plus Â» : passÃ©e lâ€™annonce, la gronde
-   RaÃ­ lors de la cÃ©rÃ©minie dâ€™ouverture. RaÃ­ lors de la cÃ©rÃ©minie
-   dâ€™ouverture.
+   Vidéo. Un tir de missile surprend les habitants de Nouvelle-Aquitaine
+   Boris Diaw à Biscarrosse. « Autant qu'ils leur donnent la Coupe et on
+   n'en parle plus » : passée l'annonce, la gronde
+   Raí lors de la céréminie d'ouverture. Raí lors de la céréminie
+   d'ouverture.
    guillaume bonnaud / SUD OUEST
-   Les sujets associÃ©s
+   Les sujets associés
 
      * Sport
      * Gironde
      * Bordeaux
 
-LES DERNIÃˆRES VIDÃ‰OS
+LES DERNIÈRES VIDÉOS
 
    Premium
    La une de sudouest aujourd'hui
    Sur Web, Tablette et Mobile
      __________________________________________________________________
 
-     * Le journal et ses supplÃ©ments
-     * L'accÃ¨s aux articles abonnÃ©s
-     * L'Ã‰dition du soir
-     * Le club AbonnÃ©s
+     * Le journal et ses suppléments
+     * L'accès aux articles abonnés
+     * L'Édition du soir
+     * Le club Abonnés
      * Les Formats Longs
      * Les Archives depuis 1944
 
-   AbonnÃ© papier ? Activez votre accÃ¨s S'abonner Ã  partir de 1â‚¬ Mon espace
-   premium
+   Abonné papier ? Activez votre accès S'abonner à partir de 1EUR Mon
+   espace premium
 
    Toutes les rubriques
    Fermer
    Mon compte
-   DÃ©connexion
+   Déconnexion
    Mon compte
-   DÃ©connexion
+   Déconnexion
    Devenez premium
    Connexion
    Devenez premium
    ____________________ (BUTTON) (BUTTON)
    Communes
      * Bordeaux
-     * La RochelleğŸ“
+     * La Rochelle
      * Mont-de-Marsan
-     * PÃ©rigueux
+     * Périgueux
      * Pau
-     * AngoulÃªme
+     * Angoulême
      * Libourne
      * Biscarrosse
-     * Royan ğŸ“
+     * Royan
      * Langon
-     * MÃ©doc
+     * Médoc
      * Bayonne
 
      * Biarritz
@@ -243,49 +243,49 @@ LES DERNIÃˆRES VIDÃ‰OS
      * Agen
      * Cognac
      * Arcachon
-     * Saintes ğŸ“
+     * Saintes
      * Villeneuve s/ Lot
      * Bergerac
-     * MÃ©rignac
+     * Mérignac
      * Gradignan
      * Trouver ma commune
 
-   ChaÃ®nes TV
+   Chaînes TV
      * TV7
      * TVPI
 
-   ActualitÃ© & Services
-     * Ã€ la une
+   Actualité & Services
+     * À la une
      * Faits divers
-     * Ã‰conomie
+     * Économie
      * Culture
      * Politique
      * International
-     * Resultats Ã‰lections
+     * Resultats Élections
 
      * Journal
      * Premium
      * Archives
-     * SociÃ©tÃ©
+     * Société
      * Environnement
      * Technologies
-     * SantÃ©
-     * IdÃ©es
+     * Santé
+     * Idées
      * Coronavirus
      * Tourisme
-     * Ã‰tudiant
+     * Étudiant
      * Billetterie
      * Diverto
      * Bons plans
 
-   Formats spÃ©ciaux
+   Formats spéciaux
      * Formats longs
      * Podcasts
 
    Sud Ouest et Vous
      * Jeux
      * Journal des lecteurs
-     * Club AbonnÃ©s
+     * Club Abonnés
 
    Sport
      * Tout le sport
@@ -294,32 +294,32 @@ LES DERNIÃˆRES VIDÃ‰OS
      * Girondins
      * Rugby
      * Stade rochelais
-     * Union bordeaux bÃ¨gles
+     * Union bordeaux bègles
      * Section paloise
      * SU Agen
      * Basket
      * Surf
      * Clubs
-     * RÃ©sultats
+     * Résultats
      * Directs
      * Hippisme
-     * OÃ¹ pratiquer
+     * Où pratiquer
      * Raffut
 
    Autour du Journal
      * Mon journal
      * S'abonner
-     * GÃ©rer mon abonnement
+     * Gérer mon abonnement
      * Recherche Archives
      * Photos Collectors
      * Journal anniversaire
      * Visiter le centre d'impression
 
    Annonces
-     * Avis de dÃ©cÃ¨s
+     * Avis de décès
      * Emploi/formation
      * Immobilier
-     * Annonces lÃ©gales
+     * Annonces légales
 
    Suivre
      * Applications
@@ -332,30 +332,30 @@ LES DERNIÃˆRES VIDÃ‰OS
 Vous avez choisi de refuser les cookies
 
    Pourtant, comme les abonnements, ils permettent de soutenir le travail
-   des 250 journalistes de notre rÃ©daction qui s'engagent Ã  vous proposer
-   chaque jour une information de qualitÃ©, fiable et complÃ¨te.
+   des 250 journalistes de notre rédaction qui s'engagent à vous proposer
+   chaque jour une information de qualité, fiable et complète.
 
-   En acceptant les cookies, vous pourrez accÃ©der aux contenus et
-   fonctionnalitÃ©s gratuites que propose notre site.
-   Ã€ tout moment, vous pouvez modifier vos choix via le bouton â€œcookiesâ€
+   En acceptant les cookies, vous pourrez accéder aux contenus et
+   fonctionnalités gratuites que propose notre site.
+   À tout moment, vous pouvez modifier vos choix via le bouton "cookies"
    en bas de page.
    Accepter les cookies ou S'abonner
 
-   RÃ©pondre
-   Pour rÃ©agir Ã  cet article, remplissez le champ ci-dessous. Vous pouvez
-   Ã©galement, consulter notre charte des commentaires.
+   Répondre
+   Pour réagir à cet article, remplissez le champ ci-dessous. Vous pouvez
+   également, consulter notre charte des commentaires.
    []
    Auteur
-   Lire les rÃ¨gles de modÃ©ration de sudouest.fr
+   Lire les règles de modération de sudouest.fr
 
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   (BUTTON) RÃ©agir
+   (BUTTON) Réagir
 
    Signaler un commentaire
-   Merci de nous dÃ©crire prÃ©cisÃ©ment ce qui vous paraÃ®t illÃ©gal dans ce
+   Merci de nous décrire précisément ce qui vous paraît illégal dans ce
    message.
 
    ____________________________________________________________

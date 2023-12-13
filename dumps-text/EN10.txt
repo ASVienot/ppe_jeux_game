@@ -18,6 +18,6 @@ What can I do to resolve this?
    include what you were doing when this page came up and the Cloudflare
    Ray ID found at the bottom of this page.
 
-   Cloudflare Ray ID: 82cb84469cc0d357 • Your IP: (BUTTON) Click to reveal
-   2a01:e0a:b73:d310:536d:9384:4aa7:4c07 • Performance & security by
+   Cloudflare Ray ID: 82cb84469cc0d357 o Your IP: (BUTTON) Click to reveal
+   2a01:e0a:b73:d310:536d:9384:4aa7:4c07 o Performance & security by
    Cloudflare

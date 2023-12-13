@@ -45,40 +45,67 @@ Contents
      * (Top)
      * 1Strategy set
        (BUTTON) Toggle Strategy set subsection
-          + 1.1Choosing a strategy set
-     * 2Pure and mixed strategies
-     * 3Mixed strategy
-       (BUTTON) Toggle Mixed strategy subsection
-          + 3.1Illustration
-          + 3.2Significance
-          + 3.3Interpretations of mixed strategies
-          + 3.4Behavior strategy
-          + 3.5Outcome equivalence
-          + 3.6Strategy with perfect recall
-     * 4See also
-     * 5References
+
+     * 1.1Choosing a strategy set
+
+     2Pure and mixed strategies
+
+
+
+   3Mixed strategy
+
+   (BUTTON) Toggle Mixed strategy subsection
+     * 3.1Illustration
+
+
+
+   3.2Significance
+
+
+
+   3.3Interpretations of mixed strategies
+
+
+
+   3.4Behavior strategy
+
+
+
+   3.5Outcome equivalence
+
+
+
+   3.6Strategy with perfect recall
+
+
+
+   4See also
+
+
+
+   5References
 
    [ ] Toggle the table of contents
 
 Strategy (game theory)
 
    [ ] 16 languages
-     * Čeština
+     * Cestina
      * Deutsch
-     * Español
-     * فارسی
-     * Français
-     * 한국어
+     * Espa�ol
+     * f+a+r+s+
+     * Fran�ais
+     * ��
      * Italiano
-     * עברית
+     * E+B+R+J+T+
      * Polski
-     * Português
-     * Русский
-     * Српски / srpski
-     * Українська
-     * Tiếng Việt
-     * 粵語
-     * 中文
+     * Portugu�s
+     * Russkij
+     * Srpski / srpski
+     * Ukrayins'ka
+     * Tie>'ng Vie>-.t
+     * �
+     * �
 
    Edit links
 
@@ -163,8 +190,8 @@ Strategy set[edit]
 
    A player has a finite strategy set if they have a number of discrete
    strategies available to them. For instance, a game of rock paper
-   scissors comprises a single move by each player—and each player's move
-   is made without knowledge of the other's, not as a response—so each
+   scissors comprises a single move by each player--and each player's move
+   is made without knowledge of the other's, not as a response--so each
    player has the finite strategy set {rock paper scissors}.
 
    A strategy set is infinite otherwise. For instance the cake cutting
@@ -195,8 +222,8 @@ Choosing a strategy set[edit]
    offers of ($0, $2, $4, ..., $20). Including all such strategies makes
    for a very large strategy space and a somewhat difficult problem. A
    game theorist might instead believe they can limit the strategy set to:
-   {Reject any offer ≤ x, accept any offer > x; for x in ($0, $1, $2, ...,
-   $20)}.
+   {Reject any offer <= x, accept any offer > x; for x in ($0, $1, $2,
+   ..., $20)}.
 
 Pure and mixed strategies[edit]
 
@@ -249,7 +276,7 @@ Illustration[edit]
     Payoff for the Soccer Game (Kicker, Goalie)
 
    This game has no pure-strategy equilibrium, because one player or the
-   other would deviate from any profile of strategies—for example, (Left,
+   other would deviate from any profile of strategies--for example, (Left,
    Left) is not an equilibrium because the Kicker would deviate to Right
    and increase his payoff from 0 to 1.
 
@@ -349,13 +376,13 @@ Behavior strategy[edit]
 Outcome equivalence[edit]
 
    Outcome equivalence combines the mixed and behavioral strategy of
-   Player i in relation to the pure strategy of Player i’s opponent.
+   Player i in relation to the pure strategy of Player i's opponent.
    Outcome equivalence is defined as the situation in which, for any mixed
    and behavioral strategy that Player i takes, in response to any pure
-   strategy that Player I’s opponent plays, the outcome distribution of
+   strategy that Player I's opponent plays, the outcome distribution of
    the mixed and behavioral strategy must be equal. This equivalence can
-   be described by the following formula: (Q^(U(i), S(-i)))(z) = (Q^(β(i),
-   S(-i)))(z), where U(i) describes Player i's mixed strategy, β(i)
+   be described by the following formula: (Q^(U(i), S(-i)))(z) = (Q^(b(i),
+   S(-i)))(z), where U(i) describes Player i's mixed strategy, b(i)
    describes Player i's behavioral strategy, and S(-i) is the opponent's
    strategy.^[8]
 
@@ -374,7 +401,7 @@ Strategy with perfect recall[edit]
 
    Without perfect information (i.e. imperfect information), players make
    a choice at each decision node without knowledge of the decisions that
-   have preceded it. Therefore, a player’s mixed strategy can produce
+   have preceded it. Therefore, a player's mixed strategy can produce
    outcomes that their behavioral strategy cannot, and vice versa. This is
    demonstrated in the Absent-minded Driver game. With perfect recall and
    information, the driver has a single pure strategy, which is [continue,
@@ -405,19 +432,19 @@ References[edit]
        doi:10.1257/00028280260344678.
     4. ^ Aumann, R. (1985). "What is Game Theory Trying to accomplish?"
        (PDF). In Arrow, K.; Honkapohja, S. (eds.). Frontiers of Economics.
-       Oxford: Basil Blackwell. pp. 909–924.
+       Oxford: Basil Blackwell. pp. 909-924.
     5. ^ ^a ^b Rubinstein, A. (1991). "Comments on the interpretation of
-       Game Theory". Econometrica. 59 (4): 909–924. doi:10.2307/2938166.
+       Game Theory". Econometrica. 59 (4): 909-924. doi:10.2307/2938166.
        JSTOR 2938166.
     6. ^ Harsanyi, John (1973). "Games with randomly disturbed payoffs: a
        new rationale for mixed-strategy equilibrium points". Int. J. Game
-       Theory. 2: 1–23. doi:10.1007/BF01737554. S2CID 154484458.
+       Theory. 2: 1-23. doi:10.1007/BF01737554. S2CID 154484458.
     7. ^ Aumann, Robert; Brandenburger, Adam (1995). "Epistemic Conditions
-       for Nash Equilibrium". Econometrica. 63 (5): 1161–1180.
+       for Nash Equilibrium". Econometrica. 63 (5): 1161-1180.
        CiteSeerX 10.1.1.122.5816. doi:10.2307/2171725. JSTOR 2171725.
     8. ^ Shimoji, Makoto (2012-05-01). "Outcome-equivalence of
        self-confirming equilibrium and Nash equilibrium". Games and
-       Economic Behavior. 75 (1): 441–447. doi:10.1016/j.geb.2011.09.010.
+       Economic Behavior. 75 (1): 441-447. doi:10.1016/j.geb.2011.09.010.
        ISSN 0899-8256.
     9. ^ Kak, Subhash (2017). "The Absent-Minded Driver Problem Redux".
        arXiv:1702.05778 [cs.AI].
@@ -473,6 +500,7 @@ References[edit]
      * Trembling hand
 
    Strategies
+
      * Backward induction
      * Bid shading
      * Collusion
@@ -487,6 +515,7 @@ References[edit]
 
    Classes
    of games
+
      * Bargaining problem
      * Cheap talk
      * Global game
@@ -557,7 +586,7 @@ References[edit]
      * Negamax theorem
      * Purification theorem
      * Revelation principle
-     * Sprague–Grundy theorem
+     * Sprague-Grundy theorem
      * Zermelo's theorem
 
    Key
@@ -576,10 +605,10 @@ References[edit]
      * Eric Maskin
      * Harold W. Kuhn
      * Herbert Simon
-     * Hervé Moulin
+     * Herv� Moulin
      * John Conway
      * Jean Tirole
-     * Jean-François Mertens
+     * Jean-Fran�ois Mertens
      * Jennifer Tour Chayes
      * John Harsanyi
      * John Maynard Smith
@@ -608,7 +637,7 @@ References[edit]
    Miscellaneous
 
      * All-pay auction
-     * Alpha–beta pruning
+     * Alpha-beta pruning
      * Bertrand paradox
      * Bounded rationality
      * Combinatorial game theory
@@ -649,7 +678,7 @@ References[edit]
      * This page was last edited on 7 September 2023, at 08:57 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

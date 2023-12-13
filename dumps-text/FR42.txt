@@ -1,8 +1,8 @@
     (BUTTON) Menu Tech&Co
    Replay Direct tv DirectTV
 
-     * Ã‰missions
-     * ActualitÃ©s
+     * Émissions
+     * Actualités
      * Tests
      * Guides
      * Astuces
@@ -22,10 +22,10 @@
    Regarder le direct
    Replay Tech&Co
    Replay Tech&Co
-     * Ã‰missions
+     * Émissions
      * Podcasts
      * Newsletters
-     * Ã‰vÃ©nements
+     * Événements
      * Services
        Voir plus
           + Bons Plans
@@ -35,7 +35,7 @@
           + Code promo
 
    Rubriques
-     * ActualitÃ©s
+     * Actualités
      * Startup
      * Produits
      * Gaming
@@ -43,7 +43,7 @@
      * Guides d'achat
      * Tests
      * Smartphone
-     * AndroÃ¯d
+     * Androïd
      * Apple
      * Intelligence artificielle
      * Ordinateur
@@ -55,7 +55,7 @@
    Suivez-nous sur
    Instagram Newsletters IOS Android
    Les sites du groupe
-   (BUTTON) PrÃ©cÃ©dent
+   (BUTTON) Précédent
      * BFMTV
      * Iconic Business Iconic Business
      * BFM Business
@@ -63,20 +63,20 @@
      * BFM Bourse
      * BFM Immo
      * BFM Patrimoine BFM Patrimoine
-     * BFM RÃ©gions
+     * BFM Régions
      * RMC
      * RMC Sport
      * RMC Crime RMC Crime
-     * RMC DÃ©couverte
+     * RMC Découverte
      * RMC Story
 
    (BUTTON) Suivant
 
-   CybersÃ©curitÃ©
+   Cybersécurité
 
 Comment les jeux en ligne permettent aux hackers de blanchir leur argent
 
-   Le 17/11/2023 Ã  14:02
+   Le 17/11/2023 à 14:02
      * Partager
      * Twitter
      * Whatsapp
@@ -88,84 +88,84 @@ Comment les jeux en ligne permettent aux hackers de blanchir leur argent
    mal acquis. Certains affichent des comptes virtuels dont le solde
    atteint plusieurs centaines de milliers de dollars.
 
-   Les pirates informatiques sont passÃ©s maÃ®tres dans l'art de blanchir de
+   Les pirates informatiques sont passés maîtres dans l'art de blanchir de
    l'argent sale. Pour cela, certains d'entre eux investissent leur butin
-   dans les jeux en ligne, rÃ©vÃ¨le un article publiÃ© le 16 novembre par le
-   site spÃ©cialisÃ© 404. Selon le mÃ©dia amÃ©ricain, de nombreux
-   cybercriminels font Ã©talage de leurs gains sur des forums spÃ©cialisÃ©s
-   en partageant des captures d'Ã©cran de leurs bÃ©nÃ©fices virtuels.
+   dans les jeux en ligne, révèle un article publié le 16 novembre par le
+   site spécialisé 404. Selon le média américain, de nombreux
+   cybercriminels font étalage de leurs gains sur des forums spécialisés
+   en partageant des captures d'écran de leurs bénéfices virtuels.
 
    Des fonds notamment obtenus depuis la plateforme de jeu en ligne Stake.
-   Cette derniÃ¨re permet de jouer au blackjack, ou encore d'effectuer des
+   Cette dernière permet de jouer au blackjack, ou encore d'effectuer des
    paris en ligne avec des cryptomonnaies.
 
-   "Vous avez gagnÃ© 60.000 dollars", peut-on lire sur une capture d'Ã©cran
-   d'un jeu de blackjack en ligne, partagÃ©e dans un groupe de discussion
-   de la communautÃ© des pirates informatiques. Le site 404 relate avoir vu
-   le solde d'un joueur s'Ã©levant Ã  plus de 360.000 dollars et un autre
+   "Vous avez gagné 60.000 dollars", peut-on lire sur une capture d'écran
+   d'un jeu de blackjack en ligne, partagée dans un groupe de discussion
+   de la communauté des pirates informatiques. Le site 404 relate avoir vu
+   le solde d'un joueur s'élevant à plus de 360.000 dollars et un autre
    d'une valeur de plus de 110.000 dollars en cryptomonnaie Ethereum.
 
-Revente de comptes Stake certifiÃ©s
+Revente de comptes Stake certifiés
 
-   Par le biais de la messagerie instantannÃ©e Telegram, les cybercriminels
+   Par le biais de la messagerie instantannée Telegram, les cybercriminels
    se partagent les meilleures plateformes de jeu en ligne et les astuces
-   les plus efficaces pour blanchir de l'argent et, Ã©ventuellement,
+   les plus efficaces pour blanchir de l'argent et, éventuellement,
    multiplier leur mise. "J'avais l'habitude de laver de l'argent sur
-   Stake et Rollbit", un autre casino en ligne, Ã©crit l'un d'eux.
+   Stake et Rollbit", un autre casino en ligne, écrit l'un d'eux.
 
    404 explique avoir eu connaissance d'une conversation entre deux
    pirates informatiques qui mentionnent le "depo'ing u on stake": une
-   technique qui consiste Ã  dÃ©poser de l'argent pour d'autres personnes
+   technique qui consiste à déposer de l'argent pour d'autres personnes
    sur un compte Stake.
 
-   En outre, les hackers rivalisent d'ingÃ©niositÃ© pour contourner le
-   systÃ¨me de vÃ©rification d'identitÃ© en vigueur sur la plupart des sites
-   de jeux en ligne et nÃ©cessaire pour vÃ©rifier un compte. A cet effet,
-   certains hackers mettent en vente des comptes Stake prÃ©-vÃ©rifiÃ©s qui
-   intÃ¨grent de vraies photos d'identitÃ©. Tarif: 100 dollars. Ils
-   proposent Ã©galement l'achat de comptes "clÃ©s en main".
+   En outre, les hackers rivalisent d'ingéniosité pour contourner le
+   système de vérification d'identité en vigueur sur la plupart des sites
+   de jeux en ligne et nécessaire pour vérifier un compte. A cet effet,
+   certains hackers mettent en vente des comptes Stake pré-vérifiés qui
+   intègrent de vraies photos d'identité. Tarif: 100 dollars. Ils
+   proposent également l'achat de comptes "clés en main".
 
-   Si ces hackers semblent bÃ©nÃ©ficier d'une totale impunitÃ©, ils ne sont
-   pas Ã  l'abri d'une attaque informatique Ã  leur encontre. De fait, le
-   FBI a attribuÃ© Ã  des pirates nord-corÃ©ens le vol de 41 millions de
+   Si ces hackers semblent bénéficier d'une totale impunité, ils ne sont
+   pas à l'abri d'une attaque informatique à leur encontre. De fait, le
+   FBI a attribué à des pirates nord-coréens le vol de 41 millions de
    dollars en monnaie virtuelle chez Stake, survenu en septembre 2023.
    Louis Mbembe
 
 Top Articles
 
-    1. Des impacts de balles dans l'entrÃ©e de l'immeuble oÃ¹ est mort un
-       homme de 55 ans, tuÃ© par une belle perdue tirÃ©e lors d'une
-       fusillade sur un point de deal Ã  Dijon, le 26 novembre 2023. Des
-       impacts de balles dans l'entrÃ©e de l'immeuble oÃ¹ est mort un homme
-       de 55 ans, tuÃ© par une belle perdue tirÃ©e lors d'une fusillade sur
-       un point de deal Ã  Dijon, le 26 novembre 2023.
+    1. Des impacts de balles dans l'entrée de l'immeuble où est mort un
+       homme de 55 ans, tué par une belle perdue tirée lors d'une
+       fusillade sur un point de deal à Dijon, le 26 novembre 2023. Des
+       impacts de balles dans l'entrée de l'immeuble où est mort un homme
+       de 55 ans, tué par une belle perdue tirée lors d'une fusillade sur
+       un point de deal à Dijon, le 26 novembre 2023.
 
-Ce que l'on sait de la mort Ã  Dijon d'un homme tuÃ© d'une balle perdue alors
+Ce que l'on sait de la mort à Dijon d'un homme tué d'une balle perdue alors
 qu'il dormait dans son lit
     2.
 
-Tags antimusulmans, menaces... Comment la mort de Thomas Ã  CrÃ©pol a mobilisÃ©
+Tags antimusulmans, menaces... Comment la mort de Thomas à Crépol a mobilisé
 l'"ultradroite" ce week-end
     3.
 
-Eurovision Junior 2023: ZoÃ© Clauzure, gagnante franÃ§aise, s'exprime sur le
-harcÃ¨lement scolaire
+Eurovision Junior 2023: Zoé Clauzure, gagnante française, s'exprime sur le
+harcèlement scolaire
     4.
 
-Un corrigÃ© via QR code: ces profs enregistrent des notes vocales sur les
-devoirs de leurs Ã©lÃ¨ves
+Un corrigé via QR code: ces profs enregistrent des notes vocales sur les
+devoirs de leurs élèves
     5.
 
-LassÃ© de Netflix? Voici cinq plateformes gratuites pour regarder des films et
-sÃ©ries
+Lassé de Netflix? Voici cinq plateformes gratuites pour regarder des films et
+séries
 
      * BFMTV
      * Tech
-     * CybersÃ©curitÃ©
+     * Cybersécurité
 
 A la Une
 
-   Feu vert Ã  l'extradition de l'escroc des cryptos Do Kwon
+   Feu vert à l'extradition de l'escroc des cryptos Do Kwon
 
    (BUTTON)
    (BUTTON)
@@ -180,7 +180,7 @@ A la Une
    DIRECT
 
    Tech&Co
-   La France a tout pour rÃ©ussir
+   La France a tout pour réussir
      * Facebook
      * Twitter
      * Linkedin
@@ -200,25 +200,25 @@ A la Une
 
    Nos services
      * Comparateur
-     * Meilleur Rasoir Ã©lectrique homme
+     * Meilleur Rasoir électrique homme
      * Meilleur Aspirateur
      * Meilleure Alarme maison
      * Meilleur Fauteuil gamer
-     * Comparatif DÃ©shumidificateur
+     * Comparatif Déshumidificateur
      * Comparateur assurance
      * Immobilier neuf
      * Portage salarial
-     * RÃ¨glements
+     * Règlements
 
    En savoir plus
      * Nous contacter
      * Devenir Annonceur
      * Recrutement
-     * Mentions lÃ©gales
-     * DonnÃ©es personnelles
+     * Mentions légales
+     * Données personnelles
      * Cookies
      * CGU
-     * Charte de dÃ©ontologie
+     * Charte de déontologie
 
    Les sites du groupe
      * BFMTV
@@ -231,13 +231,13 @@ A la Une
      * BFM Bourse
      * RMC BFM PLAY
      * Zone Turf
-     * RMC DÃ©couverte
+     * RMC Découverte
      * Association RMC / BFM
      * RMC Crime
      * Tech&Co
      * RMC Story
-     * BFM RÃ©gions
+     * BFM Régions
      * BFM Crypto
 
-   Â© Copyright 2006-2023 BFMTV.com. Tous droits rÃ©servÃ©s. Site Ã©ditÃ© par
+   © Copyright 2006-2023 BFMTV.com. Tous droits réservés. Site édité par
    NextInteractive

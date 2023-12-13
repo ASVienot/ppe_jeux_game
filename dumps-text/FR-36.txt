@@ -1,5 +1,5 @@
-     * accÃ©der au contenu
-     * accÃ©der au menu principal
+     * accéder au contenu
+     * accéder au menu principal
      * contactez-nous
 
    logo franceinfo
@@ -8,12 +8,12 @@
           + L'info en direct
           + Direct TV
           + Direct Radio
-          + ActualitÃ©s des rÃ©gions
-          + ActualitÃ©s outre-mer
-          + ActualitÃ©s culture
+          + Actualités des régions
+          + Actualités outre-mer
+          + Actualités culture
           + francetv sport
      * france.tv
-          + La 1Ã¨re
+          + La 1ère
           + France 2
           + France 3
           + France 4
@@ -36,13 +36,13 @@
           + Maison de la Radio
           + Le mediateur
 
-     * ConfidentialitÃ©
+     * Confidentialité
      * Newsletters
 
    France 3 Normandie
    normandie
      * (BUTTON) chez moi
-     * Ã©missions
+     * émissions
      * recherche
      * (BUTTON) menu
 
@@ -52,28 +52,28 @@
    rechercher
 
    (BUTTON) fermer le menu
-   consulter la mÃ©tÃ©o
-   thÃ©matiques
+   consulter la météo
+   thématiques
      * faits divers (BUTTON) Ouvrir le sous menu faits divers
           + accidents
           + disparitions
           + incendie
-     * sociÃ©tÃ© (BUTTON) Ouvrir le sous menu sociÃ©tÃ©
-          + Ã©ducation
+     * société (BUTTON) Ouvrir le sous menu société
+          + éducation
           + famille
           + handicap
           + justice
           + prison
-          + santÃ©
-          + sÃ©curitÃ©
+          + santé
+          + sécurité
      * environnement (BUTTON) Ouvrir le sous menu environnement
-          + amÃ©nagement du territoire
+          + aménagement du territoire
           + climat
-          + Ã©cologie
-          + Ã©nergies
+          + écologie
+          + énergies
      * culture (BUTTON) Ouvrir le sous menu culture
           + art
-          + cinÃ©ma
+          + cinéma
           + danse
           + festival de Deauville
           + gastronomie
@@ -83,9 +83,9 @@
           + patrimoine
      * sport (BUTTON) Ouvrir le sous menu sport
           + auto-moto
-          + course Ã  pied
+          + course à pied
           + cyclisme
-          + Ã©quitation
+          + équitation
           + football
           + hockey sur glace
           + sm caen
@@ -93,165 +93,165 @@
           + transat jacques vabre
           + voile
      * sorties et loisirs (BUTTON) Ouvrir le sous menu sorties et loisirs
-          + Ã©vÃ©nements
+          + événements
           + expositions
           + festivals
-          + fÃªtes locales
-          + idÃ©es de sorties
+          + fêtes locales
+          + idées de sorties
           + loisirs
           + vacances
-     * Ã©conomie (BUTTON) Ouvrir le sous menu Ã©conomie
+     * économie (BUTTON) Ouvrir le sous menu économie
           + agriculture
           + consommation
           + emploi
           + entreprises
           + immobilier
-          + mÃ©dias
-          + nuclÃ©aire
+          + médias
+          + nucléaire
           + social
      * politique (BUTTON) Ouvrir le sous menu politique
-          + Ã©lections
-          + europe Ã©cologie les verts
+          + élections
+          + europe écologie les verts
           + la france insoumise
-          + la rÃ©publique en marche
-          + les rÃ©publicains
+          + la république en marche
+          + les républicains
           + parti socialiste
           + rassemblement national
 
    garder le contact
    donnez votre avis
    contactez-nous
-   inscrivez-vous Ã  la newsletter
+   inscrivez-vous à la newsletter
    en toute transparence
    #nosSources
 
-   Aller Ã  la page rÃ©gionale
+   Aller à la page régionale
 
-Plus de jeux, moins d'animaux : voici Ã  quoi va ressembler la Colline aux
+Plus de jeux, moins d'animaux : voici à quoi va ressembler la Colline aux
 oiseaux
 
-   PubliÃ© le 21/11/2023 Ã  06h05
-   Ã‰crit par Boris Letondeur
-   Ancienne dÃ©charge, la Colline aux oiseaux est devenue en 30 ans un
-   repaire intergÃ©nÃ©rationnel pour les habitants de l'agglomÃ©ration
+   Publié le 21/11/2023 à 06h05
+   Écrit par Boris Letondeur
+   Ancienne décharge, la Colline aux oiseaux est devenue en 30 ans un
+   repaire intergénérationnel pour les habitants de l'agglomération
    caennaise.
-   Ancienne dÃ©charge, la Colline aux oiseaux est devenue en 30 ans un
-   repaire intergÃ©nÃ©rationnel pour les habitants de l'agglomÃ©ration
-   caennaise. â€¢ Â© France 3 Basse-Normandie
+   Ancienne décharge, la Colline aux oiseaux est devenue en 30 ans un
+   repaire intergénérationnel pour les habitants de l'agglomération
+   caennaise. o © France 3 Basse-Normandie
 
      * Calvados
      * Normandie
      * Caen
 
-   La Colline aux oiseaux fÃªtera ses 30 ans en 2024. Pour l'occasion, le
+   La Colline aux oiseaux fêtera ses 30 ans en 2024. Pour l'occasion, le
    jardin public caennais s'offre un lifting. Davantage d'espaces ludiques
-   apparaÃ®tront au dÃ©triment de la ferme normande, dont certains animaux
-   vont disparaÃ®tre.
+   apparaîtront au détriment de la ferme normande, dont certains animaux
+   vont disparaître.
 
-   C'est l'histoire d'une ancienne dÃ©charge devenue poumon vert, d'un lieu
-   jadis infrÃ©quentable aujourd'hui prisÃ© par les familles. Ã€ la Colline
-   aux oiseaux Ã  Caen (Calvados), les nounous promÃ¨nent les bÃ©bÃ©s, les
-   enfants jouent et dÃ©couvrent, les anciens flÃ¢nent et les actifs
-   dÃ©compressent. En 2024, le parc fÃªtera ses 30 ans, et la Ville s'est
-   donnÃ© pour mission de le rendre encore plus attractif.
+   C'est l'histoire d'une ancienne décharge devenue poumon vert, d'un lieu
+   jadis infréquentable aujourd'hui prisé par les familles. À la Colline
+   aux oiseaux à Caen (Calvados), les nounous promènent les bébés, les
+   enfants jouent et découvrent, les anciens flânent et les actifs
+   décompressent. En 2024, le parc fêtera ses 30 ans, et la Ville s'est
+   donné pour mission de le rendre encore plus attractif.
 
-Un nouveau parc aventures pour l'Ã©tÃ© 2024
+Un nouveau parc aventures pour l'été 2024
 
-   450 000 visiteurs s'y rendent chaque annÃ©e, mais les Ã©lus chargÃ©s du
-   tourisme estiment qu'ils peuvent Ãªtre encore plus nombreux avec des
-   propositions plus allÃ©chantes. Pour s'y faire, et attirer notamment les
-   ados, un parc aventure sera installÃ© au sommet de la colline Ã  l'Ã©tÃ©
+   450 000 visiteurs s'y rendent chaque année, mais les élus chargés du
+   tourisme estiment qu'ils peuvent être encore plus nombreux avec des
+   propositions plus alléchantes. Pour s'y faire, et attirer notamment les
+   ados, un parc aventure sera installé au sommet de la colline à l'été
    2024.
 
-   Sur prÃ¨s de 4 000 mÂ², la structure accrobranche Ã©rigÃ©e et gÃ©rÃ©e par
-   Accrocamp doit offrir 59 activitÃ©s rÃ©parties sur quatre niveaux ouverts
-   Ã  tous publics dÃ¨s trois ans. Deux tyroliennes de 80 mÃ¨tres
-   complÃ©teront cette offre ludique payante destinÃ©e aussi aux jeunes
+   Sur près de 4 000 m², la structure accrobranche érigée et gérée par
+   Accrocamp doit offrir 59 activités réparties sur quatre niveaux ouverts
+   à tous publics dès trois ans. Deux tyroliennes de 80 mètres
+   compléteront cette offre ludique payante destinée aussi aux jeunes
    adultes. Elle permettra en outre d'accueillir des sorties scolaires,
    des stages vacances ou team building, et des enterrements de vies de
-   jeunes filles et garÃ§ons.
-   Un parc aventure autour de l'accrobranche sera bientÃ´t installÃ© Ã  la
-   Colline aux oiseaux, Ã  Caen.
-   Un parc aventure autour de l'accrobranche sera bientÃ´t installÃ© Ã  la
-   Colline aux oiseaux, Ã  Caen. â€¢ Â© NOLWENN QUIOC / FRANCE-BLEU
-   BELFORT-MONTBÃ‰LIARD
+   jeunes filles et garçons.
+   Un parc aventure autour de l'accrobranche sera bientôt installé à la
+   Colline aux oiseaux, à Caen.
+   Un parc aventure autour de l'accrobranche sera bientôt installé à la
+   Colline aux oiseaux, à Caen. o © NOLWENN QUIOC / FRANCE-BLEU
+   BELFORT-MONTBÉLIARD
 
 Exit la ferme normande ?
 
-   "L'idÃ©e n'est pas d'en faire un parc d'attractions", avance d'emblÃ©e
+   "L'idée n'est pas d'en faire un parc d'attractions", avance d'emblée
    Julie Calberg-Ellen, adjointe au maire de Caen en charge de la
-   transition Ã©cologique. On voulait marquer les 30 ans de la Colline avec
+   transition écologique. On voulait marquer les 30 ans de la Colline avec
    plusieurs projets de requalification des jardins et massifs, mais aussi
-   proposer une offre de loisirs jusqu'alors absente Ã  Caen".
+   proposer une offre de loisirs jusqu'alors absente à Caen".
 
-   Mais l'implantation du parc aventure lÃ  oÃ¹ se trouvait jusqu'alors la
-   ferme normande, trÃ¨s prisÃ©e des enfants, fait un peu jaser et grincer
-   des dents les habituÃ©s. "On n'enlÃ¨ve pas la ferme pour mettre
-   l'accrobranche", se dÃ©fend l'Ã©lue caennaise. Certains animaux, comme
-   les chÃ¨vres, les moutons et les volailles resteront dans le parc. En
-   revanche, les vaches, l'Ã¢ne et les cochons quitteront prochainement les
+   Mais l'implantation du parc aventure là où se trouvait jusqu'alors la
+   ferme normande, très prisée des enfants, fait un peu jaser et grincer
+   des dents les habitués. "On n'enlève pas la ferme pour mettre
+   l'accrobranche", se défend l'élue caennaise. Certains animaux, comme
+   les chèvres, les moutons et les volailles resteront dans le parc. En
+   revanche, les vaches, l'âne et les cochons quitteront prochainement les
    lieux. "Ces animaux de gros gabarit vivent dans des conditions pas
-   satisfaisantes pour leur bien-Ãªtre", poursuit l'Ã©lue.
+   satisfaisantes pour leur bien-être", poursuit l'élue.
    Les gros animaux de la ferme normande quitteront la Colline aux oiseaux
    en 2024.
    Les gros animaux de la ferme normande quitteront la Colline aux oiseaux
-   en 2024. â€¢ Â© France TÃ©lÃ©visions
+   en 2024. o © France Télévisions
 
 Une aire de jeux inclusive immense
 
-   La cure de jouvence de la Colline aux oiseaux sera visible dÃ¨s
-   l'entrÃ©e, oÃ¹ le portail et l'accÃ¨s seront retracÃ©s, 860 mÂ² seront
-   dÃ©minÃ©ralisÃ©s et 22 arbres replantÃ©s. Non loin de lÃ , une aire de jeu
-   gÃ©ante et multicolore va Ãªtre implantÃ©e.
+   La cure de jouvence de la Colline aux oiseaux sera visible dès
+   l'entrée, où le portail et l'accès seront retracés, 860 m² seront
+   déminéralisés et 22 arbres replantés. Non loin de là, une aire de jeu
+   géante et multicolore va être implantée.
 
    Fruit du concours des budgets participatifs de la ville en 2021, elle
-   est entiÃ¨rement inclusive, et a donc pour vocation de permettre Ã  tous
+   est entièrement inclusive, et a donc pour vocation de permettre à tous
    les enfants, valides ou porteurs de handicap de jouer ensemble.
    Les trampolines de plain-pied sont l'une des structures ludiques
-   inclusives les plus prisÃ©es par les enfants, qu'ils soient valides ou
+   inclusives les plus prisées par les enfants, qu'ils soient valides ou
    porteurs de handicap.
    Les trampolines de plain-pied sont l'une des structures ludiques
-   inclusives les plus prisÃ©es par les enfants, qu'ils soient valides ou
-   porteurs de handicap. â€¢ Â© ALEXANDRE MARCHI / MAXPPP
+   inclusives les plus prisées par les enfants, qu'ils soient valides ou
+   porteurs de handicap. o © ALEXANDRE MARCHI / MAXPPP
 
-   Pour cÃ©lÃ©brer l'anniversaire du parc crÃ© en 1994, un week-end festif
-   est prÃ©vu les 28 et 29 juin 2024. Les Ã©coles voisines du Chemin vert et
-   de la Folie Couvrechef seront invitÃ©es "en avant-premiÃ¨re" le vendredi
-   avant une journÃ©e grand public le samedi.
+   Pour célébrer l'anniversaire du parc cré en 1994, un week-end festif
+   est prévu les 28 et 29 juin 2024. Les écoles voisines du Chemin vert et
+   de la Folie Couvrechef seront invitées "en avant-première" le vendredi
+   avant une journée grand public le samedi.
 
-   Des mini-concerts seront notamment organisÃ©s et une rose dÃ©diÃ©e Ã 
-   l'artiste Yvonne GuÃ©gan sera dÃ©voilÃ©e.
+   Des mini-concerts seront notamment organisés et une rose dédiée à
+   l'artiste Yvonne Guégan sera dévoilée.
 
 Pour aller plus loin :
 
-   amÃ©nagement du territoire environnement jardinage jardins nature nature
-   animaux Parcs et rÃ©gions naturelles idÃ©es de sorties
-   Tous les jours, recevez lâ€™actualitÃ© de votre rÃ©gion par newsletter.
+   aménagement du territoire environnement jardinage jardins nature nature
+   animaux Parcs et régions naturelles idées de sorties
+   Tous les jours, recevez l'actualité de votre région par newsletter.
    (BUTTON) Ignorer
    (BUTTON) s'inscrire
    (BUTTON)
-   Tous les jours, recevez lâ€™actualitÃ© de votre rÃ©gion par newsletter.
+   Tous les jours, recevez l'actualité de votre région par newsletter.
    ____________________ votre adresse e-mail
    (BUTTON) valider votre inscription
-   France TÃ©lÃ©visions utilise votre adresse e-mail pour vous envoyer la
-   newsletter de votre rÃ©gion. Vous pouvez vous dÃ©sabonner Ã  tout moment
+   France Télévisions utilise votre adresse e-mail pour vous envoyer la
+   newsletter de votre région. Vous pouvez vous désabonner à tout moment
    via le lien en bas de ces newsletters. Notre politique de
-   confidentialitÃ©
+   confidentialité
 
    (BUTTON) partager cet article
 
-Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
+Notre sélection d'articles à explorer sur le même thème
 
-     * Les balanÃ§oires-coques sont l'un des modÃ¨les de jeux adaptÃ©s les
-       plus installÃ©s en France.
+     * Les balançoires-coques sont l'un des modèles de jeux adaptés les
+       plus installés en France.
        Handicap. Comment rendre inclusives les aires de jeux d'enfants
-     * Ancienne dÃ©charge, la Colline aux oiseaux est devenue en 30 ans un
-       repaire intergÃ©nÃ©rationnel pour les habitants de l'agglomÃ©ration
+     * Ancienne décharge, la Colline aux oiseaux est devenue en 30 ans un
+       repaire intergénérationnel pour les habitants de l'agglomération
        caennaise.
        Feuilleton : La colline aux oiseaux a vingt ans !
 
    partager (BUTTON)
-   Plus de jeux, moins d'animaux : voici Ã  quoi va ressembler la Colline
+   Plus de jeux, moins d'animaux : voici à quoi va ressembler la Colline
    aux oiseaux
      * Facebook
      * Mail
@@ -263,19 +263,19 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
        s-de-jeux-moins-d-animaux-voici-a-quoi-va-ressembler-la-colline-aux
        -oiseaux-2875811.html
 
-   le lien a bien Ã©tÃ© copiÃ© echec, veuillez recommencer
+   le lien a bien été copié echec, veuillez recommencer
 
    Toute l'information autour de chez vous
      * Accueil >
      * Normandie >
      * Calvados >
      * Caen >
-     * Plus de jeux, moins d'animaux : voici Ã  quoi va ressembler la
+     * Plus de jeux, moins d'animaux : voici à quoi va ressembler la
        Colline aux oiseaux
 
-   lâ€™actualitÃ© de votre rÃ©gion, dans votre boÃ®te mail
-   Recevez tous les jours les principales informations de votre rÃ©gion, en
-   vous inscrivant Ã  notre newsletter
+   l'actualité de votre région, dans votre boîte mail
+   Recevez tous les jours les principales informations de votre région, en
+   vous inscrivant à notre newsletter
    Votre adresse email ____________________
    (BUTTON) m'inscrire
 
@@ -297,74 +297,74 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
      * 2011
 
      * plan du site
-     * mentions lÃ©gales
-     * gÃ©rer mes traceurs
-     * confidentialitÃ©
+     * mentions légales
+     * gérer mes traceurs
+     * confidentialité
 
-   Droits de reproduction et de diffusion rÃ©servÃ©s Â©2023 France TV
+   Droits de reproduction et de diffusion réservés ©2023 France TV
 
    Bonjour
-   Quelle est votre localitÃ© ?
-     * (BUTTON) Auvergne-RhÃ´ne-Alpes
+   Quelle est votre localité ?
+     * (BUTTON) Auvergne-Rhône-Alpes
        Les villes
           + Annecy
           + Aurillac
           + Bourg-en-Bresse
-          + ChambÃ©ry
+          + Chambéry
           + Clermont-Ferrand
           + Grenoble
           + Le Puy-En-Velay
           + Lyon
-          + MontluÃ§on
+          + Montluçon
           + Moulins
           + Privas
           + Riom
           + Saint-Etienne
           + Valence
           + Vichy
-       Les dÃ©partements
+       Les départements
           + Ain
           + Allier
-          + ArdÃ¨che
+          + Ardèche
           + Cantal
-          + DrÃ´me
-          + IsÃ¨re
+          + Drôme
+          + Isère
           + Haute-Loire
           + Haute-Savoie
           + Loire
-          + Puy-de-DÃ´me
-          + RhÃ´ne
+          + Puy-de-Dôme
+          + Rhône
           + Savoie
-          + Toute la rÃ©gion
-     * (BUTTON) Bourgogne-Franche-ComtÃ©
+          + Toute la région
+     * (BUTTON) Bourgogne-Franche-Comté
        Les villes
           + Auxerre
           + Beaune
           + Belfort
-          + BesanÃ§on
-          + Chalon-sur-SaÃ´ne
+          + Besançon
+          + Chalon-sur-Saône
           + Dijon
           + Dole
           + Le Creusot
           + Lons le Saunier
           + Luxeuil Les Bains
-          + MÃ¢con
-          + MontbÃ©liard
+          + Mâcon
+          + Montbéliard
           + Nevers
           + Pontarlier
           + Sens
           + Sochaux
           + Vesoul
-       Les dÃ©partements
-          + CÃ´te-d'Or
+       Les départements
+          + Côte-d'Or
           + Doubs
-          + Haute-SaÃ´ne
+          + Haute-Saône
           + Jura
-          + NiÃ¨vre
-          + SaÃ´ne-et-Loire
+          + Nièvre
+          + Saône-et-Loire
           + Territoire de Belfort
           + Yonne
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Bretagne
        Les villes
           + Brest
@@ -377,44 +377,44 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Saint-Brieuc
           + Saint-Malo
           + Vannes
-       Les dÃ©partements
-          + CÃ´tes-d'Armor
-          + FinistÃ¨re
+       Les départements
+          + Côtes-d'Armor
+          + Finistère
           + Ille-et-Vilaine
           + Morbihan
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Centre-Val de Loire
        Les villes
           + Blois
           + Bourges
           + Chartres
-          + ChÃ¢teauroux
+          + Châteauroux
           + Montargis
-          + OrlÃ©ans
+          + Orléans
           + Tours
-       Les dÃ©partements
+       Les départements
           + Cher
           + Eure-et-Loir
           + Indre
           + Indre-et-Loire
           + Loir-et-Cher
           + Loiret
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Corse ViaStella
        Les villes
           + Ajaccio
           + Bastia
           + Bonifacio
           + Corte
-       Les dÃ©partements
+       Les départements
           + Corse-du-Sud
           + Haute-Corse
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Grand Est
        Les villes
           + Bar-le-Duc
-          + ChÃ¢lons-en-Champagne
-          + Charleville-MÃ©ziÃ¨res
+          + Châlons-en-Champagne
+          + Charleville-Mézières
           + Chaumont
           + Colmar
           + Epernay
@@ -428,12 +428,12 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Saint-Dizier
           + Saverne
           + Sedan
-          + SÃ©lestat
+          + Sélestat
           + Strasbourg
           + Thionville
           + Troyes
           + Verdun
-       Les dÃ©partements
+       Les départements
           + Alsace
           + Ardennes
           + Aube
@@ -445,17 +445,17 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Meuse
           + Moselle
           + Vosges
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Hauts-de-France
        Les villes
           + Abbeville
           + Amiens
           + Arras
           + Beauvais
-          + BÃ©thune
+          + Béthune
           + Boulogne-sur-Mer
           + Calais
-          + CompiÃ¨gne
+          + Compiègne
           + Creil
           + Douai
           + Dunkerque
@@ -465,42 +465,42 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Roubaix
           + Saint-Quentin
           + Valenciennes
-       Les dÃ©partements
+       Les départements
           + Aisne
           + Nord
           + Oise
           + Pas-de-Calais
           + Somme
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Normandie
        Les villes
-          + AlenÃ§on
+          + Alençon
           + Caen
           + Cherbourg-En-Cotentin
           + Dieppe
           + Evreux
           + Le Havre
           + Rouen
-       Les dÃ©partements
+       Les départements
           + Calvados
           + Eure
           + Manche
           + Orne
           + Seine-Maritime
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Nouvelle-Aquitaine
        Les villes
           + Agen
-          + AngoulÃªme
+          + Angoulême
           + Arcachon
           + Bayonne
           + Bergerac
           + Biarritz
           + Bordeaux
           + Brive
-          + ChÃ¢tellerault
+          + Châtellerault
           + Dax
-          + GuÃ©ret
+          + Guéret
           + La Rochelle
           + Libourne
           + Limoges
@@ -508,32 +508,32 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Mont-de-Marsan
           + Niort
           + Pau
-          + PÃ©rigueux
+          + Périgueux
           + Poitiers
           + Rochefort
           + Saintes
-          + Sarlat-la-CanÃ©da
+          + Sarlat-la-Canéda
           + Tulle
-       Les dÃ©partements
+       Les départements
           + Charente
           + Charente-Maritime
-          + CorrÃ¨ze
+          + Corrèze
           + Creuse
-          + Deux-SÃ¨vres
+          + Deux-Sèvres
           + Dordogne
           + Gironde
           + Haute-Vienne
           + Landes
           + Lot-et-Garonne
-          + PyrÃ©nÃ©es-Atlantiques
+          + Pyrénées-Atlantiques
           + Vienne
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Occitanie
        Les villes
           + Albi
-          + AlÃ¨s
+          + Alès
           + Auch
-          + BÃ©ziers
+          + Béziers
           + Cahors
           + Carcassone
           + Castres
@@ -543,32 +543,32 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Montauban
           + Montpellier
           + Narbonne
-          + NÃ®mes
+          + Nîmes
           + Perpignan
           + Rodez
-          + SÃ¨te
+          + Sète
           + Tarbes
           + Toulouse
-       Les dÃ©partements
-          + AriÃ¨ge
+       Les départements
+          + Ariège
           + Aude
           + Aveyron
           + Gard
           + Gers
           + Haute-Garonne
-          + Hautes-PyrÃ©nÃ©es
-          + HÃ©rault
+          + Hautes-Pyrénées
+          + Hérault
           + Lot
-          + LozÃ¨re
-          + PyrÃ©nÃ©es-Orientales
+          + Lozère
+          + Pyrénées-Orientales
           + Tarn
           + Tarn-et-Garonne
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Paris Ile-de-France
        Les villes
           + Grand Paris
           + Saint-Denis
-       Les dÃ©partements
+       Les départements
           + Essonne
           + Hauts-de-Seine
           + Paris
@@ -577,7 +577,7 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Val-de-Marne
           + Val-d'Oise
           + Yvelines
-          + Toute la rÃ©gion
+          + Toute la région
      * (BUTTON) Pays de la Loire
        Les villes
           + Angers
@@ -588,14 +588,14 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Les Sables-d'Olonne
           + Nantes
           + Saint-Nazaire
-       Les dÃ©partements
+       Les départements
           + Loire-Atlantique
           + Maine-et-Loire
           + Mayenne
           + Sarthe
-          + VendÃ©e
-          + Toute la rÃ©gion
-     * (BUTTON) Provence-Alpes-CÃ´te d'Azur
+          + Vendée
+          + Toute la région
+     * (BUTTON) Provence-Alpes-Côte d'Azur
        Les villes
           + Aix-en-Provence
           + Antibes
@@ -604,7 +604,7 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Cannes
           + Digne-les-Bains
           + Draguignan
-          + FrÃ©jus Et Saint-RaphaÃ«l
+          + Fréjus Et Saint-Raphaël
           + Gap
           + Grasse
           + Marseille
@@ -612,17 +612,17 @@ Notre sÃ©lection dâ€™articles Ã  explorer sur le mÃªme thÃ¨me
           + Nice
           + Saint-Tropez
           + Toulon
-       Les dÃ©partements
+       Les départements
           + Alpes-de-Haute-Provence
           + Alpes-Maritimes
-          + Bouches-du-RhÃ´ne
+          + Bouches-du-Rhône
           + Hautes-Alpes
           + Var
           + Vaucluse
-          + Toute la rÃ©gion
+          + Toute la région
      * Toute la France
 
      * (BUTTON) chez moi
-     * Ã©missions
+     * émissions
      * recherche
      * (BUTTON) menu

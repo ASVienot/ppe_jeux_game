@@ -1,27 +1,27 @@
-    (BUTTON) Menu BFM CÃ´te d'Azur
+    (BUTTON) Menu BFM Côte d'Azur
    Replay Direct tv DirectTV
 
      * BFMTV
-     * VidÃ©os
+     * Vidéos
      * Trafic
-     * MÃ©tÃ©o
+     * Météo
      * Faits divers
      * Immo
      * Sport
-     * Bonjour La CÃ´te d'Azur
-     * Bonsoir La CÃ´te d'Azur
+     * Bonjour La Côte d'Azur
+     * Bonsoir La Côte d'Azur
      * Newsletter
      * Jeux concours
 
    Regarder le direct
    Regarder le direct
-   Replay BFM CÃ´te dâ€™Azur
-   Replay BFM CÃ´te dâ€™Azur
-     * VidÃ©os
-     * Ã‰missions
+   Replay BFM Côte d'Azur
+   Replay BFM Côte d'Azur
+     * Vidéos
+     * Émissions
      * Podcasts
      * Newsletters
-     * MÃ©tÃ©o
+     * Météo
      * Trafic
      * Canaux TV
      * Services
@@ -29,12 +29,12 @@
           + Jeux concours
           + Grille TV
           + BFMTV et vous
-          + TÃ©moins BFMTV
+          + Témoins BFMTV
           + Nous contacter
           + Devenir annonceur
 
-   BFM RÃ©gions
-   (BUTTON) PrÃ©cÃ©dent
+   BFM Régions
+   (BUTTON) Précédent
      * BFM Paris IDF
      * BFM Marseille
      * BFM Lyon
@@ -50,35 +50,35 @@
      * Faits Divers
      * Sport
      * Immo
-     * Bonjour la CÃ´te dâ€™Azur
+     * Bonjour la Côte d'Azur
      * Le 12h/17h
-     * Bonsoir la CÃ´te dâ€™Azur
+     * Bonsoir la Côte d'Azur
      * Azur Week-end
 
    Suivez-nous sur
    Instagram Newsletters IOS Android
    Les sites du groupe
-   (BUTTON) PrÃ©cÃ©dent
+   (BUTTON) Précédent
      * BFMTV
      * BFM Business
-     * BFM RÃ©gions
+     * BFM Régions
      * BFM Bourse
      * Tech&Co
      * Iconic Business Iconic Business
      * RMC
      * RMC Sport
      * RMC Crime RMC Crime
-     * RMC DÃ©couverte
+     * RMC Découverte
      * RMC Story
 
    (BUTTON) Suivant
 
    Cote dAzur
 
-Nice: une Ã©cole dÃ©diÃ©e Ã  la crÃ©ation et Ã  la commercialisation des jeux vidÃ©o
-inaugurÃ©e
+Nice: une école dédiée à la création et à la commercialisation des jeux vidéo
+inaugurée
 
-   Le 21/11/2023 Ã  14:51
+   Le 21/11/2023 à 14:51
      * Partager
      * Twitter
      * Whatsapp
@@ -86,113 +86,113 @@ inaugurÃ©e
      * Mail
      * messenger
 
-   L'Isart Digital s'est installÃ©e en septembre dernier au sein de la
-   pÃ©piniÃ¨re d'entreprises de la mÃ©tropole de Nice CÃ´te d'Azur. Cette
-   derniÃ¨re a rÃ©compensÃ© trois studios de crÃ©ation de jeu vidÃ©o, qui
+   L'Isart Digital s'est installée en septembre dernier au sein de la
+   pépinière d'entreprises de la métropole de Nice Côte d'Azur. Cette
+   dernière a récompensé trois studios de création de jeu vidéo, qui
    devraient s'installer prochainement sur le territoire.
 
-   L'avenir du jeu vidÃ©o Ã  Nice? Lors de la rentrÃ©e 2023, l'Isart Digital,
-   une Ã©cole spÃ©cialisÃ©e dans les jeux vidÃ©o, a ouvert ses portes dans le
-   chef-lieu des Alpes-Maritimes. C'est le premier Ã©tablissement de ce
-   genre Ã  s'y installer.
+   L'avenir du jeu vidéo à Nice? Lors de la rentrée 2023, l'Isart Digital,
+   une école spécialisée dans les jeux vidéo, a ouvert ses portes dans le
+   chef-lieu des Alpes-Maritimes. C'est le premier établissement de ce
+   genre à s'y installer.
 
-   L'inauguration officielle de ce troisiÃ¨me Ã©tablissement -aprÃ¨s
-   l'ouverture d'un campus Ã  Paris et Ã  MontrÃ©al- s'est dÃ©roulÃ©e ce lundi
-   20 novembre dans les locaux situÃ©s au sein de la pÃ©piniÃ¨re
-   d'entreprises de la mÃ©tropole.
+   L'inauguration officielle de ce troisième établissement -après
+   l'ouverture d'un campus à Paris et à Montréal- s'est déroulée ce lundi
+   20 novembre dans les locaux situés au sein de la pépinière
+   d'entreprises de la métropole.
 
-30 Ã©lÃ¨ves accueillis depuis le mois de septembre
+30 élèves accueillis depuis le mois de septembre
 
-   Depuis le mois de septembre, l'Ã©cole accueille 30 Ã©tudiants, dans deux
-   filiÃ¨res diffÃ©rentes. La premiÃ¨re: un bachelor of business
+   Depuis le mois de septembre, l'école accueille 30 étudiants, dans deux
+   filières différentes. La première: un bachelor of business
    administration qui s'intitule game & creative management, ce qui
-   signifie en franÃ§ais "jeu et management crÃ©atif". La deuxiÃ¨me filiÃ¨re
-   proposÃ©e est un master of science, intitulÃ© game & creative strategy,
-   soit "jeu et stratÃ©gie crÃ©ative" en franÃ§ais.
+   signifie en français "jeu et management créatif". La deuxième filière
+   proposée est un master of science, intitulé game & creative strategy,
+   soit "jeu et stratégie créative" en français.
 
-   Une volontÃ© pour les fondateurs de mÃªler l'aspect commercial Ã  celui du
-   dÃ©veloppement et de la crÃ©ation artistique.
+   Une volonté pour les fondateurs de mêler l'aspect commercial à celui du
+   développement et de la création artistique.
 
-     "On s'est dit que c'Ã©tait important que les Ã©tudiants en business
-     puissent Ãªtre en interaction avec une filiÃ¨re crÃ©ative", souffle
-     Xavier Rousselle, co-fondateur de l'Ã©cole, au micro de BFM Nice CÃ´te
+     "On s'est dit que c'était important que les étudiants en business
+     puissent être en interaction avec une filière créative", souffle
+     Xavier Rousselle, co-fondateur de l'école, au micro de BFM Nice Côte
      d'Azur.
 
-La mÃ©tropole de Nice CÃ´te d'Azur comme partenaire
+La métropole de Nice Côte d'Azur comme partenaire
 
-   En France, de plus en plus d'Ã©coles dÃ©diÃ©es Ã  la crÃ©ation et mÃªme Ã  la
-   pratique du jeu vidÃ©o ouvrent leurs portes. Et Ã  raison, puisque le
-   secteur, qui est un important crÃ©ateur d'emploi, a de l'avenir.
+   En France, de plus en plus d'écoles dédiées à la création et même à la
+   pratique du jeu vidéo ouvrent leurs portes. Et à raison, puisque le
+   secteur, qui est un important créateur d'emploi, a de l'avenir.
 
-   Alors, ce lundi 20 novembre, si l'inauguration a Ã©tÃ© mise sous le signe
-   de la prÃ©sentation des locaux et des filiÃ¨res, elle a aussi Ã©tÃ©
-   l'occasion pour la mÃ©tropole Nice CÃ´te d'Azur de rÃ©compenser trois
-   studios de dÃ©veloppement dans le cadre d'un appel Ã  projet.
+   Alors, ce lundi 20 novembre, si l'inauguration a été mise sous le signe
+   de la présentation des locaux et des filières, elle a aussi été
+   l'occasion pour la métropole Nice Côte d'Azur de récompenser trois
+   studios de développement dans le cadre d'un appel à projet.
 
-     "L'idÃ©e, c'est de pouvoir accompagner financiÃ¨rement, mais aussi en
+     "L'idée, c'est de pouvoir accompagner financièrement, mais aussi en
      termes d'accompagnement d'entreprises, des start-ups et des studios
-     aussi qui souhaitent innover dans le jeu vidÃ©o", explique Magali
-     Altounian, adjointe au maire de Nice et conseillÃ¨re mÃ©tropolitaine.
+     aussi qui souhaitent innover dans le jeu vidéo", explique Magali
+     Altounian, adjointe au maire de Nice et conseillère métropolitaine.
 
-"Une importance particuliÃ¨re"
+"Une importance particulière"
 
-   GrÃ¢ce Ã  cela, La MÃ©duse Violette, Exkee et Phoenix Bloc3, les trois
-   studios rÃ©compensÃ©s, devraient bientÃ´t s'installer dans la mÃ©tropole.
-   Et en plus de cette aide financiÃ¨re, ces dÃ©veloppeurs pourront
-   Ã©galement compter sur les renforts des futurs professionnels formÃ© Ã 
+   Grâce à cela, La Méduse Violette, Exkee et Phoenix Bloc3, les trois
+   studios récompensés, devraient bientôt s'installer dans la métropole.
+   Et en plus de cette aide financière, ces développeurs pourront
+   également compter sur les renforts des futurs professionnels formé à
    l'Isart Digital.
 
-     "Ã‡a a une importance particuliÃ¨re, parce que, comme on est un jeune
+     "Ça a une importance particulière, parce que, comme on est un jeune
      studio, on a besoin d'avoir de la formation pour pouvoir nous aider
-     Ã  monter nos Ã©quipes", rÃ©agit Lydian Feneck, directeur gÃ©nÃ©ral de
+     à monter nos équipes", réagit Lydian Feneck, directeur général de
      Phoenix Bloc3.
 
-   Sur le mÃªme sujet
-     * TÃ©traplÃ©gique, il joue avec sa bouche aux jeux vidÃ©o
-     * Cinq jeux Ã  finir en moins de cinq heures
-     * Vrai ou Faux: faut-il forcÃ©ment un PC gaming pour profiter des
-       derniers jeux vidÃ©o?
+   Sur le même sujet
+     * Tétraplégique, il joue avec sa bouche aux jeux vidéo
+     * Cinq jeux à finir en moins de cinq heures
+     * Vrai ou Faux: faut-il forcément un PC gaming pour profiter des
+       derniers jeux vidéo?
 
-   Et d'ajouter: "Avoir une antenne Ã  Nice, Ã§a nous permet d'avoir un
-   nouveau pan de la crÃ©ation du studio, Ã§a nous permettra de
-   professionnaliser les Ã©quipes au fur et Ã  mesure". AprÃ¨s Nice, l'Ã©cole
-   envisage d'ouvrir un autre campus en France d'ici Ã  2026.
+   Et d'ajouter: "Avoir une antenne à Nice, ça nous permet d'avoir un
+   nouveau pan de la création du studio, ça nous permettra de
+   professionnaliser les équipes au fur et à mesure". Après Nice, l'école
+   envisage d'ouvrir un autre campus en France d'ici à 2026.
    Martin Regley Journaliste
 
 Les plus lus
 
-    1. Des impacts de balles dans l'entrÃ©e de l'immeuble oÃ¹ est mort un
-       homme de 55 ans, tuÃ© par une belle perdue tirÃ©e lors d'une
-       fusillade sur un point de deal Ã  Dijon, le 26 novembre 2023. Des
-       impacts de balles dans l'entrÃ©e de l'immeuble oÃ¹ est mort un homme
-       de 55 ans, tuÃ© par une belle perdue tirÃ©e lors d'une fusillade sur
-       un point de deal Ã  Dijon, le 26 novembre 2023.
+    1. Des impacts de balles dans l'entrée de l'immeuble où est mort un
+       homme de 55 ans, tué par une belle perdue tirée lors d'une
+       fusillade sur un point de deal à Dijon, le 26 novembre 2023. Des
+       impacts de balles dans l'entrée de l'immeuble où est mort un homme
+       de 55 ans, tué par une belle perdue tirée lors d'une fusillade sur
+       un point de deal à Dijon, le 26 novembre 2023.
 
-Ce que l'on sait de la mort Ã  Dijon d'un homme tuÃ© d'une balle perdue alors
+Ce que l'on sait de la mort à Dijon d'un homme tué d'une balle perdue alors
 qu'il dormait dans son lit
     2.
 
-Tags antimusulmans, menaces... Comment la mort de Thomas Ã  CrÃ©pol a mobilisÃ©
+Tags antimusulmans, menaces... Comment la mort de Thomas à Crépol a mobilisé
 l'"ultradroite" ce week-end
     3.
 
-Eurovision Junior 2023: ZoÃ© Clauzure, gagnante franÃ§aise, s'exprime sur le
-harcÃ¨lement scolaire
+Eurovision Junior 2023: Zoé Clauzure, gagnante française, s'exprime sur le
+harcèlement scolaire
     4.
 
-Un corrigÃ© via QR code: ces profs enregistrent des notes vocales sur les
-devoirs de leurs Ã©lÃ¨ves
+Un corrigé via QR code: ces profs enregistrent des notes vocales sur les
+devoirs de leurs élèves
     5.
 
-LassÃ© de Netflix? Voici cinq plateformes gratuites pour regarder des films et
-sÃ©ries
+Lassé de Netflix? Voici cinq plateformes gratuites pour regarder des films et
+séries
 
      * BFMTV
      * Cote dAzur
 
 A la Une
 
-   "On a perdu beaucoup de temps" : le cofondateur de Canua Island prÃªt Ã 
+   "On a perdu beaucoup de temps" : le cofondateur de Canua Island prêt à
    remettre le projet en route
 
    (BUTTON)
@@ -207,8 +207,8 @@ A la Une
 
    DIRECT
 
-   BFM CÃ´te d'Azur
-   Info - MÃ©tÃ©o - ProximitÃ©
+   BFM Côte d'Azur
+   Info - Météo - Proximité
      * Facebook
      * Twitter
      * Flux RSS
@@ -218,40 +218,40 @@ A la Une
      * Apple
      * Android
 
-   BFM CÃ´te d'Azur
+   BFM Côte d'Azur
      * Nos dossiers
-     * Ã‰vÃ©nements
+     * Événements
      * Partenaires
      * Jeux-concours
      * Programme TV Cote d'Azur
      * Canaux TV
-     * MÃ©tÃ©o
+     * Météo
      * Applications mobiles
      * Archives
      * Plan du site
 
    Nos services
      * Comparateur
-     * Meilleur Rasoir Ã©lectrique homme
+     * Meilleur Rasoir électrique homme
      * Meilleur Aspirateur
      * Meilleure Alarme maison
      * Meilleur Fauteuil gamer
-     * Comparatif DÃ©shumidificateur
+     * Comparatif Déshumidificateur
      * Comparateur assurance
      * Shopping
      * Immobilier neuf
      * Portage Salarial
-     * RÃ¨glements
+     * Règlements
 
    En savoir plus
      * Nous contacter
      * Devenir Annonceur
      * Recrutement
-     * Mentions lÃ©gales
-     * DonnÃ©es personnelles
+     * Mentions légales
+     * Données personnelles
      * Cookies
      * CGU
-     * Charte de dÃ©ontologie
+     * Charte de déontologie
 
    Les sites du groupe
      * BFM Business
@@ -262,14 +262,14 @@ A la Une
      * Verif
      * RMC BFM PLAY
      * BFM Bourse
-     * RMC DÃ©couverte
+     * RMC Découverte
      * Zone Turf
      * RMC Crime
      * Association RMC / BFM
      * Tech&Co
-     * BFM RÃ©gions
+     * BFM Régions
      * RMC Story
      * BFM Crypto
 
-   Â© Copyright 2006-2023 BFMTV.com. Tous droits rÃ©servÃ©s. Site Ã©ditÃ© par
+   © Copyright 2006-2023 BFMTV.com. Tous droits réservés. Site édité par
    NextInteractive

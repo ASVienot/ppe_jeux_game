@@ -44,44 +44,123 @@ Contents
    (BUTTON) move to sidebar (BUTTON) hide
      * (Top)
      * 1Origins
-     * 2Terminology
-       (BUTTON) Toggle Terminology subsection
-          + 2.1Definition
-          + 2.2Video game terminology
-     * 3Components
-       (BUTTON) Toggle Components subsection
-          + 3.1Platform
-          + 3.2Game media
-          + 3.3Input device
-          + 3.4Display and output
-     * 4Classifications
-       (BUTTON) Toggle Classifications subsection
-          + 4.1Genre
-          + 4.2Mode
-          + 4.3Types
-          + 4.4Content rating
-     * 5Development
-       (BUTTON) Toggle Development subsection
-          + 5.1Game theory and studies
-          + 5.2Intellectual property for video games
-     * 6Industry
-       (BUTTON) Toggle Industry subsection
-          + 6.1History
-          + 6.2Industry roles
-          + 6.3Major regional markets
-          + 6.4Game sales
-     * 7Effects on society
-       (BUTTON) Toggle Effects on society subsection
-          + 7.1Culture
-          + 7.2Beneficial uses
-          + 7.3Controversies
-     * 8Collecting and preservation
-     * 9See also
-     * 10Notes
-     * 11References
-     * 12Sources
-     * 13Further reading
-     * 14External links
+
+     2Terminology
+   (BUTTON) Toggle Terminology subsection
+     * 2.1Definition
+
+     2.2Video game terminology
+
+
+
+   3Components
+
+   (BUTTON) Toggle Components subsection
+     * 3.1Platform
+
+
+
+   3.2Game media
+
+
+
+   3.3Input device
+
+
+
+   3.4Display and output
+
+
+
+   4Classifications
+
+   (BUTTON) Toggle Classifications subsection
+     * 4.1Genre
+
+
+
+   4.2Mode
+
+
+
+   4.3Types
+
+
+
+   4.4Content rating
+
+
+
+   5Development
+
+   (BUTTON) Toggle Development subsection
+     * 5.1Game theory and studies
+
+
+
+   5.2Intellectual property for video games
+
+
+
+   6Industry
+
+   (BUTTON) Toggle Industry subsection
+     * 6.1History
+
+
+
+   6.2Industry roles
+
+
+
+   6.3Major regional markets
+
+
+
+   6.4Game sales
+
+
+
+   7Effects on society
+
+   (BUTTON) Toggle Effects on society subsection
+     * 7.1Culture
+
+
+
+   7.2Beneficial uses
+
+
+
+   7.3Controversies
+
+
+
+   8Collecting and preservation
+
+
+
+   9See also
+
+
+
+   10Notes
+
+
+
+   11References
+
+
+
+   12Sources
+
+
+
+   13Further reading
+
+
+
+   14External links
 
    [ ] Toggle the table of contents
 
@@ -90,125 +169,125 @@ Video game
    [ ] 122 languages
      * Afrikaans
      * Alemannisch
-     * Ænglisc
-     * العربية
-     * Aragonés
+     * �nglisc
+     * a+l+e+r+b+y+tm
+     * Aragon�s
      * Asturianu
-     * Avañe'ẽ
-     * Azərbaycanca
+     * Ava�e'e?
+     * Az@rbaycanca
      * Basa Bali
-     * বাংলা
-     * Bân-lâm-gú
-     * Башҡортса
-     * Беларуская
-     * Беларуская (тарашкевіца)
-     * Български
+     * ����
+     * B�n-l�m-g�
+     * Bash�ortsa
+     * Belaruskaya
+     * Belaruskaya (tarashkeviica)
+     * B"lgarski
      * Bosanski
      * Brezhoneg
-     * Català
-     * Čeština
+     * Catal�
+     * Cestina
      * Cymraeg
      * Deutsch
      * Eesti
-     * Ελληνικά
-     * Emiliàn e rumagnòl
-     * Español
+     * Ellynika'
+     * Emili�n e rumagn�l
+     * Espa�ol
      * Esperanto
      * Euskara
-     * فارسی
-     * Føroyskt
-     * Français
+     * f+a+r+s+
+     * F�royskt
+     * Fran�ais
      * Frysk
      * Galego
-     * 한국어
+     * ��
      * Hausa
-     * Հայերեն
-     * हिन्दी
+     * �����
+     * ����
      * Hrvatski
      * Ido
      * Igbo
      * Bahasa Indonesia
      * Interlingua
      * Interlingue
-     * Íslenska
+     * �slenska
      * Italiano
-     * עברית
+     * E+B+R+J+T+
      * Jawa
-     * ქართული
-     * कॉशुर / کٲشُر
-     * Қазақша
+     * ���
+     * �� / ��sn'+r+
+     * azasha
      * Kiswahili
-     * Kriyòl gwiyannen
-     * Kurdî
-     * Кыргызча
+     * Kriy�l gwiyannen
+     * Kurd�
+     * Kyrgyzcha
      * Ladin
      * Latina
-     * Latviešu
-     * Lëtzebuergesch
-     * Lietuvių
+     * Latviesu
+     * L�tzebuergesch
+     * Lietuviu
      * Limburgs
-     * Lingála
+     * Ling�la
      * La .lojban.
      * Lombard
      * Magyar
-     * Македонски
-     * മലയാളം
-     * मराठी
-     * مصرى
-     * مازِرونی
+     * Makedonski
+     * �����
+     * ���
+     * m+c+r+j+
+     * m+a+z+1+r+w+n+
      * Bahasa Melayu
-     * Монгол
-     * မြန်မာဘာသာ
+     * Mongol
+     * �����
      * Nederlands
      * Nedersaksies
-     * 日本語
-     * Norsk bokmål
+     * ��
+     * Norsk bokm�l
      * Norsk nynorsk
      * Occitan
-     * Oʻzbekcha / ўзбекча
-     * ਪੰਜਾਬੀ
+     * O;Szbekcha / v%zbekcha
+     * ����
      * Patois
      * Polski
-     * Português
-     * Română
+     * Portugu�s
+     * Rom�na
      * Runa Simi
-     * Русский
-     * Саха тыла
+     * Russkij
+     * Saha tyla
      * Sardu
      * Scots
      * Seeltersk
      * Shqip
      * Sicilianu
      * Simple English
-     * Slovenčina
-     * Slovenščina
-     * Ślůnski
-     * کوردی
-     * Српски / srpski
-     * Srpskohrvatski / српскохрватски
+     * Slovencina
+     * Slovenscina
+     * Slunski
+     * �w+r+d+
+     * Srpski / srpski
+     * Srpskohrvatski / srpskohrvatski
      * Suomi
      * Svenska
      * Tagalog
-     * தமிழ்
+     * ����
      * Taqbaylit
-     * Татарча / tatarça
-     * తెలుగు
-     * ไทย
-     * Тоҷикӣ
-     * Türkçe
-     * Türkmençe
-     * Українська
-     * Vèneto
-     * Tiếng Việt
+     * Tatarcha / tatar�a
+     * ��
+     * �
+     * To�ik�
+     * T�rk�e
+     * T�rkmen�e
+     * Ukrayins'ka
+     * V�neto
+     * Tie>'ng Vie>-.t
      * Walon
      * Winaray
-     * 吴语
-     * ייִדיש
-     * Yorùbá
-     * 粵語
+     * ��
+     * J+J+iD+J+Sh
+     * Yor�b�
+     * �
      * Zazaki
-     * Žemaitėška
-     * 中文
+     * Zemaiteska
+     * �
      * Batak Toba
 
    Edit links
@@ -417,7 +496,7 @@ Origins
    oscilloscope for a display
 
    Early video games use interactive electronic devices with various
-   display formats. The earliest example is from 1947—a "cathode-ray tube
+   display formats. The earliest example is from 1947--a "cathode-ray tube
    amusement device" was filed for a patent on 25 January 1947, by Thomas
    T. Goldsmith Jr. and Estle Ray Mann, and issued on 14 December 1948, as
    U.S. Patent 2455992.^[2] Inspired by radar display technology, it
@@ -661,7 +740,7 @@ Components
    This section needs additional citations for verification. Please help
    improve this article by adding citations to reliable sources in this
    section. Unsourced material may be challenged and removed.
-   Find sources: "Video game" – news · newspapers · books · scholar ·
+   Find sources: "Video game" - news � newspapers � books � scholar �
    JSTOR (November 2022) (Learn how and when to remove this template
    message)
 
@@ -677,7 +756,7 @@ Components
    alternative platforms than intended, which are described as ports or
    conversions. These also may be remasters - where most of the original
    game's source code is reused and art assets, models, and game levels
-   are updated for modern systems – and remakes, where in addition to
+   are updated for modern systems - and remakes, where in addition to
    asset improvements, significant reworking of the original game and
    possibly from scratch is performed.^[39]
 
@@ -1089,7 +1168,7 @@ Classifications
        and other works in Australia, using ratings of G (General), PG
        (Parental Guidance), M (Mature), MA15+ (Mature Accompanied), R18+
        (Restricted), and X (Restricted for pornographic material). ACB can
-       also deny to give a rating to game (RC – Refused Classification).
+       also deny to give a rating to game (RC - Refused Classification).
        The ACB's ratings are enforceable by law, and importantly, games
        cannot be imported or purchased digitally in Australia if they have
        failed to gain a rating or were given the RC rating, leading to a
@@ -1272,7 +1351,7 @@ Development
    artistic aspects of the game such as its writing, art assets, and
    music. Gameplay itself is generally not considered copyrightable; in
    the United States among other countries, video games are considered to
-   fall into the idea–expression distinction in that it is how the game is
+   fall into the idea-expression distinction in that it is how the game is
    presented and expressed to the player that can be copyrighted, but not
    the underlying principles of the game.^[83]
 
@@ -1418,7 +1497,7 @@ Industry
 
   Major regional markets
 
-   See also: Video game industry § International practices
+   See also: Video game industry � International practices
 
    The industry itself grew out from both the United States and Japan in
    the 1970s and 1980s before having a larger worldwide contribution.
@@ -1477,7 +1556,7 @@ Effects on society
    competition, as a new trend known as electronic sports is becoming more
    widely accepted. In the 2010s, video games and discussions of video
    game trends and topics can be seen in social media, politics,
-   television, film and music. The COVID-19 pandemic during 2020–2021 gave
+   television, film and music. The COVID-19 pandemic during 2020-2021 gave
    further visibility to video games as a pastime to enjoy with friends
    and family online as a means of social distancing.^[101]^[102]
 
@@ -1499,7 +1578,7 @@ Effects on society
    museum exhibits, including The Art of Video Games at the Smithsonian
    American Art Museum and toured at other museums from 2012 to 2016.
 
-   Main articles: Film adaptation § Video game adaptation, and Hollywood
+   Main articles: Film adaptation � Video game adaptation, and Hollywood
    and the video game industry
 
    Video games will inspire sequels and other video games within the same
@@ -1569,12 +1648,12 @@ Effects on society
    attitude while playing that is of such high concentration, they do not
    realize they are learning, and that if the same attitude could be
    adopted at school, education would enjoy significant
-   benefits.^[114]^[dubious – discuss] Students are found to be "learning
+   benefits.^[114]^[dubious - discuss] Students are found to be "learning
    by doing" while playing video games while fostering creative
    thinking.^[115]
 
    Video games are also believed to be beneficial to the mind and body. It
-   has been shown that action video game players have better hand–eye
+   has been shown that action video game players have better hand-eye
    coordination and visuo-motor skills, such as their resistance to
    distraction, their sensitivity to information in the peripheral vision
    and their ability to count briefly presented objects, than
@@ -1605,8 +1684,8 @@ Effects on society
    computer science professor Regan Mandryk of the University of
    Saskatchewan said her research also showed that video games can have
    health benefits such as reducing stress and improving mental health.
-   The university's research studied all age groups – "from pre-literate
-   children through to older adults living in long term care homes" – with
+   The university's research studied all age groups - "from pre-literate
+   children through to older adults living in long term care homes" - with
    a main focus on 18 to 55-year-olds.^[122]
 
    A study of gamers attitudes towards gaming which was reported about in
@@ -1621,12 +1700,12 @@ Effects on society
    This section needs additional citations for verification. Please help
    improve this article by adding citations to reliable sources in this
    section. Unsourced material may be challenged and removed.
-   Find sources: "Video game" – news · newspapers · books · scholar ·
+   Find sources: "Video game" - news � newspapers � books � scholar �
    JSTOR (June 2023) (Learn how and when to remove this template message)
 
    Main article: Video game controversies
 
-   See also: Digital media use and mental health § Autism
+   See also: Digital media use and mental health � Autism
 
    [220px-Compulsion_loop_for_video_games.svg.png] The compulsion loop for
    video games is believed to trigger dopamine release that can encourage
@@ -1738,7 +1817,7 @@ References
        and esports to the next level". World Economic Forum. Archived from
        the original on 5 May 2021. Retrieved 5 May 2021.
     2. ^ U.S. Patent 2,455,992
-    3. ^ ^a ^b ^c ^d "Welcome to Pong-Story – Introduction". Pong-Story.
+    3. ^ ^a ^b ^c ^d "Welcome to Pong-Story - Introduction". Pong-Story.
        Archived from the original on 27 August 2010. Retrieved 24 October
        2007.
     4. ^ "Welcome to... NIMROD!". goodeveca.net. Archived from the
@@ -1755,7 +1834,7 @@ References
     8. ^ Yagoda, Marvin (2008). "1972 Nutting Associates Computer Space".
        Marvin's Marvelous Mechanical Museum. Archived from the original on
        28 December 2008.
-    9. ^ "History of Gaming – Interactive Timeline of Game History". PBS.
+    9. ^ "History of Gaming - Interactive Timeline of Game History". PBS.
        Archived from the original on 18 February 2006. Retrieved 25
        October 2007.
    10. ^ Miller, Michael (1 April 2005). A History of Home Video Game
@@ -1769,10 +1848,10 @@ References
        Fun. Syzygy Press. pp. 26. ISBN 978-0985597405.
    13. ^ ^a ^b Wolf, Mark (2007). "Chapter 1: What Is a Video Game?". In
        Wolf, Mark (ed.). The Video Game Explosion. Westport, CT: Greenwood
-       Press. pp. 3–7. ISBN 978-0313338687.
+       Press. pp. 3-7. ISBN 978-0313338687.
    14. ^ ^a ^b ^c Wolf, Mark JP (2001). "Chapter 1: Video game as the
        medium". The Medium of the Video Game. University of Texas Press.
-       pp. 13–33. ISBN 9780292791503.
+       pp. 13-33. ISBN 9780292791503.
    15. ^ ^a ^b Wolf, Mark; Perron, Bernard (2003). "Introduction: An
        Introduction To The Video Game Theory". The Video Game Theory
        Reader. Routledge, Taylor & Francis Group.
@@ -1786,22 +1865,23 @@ References
        Brief History of Early Japanese video games". International Journal
        of Computer Game Research. 13 (2). Archived from the original on 24
        June 2015. Retrieved 19 November 2016.
-   19. ^ Akagi, Masumi (13 October 2006). アーケードTVゲームリスト国内•海外編(1971–2005)
-       [Arcade TV Game List: Domestic • Overseas Edition (1971–2005)] (in
-       Japanese). Japan: Amusement News Agency. ISBN 978-4990251215.
+   19. ^ Akagi, Masumi (13 October 2006). A6-6Ke-6DoTVGe-6MuRiSuTo� o
+       ��(1971-2005) [Arcade TV Game List: Domestic o Overseas Edition
+       (1971-2005)] (in Japanese). Japan: Amusement News Agency.
+       ISBN 978-4990251215.
    20. ^ "A red-hot market for video games". BusinessWeek. 10 November
        1973. p. 212.
    21. ^ Edwards, Benj (12 December 2007). "VC&G Interview: Nolan
        Bushnell, Founder of Atari". Vintage Computing. Archived from the
        original on 23 July 2020. Retrieved 3 August 2020.
    22. ^ Adlum, Eddie (November 1985). "The Replay Years: Reflections from
-       Eddie Adlum". RePlay. Vol. 11, no. 2. pp. 134–175 (152).^[dead
+       Eddie Adlum". RePlay. Vol. 11, no. 2. pp. 134-175 (152).^[dead
        link]
    23. ^ Therrien, Carl (January 2012). "Video Games Caught Up in History"
        (PDF). Archived (PDF) from the original on 13 November 2022.
    24. ^ Spring, Dawn (3 April 2015). "Gaming history: computer and video
        games as historical scholarship". Rethinking History. 19 (2):
-       207–221. doi:10.1080/13642529.2014.973714. ISSN 1364-2529.
+       207-221. doi:10.1080/13642529.2014.973714. ISSN 1364-2529.
        S2CID 144613217.
    25. ^ Squire, Kurt. "Video Games in Education" (PDF). Archived (PDF)
        from the original on 19 November 2012.
@@ -1812,12 +1892,12 @@ References
    28. ^ Perron, Bernard (2013). "From gamers to players and gameplayers:
        The example of interactive movies". In Wolf, Mark JP; Perron,
        Bernard (eds.). The Video Game Theory Reader. Routledge.
-       pp. 259–280. ISBN 9781135205188.
+       pp. 259-280. ISBN 9781135205188.
    29. ^ Clark, Nicole (11 November 2017). "A brief history of the
        "walking simulator," gaming's most detested genre". Salon. Archived
        from the original on 24 August 2020. Retrieved 12 September 2021.
    30. ^ Zimmermann, Felix; Huberts, Christian (2019). "From walking
-       simulator to ambience action game". Press Start. 5 (2): 29–50.
+       simulator to ambience action game". Press Start. 5 (2): 29-50.
    31. ^ ^a ^b Knoop, Joseph (10 September 2021). "Epic v Apple judge
        grapples with the big question: What is a videogame?". PC Gamer.
        Archived from the original on 15 September 2021. Retrieved 10
@@ -1830,10 +1910,10 @@ References
    34. ^ Wolf, Mark J.P. (2012). Encyclopedia of Video Games: The Culture,
        Technology, and Art of Gaming. ABC-CLIO. p. 177.
        ISBN 978-0-313-37936-9.
-   35. ^ Björk, Staffan; Holopainen, Jussi (2005). Patterns In Game Design
+   35. ^ Bj�rk, Staffan; Holopainen, Jussi (2005). Patterns In Game Design
        Archived 5 May 2016 at the Wayback Machine. Charles River Media. p.
        235. ISBN 978-1-58450-354-5. Retrieved 25 January 2013.
-   36. ^ ^a ^b De Prato, Guiditta; Feijóo, Claudio; Nepelski, Daniel;
+   36. ^ ^a ^b De Prato, Guiditta; Feij�o, Claudio; Nepelski, Daniel;
        Bogdanowicz, Marc; Simon, Jean Paul (2010). Born digital/grown
        digital: Assessing the future competitiveness of the EU video games
        software industry (Report). JRC Scientific and Technical Reports.
@@ -1843,7 +1923,7 @@ References
        Microsoft and Nintendo Battle for Supremacy". In Thompson, Arthur;
        Strickland III, A. J.; Gamble, John (eds.). Crafting and Executing
        Strategy: The Quest for Competitive Advantage: Concepts and Cases.
-       McGraw-Hill. pp. C-198–C211. ISBN 978-0073381244.
+       McGraw-Hill. pp. C-198-C211. ISBN 978-0073381244.
    39. ^ Grabarczyk, Pawel; Aarseth, Espen (August 2019). "Port or
        conversion? An ontological framework for classifying game
        versions". Proceedings of the 2019 DiGRA International Conference:
@@ -1869,7 +1949,7 @@ References
        Publishing. p. 21. ISBN 9781430313052. Archived (PDF) from the
        original on 11 July 2011. Retrieved 13 September 2021.
    45. ^ Apperley, Thomas H. (2006). "Genre and game studies" (PDF).
-       Simulation & Gaming. 37 (1): 6–23. doi:10.1177/1046878105282278.
+       Simulation & Gaming. 37 (1): 6-23. doi:10.1177/1046878105282278.
        S2CID 17373114. Archived from the original (PDF) on 5 October 2013.
        Retrieved 19 April 2013.
    46. ^ Adams, Ernest (9 July 2009). "Background: The Origins of Game
@@ -1889,8 +1969,8 @@ References
    50. ^ Perron, Bernard (2009). "Games of Fear: A Multi-Faceted
        Historical Account of the Horror Genre in Video Games". In Perron,
        Bernard (ed.). Horror Video Games: Essays on the Fusion of Fear and
-       Play. McFarland & Company. pp. 26–45. ISBN 978-0786441976.
-   51. ^ Parish, Jeremy. "The Essential 50 Part 12 – Rogue". 1UP.com.
+       Play. McFarland & Company. pp. 26-45. ISBN 978-0786441976.
+   51. ^ Parish, Jeremy. "The Essential 50 Part 12 - Rogue". 1UP.com.
        Archived from the original on 28 February 2013. Retrieved 1 March
        2009.
    52. ^ Lecky-Thompson, Guy W. (1 January 2008). Video Game Design
@@ -1901,7 +1981,7 @@ References
        the original on 26 July 2020. Retrieved 24 May 2020.
    54. ^ Arsenault, Dominic (2009). "Video Game Genre, Evolution and
        Innovation". Eludamos. Journal for Computer Game Culture. 3 (2):
-       149–176. doi:10.7557/23.6003. S2CID 62171492.
+       149-176. doi:10.7557/23.6003. S2CID 62171492.
    55. ^ Phillips, Tom (15 April 2020). "Video game pioneer John H. Conway
        dies aged 82". Eurogamer. Archived from the original on 27 April
        2020. Retrieved 19 March 2021.
@@ -1919,20 +1999,20 @@ References
        original on 13 January 2021. Retrieved 29 March 2021.
    60. ^ Dondlinger, Mary Jo (2007). "Educational Video Game Design: A
        Review of the Literature". Journal of Applied Educational
-       Technology. 4 (1): 21–31.
+       Technology. 4 (1): 21-31.
    61. ^ Walton, Mark (25 November 2012). "Minecraft In Education: How
        Video Games Are Teaching Kids". GameSpot. CBS Interactive. Archived
        from the original on 10 October 2013. Retrieved 9 December 2012.
    62. ^ Davidson, Pete (7 July 2011). "SpaceChem Used as Educational Tool
        in Schools". GamePro. Archived from the original on 2 December
        2011. Retrieved 18 July 2011.
-   63. ^ Wiemeyer, Josef; Dörner, Ralf; Göbel, Stefan; Effelsberg,
+   63. ^ Wiemeyer, Josef; D�rner, Ralf; G�bel, Stefan; Effelsberg,
        Wolfgang (2016). "1. Introduction". Serious Games: Foundations,
        Concepts and Practice. Springer International Publishing.
        ISBN 978-3319406121.
    64. ^ Djaouti, Damien; Alvarez, Julian; Jessel, Jean-Pierre; Rampnoux,
        Olivier (2011). "Origins of Serious Games". Serious Games and
-       Edutainment Applications. Springer. pp. 25–43.
+       Edutainment Applications. Springer. pp. 25-43.
        doi:10.1007/978-1-4471-2161-9_3. ISBN 978-1-4471-2160-2.
    65. ^ Schilling, Chris (23 July 2009). "Art house video games". The
        Daily Telegraph. London. Archived from the original on 10 January
@@ -1942,7 +2022,7 @@ References
        Melbourne DAC 2003. 2003.
    67. ^ Gintere, Ieva (2019). A New Digital Art Game: The Art of the
        Future. Society. Integration. Education. Proceedings of the
-       International Scientific Conference. Vol. 4. pp. 346–360.
+       International Scientific Conference. Vol. 4. pp. 346-360.
    68. ^ McCauley, Dennis. "The Political Game: A Brief History of Video
        Game Legislation". joystiq.com. Archived from the original on 24
        December 2012. Retrieved 20 January 2013.
@@ -1960,7 +2040,7 @@ References
        development and the next generation of consoles". Ars Technica.
        Archived from the original on 3 June 2020. Retrieved 3 June 2020.
    73. ^ Steve L. Kent (2001), The ultimate history of video games: from
-       Pong to Pokémon and beyond : the story behind the craze that
+       Pong to Pok�mon and beyond : the story behind the craze that
        touched our lives and changed the world, p. 64, Prima,
        ISBN 0-7615-3643-4
    74. ^ June, Laura (16 January 2013). "For Amusement Only: The Life and
@@ -1977,7 +2057,7 @@ References
        Retrieved 15 November 2016.
    78. ^ ^a ^b Crogan, Patrick (2018). "Indie Dreams: Video Games,
        Creative Economy, and the Hyperindustrial Epoch" (PDF). Games and
-       Culture. 13 (7): 671–689. doi:10.1177/1555412018756708.
+       Culture. 13 (7): 671-689. doi:10.1177/1555412018756708.
        S2CID 148890661. Archived from the original on 30 January 2022.
        Retrieved 27 April 2021.
    79. ^ Murray 1998.
@@ -2015,9 +2095,9 @@ References
        from the original on 1 November 2021. Retrieved 7 August 2012.
    91. ^ ^a ^b ^c Ernkvist, Mirko (2008). "Down many times, but still
        playing the game: Creative destruction and industry crashes in the
-       early video game industry 1971–1986". In Gratzer, Karl; Stiefel,
-       Dieter (eds.). History of Insolvancy and Bankruptcy. Södertörns
-       högskola. pp. 161–191. ISBN 978-91-89315-94-5.
+       early video game industry 1971-1986". In Gratzer, Karl; Stiefel,
+       Dieter (eds.). History of Insolvancy and Bankruptcy. S�dert�rns
+       h�gskola. pp. 161-191. ISBN 978-91-89315-94-5.
    92. ^ Demaria, Rusel; Wilson, John (2002). High Score!: The Illustrated
        History of Electronic Games (1st ed.). McGraw-Hill Osborne Media.
        ISBN 0-07-222428-2.
@@ -2025,10 +2105,10 @@ References
        to the Steam gold rush: How indie conquered the PC". PC Gamer.
        Archived from the original on 9 September 2021. Retrieved 25
        September 2017.
-   94. ^ Marchand, André; Hennig-Thurau, Thorsten (August 2013). "Value
+   94. ^ Marchand, Andr�; Hennig-Thurau, Thorsten (August 2013). "Value
        Creation in the Video Game Industry: Industry Economics, Consumer
        Benefits, and Research Opportunities". Journal of Interactive
-       Marketing. 27 (3): 141–157. doi:10.1016/j.intmar.2013.05.001.
+       Marketing. 27 (3): 141-157. doi:10.1016/j.intmar.2013.05.001.
    95. ^ Pulliam-Moore, Charles (21 August 2014). "Women significantly
        outnumber teenage boys in gamer demographics". PBS News Hour.
        Archived from the original on 12 March 2021. Retrieved 2 April
@@ -2076,7 +2156,7 @@ References
        Understanding Media and Culture. University of Minnesota. 2010.
    110. ^ Lowood, Henry (2005). "Real-Time Performance: Machinima and Game
        Studies" (PDF). The International Digital Media & Arts Association
-       Journal. 2 (1): 10–17. ISSN 1554-0405. Archived from the original
+       Journal. 2 (1): 10-17. ISSN 1554-0405. Archived from the original
        (PDF) on 1 January 2006. Retrieved 22 March 2013.
    111. ^ Good, Owen (20 February 2020). "How Lucasfilm used Unreal Engine
        to make The Mandalorian". Polygon. Archived from the original on 13
@@ -2090,10 +2170,10 @@ References
    114. ^ James Paul Gee; et al. (2007). "Wired 11.05: View". Codenet,
        Inc. Archived from the original on 17 May 2008. Retrieved 4
        December 2007.
-   115. ^ Glazer, S. (2006). "Video games". CQ Researcher. 16: 937–960.
+   115. ^ Glazer, S. (2006). "Video games". CQ Researcher. 16: 937-960.
        cqresrre2006111000.
    116. ^ Green, C. Shawn; Bavelier, Daphne (2003). "Action video game
-       modifies visual selective attention". Nature. 423 (6939): 534–537.
+       modifies visual selective attention". Nature. 423 (6939): 534-537.
        Bibcode:2003Natur.423..534G. doi:10.1038/nature01647.
        PMID 12774121. S2CID 1521273. Green & Bavelier. Archived from the
        original on 6 June 2020. Retrieved 13 September 2020.
@@ -2133,7 +2213,7 @@ References
    126. ^ Barrus, Michael M.; Winstanley, Catharine A. (20 January 2016).
        "Dopamine D3 Receptors Modulate the Ability of Win-Paired Cues to
        Increase Risky Choice in a Rat Gambling Task". The Journal of
-       Neuroscience. 36 (3): 785–794. doi:10.1523/JNEUROSCI.2225-15.2016.
+       Neuroscience. 36 (3): 785-794. doi:10.1523/JNEUROSCI.2225-15.2016.
        PMC 6602008. PMID 26791209. S2CID 23617462.
    127. ^ Kim, Joseph (23 March 2014). "The Compulsion Loop Explained".
        Gamasutra. Archived from the original on 14 August 2020. Retrieved
@@ -2146,7 +2226,7 @@ References
        original on 2 December 2017.
    130. ^ "National Videogame Museum opens in Frisco". Fox4news.com. 12
        April 2016. Archived from the original on 7 November 2017.
-   131. ^ "Computerspielemuseum – Berlin". Computerspielemuseum.de.
+   131. ^ "Computerspielemuseum - Berlin". Computerspielemuseum.de.
        Archived from the original on 1 May 2011.
    132. ^ "Museum of Soviet arcade machines". 15kop.ru. Archived from the
        original on 28 January 2010.
@@ -2166,7 +2246,7 @@ References
    138. ^ "eGameRevolution". International Center for the History of
        Electronic Games. Archived from the original on 27 May 2013.
        Retrieved 26 May 2013.
-   139. ^ "History of Computing: Video games – Golden Age". thocp.net.
+   139. ^ "History of Computing: Video games - Golden Age". thocp.net.
        Archived from the original on 26 December 2011.
    140. ^ Anttonelli, Paola (29 November 2012). "Video Games: 14 in the
        Collection, for Starters". MoMA. Archived from the original on 8
@@ -2224,12 +2304,12 @@ Further reading
 
      John Wills (1 October 2002). "Digital Dinosaurs and Artificial Life:
    Exploring the Culture of Nature in Computer and Video Games". Cultural
-   Values (Journal for Cultural Research). 6 (4): 395–417.
+   Values (Journal for Cultural Research). 6 (4): 395-417.
    doi:10.1080/1362517022000047334. S2CID 144132612.
 
      Williams, J.P.; Smith, J.H., eds. (2007). The players' realm: studies
    on the culture of video games and gaming. Jefferson, NC: McFarland &
-   Co. How can video games boost your mental health? – Max Birk (Eindhoven
+   Co. How can video games boost your mental health? - Max Birk (Eindhoven
    University of Technology)
      * The Ultimate History of Video Games: From Pong to Pokemon--The
        Story Behind the Craze That Touched Our Lives and Changed the World
@@ -2494,7 +2574,7 @@ External links
 
    Themes
      * Advergame
-     * Bishōjo
+     * Bishojo
      * Christian
      * Comedy
      * Educational
@@ -2576,7 +2656,7 @@ External links
 
    Chronology of video games
    Early history
-     * 1947–1972
+     * 1947-1972
 
    1970s
      * 1971
@@ -2661,15 +2741,15 @@ External links
      * History of mobile games
 
    By console generation
-     * First (1972–1980)
-     * Second (1976–1992)
-     * Third (1983–2003)
-     * Fourth (1987–2003)
-     * Fifth (1993–2005)
-     * Sixth (1998–2013)
-     * Seventh (2005–2017)
-     * Eighth (2012–)
-     * Ninth (2020–)
+     * First (1972-1980)
+     * Second (1976-1992)
+     * Third (1983-2003)
+     * Fourth (1987-2003)
+     * Fifth (1993-2005)
+     * Sixth (1998-2013)
+     * Seventh (2005-2017)
+     * Eighth (2012-)
+     * Ninth (2020-)
 
      * v
      * t
@@ -2803,7 +2883,7 @@ External links
    Related concepts
    Themes
      * Advergame
-     * Bishōjo
+     * Bishojo
      * Christian
      * Comedy
      * Educational
@@ -3004,7 +3084,7 @@ External links
      * This page was last edited on 5 December 2023, at 03:01 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

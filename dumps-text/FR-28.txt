@@ -1,18 +1,18 @@
-   #alternate alternate SudOuest : rss actualitÃ©s
+   #alternate alternate SudOuest : rss actualités
 
    IFRAME: //www.googletagmanager.com/ns.html?id=GTM-NG4RXS
 
-   RubriquesLa chaÃ®nePodcasts
+   RubriquesLa chaînePodcasts
    Mon compteS'identifierS'abonnerJournal
 
-   RechercherLa chaÃ®nePodcasts
+   RechercherLa chaînePodcasts
    JournalS'identifierMon compte
-   ğŸ“ Ma ville  ActualitÃ©  DÃ©clicLa sÃ©lection  Faits diversSport  Loisirs
-   Services  Ã‰tudiant  Annonces
+   Ma ville  Actualité  DéclicLa sélection  Faits diversSport  Loisirs
+   Services  Étudiant  Annonces
    (*)
      * Toutes les communes
      * Agen
-     * AngoulÃªme
+     * Angoulême
      * Arcachon
      * Bayonne
      * Bergerac
@@ -21,19 +21,19 @@
      * Dax
 
      * Langon
-     * La Rochelle ğŸ“
+     * La Rochelle
      * Libourne
      * Marmande
-     * MÃ©doc
+     * Médoc
      * Mont-de-Marsan
      * Oloron
      * Orthez
 
      * Pau
-     * PÃ©rigueux
-     * Rochefort ğŸ“
-     * Royan ğŸ“
-     * Saintes ğŸ“
+     * Périgueux
+     * Rochefort
+     * Royan
+     * Saintes
      * Saint-Jean-de-Luz
      * Villeneuve-sur-Lot
 
@@ -44,11 +44,11 @@
      * Economie
      * Environnement
 
-     * SantÃ©
-     * SociÃ©tÃ©
+     * Santé
+     * Société
 
    ( )
-     * SÃ©lection du jour
+     * Sélection du jour
      * Edition du soir
 
      * Premium
@@ -68,9 +68,9 @@
      * Basket
      * Surf
 
-     * Sports mÃ©caniques
+     * Sports mécaniques
      * Hockey
-     * RÃ©sultats
+     * Résultats
      * Jeux Olympiques
 
    ( )
@@ -78,8 +78,8 @@
      * Diverto
      * Gastronomie
 
-     * IdÃ©es
-     * TÃ©lÃ©vision
+     * Idées
+     * Télévision
      * Programme TV
 
      * Tourisme
@@ -88,11 +88,11 @@
 
    ( )
      * Archives
-     * Club abonnÃ©s
+     * Club abonnés
      * Jeux
 
      * Horoscope
-     * Ã‰vÃ¨nements
+     * Évènements
      * Billetterie
 
      * Bons plans
@@ -101,239 +101,239 @@
 
    ( )
      * Accueil
-     * LycÃ©e
+     * Lycée
      * Examens
 
      * Parcoursup
-     * Ã‰tudes supÃ©rieures
-     * Trouver votre Ã©cole
+     * Études supérieures
+     * Trouver votre école
 
-     * RÃ©sultats bac
-     * RÃ©sultats brevet
-     * SÃ©ries TV
+     * Résultats bac
+     * Résultats brevet
+     * Séries TV
 
    ( )
-     * Avis de dÃ©cÃ¨s
+     * Avis de décès
      * Emploi
 
      * Immobilier
 
-     * LÃ©gales
+     * Légales
 
    ' +
    '
    Sud Ouest
 
-   Toute l'actualitÃ© de votre rÃ©gion en continu sur notre application
+   Toute l'actualité de votre région en continu sur notre application
    (BUTTON) Voir
 
-   RÃ©servÃ© aux abonnÃ©s
+   Réservé aux abonnés
 
-Jeux olympiques 2024 : Ã  huit mois des JO, la sÃ©curitÃ© est dÃ©jÃ  un sport
+Jeux olympiques 2024 : à huit mois des JO, la sécurité est déjà un sport
 olympique
 
     Lecture 3 min
    Accueil Sport Jeux Olympiques Paris 2024
-   Jeux olympiques 2024 : Ã  huit mois des JO, la sÃ©curitÃ© est dÃ©jÃ  un
-   sport olympique PrÃ¨s de 10 000 militaires viendront en renfort des
-   45 000 policiers et gendarmes mobilisÃ©s pour assurer la sÃ©curitÃ© des
-   Jeux olympiques, notamment la cÃ©rÃ©monie dâ€™ouverture. Ci-dessus, une
-   patrouille devant lâ€™HÃ´tel de ville de Paris. Â© CrÃ©dit photo : archives
+   Jeux olympiques 2024 : à huit mois des JO, la sécurité est déjà un
+   sport olympique Près de 10 000 militaires viendront en renfort des
+   45 000 policiers et gendarmes mobilisés pour assurer la sécurité des
+   Jeux olympiques, notamment la cérémonie d'ouverture. Ci-dessus, une
+   patrouille devant l'Hôtel de ville de Paris. © Crédit photo : archives
    CHRISTOPHE SIMON/AFP
 
    Par Sylvain Cottin
-   PubliÃ© le 21/11/2023 Ã  20h07.
-   Mis Ã  jour le 21/11/2023 Ã  21h59.
-     * Ã‰couter
-     * RÃ©agir
+   Publié le 21/11/2023 à 20h07.
+   Mis à jour le 21/11/2023 à 21h59.
+     * Écouter
+     * Réagir
      * Partager
      * S'abonner
 
-   Tandis que lâ€™Ã‰tat peine Ã  recruter les 22 000 agents de sÃ©curitÃ© privÃ©e
-   espÃ©rÃ©s, câ€™est Ã  lâ€™armÃ©e quâ€™une vÃ©ritable Â« opÃ©ration militaire Â» a Ã©tÃ©
-   confiÃ©e. En coulisse, chaque semaine, une cellule de crise rÃ©unit dÃ©jÃ 
-   une petite Ã©quipe de gÃ©nÃ©raux, prÃ©fets et policiers
+   Tandis que l'État peine à recruter les 22 000 agents de sécurité privée
+   espérés, c'est à l'armée qu'une véritable « opération militaire » a été
+   confiée. En coulisse, chaque semaine, une cellule de crise réunit déjà
+   une petite équipe de généraux, préfets et policiers
 
-   Ce mardi matin lÃ , comme tous les autres depuis la rentrÃ©e, câ€™est
-   autour du prÃ©fet Mosimann quâ€™ils auront un peu plus ancrÃ© les
-   fondations du futur Centre national de commandement stratÃ©gique (CNCS).
-   Une Â« rÃ©union de crise Â», comme pour mieux exorciser celles que tous
-   redoutent Ã  lâ€™horizon de lâ€™Ã©tÃ© prochain. Un peu rassurÃ© par
-   lâ€™organisation sans faille de la Coupe du monde de rugby, le grand
-   coordinateur pour la sÃ©curitÃ© de Paris 2024 (du vendredi 26 juillet au
-   dimanche 11 aoÃ»t) rappellera pourtant Ã  sa troupe sÃ©vÃ¨rement galonnÃ©e
-   â€“ un autre prÃ©fet, le commandant du GIGN, deux gÃ©nÃ©raux et un
-   commissaire du renseignement â€“ qu...
+   Ce mardi matin là, comme tous les autres depuis la rentrée, c'est
+   autour du préfet Mosimann qu'ils auront un peu plus ancré les
+   fondations du futur Centre national de commandement stratégique (CNCS).
+   Une « réunion de crise », comme pour mieux exorciser celles que tous
+   redoutent à l'horizon de l'été prochain. Un peu rassuré par
+   l'organisation sans faille de la Coupe du monde de rugby, le grand
+   coordinateur pour la sécurité de Paris 2024 (du vendredi 26 juillet au
+   dimanche 11 août) rappellera pourtant à sa troupe sévèrement galonnée
+   - un autre préfet, le commandant du GIGN, deux généraux et un
+   commissaire du renseignement - qu...
 
-   Ce mardi matin lÃ , comme tous les autres depuis la rentrÃ©e, câ€™est
-   autour du prÃ©fet Mosimann quâ€™ils auront un peu plus ancrÃ© les
-   fondations du futur Centre national de commandement stratÃ©gique (CNCS).
-   Une Â« rÃ©union de crise Â», comme pour mieux exorciser celles que tous
-   redoutent Ã  lâ€™horizon de lâ€™Ã©tÃ© prochain. Un peu rassurÃ© par
-   lâ€™organisation sans faille de la Coupe du monde de rugby, le grand
-   coordinateur pour la sÃ©curitÃ© de Paris 2024 (du vendredi 26 juillet au
-   dimanche 11 aoÃ»t) rappellera pourtant Ã  sa troupe sÃ©vÃ¨rement galonnÃ©e
-   â€“ un autre prÃ©fet, le commandant du GIGN, deux gÃ©nÃ©raux et un
-   commissaire du renseignement â€“ quâ€™il faut dÃ©sormais aller Â« plus vite,
-   plus haut, plus fort Â».
+   Ce mardi matin là, comme tous les autres depuis la rentrée, c'est
+   autour du préfet Mosimann qu'ils auront un peu plus ancré les
+   fondations du futur Centre national de commandement stratégique (CNCS).
+   Une « réunion de crise », comme pour mieux exorciser celles que tous
+   redoutent à l'horizon de l'été prochain. Un peu rassuré par
+   l'organisation sans faille de la Coupe du monde de rugby, le grand
+   coordinateur pour la sécurité de Paris 2024 (du vendredi 26 juillet au
+   dimanche 11 août) rappellera pourtant à sa troupe sévèrement galonnée
+   - un autre préfet, le commandant du GIGN, deux généraux et un
+   commissaire du renseignement - qu'il faut désormais aller « plus vite,
+   plus haut, plus fort ».
 
-   Ã€ huit mois des Jeux, voilÃ  donc dÃ©crÃ©tÃ© lâ€™Ã©tat dâ€™urgence au sein de
-   cette petite Ã©quipe engagÃ©e dans un marathon sÃ©curitaire couru Ã 
-   lâ€™allure dâ€™un sprint jusquâ€™Ã  la cÃ©rÃ©monie dâ€™ouverture. Â« Nous ne sommes
-   pas en retard, mais câ€™est un gros chantier Â», souffle Serge Boulanger,
-   lâ€™homme en charge de lâ€™Ã©vÃ©nement Ã  la PrÃ©fecture de police. Â« PrÃ¨s de
+   À huit mois des Jeux, voilà donc décrété l'état d'urgence au sein de
+   cette petite équipe engagée dans un marathon sécuritaire couru à
+   l'allure d'un sprint jusqu'à la cérémonie d'ouverture. « Nous ne sommes
+   pas en retard, mais c'est un gros chantier », souffle Serge Boulanger,
+   l'homme en charge de l'événement à la Préfecture de police. « Près de
    600 000 spectateurs sont attendus sur les quais de Seine, dont une
-   centaine de chefs dâ€™Ã‰tat et de gouvernement, câ€™est davantage que pour
-   le couronnement du roi Charles. Â»
+   centaine de chefs d'État et de gouvernement, c'est davantage que pour
+   le couronnement du roi Charles. »
 
 Le GIGN sur la Seine
 
-   OÃ¹ lâ€™on raconte alors comment certains esprits, aussi chagrins
-   quâ€™inquiets, plaideraient encore lâ€™hypothÃ¨se dâ€™un plan B. Â« Il nâ€™en est
-   pas question, dÃ©jÃ  parce que cette parade faisait partie du dossier de
-   candidature. Nous ne rentrerons pas dans le dÃ©tail, mais le dispositif
-   sera Ã  la hauteur. Â» Au fil de lâ€™eau et des rÃ©pÃ©titions entre les ponts
-   dâ€™Austerlitz et dâ€™IÃ©na, selon nos informations, disons tout de mÃªme
-   quâ€™un binÃ´me du GIGN devrait discrÃ¨tement embarquer avec les athlÃ¨tes Ã 
-   bord de chacun des 91 bateaux attendus. Â« Le Raid sera chargÃ© de les
-   escorter, tandis que la brigade de recherche et dâ€™intervention (BRI)
-   tiendra les quais Â», confirme Ã  demi-mot le patron de lâ€™unitÃ© dâ€™Ã©lite
-   de la gendarmerie. Â« Pour autant, je crois moins Ã  lâ€™Ã©ventualitÃ© dâ€™une
-   prise dâ€™otages sur ces embarcations, ou Ã  proximitÃ©, que dans les
-   fan-zones Â», nuance le gÃ©nÃ©ral RÃ©ty.
+   Où l'on raconte alors comment certains esprits, aussi chagrins
+   qu'inquiets, plaideraient encore l'hypothèse d'un plan B. « Il n'en est
+   pas question, déjà parce que cette parade faisait partie du dossier de
+   candidature. Nous ne rentrerons pas dans le détail, mais le dispositif
+   sera à la hauteur. » Au fil de l'eau et des répétitions entre les ponts
+   d'Austerlitz et d'Iéna, selon nos informations, disons tout de même
+   qu'un binôme du GIGN devrait discrètement embarquer avec les athlètes à
+   bord de chacun des 91 bateaux attendus. « Le Raid sera chargé de les
+   escorter, tandis que la brigade de recherche et d'intervention (BRI)
+   tiendra les quais », confirme à demi-mot le patron de l'unité d'élite
+   de la gendarmerie. « Pour autant, je crois moins à l'éventualité d'une
+   prise d'otages sur ces embarcations, ou à proximité, que dans les
+   fan-zones », nuance le général Réty.
 
-     Â« Ces Jeux seront une tribune pour toutes les actions
-     revendicatives. Des plus modÃ©rÃ©es aux plus radicales Â»
+     « Ces Jeux seront une tribune pour toutes les actions
+     revendicatives. Des plus modérées aux plus radicales »
 
-   Bien en amont de la Seine et de cette cÃ©rÃ©monie dont les derniers
-   dÃ©tails doivent Ãªtre rÃ©glÃ©s avant fin dÃ©cembre, câ€™est dâ€™ailleurs dÃ¨s le
-   8 mai et lâ€™arrivÃ©e de la flamme Ã  Marseille â€“ et jusquâ€™Ã  la clÃ´ture des
-   Jeux paralympiques (du mercredi 28 aoÃ»t au dimanche 8 septembre) â€“ que
-   lâ€™on redoute en coulisse le dÃ©but des possibles hostilitÃ©s. Â« Aux
-   collectivitÃ©s locales de gÃ©rer aussi son parcours et les relais Â»,
-   insiste Thierry Mosimann, quand le Raid et le GIGN ne seront ici quâ€™en
-   Â« rÃ©serve dâ€™intervention Â».
+   Bien en amont de la Seine et de cette cérémonie dont les derniers
+   détails doivent être réglés avant fin décembre, c'est d'ailleurs dès le
+   8 mai et l'arrivée de la flamme à Marseille - et jusqu'à la clôture des
+   Jeux paralympiques (du mercredi 28 août au dimanche 8 septembre) - que
+   l'on redoute en coulisse le début des possibles hostilités. « Aux
+   collectivités locales de gérer aussi son parcours et les relais »,
+   insiste Thierry Mosimann, quand le Raid et le GIGN ne seront ici qu'en
+   « réserve d'intervention ».
 
-   Un dÃ©fi proportionnel Ã  la menace fantÃ´me, quâ€™il sâ€™agisse de gÃ©rer
-   comme autant de cibles potentielles les 40 sites de compÃ©tition, lieux
-   dâ€™hÃ©bergement, gares et autres aÃ©roports. Ã€ cette tÃ¢che, qui les
-   privera un mois durant de congÃ©s, 45 000 gendarmes et policiers seront
-   affectÃ©s. Â« Le but Ã©tant de gagner quelques minutes, voire des secondes
-   qui se rÃ©vÃ¨leraient prÃ©cieuses en cas dâ€™attaque terroriste ou de tuerie
-   de masse, notre rÃ´le sera dâ€™Ãªtre prÃ©positionnÃ©s au plus prÃ¨s des sites
-   sensibles Â», prÃ©cise Ghislain RÃ©ty, jurant au passage ne pas abandonner
-   Ã  leur triste sort les autres fronts quotidiens du GIGN. Â« Ailleurs la
-   vie continue, et nous nâ€™allons pas dÃ©shabiller nos 14 antennes
-   rÃ©gionales et leur lot de pÃ¨res de famille devenus forcenÃ©s. Â»
+   Un défi proportionnel à la menace fantôme, qu'il s'agisse de gérer
+   comme autant de cibles potentielles les 40 sites de compétition, lieux
+   d'hébergement, gares et autres aéroports. À cette tâche, qui les
+   privera un mois durant de congés, 45 000 gendarmes et policiers seront
+   affectés. « Le but étant de gagner quelques minutes, voire des secondes
+   qui se révèleraient précieuses en cas d'attaque terroriste ou de tuerie
+   de masse, notre rôle sera d'être prépositionnés au plus près des sites
+   sensibles », précise Ghislain Réty, jurant au passage ne pas abandonner
+   à leur triste sort les autres fronts quotidiens du GIGN. « Ailleurs la
+   vie continue, et nous n'allons pas déshabiller nos 14 antennes
+   régionales et leur lot de pères de famille devenus forcenés. »
 
-10 000 soldats mobilisÃ©s
+10 000 soldats mobilisés
 
-   Loin de ces missions dâ€™exception, câ€™est sur lâ€™armÃ©e de lâ€™ombre des
-   agents de sÃ©curitÃ© privÃ©e que le gouvernement compte alors se reposer.
-   Une partie loin dâ€™Ãªtre gagnÃ©e, tant lâ€™offre est inversement
-   proportionnelle Ã  la demande formulÃ©e. Â« On a besoin de
-   22 000 personnes, reconnaÃ®t le prÃ©fet Mosimann. Demandeurs dâ€™emploi,
-   Ã©tudiants, ouvriers du BTP ou bÃ©nÃ©voles sportifs, lâ€™appel que nous
-   lanÃ§ons est massif. Â»
+   Loin de ces missions d'exception, c'est sur l'armée de l'ombre des
+   agents de sécurité privée que le gouvernement compte alors se reposer.
+   Une partie loin d'être gagnée, tant l'offre est inversement
+   proportionnelle à la demande formulée. « On a besoin de
+   22 000 personnes, reconnaît le préfet Mosimann. Demandeurs d'emploi,
+   étudiants, ouvriers du BTP ou bénévoles sportifs, l'appel que nous
+   lançons est massif. »
 
-   Dâ€™autres, en revanche, nâ€™auront quâ€™Ã  obÃ©ir Ã  lâ€™ordre de mobilisation
-   gÃ©nÃ©rale annoncÃ©. Avec environ 10 000 soldats concernÃ©s, câ€™est une
-   bataille inÃ©dite quâ€™aura ainsi Ã  mener lâ€™armÃ©e sur le front des Jeux.
-   Â« Une vÃ©ritable opÃ©ration militaire qui, si le prÃ©sident lâ€™accepte,
-   sera baptisÃ©e comme tel Â», prÃ©vient le gÃ©nÃ©ral Abad, gouverneur de la
-   place de Paris. Par le prompt renfort des effectifs de lâ€™opÃ©ration
-   Sentinelle, 5 000 seront alors cantonnÃ©s sur la pelouse de Reuilly, en
-   lieu et place de la Foire du trÃ´ne. Â« Jâ€™avais dÃ©jÃ  rÃ©quisitionnÃ© une
-   quinzaine de casernes â€“ nous ne pouvions Ã©videmment pas leur payer des
-   chambres Ã  1 000 euros sur Airbnb. Â»
-   Sur le mÃªme sujet
+   D'autres, en revanche, n'auront qu'à obéir à l'ordre de mobilisation
+   générale annoncé. Avec environ 10 000 soldats concernés, c'est une
+   bataille inédite qu'aura ainsi à mener l'armée sur le front des Jeux.
+   « Une véritable opération militaire qui, si le président l'accepte,
+   sera baptisée comme tel », prévient le général Abad, gouverneur de la
+   place de Paris. Par le prompt renfort des effectifs de l'opération
+   Sentinelle, 5 000 seront alors cantonnés sur la pelouse de Reuilly, en
+   lieu et place de la Foire du trône. « J'avais déjà réquisitionné une
+   quinzaine de casernes - nous ne pouvions évidemment pas leur payer des
+   chambres à 1 000 euros sur Airbnb. »
+   Sur le même sujet
 
-   Jeux olympiques 2024. Le difficile recrutement des agents de sÃ©curitÃ© :
-   Â« Des sociÃ©tÃ©s savent quâ€™elles ne pourront pas rÃ©pondre Ã  la demande Â»
-   Jeux olympiques 2024. Le difficile recrutement des agents de sÃ©curitÃ© :
-   Â« Des sociÃ©tÃ©s savent quâ€™elles ne pourront pas rÃ©pondre Ã  la demande Â»
-   PrÃ©sident du syndicat CFTC-SÃ©curitÃ© privÃ©e, StÃ©phane Boudon estime que
-   beaucoup dâ€™agents formÃ©s actuellement pour les Jeux olympiques
-   manqueront Ã  lâ€™appel le 29 juillet Ã  lâ€™ouverture des compÃ©titions
-   Sur le mÃªme sujet
+   Jeux olympiques 2024. Le difficile recrutement des agents de sécurité :
+   « Des sociétés savent qu'elles ne pourront pas répondre à la demande »
+   Jeux olympiques 2024. Le difficile recrutement des agents de sécurité :
+   « Des sociétés savent qu'elles ne pourront pas répondre à la demande »
+   Président du syndicat CFTC-Sécurité privée, Stéphane Boudon estime que
+   beaucoup d'agents formés actuellement pour les Jeux olympiques
+   manqueront à l'appel le 29 juillet à l'ouverture des compétitions
+   Sur le même sujet
 
-   Jeux olympiques 2024 : la sÃ©curitÃ© Ã  lâ€™Ã©preuve du recrutementâ€¦ de
-   candidats Ã  la formation
-   Jeux olympiques 2024 : la sÃ©curitÃ© Ã  lâ€™Ã©preuve du recrutementâ€¦ de
-   candidats Ã  la formation
-   En manque de bras mais aussi de marges financiÃ¨res, le secteur de la
-   sÃ©curitÃ© privÃ©e est confrontÃ© Ã  un challenge quâ€™elle aura du mal Ã 
-   relever, mais qui pourrait sâ€™avÃ©rer positif pour son avenir.
+   Jeux olympiques 2024 : la sécurité à l'épreuve du recrutement... de
+   candidats à la formation
+   Jeux olympiques 2024 : la sécurité à l'épreuve du recrutement... de
+   candidats à la formation
+   En manque de bras mais aussi de marges financières, le secteur de la
+   sécurité privée est confronté à un challenge qu'elle aura du mal à
+   relever, mais qui pourrait s'avérer positif pour son avenir.
    Explications
 
-   Rompu Ã  lâ€™organisation de sommets aussi aventureux que celui du G7, le
-   commissaire Olivier MÃ©tivet se sait lui aussi attendu au coin du poste.
-   La crainte, sinon de lâ€™attentat, Ã  tout le moins dâ€™un fiasco en
-   mondovision. Â« Il y a le terrorisme, bien sÃ»r, mais, avec un milliard
-   de tÃ©lÃ©spectateurs, jâ€™ai bien compris que ces Jeux seront une tribune
-   pour toutes les actions revendicatives, des plus modÃ©rÃ©es aux plus
-   radicales. Â» NommÃ© Ã  la tÃªte du Centre de renseignement olympique
+   Rompu à l'organisation de sommets aussi aventureux que celui du G7, le
+   commissaire Olivier Métivet se sait lui aussi attendu au coin du poste.
+   La crainte, sinon de l'attentat, à tout le moins d'un fiasco en
+   mondovision. « Il y a le terrorisme, bien sûr, mais, avec un milliard
+   de téléspectateurs, j'ai bien compris que ces Jeux seront une tribune
+   pour toutes les actions revendicatives, des plus modérées aux plus
+   radicales. » Nommé à la tête du Centre de renseignement olympique
    (CRO), celui qui dirigeait auparavant la Division des faits religieux
-   et des mouvances contestataires promet un certain doigtÃ© en la matiÃ¨re,
-   quand les SoulÃ¨vements de la Terre et le collectif Saccage 2024 dÃ©jÃ 
-   montrent les dents. Â« Câ€™est plus le mode dâ€™expression que le message en
-   lui-mÃªme qui me prÃ©occupe, y compris la cybermenace. Mais nous
-   tenterons dâ€™accepter lâ€™acceptable, comme lorsque certains ont profitÃ©
-   de la Coupe du monde de rugby pour dÃ©noncer les projets de Total en
-   Afrique du Sud. Â»
+   et des mouvances contestataires promet un certain doigté en la matière,
+   quand les Soulèvements de la Terre et le collectif Saccage 2024 déjà
+   montrent les dents. « C'est plus le mode d'expression que le message en
+   lui-même qui me préoccupe, y compris la cybermenace. Mais nous
+   tenterons d'accepter l'acceptable, comme lorsque certains ont profité
+   de la Coupe du monde de rugby pour dénoncer les projets de Total en
+   Afrique du Sud. »
 
    A lire aussi
-   Charente-Maritime : le chef dâ€™Ã©tablissement de la prison de Saintes
-   Ã©cartÃ© de son poste
-   La dÃ©couverte dâ€™un gisement de saphirs tourne Ã  la guerre entre voisins
-   Les sujets associÃ©s
+   Charente-Maritime : le chef d'établissement de la prison de Saintes
+   écarté de son poste
+   La découverte d'un gisement de saphirs tourne à la guerre entre voisins
+   Les sujets associés
 
      * Jeux Olympiques
      * Terrorisme
      * Sylvain Cottin
      * Sport
      * Justice
-     * SociÃ©tÃ©
+     * Société
 
-LES DERNIÃˆRES VIDÃ‰OS
+LES DERNIÈRES VIDÉOS
 
    Premium
    La une de sudouest aujourd'hui
    Sur Web, Tablette et Mobile
      __________________________________________________________________
 
-     * Le journal et ses supplÃ©ments
-     * L'accÃ¨s aux articles abonnÃ©s
-     * L'Ã‰dition du soir
-     * Le club AbonnÃ©s
+     * Le journal et ses suppléments
+     * L'accès aux articles abonnés
+     * L'Édition du soir
+     * Le club Abonnés
      * Les Formats Longs
      * Les Archives depuis 1944
 
-   AbonnÃ© papier ? Activez votre accÃ¨s S'abonner Ã  partir de 1â‚¬ Mon espace
-   premium
+   Abonné papier ? Activez votre accès S'abonner à partir de 1EUR Mon
+   espace premium
 
    Toutes les rubriques
    Fermer
    Mon compte
-   DÃ©connexion
+   Déconnexion
    Mon compte
-   DÃ©connexion
+   Déconnexion
    Devenez premium
    Connexion
    Devenez premium
    ____________________ (BUTTON) (BUTTON)
    Communes
      * Bordeaux
-     * La RochelleğŸ“
+     * La Rochelle
      * Mont-de-Marsan
-     * PÃ©rigueux
+     * Périgueux
      * Pau
-     * AngoulÃªme
+     * Angoulême
      * Libourne
      * Biscarrosse
-     * Royan ğŸ“
+     * Royan
      * Langon
-     * MÃ©doc
+     * Médoc
      * Bayonne
 
      * Biarritz
@@ -341,49 +341,49 @@ LES DERNIÃˆRES VIDÃ‰OS
      * Agen
      * Cognac
      * Arcachon
-     * Saintes ğŸ“
+     * Saintes
      * Villeneuve s/ Lot
      * Bergerac
-     * MÃ©rignac
+     * Mérignac
      * Gradignan
      * Trouver ma commune
 
-   ChaÃ®nes TV
+   Chaînes TV
      * TV7
      * TVPI
 
-   ActualitÃ© & Services
-     * Ã€ la une
+   Actualité & Services
+     * À la une
      * Faits divers
-     * Ã‰conomie
+     * Économie
      * Culture
      * Politique
      * International
-     * Resultats Ã‰lections
+     * Resultats Élections
 
      * Journal
      * Premium
      * Archives
-     * SociÃ©tÃ©
+     * Société
      * Environnement
      * Technologies
-     * SantÃ©
-     * IdÃ©es
+     * Santé
+     * Idées
      * Coronavirus
      * Tourisme
-     * Ã‰tudiant
+     * Étudiant
      * Billetterie
      * Diverto
      * Bons plans
 
-   Formats spÃ©ciaux
+   Formats spéciaux
      * Formats longs
      * Podcasts
 
    Sud Ouest et Vous
      * Jeux
      * Journal des lecteurs
-     * Club AbonnÃ©s
+     * Club Abonnés
 
    Sport
      * Tout le sport
@@ -392,32 +392,32 @@ LES DERNIÃˆRES VIDÃ‰OS
      * Girondins
      * Rugby
      * Stade rochelais
-     * Union bordeaux bÃ¨gles
+     * Union bordeaux bègles
      * Section paloise
      * SU Agen
      * Basket
      * Surf
      * Clubs
-     * RÃ©sultats
+     * Résultats
      * Directs
      * Hippisme
-     * OÃ¹ pratiquer
+     * Où pratiquer
      * Raffut
 
    Autour du Journal
      * Mon journal
      * S'abonner
-     * GÃ©rer mon abonnement
+     * Gérer mon abonnement
      * Recherche Archives
      * Photos Collectors
      * Journal anniversaire
      * Visiter le centre d'impression
 
    Annonces
-     * Avis de dÃ©cÃ¨s
+     * Avis de décès
      * Emploi/formation
      * Immobilier
-     * Annonces lÃ©gales
+     * Annonces légales
 
    Suivre
      * Applications
@@ -430,30 +430,30 @@ LES DERNIÃˆRES VIDÃ‰OS
 Vous avez choisi de refuser les cookies
 
    Pourtant, comme les abonnements, ils permettent de soutenir le travail
-   des 250 journalistes de notre rÃ©daction qui s'engagent Ã  vous proposer
-   chaque jour une information de qualitÃ©, fiable et complÃ¨te.
+   des 250 journalistes de notre rédaction qui s'engagent à vous proposer
+   chaque jour une information de qualité, fiable et complète.
 
-   En acceptant les cookies, vous pourrez accÃ©der aux contenus et
-   fonctionnalitÃ©s gratuites que propose notre site.
-   Ã€ tout moment, vous pouvez modifier vos choix via le bouton â€œcookiesâ€
+   En acceptant les cookies, vous pourrez accéder aux contenus et
+   fonctionnalités gratuites que propose notre site.
+   À tout moment, vous pouvez modifier vos choix via le bouton "cookies"
    en bas de page.
    Accepter les cookies ou S'abonner
 
-   RÃ©pondre
-   Pour rÃ©agir Ã  cet article, remplissez le champ ci-dessous. Vous pouvez
-   Ã©galement, consulter notre charte des commentaires.
+   Répondre
+   Pour réagir à cet article, remplissez le champ ci-dessous. Vous pouvez
+   également, consulter notre charte des commentaires.
    []
    Auteur
-   Lire les rÃ¨gles de modÃ©ration de sudouest.fr
+   Lire les règles de modération de sudouest.fr
 
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   (BUTTON) RÃ©agir
+   (BUTTON) Réagir
 
    Signaler un commentaire
-   Merci de nous dÃ©crire prÃ©cisÃ©ment ce qui vous paraÃ®t illÃ©gal dans ce
+   Merci de nous décrire précisément ce qui vous paraît illégal dans ce
    message.
 
    ____________________________________________________________

@@ -11,30 +11,30 @@ Faits et Chiffres
           + Faits et Chiffres
           + Panorama suisse des addictions
           + Alcool
-          + OpioÃ¯des
+          + Opioïdes
           + Cigarettes et Co
-          + Autres substances illÃ©gales
-          + Nouveaux produits nicotinÃ©s
-          + MÃ©dicaments
-          + CocaÃ¯ne
-          + Jeux de hasard et dâ€™argent
+          + Autres substances illégales
+          + Nouveaux produits nicotinés
+          + Médicaments
+          + Cocaïne
+          + Jeux de hasard et d'argent
           + Cannabis
-          + ActivitÃ©s en ligne
+          + Activités en ligne
        Panorama suisse des addictions
-     * PrÃ©vention (BUTTON) PrÃ©vention
-       (BUTTON) PrÃ©vention
+     * Prévention (BUTTON) Prévention
+       (BUTTON) Prévention
 
-PrÃ©vention
-          + PrÃ©vention
-          + Guides pour les parents dâ€™ados
+Prévention
+          + Prévention
+          + Guides pour les parents d'ados
           + Enfance
           + Expertise
           + Adolescence
           + Formations
           + Adultes
-          + L'Ã©quipe
-          + MatÃ©riel d'information
-       Guides pour les parents dâ€™ados
+          + L'équipe
+          + Matériel d'information
+       Guides pour les parents d'ados
      * Aide
      * Recherche (BUTTON) Recherche
        (BUTTON) Recherche
@@ -44,27 +44,27 @@ Recherche
           + Publications
           + Observer et comprendre
           + Expertise
-          + Analyser et Ã©valuer
+          + Analyser et évaluer
           + Publications
-          + Conseiller et dÃ©velopper
-          + L'Ã©quipe
+          + Conseiller et développer
+          + L'équipe
        Publications
      * Notre engagement (BUTTON) Notre engagement
        (BUTTON) Notre engagement
 
 Notre engagement
           + Notre engagement
-          + Rapport dâ€™activitÃ©
+          + Rapport d'activité
           + Nos principes fondamentaux
-          + ActualitÃ©s
+          + Actualités
           + Notre organisation
           + Panorama suisse des addictions
-          + Travailler Ã  Addiction Suisse
-          + MÃ©dias
-          + Lâ€™Equipe
+          + Travailler à Addiction Suisse
+          + Médias
+          + L'Equipe
           + Votre don aide
           + Contact
-       Rapport dâ€™activitÃ©
+       Rapport d'activité
 
    fr
      * de
@@ -88,8 +88,8 @@ Notre engagement
 
    (BUTTON)
 
-   Home Faits et Chiffres Jeux de hasard et dâ€™argent Jeux de hasard et
-   dâ€™argent- Effets-Risques
+   Home Faits et Chiffres Jeux de hasard et d'argent Jeux de hasard et
+   d'argent- Effets-Risques
 
 Jeux de hasard et d'argent :
 effets - risques
@@ -97,100 +97,100 @@ effets - risques
    Les effets physiques et psychiques de la pratique des jeux de hasard et
    d'argent et leurs risques.
 
-   Home Faits et Chiffres Jeux de hasard et dâ€™argent Jeux de hasard et
-   dâ€™argent- Effets-Risques
+   Home Faits et Chiffres Jeux de hasard et d'argent Jeux de hasard et
+   d'argent- Effets-Risques
 
      * Jeux de hasard et d'argent
      * Effets-Risques
      * Pratique
-     * ConsÃ©quences
-     * Cadre lÃ©gal
-     * PrÃ©vention
+     * Conséquences
+     * Cadre légal
+     * Prévention
 
      * (BUTTON) Title
-       Jeux de hasard et d'argent Effets-Risques Pratique ConsÃ©quences
-       Cadre lÃ©gal PrÃ©vention
+       Jeux de hasard et d'argent Effets-Risques Pratique Conséquences
+       Cadre légal Prévention
 
-MÃ©canismes de dÃ©veloppement d'un comportement addictif
+Mécanismes de développement d'un comportement addictif
 
-   Il est difficile de mettre en Ã©vidence les effets directs quâ€™ont les
-   jeux dâ€™argent sur les joueuses et les joueurs. Le jeu excessif peut
-   cependant dÃ©clencher dans lâ€™organisme des modifications biochimiques
-   qui influent sur lâ€™Ã©tat psychique et contribuent au dÃ©veloppement dâ€™une
-   dÃ©pendance. Les mÃ©canismes de dÃ©veloppement dâ€™un comportement de jeu
-   addictif sont similaires Ã  ceux induits par la consommation de
+   Il est difficile de mettre en évidence les effets directs qu'ont les
+   jeux d'argent sur les joueuses et les joueurs. Le jeu excessif peut
+   cependant déclencher dans l'organisme des modifications biochimiques
+   qui influent sur l'état psychique et contribuent au développement d'une
+   dépendance. Les mécanismes de développement d'un comportement de jeu
+   addictif sont similaires à ceux induits par la consommation de
    substances psychoactives.
 
-   Des Ã©tudes montrent que la nature des jeux a une influence sur le
-   dÃ©veloppement dâ€™un comportement de jeu problÃ©matique. Un dÃ©roulement de
-   jeu et des quasi gains de mÃªme que des mises cachÃ©es par lâ€™utilisation
-   de jetons ou de points bonus, sont autant dâ€™Ã©lÃ©ments susceptibles
-   dâ€™empÃªcher certaines personnes dâ€™arrÃªter le jeu Ã  temps. Dans ce sens,
-   les machines Ã  sous sont considÃ©rÃ©es comme particuliÃ¨rement risquÃ©es.
+   Des études montrent que la nature des jeux a une influence sur le
+   développement d'un comportement de jeu problématique. Un déroulement de
+   jeu et des quasi gains de même que des mises cachées par l'utilisation
+   de jetons ou de points bonus, sont autant d'éléments susceptibles
+   d'empêcher certaines personnes d'arrêter le jeu à temps. Dans ce sens,
+   les machines à sous sont considérées comme particulièrement risquées.
 
-Comportement problÃ©matique
+Comportement problématique
 
-   De nombreuses personnes jouent Ã  des jeux dâ€™argent, sans pour autant
-   prÃ©senter un comportement problÃ©matique. En revanche, les personnes qui
-   jouent de maniÃ¨re excessive risquent une perte de contrÃ´le et le
-   dÃ©veloppement dâ€™une dÃ©pendance. Elles sâ€™exposent alors Ã  diffÃ©rents
-   risques, notamment Ã  des problÃ¨mes en matiÃ¨re de santÃ© psychique et
-   physique ainsi quâ€™Ã  des difficultÃ©s sociales et financiÃ¨res.
-
-
-   Comment dÃ©finir la dÃ©pendance aux jeux dâ€™argent ?
-
-   Le jeu pathologique est souvent dÃ©crit par les spÃ©cialistes comme une
-   dÃ©pendance ou une addiction comportementale. Pour ce faire, ils se
-   basent sur les critÃ¨res dÃ©finis par lâ€™Organisation mondiale de la santÃ©
-   en matiÃ¨re de dÃ©pendance aux substances psychoactives. Selon ces
-   critÃ¨res, la dÃ©pendance aux jeux dâ€™argent se caractÃ©rise par :
-     * un fort dÃ©sir de jouer
-     * des difficultÃ©s Ã  contrÃ´ler son comportement de jeu
-     * un Ã©tat de manque lorsquâ€™on ne peut pas jouer
-     * la nÃ©cessitÃ© dâ€™augmenter sans cesse la mise et le risque pour
-       obtenir le mÃªme effet (dÃ©veloppement dâ€™un phÃ©nomÃ¨ne de tolÃ©rance)
-     * la prÃ©pondÃ©rance du jeu sur les autres activitÃ©s et obligations
-     * la pratique durable du jeu en dÃ©pit des consÃ©quences prÃ©judiciables
+   De nombreuses personnes jouent à des jeux d'argent, sans pour autant
+   présenter un comportement problématique. En revanche, les personnes qui
+   jouent de manière excessive risquent une perte de contrôle et le
+   développement d'une dépendance. Elles s'exposent alors à différents
+   risques, notamment à des problèmes en matière de santé psychique et
+   physique ainsi qu'à des difficultés sociales et financières.
 
 
-   Comment dÃ©tecter un comportement de jeu problÃ©matique ?
+   Comment définir la dépendance aux jeux d'argent ?
 
-   La personne affectÃ©e :
-     * joue plus souvent et plus longtemps que dans le passÃ©
+   Le jeu pathologique est souvent décrit par les spécialistes comme une
+   dépendance ou une addiction comportementale. Pour ce faire, ils se
+   basent sur les critères définis par l'Organisation mondiale de la santé
+   en matière de dépendance aux substances psychoactives. Selon ces
+   critères, la dépendance aux jeux d'argent se caractérise par :
+     * un fort désir de jouer
+     * des difficultés à contrôler son comportement de jeu
+     * un état de manque lorsqu'on ne peut pas jouer
+     * la nécessité d'augmenter sans cesse la mise et le risque pour
+       obtenir le même effet (développement d'un phénomène de tolérance)
+     * la prépondérance du jeu sur les autres activités et obligations
+     * la pratique durable du jeu en dépit des conséquences préjudiciables
+
+
+   Comment détecter un comportement de jeu problématique ?
+
+   La personne affectée :
+     * joue plus souvent et plus longtemps que dans le passé
      * y consacre des sommes plus importantes
-     * manque ses rendez-vous et nâ€™honore plus ses engagements en raison
+     * manque ses rendez-vous et n'honore plus ses engagements en raison
        du jeu
-     * ment Ã  sa famille et Ã  dâ€™autres personnes de son entourage
+     * ment à sa famille et à d'autres personnes de son entourage
      * joue pour compenser les pertes subies
-     * rÃ©agit souvent par un dÃ©ni pouvant devenir agressive lorsquâ€™on
-       aborde le sujet du jeu et/ou minimise le problÃ¨me
-     * est agitÃ©e et irritÃ©e lorsquâ€™elle essaie de restreindre sa pratique
-       du jeu dâ€™argent ou lorsquâ€™elle ne dispose plus dâ€™argent
-     * emprunte de lâ€™argent Ã  ses proches ou Ã  ses ami-e-s
-     * se fixe des limites de mise quâ€™elle ne parvient pas Ã  respecter
+     * réagit souvent par un déni pouvant devenir agressive lorsqu'on
+       aborde le sujet du jeu et/ou minimise le problème
+     * est agitée et irritée lorsqu'elle essaie de restreindre sa pratique
+       du jeu d'argent ou lorsqu'elle ne dispose plus d'argent
+     * emprunte de l'argent à ses proches ou à ses ami-e-s
+     * se fixe des limites de mise qu'elle ne parvient pas à respecter
 
 En savoir plus
 
      * Focus - Addiction aux jeux de hasard
-       Jeux de hasard: la quÃªte de lâ€™argent facile
+       Jeux de hasard: la quête de l'argent facile
 
      * Jeux de hasard et d'argent
      * Effets-Risques
      * Pratique
-     * ConsÃ©quences
-     * Cadre lÃ©gal
-     * PrÃ©vention
+     * Conséquences
+     * Cadre légal
+     * Prévention
 
      * (BUTTON) Title
-       Jeux de hasard et d'argent Effets-Risques Pratique ConsÃ©quences
-       Cadre lÃ©gal PrÃ©vention
+       Jeux de hasard et d'argent Effets-Risques Pratique Conséquences
+       Cadre légal Prévention
 
-Votre soutien est indispensableâ€‰!
+Votre soutien est indispensable !
 
-   Merci infiniment de nous aider Ã  rÃ©duire les problÃ¨mes liÃ©s Ã 
-   lâ€™addiction. Ensemble, nous pouvons amÃ©liorer la situation des
-   personnes concernÃ©es et celle de leurs proches.
+   Merci infiniment de nous aider à réduire les problèmes liés à
+   l'addiction. Ensemble, nous pouvons améliorer la situation des
+   personnes concernées et celle de leurs proches.
    [Une fois___]
      * 50
      * 80
@@ -214,20 +214,20 @@ Votre soutien est indispensableâ€‰!
      * fr
      * it
 
-     * Protection des donnÃ©es
+     * Protection des données
      * Gestion des cookies
      *
 
      * Faits et Chiffres
-          + Travailler Ã  Addiction Suisse
-     * PrÃ©vention
+          + Travailler à Addiction Suisse
+     * Prévention
           + Contact
      * Aide
-          + CoordonnÃ©es bancaires
+          + Coordonnées bancaires
      * Recherche
-          + MÃ©dias
+          + Médias
      * Notre engagement
-          + DÃ©charge juridique
+          + Décharge juridique
           + Impressum
 
      *
@@ -238,6 +238,6 @@ Votre soutien est indispensableâ€‰!
 
    ____________________ (BUTTON)
 
-     * Protection des donnÃ©es
+     * Protection des données
      * Gestion des cookies
      *

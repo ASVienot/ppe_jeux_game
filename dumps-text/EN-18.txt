@@ -45,37 +45,102 @@ Contents
      * (Top)
      * 1Meaning and usage
        (BUTTON) Toggle Meaning and usage subsection
-          + 1.1Etymology
-          + 1.2Nomenclature
-          + 1.3Definition
-          + 1.4Competition
-     * 2History
-     * 3Fair play
-       (BUTTON) Toggle Fair play subsection
-          + 3.1Sportsmanship
-          + 3.2Cheating
-          + 3.3Doping and drugs
-          + 3.4Violence
-     * 4Participation
-       (BUTTON) Toggle Participation subsection
-          + 4.1Gender participation
-          + 4.2Youth participation
-          + 4.3Disabled participation
-          + 4.4Spectator involvement
-     * 5Amateur and professional
-     * 6Technology
-     * 7Sports and education
-     * 8Politics
-       (BUTTON) Toggle Politics subsection
-          + 8.1As a means of controlling and subduing populations
-     * 9Religious views
-     * 10Popularity
-     * 11See also
-     * 12Sources
-     * 13References
-       (BUTTON) Toggle References subsection
-          + 13.1Sources
-     * 14Further reading
+
+     * 1.1Etymology
+
+     1.2Nomenclature
+
+     1.3Definition
+
+     1.4Competition
+
+
+
+   2History
+
+
+
+   3Fair play
+
+   (BUTTON) Toggle Fair play subsection
+     * 3.1Sportsmanship
+
+
+
+   3.2Cheating
+
+
+
+   3.3Doping and drugs
+
+
+
+   3.4Violence
+
+
+
+   4Participation
+
+   (BUTTON) Toggle Participation subsection
+     * 4.1Gender participation
+
+
+
+   4.2Youth participation
+
+
+
+   4.3Disabled participation
+
+
+
+   4.4Spectator involvement
+
+
+
+   5Amateur and professional
+
+
+
+   6Technology
+
+
+
+   7Sports and education
+
+
+
+   8Politics
+
+   (BUTTON) Toggle Politics subsection
+     * 8.1As a means of controlling and subduing populations
+
+
+
+   9Religious views
+
+
+
+   10Popularity
+
+
+
+   11See also
+
+
+
+   12Sources
+
+
+
+   13References
+
+   (BUTTON) Toggle References subsection
+     * 13.1Sources
+
+
+
+   14Further reading
 
    [ ] Toggle the table of contents
 
@@ -84,73 +149,73 @@ Sport
    [ ] 205 languages
      * Afrikaans
      * Alemannisch
-     * አማርኛ
-     * अंगिका
-     * Ænglisc
-     * Аԥсшәа
-     * العربية
-     * Aragonés
+     * emarNa
+     * ��
+     * �nglisc
+     * A�ssha
+     * a+l+e+r+b+y+tm
+     * Aragon�s
      * Arpetan
      * Asturianu
-     * अवधी
-     * Avañe'ẽ
+     * ��
+     * Ava�e'e?
      * Aymar aru
-     * Azərbaycanca
-     * تۆرکجه
+     * Az@rbaycanca
+     * t+r+�g+h+
      * Bamanankan
-     * বাংলা
+     * ����
      * Banjar
-     * Bân-lâm-gú
+     * B�n-l�m-g�
      * Basa Banyumasan
-     * Башҡортса
-     * Беларуская
-     * Беларуская (тарашкевіца)
-     * भोजपुरी
+     * Bash�ortsa
+     * Belaruskaya
+     * Belaruskaya (tarashkeviica)
+     * ���
      * Bikol Central
      * Bislama
-     * Български
+     * B"lgarski
      * Boarisch
-     * བོད་ཡིག
+     * ���
      * Bosanski
      * Brezhoneg
-     * Буряад
-     * Català
-     * Чӑвашла
+     * Buryaad
+     * Catal�
+     * CHvashla
      * Cebuano
-     * Čeština
+     * Cestina
      * Chavacano de Zamboanga
      * Corsu
      * Cymraeg
      * Dansk
-     * الدارجة
+     * a+l+d+a+r+g+tm
      * Deitsch
      * Deutsch
      * Eesti
-     * Ελληνικά
-     * Эрзянь
-     * Español
+     * Ellynika'
+     * `Erzyan'
+     * Espa�ol
      * Esperanto
-     * Estremeñu
+     * Estreme�u
      * Euskara
-     * فارسی
+     * f+a+r+s+
      * Fiji Hindi
-     * Føroyskt
-     * Français
+     * F�royskt
+     * Fran�ais
      * Frysk
      * Furlan
      * Gaeilge
      * Gaelg
-     * Gàidhlig
+     * G�idhlig
      * Galego
-     * ГӀалгӀай
-     * 贛語
-     * ગુજરાતી
-     * 客家語/Hak-kâ-ngî
-     * 한국어
+     * Galgaj
+     *
+     * ���
+     * ��/Hak-k�-ng�
+     * ��
      * Hausa
-     * Hawaiʻi
-     * Հայերեն
-     * हिन्दी
+     * Hawai;Si
+     * �����
+     * ����
      * Hrvatski
      * Bahasa Hulontalo
      * Ido
@@ -158,83 +223,83 @@ Sport
      * Interlingua
      * Interlingue
      * IsiXhosa
-     * Íslenska
+     * �slenska
      * Italiano
-     * עברית
+     * E+B+R+J+T+
      * Jawa
      * Kalaallisut
-     * ಕನ್ನಡ
+     * ���
      * Kapampangan
-     * ქართული
-     * Kaszëbsczi
-     * Қазақша
+     * ���
+     * Kasz�bsczi
+     * azasha
      * Kernowek
      * Ikinyarwanda
      * Kiswahili
-     * Коми
-     * Kreyòl ayisyen
-     * Kriyòl gwiyannen
-     * Kurdî
-     * Кыргызча
+     * Komi
+     * Krey�l ayisyen
+     * Kriy�l gwiyannen
+     * Kurd�
+     * Kyrgyzcha
      * Ladin
      * Ladino
-     * ລາວ
-     * Latgaļu
+     * ���
+     * Latgalu
      * Latina
-     * Latviešu
-     * Lëtzebuergesch
-     * Лезги
-     * Lietuvių
+     * Latviesu
+     * L�tzebuergesch
+     * Lezgi
+     * Lietuviu
      * Ligure
      * Limburgs
      * Lingua Franca Nova
      * Livvinkarjala
      * Magyar
-     * Македонски
-     * മലയാളം
+     * Makedonski
+     * �����
      * Malti
-     * मराठी
-     * მარგალური
-     * مصرى
-     * مازِرونی
+     * ���
+     * ��
+     * m+c+r+j+
+     * m+a+z+1+r+w+n+
      * Bahasa Melayu
-     * 閩東語 / Mìng-dĕ̤ng-ngṳ̄
-     * Mirandés
-     * Монгол
-     * မြန်မာဘာသာ
+     * �� / M�ng-de<?>ng-ngu--:�
+     * Mirand�s
+     * Mongol
+     * �����
      * Na Vosa Vakaviti
      * Nederlands
      * Nedersaksies
-     * नेपाली
-     * नेपाल भाषा
-     * 日本語
+     * ����
+     * ���� ����
+     * ��
      * Napulitano
-     * Нохчийн
+     * Nohchijn
      * Norfuk / Pitkern
-     * Norsk bokmål
+     * Norsk bokm�l
      * Norsk nynorsk
      * Nouormand
      * Novial
      * Occitan
-     * Олык марий
-     * Oʻzbekcha / ўзбекча
-     * ਪੰਜਾਬੀ
-     * پنجابی
-     * ပအိုဝ်ႏဘာႏသာႏ
+     * Olyk marij
+     * O;Szbekcha / v%zbekcha
+     * ����
+     * p+n+g+a+b+
+     * ������
      * Papiamentu
-     * پښتو
+     * p+t+w+
      * Patois
-     * Plattdüütsch
+     * Plattd��tsch
      * Polski
-     * Português
+     * Portugu�s
      * Qaraqalpaqsha
-     * Qırımtatarca
-     * Română
+     * Qirimtatarca
+     * Rom�na
      * Rumantsch
      * Runa Simi
-     * Русиньскый
-     * Русский
-     * Саха тыла
+     * Rusin'skyj
+     * Russkij
+     * Saha tyla
      * Gagana Samoa
      * Sardu
      * Scots
@@ -243,50 +308,50 @@ Sport
      * Sesotho sa Leboa
      * Shqip
      * Sicilianu
-     * සිංහල
+     * �
      * Simple English
-     * Slovenčina
-     * Slovenščina
-     * Ślůnski
+     * Slovencina
+     * Slovenscina
+     * Slunski
      * Soomaaliga
-     * کوردی
-     * Српски / srpski
-     * Srpskohrvatski / српскохрватски
+     * �w+r+d+
+     * Srpski / srpski
+     * Srpskohrvatski / srpskohrvatski
      * Sunda
      * Suomi
      * Svenska
      * Tagalog
-     * தமிழ்
-     * Taclḥit
+     * ����
+     * Taclh-.it
      * Taqbaylit
-     * Татарча / tatarça
-     * ၽႃႇသႃႇတႆး
-     * తెలుగు
-     * ไทย
-     * ትግርኛ
-     * Тоҷикӣ
-     * Türkçe
-     * Türkmençe
-     * Українська
-     * اردو
+     * Tatarcha / tatar�a
+     * ��
+     * ��
+     * �
+     * tgrNa
+     * To�ik�
+     * T�rk�e
+     * T�rkmen�e
+     * Ukrayins'ka
+     * a+r+d+w+
      * Vahcuengh
-     * Vèneto
-     * Vepsän kel’
-     * Tiếng Việt
-     * Võro
+     * V�neto
+     * Veps�n kel'
+     * Tie>'ng Vie>-.t
+     * V�ro
      * Walon
-     * 文言
+     *
      * Winaray
-     * 吴语
+     * ��
      * Xitsonga
-     * ייִדיש
-     * 粵語
+     * J+J+iD+J+Sh
+     * �
      * Zazaki
-     * Zeêuws
-     * Žemaitėška
-     * 中文
-     * Tolışi
-     * ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+     * Ze�uws
+     * Zemaiteska
+     * �
+     * Tolisi
+     * ��� �����
 
    Edit links
 
@@ -414,7 +479,7 @@ Nomenclature
 
 Definition
 
-   See also: Game § Definitions
+   See also: Game � Definitions
    [200px-ChessStartingPosition.jpg] The International Olympic Committee
    recognises some board games as sports including
    chess.[200px-Showjumping_white_horse.jpg] Show jumping, an equestrian
@@ -527,7 +592,7 @@ History
    activities. These trends continued with the advent of mass media and
    global communication. Professionalism became prevalent, further adding
    to the increase in sport's popularity, as sports fans followed the
-   exploits of professional athletes – all while enjoying the exercise and
+   exploits of professional athletes - all while enjoying the exercise and
    competition associated with amateur participation in sports. Since the
    turn of the 21st century, there has been increasing debate about
    whether transgender sports people should be able to participate in
@@ -539,6 +604,7 @@ Fair play
 Sportsmanship
 
    Main article: Sportsmanship
+
    See also: Gamesmanship and Winning isn't everything; it's the only
    thing
 
@@ -553,7 +619,7 @@ Sportsmanship
    founder Pierre de Coubertin: "The most important thing... is not
    winning but taking part" are typical expressions of this sentiment.
 
-Cheating
+  Cheating
 
    See also: Match fixing and cheating
 
@@ -569,7 +635,7 @@ Cheating
    participants deliberately work to ensure a given outcome rather than
    simply playing to win.
 
-Doping and drugs
+  Doping and drugs
 
    Main article: Use of performance-enhancing drugs in sport
 
@@ -751,7 +817,7 @@ Technology
    goal line or not.^[44] The technology is not compulsory,^[45] but was
    used in the 2014 FIFA World Cup in Brazil,^[46] and the 2015 FIFA
    Women's World Cup in Canada,^[47] as well as in the Premier League from
-   2013–14,^[48] and the Bundesliga from 2015–16.^[49] In the NFL, a
+   2013-14,^[48] and the Bundesliga from 2015-16.^[49] In the NFL, a
    referee can ask for a review from the replay booth, or a head coach can
    issue a challenge to review the play using replays. The final decision
    rests with the referee.^[50] A video referee (commonly known as a
@@ -847,7 +913,7 @@ Politics
 
   As a means of controlling and subduing populations
 
-   Étienne de La Boétie, in his essay Discourse on Voluntary Servitude
+   �tienne de La Bo�tie, in his essay Discourse on Voluntary Servitude
    describes athletic spectacles as means for tyrants to control their
    subjects by distracting them.
 
@@ -863,7 +929,7 @@ Politics
      practices and enticements the ancient dictators so successfully
      lulled their subjects under the yoke, that the stupefied peoples,
      fascinated by the pastimes and vain pleasures flashed before their
-     eyes, learned subservience as naïvely, but not so creditably, as
+     eyes, learned subservience as na�vely, but not so creditably, as
      little children learn to read by looking at bright picture
      books.^[74]
 
@@ -906,7 +972,7 @@ Religious views
      where there is keenness of feeling, there is rivalry giving in turn
      its zest to that. Then, too, where you have rivalry, you have rage,
      bitterness, wrath and grief, with all bad things which flow from
-     them – the whole entirely out of keeping with the religion of
+     them - the whole entirely out of keeping with the religion of
      Christ.^[80]
 
    Christian clerics in the Wesleyan-Holiness movement oppose the viewing
@@ -920,7 +986,7 @@ Religious views
    the Methodistic doctrine of outward holiness), its association with
    violence in opposition to Hebrews 7:26, what they perceive to be the
    extensive use of profanity among many players that contravenes
-   Colossians 3:8–10, and the frequent presence of gambling, as well as
+   Colossians 3:8-10, and the frequent presence of gambling, as well as
    alcohol and other drugs at sporting events, which go against a
    commitment to teetotalism.^[81]
 
@@ -1008,7 +1074,7 @@ Sources
    [12px-Definition_of_Free_Cultural_Works_logo_notext.svg.png]  This
    article incorporates text from a free content work. Licensed under CC
    BY-SA 3.0 IGO. Text taken from Strengthening the rule of law through
-   education: a guide for policymakers​, UNESCO, UNESCO. UNESCO.
+   education: a guide for policymakers&#x200b;, UNESCO, UNESCO. UNESCO.
 
 References
 
@@ -1095,7 +1161,7 @@ References
        Archived from the original on 29 April 2014. Retrieved 5 March
        2012.
    34. ^ Eassom, Simon (1994). Critical Reflections on Olympic Ideology.
-       Ontario: The Centre for Olympic Studies. pp. 120–123.
+       Ontario: The Centre for Olympic Studies. pp. 120-123.
        ISBN 978-0-7714-1697-2.
    35. ^ ^a ^b "Olympic Athletes". Info Please. Archived from the original
        on 16 June 2015. Retrieved 13 June 2015.
@@ -1133,7 +1199,7 @@ References
        2015". FIFA. 31 March 2015. Archived from the original on 31 March
        2015. Retrieved 2 June 2015.
    48. ^ "Goal-line technology: Premier League votes in favour for
-       2013–14". BBC. 11 April 2013. Archived from the original on 11
+       2013-14". BBC. 11 April 2013. Archived from the original on 11
        April 2013. Retrieved 11 April 2013.
    49. ^ "Bundesliga approves Hawk-Eye goal-line technology for new
        season". Carlyle Observer. Archived from the original on 29 October
@@ -1141,7 +1207,7 @@ References
    50. ^ "NFL approves rule to change replay process". Business Insider.
        20 July 2011. Archived from the original on 8 June 2015. Retrieved
        8 June 2015.
-   51. ^ "Television Match Official – when can they rule". Rugby World. 20
+   51. ^ "Television Match Official - when can they rule". Rugby World. 20
        August 2011. Archived from the original on 8 June 2015. Retrieved 8
        June 2015.
    52. ^ Cleary, Mick (20 August 2012). "New rules for Television Match
@@ -1170,7 +1236,7 @@ References
        2008.
    60. ^ Fraser-Thomas, J.L., Cote, J., Deakin, J. (2005). "Youth sport
        programs: an avenue to foster positive youth development". Physical
-       Education and Sport Pedagogy, Vol. 10, No. 1, pp. 19–40.
+       Education and Sport Pedagogy, Vol. 10, No. 1, pp. 19-40.
    61. ^ ^a ^b UNESCO (2019). Strengthening the rule of law through
        education: a guide for policymakers. UNESCO.
        ISBN 978-92-3-100308-0. Archived from the original on 25 February
@@ -1189,19 +1255,19 @@ References
        Radical Politics. PM Press. p. 28. ISBN 978-1604860535. Archived
        from the original on 16 December 2019. Retrieved 8 June 2015.
    65. ^ ^a ^b Blamires, Cyprian (2006). World Fascism: A Historical
-       Encyclopedia, Volume 1. Bloomsbury Academic. pp. 630–632.
+       Encyclopedia, Volume 1. Bloomsbury Academic. pp. 630-632.
        ISBN 978-1576079409. Archived from the original on 13 December
        2019. Retrieved 8 June 2015.
    66. ^ Saxena, Anurag (2001). The Sociology of Sport and Physical
        Education. Pinnacle Technology. ISBN 978-1618204684. Retrieved 8
        June 2015.
    67. ^ Kulttuurivihkot 1 2009 Berliinin olympialaiset 1936 Poliittisen
-       viattomuuden menetys Jouko Jokisalo 28–29(in Finnish)
+       viattomuuden menetys Jouko Jokisalo 28-29(in Finnish)
    68. ^ Merrett, Christopher (2005). "Sport and apartheid". History
        Compass. 3: **. doi:10.1111/j.1478-0542.2005.00165.x.
    69. ^ Fulton, Gareth; Bairner, Alan (2007). "Sport, Space and National
        Identity in Ireland: The GAA, Croke Park and Rule 42". Space &
-       Policy. 11 (1): 55–74. doi:10.1080/13562570701406592.
+       Policy. 11 (1): 55-74. doi:10.1080/13562570701406592.
        S2CID 143213001.
    70. ^ "50th anniversary of abolition of 'The Ban' offers pause for
        perspective". www.gaa.ie. Retrieved 2 July 2023.
@@ -1214,7 +1280,7 @@ References
    73. ^ "'Redskins Rule': MNF's Hirdt on intersection of football &
        politics". ESPN Front Row. 30 October 2012. Archived from the
        original on 17 November 2015. Retrieved 12 June 2015.
-   74. ^ Étienne de La Boétie, Discourse on Voluntary Servitude (1549),
+   74. ^ �tienne de La Bo�tie, Discourse on Voluntary Servitude (1549),
        Part 2
    75. ^ Disappearance of Traditional games by the imitation of Colonial
        Culture through the Historical parameters of Cultural Colonialism
@@ -1458,7 +1524,7 @@ Further reading
      * This page was last edited on 1 November 2023, at 04:52 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

@@ -2,21 +2,21 @@
    [logo-large.svg] [close.svg]
    Politique arrow-down
      * Sondage
-     * AssemblÃ©e nationale
-     * RÃ©forme des retraites
+     * Assemblée nationale
+     * Réforme des retraites
      * Emmanuel Macron
-     * Elections europÃ©ennes 2024
+     * Elections européennes 2024
 
    France arrow-down
      * Emploi
      * JO Paris 2024
-     * ImpÃ´t
+     * Impôt
      * Immobilier
      * Faits divers
      * Transport
-     * Ã‰conomie
+     * Économie
      * Police
-     * SantÃ©
+     * Santé
      * Justice
      * Terrorisme
 
@@ -30,11 +30,11 @@
      * Europe
      * Science
      * Covid-19
-     * Conflit israÃ©lo-palestinien
+     * Conflit israélo-palestinien
 
    Environnement arrow-down
-     * MÃ©tÃ©o
-     * Ã‰nergies
+     * Météo
+     * Énergies
      * Changement climatique
      * Ecologie
      * Restriction d'eau
@@ -47,32 +47,32 @@
      * LGBT+
      * Psychologie
      * Vie de bureau
-     * Bien-Ãªtre
+     * Bien-être
      * Alimentation
      * Femmes
-     * ParentalitÃ©
-     * Ã‰ducation
-     * SantÃ©
+     * Parentalité
+     * Éducation
+     * Santé
 
    Culture arrow-down
-     * MÃ©dias
+     * Médias
      * Mode
-     * Jeux vidÃ©o
-     * SÃ©ries TV
+     * Jeux vidéo
+     * Séries TV
      * Musique
      * Livre
-     * CinÃ©ma
+     * Cinéma
 
    Divertissement arrow-down
-     * TÃ©lÃ©vision
+     * Télévision
      * Sport
      * NRJ Music Awards
-     * RÃ©seaux sociaux
+     * Réseaux sociaux
      * People
      * Insolite
 
    Prise de parole arrow-down
-     * TÃ©moignage
+     * Témoignage
      * Tribune
 
    JO Paris 2024 arrow-down
@@ -81,7 +81,7 @@
      * Billets JO 2024
      * Jeux Paralympiques 2024
 
-   VidÃ©os
+   Vidéos
    Plus arrow-down
      * En transit.ion
      * Escapade en Valais
@@ -89,15 +89,15 @@
 
    (BUTTON) [dropdown.svg] [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
      * [dropdown.svg]
      * [logo-large.svg] [logo-small.svg]
 
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
-   ActualitÃ©s 07/06/2014 17:31
+   Divertissement Prise de parole JO Paris 2024 Vidéos
+   Actualités 07/06/2014 17:31
 
-Les chimpanzÃ©s sont bien meilleurs que les hommes pour former des stratÃ©gies
+Les chimpanzés sont bien meilleurs que les hommes pour former des stratégies
 de jeu
 
    Par Maxime Bourdeau
@@ -110,119 +110,119 @@ de jeu
    Photo Caltech
    Caltech
 
-   SCIENCE - Ã€ certains niveaux, les chimpanzÃ©s ont des capacitÃ©s
-   supÃ©rieures Ã  celles des humains. Physiquement, ils sont bien plus
-   forts, et mentalement ils ont, par exemple, une mÃ©moire Ã  court terme
-   autrement plus dÃ©veloppÃ©e que la nÃ´tre.
+   SCIENCE - À certains niveaux, les chimpanzés ont des capacités
+   supérieures à celles des humains. Physiquement, ils sont bien plus
+   forts, et mentalement ils ont, par exemple, une mémoire à court terme
+   autrement plus développée que la nôtre.
 
-   Et ce n'est pas tout. Une Ã©tude publiÃ©e le 5 juin dans la revue
-   Scientific Reports met maintenant en avant les capacitÃ©s
-   impressionnantes de ces animaux pour Ã©tablir des stratÃ©gies.
+   Et ce n'est pas tout. Une étude publiée le 5 juin dans la revue
+   Scientific Reports met maintenant en avant les capacités
+   impressionnantes de ces animaux pour établir des stratégies.
    [logo-ads.png]
 
-   GrÃ¢ce Ã  un jeu trÃ¨s simple sur ordinateur, une Ã©quipe de scientifiques
-   de Caltech, en Californie, est en effet arrivÃ©e Ã  la conclusion que les
-   chimpanzÃ©s Ã©taient si douÃ©s qu'ils surpassaient les humains et qu'ils
-   s'approchaient mÃªme d'une thÃ©orie mathÃ©matique des jeux.
+   Grâce à un jeu très simple sur ordinateur, une équipe de scientifiques
+   de Caltech, en Californie, est en effet arrivée à la conclusion que les
+   chimpanzés étaient si doués qu'ils surpassaient les humains et qu'ils
+   s'approchaient même d'une théorie mathématique des jeux.
 
-   StratÃ©gie optimale
+   Stratégie optimale
 
-   Le but du jeu est simple: placer deux adversaires dos Ã  dos, chacun
-   devant un Ã©cran tactile prÃ©sentant deux carrÃ©s. Le premier joueur gagne
-   s'il rÃ©ussit Ã  dÃ©terminer quel carrÃ© choisira l'autre joueur. Le second
-   joueur doit anticiper le choix de son adversaire et choisir un carrÃ©
-   diffÃ©rent s'il veut remporter la partie (voir la vidÃ©o ci-dessous).
+   Le but du jeu est simple: placer deux adversaires dos à dos, chacun
+   devant un écran tactile présentant deux carrés. Le premier joueur gagne
+   s'il réussit à déterminer quel carré choisira l'autre joueur. Le second
+   joueur doit anticiper le choix de son adversaire et choisir un carré
+   différent s'il veut remporter la partie (voir la vidéo ci-dessous).
    Vous ne pouvez pas visionner ce contenu car :
-     * Vous avez refusÃ© les cookies associÃ©s aux contenus issus de tiers
-       en vous abonnant. Vous ne pourrez donc pas lire nos vidÃ©os qui ont
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
        besoin de cookies tiers pour fonctionner.
-     * Vous utilisez un bloqueur de publicitÃ©. Nous vous conseillons de le
-       dÃ©sactiver afin dâ€™accÃ©der Ã  nos vidÃ©os.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d'accéder à nos vidéos.
 
-   Si vous n'Ãªtes dans aucun de ces deux cas, contactez-nous Ã 
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
    aide@huffingtonpost.fr.
 
-   Plusieurs expÃ©riences ont Ã©tÃ© menÃ©es, dont deux au Japon. L'une a Ã©tÃ©
-   rÃ©alisÃ©e sur six chimpanzÃ©s, la seconde sur 16 Ã©tudiants. Une troisiÃ¨me
-   Ã©tude a Ã©tÃ© faite en GuinÃ©e avec 12 hommes adultes.
+   Plusieurs expériences ont été menées, dont deux au Japon. L'une a été
+   réalisée sur six chimpanzés, la seconde sur 16 étudiants. Une troisième
+   étude a été faite en Guinée avec 12 hommes adultes.
    [logo-ads.png]
 
-   En comparant ces expÃ©riences qui se jouaient en 200 parties Ã  chaque
-   fois, les scientifiques ce sont aperÃ§us que les chimpanzÃ©s apprenaient
-   trÃ¨s rapidement Ã  s'adapter au comportement de leur adversaire et
+   En comparant ces expériences qui se jouaient en 200 parties à chaque
+   fois, les scientifiques ce sont aperçus que les chimpanzés apprenaient
+   très rapidement à s'adapter au comportement de leur adversaire et
    gagnaient presque un coup sur deux, contrairement aux humains. Les
-   animaux sont donc parvenus Ã  sâ€™approcher de l'Ã©quilibre de Nash, une
-   thÃ©orie mathÃ©matique selon laquelle chaque joueur joue de faÃ§on si
-   optimale qu'il ne peut plus modifier sa stratÃ©gie au risque de perdre.
+   animaux sont donc parvenus à s'approcher de l'équilibre de Nash, une
+   théorie mathématique selon laquelle chaque joueur joue de façon si
+   optimale qu'il ne peut plus modifier sa stratégie au risque de perdre.
 
-   "La compÃ©tition est centrale dans la vie d'un chimpanzÃ©"
+   "La compétition est centrale dans la vie d'un chimpanzé"
 
-   Le jeu n'a peut-Ãªtre rien de compliquÃ© mais il rappelle de nombreuses
-   situations rÃ©elles dans le monde actuel, estiment les chercheurs de
-   Caltech. Par exemple lorsqu'un employÃ© essaie de deviner quand il est
+   Le jeu n'a peut-être rien de compliqué mais il rappelle de nombreuses
+   situations réelles dans le monde actuel, estiment les chercheurs de
+   Caltech. Par exemple lorsqu'un employé essaie de deviner quand il est
    le plus judicieux de se lancer dans une partie de morpion sur son
-   ordinateur et quand les risques de se faire coincer sont trop Ã©levÃ©s.
+   ordinateur et quand les risques de se faire coincer sont trop élevés.
 
-   "Ce qui est pratique avec la thÃ©orie utilisÃ©e par cette Ã©tude c'est
-   qu'elle nous permet de rÃ©duire toutes les situations Ã  leur essence
-   stratÃ©gique", a expliquÃ© Rahul Bhui, l'un des co-auteurs, Ã  nos
-   collÃ¨gues amÃ©ricains du HuffPost.
+   "Ce qui est pratique avec la théorie utilisée par cette étude c'est
+   qu'elle nous permet de réduire toutes les situations à leur essence
+   stratégique", a expliqué Rahul Bhui, l'un des co-auteurs, à nos
+   collègues américains du HuffPost.
    [logo-ads.png]
 
-   Ce dernier a par ailleurs avancÃ© une explication Ã  cette aptitude
-   surprenante des chimpanzÃ©s. En plus de leur excellente mÃ©moire Ã  court
-   terme (voir la vidÃ©o ci-dessous), ces animaux sont autrement plus
-   compÃ©titifs que les humains. "La compÃ©tition est centrale dans la vie
-   d'un chimpanzÃ©", assure Bhui.
+   Ce dernier a par ailleurs avancé une explication à cette aptitude
+   surprenante des chimpanzés. En plus de leur excellente mémoire à court
+   terme (voir la vidéo ci-dessous), ces animaux sont autrement plus
+   compétitifs que les humains. "La compétition est centrale dans la vie
+   d'un chimpanzé", assure Bhui.
    Vous ne pouvez pas visionner ce contenu car :
-     * Vous avez refusÃ© les cookies associÃ©s aux contenus issus de tiers
-       en vous abonnant. Vous ne pourrez donc pas lire nos vidÃ©os qui ont
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
        besoin de cookies tiers pour fonctionner.
-     * Vous utilisez un bloqueur de publicitÃ©. Nous vous conseillons de le
-       dÃ©sactiver afin dâ€™accÃ©der Ã  nos vidÃ©os.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d'accéder à nos vidéos.
 
-   Si vous n'Ãªtes dans aucun de ces deux cas, contactez-nous Ã 
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
    aide@huffingtonpost.fr.
 
    plus :
-   Animaux ChimpanzÃ©s Jeu Nature Science StratÃ©gie ActualitÃ©s
+   Animaux Chimpanzés Jeu Nature Science Stratégie Actualités
    Maxime Bourdeau
    Envoyer une correction
    Newsletter
 
    Inscrivez-vous aux newsletters du HuffPost et recevez par email les
-   infos les plus importantes et une sÃ©lection de nos meilleurs articles
+   infos les plus importantes et une sélection de nos meilleurs articles
    ____________________ [email.svg]
 
-   En vous inscrivant Ã  ce service, vous acceptez que votre adresse mail
-   soit utilisÃ©e par le Huffington Post, responsable de traitement, pour
-   la gestion de votre inscription Ã  la newsletter.
-   ConformÃ©ment Ã  la loi du 06/01/1978 modifiÃ©e et au RÃ¨glement europÃ©en
-   nÂ°2016/679/UE du 27/04/2016, vous bÃ©nÃ©ficiez dâ€™un droit dâ€™accÃ¨s, de
-   modification, de portabilitÃ©, de suppression et dâ€™opposition au
+   En vous inscrivant à ce service, vous acceptez que votre adresse mail
+   soit utilisée par le Huffington Post, responsable de traitement, pour
+   la gestion de votre inscription à la newsletter.
+   Conformément à la loi du 06/01/1978 modifiée et au Règlement européen
+   n°2016/679/UE du 27/04/2016, vous bénéficiez d'un droit d'accès, de
+   modification, de portabilité, de suppression et d'opposition au
    traitement des informations vous concernant, que vous pouvez exercer
-   auprÃ¨s de dpo@groupelemonde.fr. Pour toute information complÃ©mentaire
-   ou rÃ©clamation: CNIL
-   (BUTTON) Sâ€™inscrire
+   auprès de dpo@groupelemonde.fr. Pour toute information complémentaire
+   ou réclamation: CNIL
+   (BUTTON) S'inscrire
    (BUTTON) (BUTTON) (BUTTON)
    (BUTTON) (BUTTON)
-   [logo-ads.png] PublicitÃ©
+   [logo-ads.png] Publicité
    [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
    Les sites du groupe arrow-down
    Le Monde
    Courrier International
-   TÃ©lÃ©rama
+   Télérama
    L'Obs
    La Vie
    Le Monde diplomatique
    Suivez-nous
    Facebook Instagram Twitter Youtube Dailymotion Flipboard Newsletters
    RSS
-   LÃ©gal - Infos arrow-down
-   Gestion des cookies Qui sommes-nous ? Mentions LÃ©gales Conditions
-   gÃ©nÃ©rales de vente Politique de confidentialitÃ© PublicitÃ© Contactez
+   Légal - Infos arrow-down
+   Gestion des cookies Qui sommes-nous ? Mentions Légales Conditions
+   générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : ActualitÃ©s
+   #Le HuffPost : Actualités

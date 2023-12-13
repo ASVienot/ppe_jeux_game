@@ -554,7 +554,7 @@ Solitaire Games
    Non-builder types: Clock Patience, Grandfather's Clock, Accordion
    Fan types: La Belle Lucie, The Fan, Super Flower Garden, Shamrocks,
    Bristol
-   Builder types: Baker’s Dozen, Beleaguered Castle, Canfield, Forty
+   Builder types: Baker's Dozen, Beleaguered Castle, Canfield, Forty
    Thieves, Freecell, Klondike, Miss Milligan, Russian Solitaire,
    Scorpion, Spider, Yukon
    Other types: Aces Up, Calculation
@@ -583,12 +583,12 @@ Other Ideas
    game, and resolve those inevitable rules arguments that might arise.
    Having a reliable book is something you can take with you when you are
    on the go. Here are two of the best:
-   ● The Penguin Book of Card Games - Also published under the title The
+   0M The Penguin Book of Card Games - Also published under the title The
    Penguin Encyclopedia of Card Games, this book by David Parlett is
    easily the most comprehensive book in the English language with
    standard card games. If you are looking to discover new games, or find
    rules to lots of different games, this is the best book to get.
-   ● Hoyle's Rules of Games - An authoritative and standard text on
+   0M Hoyle's Rules of Games - An authoritative and standard text on
    classic card games. I personally own the Third Revised edition (Philip
    D. Morehead), and have used it often, although it is not as exhaustive
    as David Parlett's book, so it can happen that the card game of your
@@ -601,24 +601,24 @@ Other Ideas
    traditional card games. Pagat.com is easily the most authoritative and
    best when it comes to rules, but there are certainly other places that
    are helpful as well. Suggestions to get you started:
-   ● Pagat.com - John McLeod's award-winning site is considered to be the
+   0M Pagat.com - John McLeod's award-winning site is considered to be the
    most exhaustive website with rules for different card games played with
    a standard deck. An outstanding and useful resource.
-   ● BicycleCards.com - Bicycle's official website has their official
+   0M BicycleCards.com - Bicycle's official website has their official
    rules for many different card games. It also has a helpful search
    function that allows you to find a suitable card game based on the
    number of players, who is playing, and type of game.
-   ● BoardGameGeek.com - BoardGameGeek.com is the world's largest
+   0M BoardGameGeek.com - BoardGameGeek.com is the world's largest
    community of boardgamers. This page lists a number of games that can be
    played with a standard deck of playing cards, and gives some other
    links to their site. Also check their family page for traditional card
    games for more.
-   ● Poker Suite - Cheapass Games offers a free download of the rules PDF
+   0M Poker Suite - Cheapass Games offers a free download of the rules PDF
    for their Poker Suite, which is a collection of 14 original games that
    is well worth looking at.
-   ● Femtitvå - Scott Huntington's free collection of 10 clever card games
-   is inspired by modern games like Ticket to Ride and 7 Wonders.
-   ● Isaludo - A set of ten modern card games designed to be played
+   0M Femtitv� - Scott Huntington's free collection of 10 clever card
+   games is inspired by modern games like Ticket to Ride and 7 Wonders.
+   0M Isaludo - A set of ten modern card games designed to be played
    solitaire, created by hobbyist gamer Wilhelm Su from the Philippines.
    Play using an app: If you are not quite sure on the rules of how to
    play a specific card game mentioned above, there are plenty of apps
@@ -706,13 +706,13 @@ Leave a comment
 
    Jo Ruesch on 2022,05,10
 
-   Years ago we played a game with neighbors called “Kings Reverse” and
-   also “Kings in the Corner” I am looking for the instructions for a
-   friend that is a Senior Residence…..Hope you can help.
+   Years ago we played a game with neighbors called "Kings Reverse" and
+   also "Kings in the Corner" I am looking for the instructions for a
+   friend that is a Senior Residence.....Hope you can help.
 
    Jennifer Marie Janus on 2022,05,10
 
-   I came up with new game I called it 4’s. Fun game too play
+   I came up with new game I called it 4's. Fun game too play
 
    Marie on 2022,05,10
 
@@ -720,14 +720,14 @@ Leave a comment
 
    <a href="https://templerun3.co">temple run</a> on 2022,05,10
 
-   awesome these cover games are very entertaining, it’s too great to
+   awesome these cover games are very entertaining, it's too great to
    relieve stress after stressful working hours
 
      *
      * 1
      * 2
      * 3
-     * …
+     * ...
      * 6
      *
 
@@ -805,7 +805,7 @@ Address and Contact
    Henderson, NV 89014
 
    Call or Text: 1-603-553-1192
-   © 2023, PlayingCardDecks.com
+   � 2023, PlayingCardDecks.com
    Payment methods
      *
      *

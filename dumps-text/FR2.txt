@@ -1,325 +1,403 @@
-   #alternate WikipÃ©dia (fr) Flux Atom de WikipÃ©dia
+   #alternate Wikipédia (fr) Flux Atom de Wikipédia
 
    Aller au contenu
 
    [ ] Menu principal
    Menu principal
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Navigation
      * Accueil
-     * Portails thÃ©matiques
+     * Portails thématiques
      * Article au hasard
      * Contact
 
    Contribuer
-     * DÃ©buter sur WikipÃ©dia
+     * Débuter sur Wikipédia
      * Aide
-     * CommunautÃ©
-     * Modifications rÃ©centes
+     * Communauté
+     * Modifications récentes
      * Faire un don
 
    Langues
-   Sur cette version linguistique de WikipÃ©dia, les liens interlangues
-   sont placÃ©s en haut Ã  droite du titre de lâ€™article.
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l'article.
    Aller en haut.
-   WikipÃ©dia l'encyclopÃ©die libre
+   Wikipédia l'encyclopédie libre
    Rechercher
    ____________________
    (BUTTON) Rechercher
 
-     * CrÃ©er un compte
+     * Créer un compte
      * Se connecter
 
    [ ] Outils personnels
-     * CrÃ©er un compte
+     * Créer un compte
      * Se connecter
 
-   Pages pour les contributeurs dÃ©connectÃ©s en savoir plus
+   Pages pour les contributeurs déconnectés en savoir plus
      * Contributions
      * Discussion
 
 Sommaire
 
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
-     * DÃ©but
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
      * 1Histoire
-     * 2Dispositif informatique
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Dispositif informatique
-          + 2.1Plates-formes
-          + 2.2PÃ©riphÃ©riques d'entrÃ©e
-          + 2.3PÃ©riphÃ©riques de sortie
-     * 3Industrie
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Industrie
-          + 3.1Multiplateformes et exclusivitÃ©s
-          + 3.2Ã‰volution des modes de consommation
-          + 3.3Impact Ã©conomique
-          + 3.4La monÃ©tisation des donnÃ©es personnelles dans les jeux
-            vidÃ©o
-          + 3.5Transformation des jeux vidÃ©o dâ€™un produit Ã  un service :
-            lâ€™essor des microtransactions et des communautÃ©s de joueurs
-          + 3.6MÃ©tiers
-     * 4Types de jeux vidÃ©o
-     * 5DÃ©finition juridique en France
-     * 6DÃ©bats et controverses
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section DÃ©bats et controverses
-          + 6.1Reconnaissance en tant qu'art
-          + 6.2Impact environnemental
-          + 6.3Ã‰tude du jeu vidÃ©o
-          + 6.4Temps de jeu
-          + 6.5Violence
-          + 6.6Protection des enfants
-          + 6.7Ã‰pilepsies
-          + 6.8RÃ©gulation du jeu par PEGI
-               o 6.8.1Qui gÃ¨re PEGI ?
-     * 7Utilisation positive du jeu vidÃ©o
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Utilisation positive du
-       jeu vidÃ©o
-          + 7.1ThÃ©rapie mÃ©dicale
-          + 7.2Simulation et apprentissage
-          + 7.3Effets positifs et nÃ©gatifs de la rÃ©alitÃ© virtuelle
-     * 8Notes et rÃ©fÃ©rences
-     * 9Annexes
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Annexes
-          + 9.1Articles connexes
-          + 9.2Bibliographie
-          + 9.3Liens externes
 
-   [ ] Basculer la table des matiÃ¨res
+     2Dispositif informatique
+   (BUTTON) Afficher/masquer la sous-section Dispositif informatique
+     * 2.1Plates-formes
 
-Jeu vidÃ©o
+     2.2Périphériques d'entrée
+
+
+
+   2.3Périphériques de sortie
+
+
+
+   3Industrie
+
+   (BUTTON) Afficher/masquer la sous-section Industrie
+     * 3.1Multiplateformes et exclusivités
+
+
+
+   3.2Évolution des modes de consommation
+
+
+
+   3.3Impact économique
+
+
+
+   3.4La monétisation des données personnelles dans les jeux vidéo
+
+
+
+   3.5Transformation des jeux vidéo d'un produit à un service : l'essor
+   des microtransactions et des communautés de joueurs
+
+
+
+   3.6Métiers
+
+
+
+   4Types de jeux vidéo
+
+
+
+   5Définition juridique en France
+
+
+
+   6Débats et controverses
+
+   (BUTTON) Afficher/masquer la sous-section Débats et controverses
+     * 6.1Reconnaissance en tant qu'art
+
+
+
+   6.2Impact environnemental
+
+
+
+   6.3Étude du jeu vidéo
+
+
+
+   6.4Temps de jeu
+
+
+
+   6.5Violence
+
+
+
+   6.6Protection des enfants
+
+
+
+   6.7Épilepsies
+
+
+
+   6.8Régulation du jeu par PEGI
+
+     * 6.8.1Qui gère PEGI ?
+
+
+
+   7Utilisation positive du jeu vidéo
+
+   (BUTTON) Afficher/masquer la sous-section Utilisation positive du jeu
+   vidéo
+     * 7.1Thérapie médicale
+
+
+
+   7.2Simulation et apprentissage
+
+
+
+   7.3Effets positifs et négatifs de la réalité virtuelle
+
+
+
+   8Notes et références
+
+
+
+   9Annexes
+
+   (BUTTON) Afficher/masquer la sous-section Annexes
+     * 9.1Articles connexes
+
+
+
+   9.2Bibliographie
+
+
+
+   9.3Liens externes
+
+   [ ] Basculer la table des matières
+
+Jeu vidéo
 
    [ ] 122 langues
      * Afrikaans
      * Alemannisch
-     * AragonÃ©s
-     * Ã†nglisc
-     * Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
-     * Ù…ØµØ±Ù‰
+     * Aragonés
+     * Ænglisc
+     * a+l+e+r+b+y+tm
+     * m+c+r+j+
      * Asturianu
-     * AzÉ™rbaycanca
-     * Ğ‘Ğ°ÑˆÒ¡Ğ¾Ñ€Ñ‚ÑĞ°
+     * Az@rbaycanca
+     * Bash¡ortsa
      * Basa Bali
-     * Å½emaitÄ—Å¡ka
+     * Zemaiteska
      * Batak Toba
-     * Ğ‘ĞµĞ»Ğ°Ñ€ÑƒÑĞºĞ°Ñ
-     * Ğ‘ĞµĞ»Ğ°Ñ€ÑƒÑĞºĞ°Ñ (Ñ‚Ğ°Ñ€Ğ°ÑˆĞºĞµĞ²Ñ–Ñ†Ğ°)
-     * Ğ‘ÑŠĞ»Ğ³Ğ°Ñ€ÑĞºĞ¸
-     * à¦¬à¦¾à¦‚à¦²à¦¾
+     * Belaruskaya
+     * Belaruskaya (tarashkeviica)
+     * B"lgarski
+     * ¬¾²¾
      * Brezhoneg
      * Bosanski
-     * CatalÃ 
-     * Ú©ÙˆØ±Ø¯ÛŒ
-     * ÄŒeÅ¡tina
+     * Català
+     * ©w+r+d+
+     * Cestina
      * Cymraeg
      * Deutsch
      * Zazaki
-     * Î•Î»Î»Î·Î½Î¹ÎºÎ¬
-     * EmiliÃ n e rumagnÃ²l
+     * Ellynika'
+     * Emiliàn e rumagnòl
      * English
      * Esperanto
-     * EspaÃ±ol
+     * Español
      * Eesti
      * Euskara
-     * ÙØ§Ø±Ø³ÛŒ
+     * f+a+r+s+
      * Suomi
-     * FÃ¸royskt
+     * Føroyskt
      * Frysk
-     * KriyÃ²l gwiyannen
+     * Kriyòl gwiyannen
      * Galego
-     * AvaÃ±e'áº½
+     * Avañe'e?
      * Hausa
-     * ×¢×‘×¨×™×ª
-     * à¤¹à¤¿à¤¨à¥à¤¦à¥€
+     * E+B+R+J+T+
+     * ¹¿¨¦
      * Hrvatski
      * Magyar
-     * Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶
+     * ¡µ¥¥¶
      * Interlingua
      * Bahasa Indonesia
      * Interlingue
      * Igbo
      * Ido
-     * Ãslenska
+     * Íslenska
      * Italiano
-     * æ—¥æœ¬èª
+     * ¥¬
      * Patois
      * La .lojban.
      * Jawa
-     * áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜
+     * ¥ £
      * Taqbaylit
-     * ÒšĞ°Ğ·Ğ°Ò›ÑˆĞ°
-     * í•œêµ­ì–´
-     * à¤•à¥‰à¤¶à¥à¤° / Ú©Ù²Ø´ÙØ±
-     * KurdÃ®
-     * ĞšÑ‹Ñ€Ğ³Ñ‹Ğ·Ñ‡Ğ°
+     * azasha
+     * ­´
+     * ¶° / ©²sn'+r+
+     * Kurdî
+     * Kyrgyzcha
      * Latina
-     * LÃ«tzebuergesch
+     * Lëtzebuergesch
      * Limburgs
      * Ladin
      * Lombard
-     * LingÃ¡la
-     * LietuviÅ³
-     * LatvieÅ¡u
-     * ĞœĞ°ĞºĞµĞ´Ğ¾Ğ½ÑĞºĞ¸
-     * à´®à´²à´¯à´¾à´³à´‚
-     * ĞœĞ¾Ğ½Ğ³Ğ¾Ğ»
-     * à¤®à¤°à¤¾à¤ à¥€
+     * Lingála
+     * Lietuviu
+     * Latviesu
+     * Makedonski
+     * ®²¯¾³
+     * Mongol
+     * ®°¾
      * Bahasa Melayu
-     * á€™á€¼á€”á€ºá€™á€¬á€˜á€¬á€á€¬
-     * Ù…Ø§Ø²ÙØ±ÙˆÙ†ÛŒ
+     * ¼º¬¬¬
+     * m+a+z+1+r+w+n+
      * Nedersaksies
      * Nederlands
      * Norsk nynorsk
-     * Norsk bokmÃ¥l
+     * Norsk bokmål
      * Occitan
-     * à¨ªà©°à¨œà¨¾à¨¬à©€
+     * ª°¾¬
      * Polski
-     * PortuguÃªs
+     * Português
      * Runa Simi
-     * RomÃ¢nÄƒ
-     * Ğ ÑƒÑÑĞºĞ¸Ğ¹
-     * Ğ¡Ğ°Ñ…Ğ° Ñ‚Ñ‹Ğ»Ğ°
+     * Româna
+     * Russkij
+     * Saha tyla
      * Sardu
      * Sicilianu
      * Scots
-     * Srpskohrvatski / ÑÑ€Ğ¿ÑĞºĞ¾Ñ…Ñ€Ğ²Ğ°Ñ‚ÑĞºĞ¸
+     * Srpskohrvatski / srpskohrvatski
      * Simple English
-     * SlovenÄina
-     * SlovenÅ¡Äina
+     * Slovencina
+     * Slovenscina
      * Shqip
-     * Ğ¡Ñ€Ğ¿ÑĞºĞ¸ / srpski
+     * Srpski / srpski
      * Seeltersk
      * Svenska
      * Kiswahili
-     * ÅšlÅ¯nski
-     * à®¤à®®à®¿à®´à¯
-     * à°¤à±†à°²à±à°—à±
-     * Ğ¢Ğ¾Ò·Ğ¸ĞºÓ£
-     * à¹„à¸—à¸¢
-     * TÃ¼rkmenÃ§e
+     * Slunski
+     * ¤®¿´
+     * ¤²
+     * To·ik£
+     * ¢
+     * Türkmençe
      * Tagalog
-     * TÃ¼rkÃ§e
-     * Ğ¢Ğ°Ñ‚Ğ°Ñ€Ñ‡Ğ° / tatarÃ§a
-     * Ğ£ĞºÑ€Ğ°Ñ—Ğ½ÑÑŒĞºĞ°
-     * OÊ»zbekcha / ÑĞ·Ğ±ĞµĞºÑ‡Ğ°
-     * VÃ¨neto
-     * Tiáº¿ng Viá»‡t
+     * Türkçe
+     * Tatarcha / tatarça
+     * Ukrayins'ka
+     * O;Szbekcha / v%zbekcha
+     * Vèneto
+     * Tie>'ng Vie>-.t
      * Walon
      * Winaray
-     * å´è¯­
-     * ×™×™Ö´×“×™×©
-     * YorÃ¹bÃ¡
-     * ä¸­æ–‡
-     * BÃ¢n-lÃ¢m-gÃº
-     * ç²µèª
+     * ´­
+     * J+J+iD+J+Sh
+     * Yorùbá
+     * ­
+     * Bân-lâm-gú
+     * µ
 
    Modifier les liens
 
      * Article
      * Discussion
 
-   [ ] franÃ§ais
+   [ ] français
 
      * Lire
      * Voir le texte source
-     * Voir lâ€™historique
+     * Voir l'historique
 
    [ ] Outils
    Outils
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Actions
      * Lire
      * Voir le texte source
-     * Voir lâ€™historique
+     * Voir l'historique
 
-   GÃ©nÃ©ral
-     * Pages liÃ©es
-     * Suivi des pages liÃ©es
-     * TÃ©lÃ©verser un fichier
-     * Pages spÃ©ciales
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
      * Lien permanent
      * Informations sur la page
      * Citer cette page
      * Obtenir l'URL raccourcie
-     * Ã‰lÃ©ment Wikidata
+     * Élément Wikidata
 
-   Imprimerâ€¯/â€¯exporter
-     * CrÃ©er un livre
-     * TÃ©lÃ©charger comme PDF
+   Imprimer/exporter
+     * Créer un livre
+     * Télécharger comme PDF
      * Version imprimable
 
-   Dans dâ€™autres projets
+   Dans d'autres projets
      * Wikimedia Commons
      * Wikinews
      * Wikiquote
-     * WikiversitÃ©
+     * Wikiversité
 
    Cette page est en semi-protection longue.
-   Un article de WikipÃ©dia, l'encyclopÃ©die libre.
+   Un article de Wikipédia, l'encyclopédie libre.
 
-   [220px-ArcadeGames.jpg] Une salle d'arcade Ã  Chicago en 2005.
+   [220px-ArcadeGames.jpg] Une salle d'arcade à Chicago en 2005.
 
-   Un jeu vidÃ©o est un jeu Ã©lectronique dotÃ© d'une interface utilisateur
-   permettant une interaction humaine ludique en gÃ©nÃ©rant un retour visuel
-   sur un dispositif vidÃ©o. Le joueur de jeu vidÃ©o dispose de
-   pÃ©riphÃ©riques pour agir sur le jeu et percevoir les consÃ©quences de ses
-   actes sur un environnement virtuel. Le mot Â« vidÃ©o Â» dans le jeu vidÃ©o
-   fait traditionnellement rÃ©fÃ©rence Ã  un dispositif d'affichage de trame,
-   mais, Ã  la suite de la vulgarisation du terme, il implique dÃ©sormais
+   Un jeu vidéo est un jeu électronique doté d'une interface utilisateur
+   permettant une interaction humaine ludique en générant un retour visuel
+   sur un dispositif vidéo. Le joueur de jeu vidéo dispose de
+   périphériques pour agir sur le jeu et percevoir les conséquences de ses
+   actes sur un environnement virtuel. Le mot « vidéo » dans le jeu vidéo
+   fait traditionnellement référence à un dispositif d'affichage de trame,
+   mais, à la suite de la vulgarisation du terme, il implique désormais
    tout type de dispositif d'affichage.
 
-   Les systÃ¨mes Ã©lectroniques utilisÃ©s pour jouer Ã  des jeux vidÃ©o, aussi
-   appelÃ©s plates-formes, peuvent Ãªtre aussi bien des ordinateurs de
-   bureau, des appareils spÃ©cifiques comme des consoles de salon ou des
+   Les systèmes électroniques utilisés pour jouer à des jeux vidéo, aussi
+   appelés plates-formes, peuvent être aussi bien des ordinateurs de
+   bureau, des appareils spécifiques comme des consoles de salon ou des
    bornes d'arcade, ou de petits appareils portatifs tels des consoles
-   portables, des ordinateurs portables ou des smartphones. Les jeux vidÃ©o
-   spÃ©cialisÃ©s tels que les jeux d'arcade, auparavant communs, ont vu leur
-   usage progressivement diminuer. Le jeu vidÃ©o est aujourd'hui considÃ©rÃ©
-   comme une industrie et parfois envisagÃ© comme une forme d'art.
+   portables, des ordinateurs portables ou des smartphones. Les jeux vidéo
+   spécialisés tels que les jeux d'arcade, auparavant communs, ont vu leur
+   usage progressivement diminuer. Le jeu vidéo est aujourd'hui considéré
+   comme une industrie et parfois envisagé comme une forme d'art.
 
-   Les jeux vidÃ©o utilisent comme pÃ©riphÃ©rique d'entrÃ©e un contrÃ´leur de
-   jeu, qui varie selon les plates-formes. Un contrÃ´leur peut ainsi Ãªtre
-   constituÃ© d'un unique bouton et d'une manette de jeu, ou disposer d'une
+   Les jeux vidéo utilisent comme périphérique d'entrée un contrôleur de
+   jeu, qui varie selon les plates-formes. Un contrôleur peut ainsi être
+   constitué d'un unique bouton et d'une manette de jeu, ou disposer d'une
    douzaine de boutons et d'un ou plusieurs joystick. Les premiers jeux
-   sur ordinateurs personnels requÃ©raient souvent l'achat d'un joystick,
+   sur ordinateurs personnels requéraient souvent l'achat d'un joystick,
    tandis que les jeux modernes sur ordinateur permettent ou imposent au
-   joueur d'utiliser un clavier et une souris simultanÃ©ment.
+   joueur d'utiliser un clavier et une souris simultanément.
 
-   Dans les annÃ©es 2010, de nouvelles mÃ©thodes d'entrÃ©e ont Ã©mergÃ©, comme
-   l'observation du joueur par camÃ©ra, la dÃ©tection de mouvements de
-   pÃ©riphÃ©riques tenus en mains pour les consoles de jeux vidÃ©o, ou les
-   Ã©crans tactiles sur les appareils mobiles. De mÃªme, de nouvelles formes
+   Dans les années 2010, de nouvelles méthodes d'entrée ont émergé, comme
+   l'observation du joueur par caméra, la détection de mouvements de
+   périphériques tenus en mains pour les consoles de jeux vidéo, ou les
+   écrans tactiles sur les appareils mobiles. De même, de nouvelles formes
    de retours sont apparues : visuels, comme la vision 3D ou en relief
-   (avec ou sans lunettes stÃ©rÃ©oscopiques), tactiles, avec des terminaux
-   vibrants (siÃ¨ges, volants, etc.), ou pilotÃ©s (siÃ¨ges inclinables
-   simulant lâ€™accÃ©lÃ©ration, la rotation et le freinage d'un engin).
+   (avec ou sans lunettes stéréoscopiques), tactiles, avec des terminaux
+   vibrants (sièges, volants, etc.), ou pilotés (sièges inclinables
+   simulant l'accélération, la rotation et le freinage d'un engin).
 
 Histoire
 
    [256px-Tennis_for_Two_Machine_at_CAX_2010.jpg] Tennis for Two, l'un des
-   premiers jeux vidÃ©o de l'histoire, conÃ§u en 1958.
-   Article dÃ©taillÃ© : Histoire du jeu vidÃ©o.
+   premiers jeux vidéo de l'histoire, conçu en 1958.
+   Article détaillé : Histoire du jeu vidéo.
 
-   Selon la dÃ©finition que l'on accepte du jeu vidÃ©o, son histoire peut
-   commencer aux alentours de 1950 avec l'idÃ©e de Ralph Baer d'ajouter des
-   jeux aux tÃ©lÃ©viseurs^[1], en 1952 avec OXO, en 1958 avec Tennis for Two
+   Selon la définition que l'on accepte du jeu vidéo, son histoire peut
+   commencer aux alentours de 1950 avec l'idée de Ralph Baer d'ajouter des
+   jeux aux téléviseurs^[1], en 1952 avec OXO, en 1958 avec Tennis for Two
    de William Higinbotham, ou encore en 1962 avec Spacewar!, qui est la
-   date la plus communÃ©ment admise. Pong, en 1972, est quant Ã  lui le
+   date la plus communément admise. Pong, en 1972, est quant à lui le
    premier jeu dont le gameplay est suffisamment accrocheur et addictif
-   pour lui faire connaÃ®tre le succÃ¨s auprÃ¨s du grand public.
+   pour lui faire connaître le succès auprès du grand public.
 
-   Si Pong n'a pas inventÃ© le jeu vidÃ©o, il a donnÃ© le coup d'envoi Ã 
-   l'industrie vidÃ©oludique. Celle-ci connaÃ®t une croissance explosive et
-   fÃ©brile aux Ã‰tats-Unis, jusqu'en 1983 oÃ¹ elle subit un krach qui la
-   fait migrer vers le Japon. C'est lÃ  qu'elle voit sa renaissance,
-   notamment grÃ¢ce Ã  la console NES de Nintendo et au jeu Super Mario
+   Si Pong n'a pas inventé le jeu vidéo, il a donné le coup d'envoi à
+   l'industrie vidéoludique. Celle-ci connaît une croissance explosive et
+   fébrile aux États-Unis, jusqu'en 1983 où elle subit un krach qui la
+   fait migrer vers le Japon. C'est là qu'elle voit sa renaissance,
+   notamment grâce à la console NES de Nintendo et au jeu Super Mario
    Bros. en 1985, qui inaugure une nouvelle philosophie dans la conception
-   des jeux vidÃ©o : plus riches et ouverts Ã  tous les publics.
+   des jeux vidéo : plus riches et ouverts à tous les publics.
 
-   Depuis, le secteur du jeu vidÃ©o est en croissance continue et, Ã  partir
-   de 2002, son chiffre d'affaires mondial atteint 10 G$, dÃ©passant celui
+   Depuis, le secteur du jeu vidéo est en croissance continue et, à partir
+   de 2002, son chiffre d'affaires mondial atteint 10 G$, dépassant celui
    d'Hollywood^[2].
 
-   Parmi les personnages emblÃ©matiques du jeu vidÃ©o, peuvent Ãªtre citÃ©s :
+   Parmi les personnages emblématiques du jeu vidéo, peuvent être cités :
    Alex Kidd, Crash Bandicoot, Donkey Kong, Kirby, Lara Croft, Link,
    Mario, Mega Man, Pac-Man, Pikachu, Rayman, Samus Aran, Solid Snake,
    Sonic^[3].
@@ -328,191 +406,191 @@ Dispositif informatique
 
 Plates-formes
 
-   DiffÃ©rents types de systÃ¨mes sur lesquels le jeu vidÃ©o se pratique
-   coexistent, et de nombreux jeux sont dorÃ©navant disponibles sur ces
+   Différents types de systèmes sur lesquels le jeu vidéo se pratique
+   coexistent, et de nombreux jeux sont dorénavant disponibles sur ces
    plates-formes. Les consoles de jeux, les bornes d'arcade et les
    ordinateurs, en sont les trois principaux vecteurs. Les plates-formes
-   portables ont dÃ©butÃ© avec le jeu Ã©lectronique individuel sur Game and
-   Watch, de petites consoles portables dÃ©diÃ©es Ã  un seul jeu, aujourd'hui
-   pratiquement disparues, supplantÃ©es par les consoles portables. Plus
-   rÃ©cemment, les tÃ©lÃ©phones portables, notamment les smartphones, ainsi
-   que les tablettes tactiles sont devenus des supports adaptÃ©s Ã  la
-   pratique du jeu vidÃ©o, certains Ã©tant conÃ§us pour rÃ©pondre aux besoins
+   portables ont débuté avec le jeu électronique individuel sur Game and
+   Watch, de petites consoles portables dédiées à un seul jeu, aujourd'hui
+   pratiquement disparues, supplantées par les consoles portables. Plus
+   récemment, les téléphones portables, notamment les smartphones, ainsi
+   que les tablettes tactiles sont devenus des supports adaptés à la
+   pratique du jeu vidéo, certains étant conçus pour répondre aux besoins
    des joueurs^[4].
 
-   Les consoles de jeux vidÃ©o sont des systÃ¨mes informatiques dÃ©diÃ©s au
-   jeu vidÃ©o. Ã€ la diffÃ©rence d'un ordinateur, une console utilise un
-   matÃ©riel dÃ©diÃ©, qui ne peut Ãªtre que rarement amÃ©liorÃ©. CommunÃ©ment,
-   les consoles de salon se branchent sur un tÃ©lÃ©viseur et sont vendues en
+   Les consoles de jeux vidéo sont des systèmes informatiques dédiés au
+   jeu vidéo. À la différence d'un ordinateur, une console utilise un
+   matériel dédié, qui ne peut être que rarement amélioré. Communément,
+   les consoles de salon se branchent sur un téléviseur et sont vendues en
    standard avec une manette de jeu, bien qu'il soit possible d'adjoindre
-   d'autres pÃ©riphÃ©riques voire des jeux dans des paquetages
+   d'autres périphériques voire des jeux dans des paquetages
    promotionnels. Les consoles portables, en plus de leur autonomie
-   d'Ã©nergie, disposent de l'ensemble des pÃ©riphÃ©riques interactifs
-   intÃ©grÃ©s dans le boÃ®tier nomade. Les jeux sont dÃ©veloppÃ©s en tenant
-   compte des capacitÃ©s de la machine, et sont ensuite mis Ã  disposition
-   sur le support numÃ©rique qu'elle utilise.
+   d'énergie, disposent de l'ensemble des périphériques interactifs
+   intégrés dans le boîtier nomade. Les jeux sont développés en tenant
+   compte des capacités de la machine, et sont ensuite mis à disposition
+   sur le support numérique qu'elle utilise.
 
-   Les bornes d'arcade sont des systÃ¨mes prÃ©vus pour fonctionner dans des
-   lieux en libre accÃ¨s. Une borne se compose classiquement d'un monnayeur
-   et de pÃ©riphÃ©riques robustes. Les premiers types de bornes d'arcade
-   Ã©taient des bornes dÃ©diÃ©es qui ne contenaient qu'un seul jeu
-   indissociable de ladite borne. Cependant, dans les annÃ©es 1980, SNK
-   introduisit un nouveau type de borne, le MVS qui permettait Ã 
-   l'opÃ©rateur de la borne de changer le jeu simplement en intervertissant
-   une cartouche de jeu^[5]. Cela devint par la suite trÃ¨s courant. Par
-   exemple, les bornes d'arcade Sega ou Capcom Ã©taient et sont toujours
-   basÃ©es sur un systÃ¨me similaire.
+   Les bornes d'arcade sont des systèmes prévus pour fonctionner dans des
+   lieux en libre accès. Une borne se compose classiquement d'un monnayeur
+   et de périphériques robustes. Les premiers types de bornes d'arcade
+   étaient des bornes dédiées qui ne contenaient qu'un seul jeu
+   indissociable de ladite borne. Cependant, dans les années 1980, SNK
+   introduisit un nouveau type de borne, le MVS qui permettait à
+   l'opérateur de la borne de changer le jeu simplement en intervertissant
+   une cartouche de jeu^[5]. Cela devint par la suite très courant. Par
+   exemple, les bornes d'arcade Sega ou Capcom étaient et sont toujours
+   basées sur un système similaire.
 
-   Les ordinateurs sont des plates-formes informatiques hÃ©tÃ©rogÃ¨nes qu'il
-   est possible de trouver et de faire Ã©voluer vers diffÃ©rentes
-   puissances. Ils ne sont pas spÃ©cialement prÃ©vus pour jouer, mais de par
-   leur modularitÃ© certaines configurations se prÃªtent aux jeux, parfois
-   par l'adjonction de matÃ©riel dÃ©diÃ© comme une carte graphique ou un
-   pÃ©riphÃ©rique de contrÃ´le particulier. Les jeux sont ainsi conseillÃ©s
-   pour Ãªtre utilisÃ©s sur un ensemble particulier de configurations pour
-   faire coÃ¯ncider la puissance demandÃ©e par le jeu avec la puissance
-   allouÃ©e par la machine. Si ce n'est pas le cas, un jeu peut ne pas
-   fonctionner du tout, ou subit des problÃ¨mes de fluiditÃ©. Les
-   ordinateurs, de par la constante Ã©volution du matÃ©riel informatique,
+   Les ordinateurs sont des plates-formes informatiques hétérogènes qu'il
+   est possible de trouver et de faire évoluer vers différentes
+   puissances. Ils ne sont pas spécialement prévus pour jouer, mais de par
+   leur modularité certaines configurations se prêtent aux jeux, parfois
+   par l'adjonction de matériel dédié comme une carte graphique ou un
+   périphérique de contrôle particulier. Les jeux sont ainsi conseillés
+   pour être utilisés sur un ensemble particulier de configurations pour
+   faire coïncider la puissance demandée par le jeu avec la puissance
+   allouée par la machine. Si ce n'est pas le cas, un jeu peut ne pas
+   fonctionner du tout, ou subit des problèmes de fluidité. Les
+   ordinateurs, de par la constante évolution du matériel informatique,
    ont l'avantage de la puissance face aux autres machines de jeu, surtout
-   du cÃ´tÃ© des graphiques de jeu. En outre, les ordinateurs permettent de
-   jouer Ã  des jeux dont les machines ont aujourd'hui disparu via le biais
-   d'Ã©mulateurs. Par exemple, MAME Ã©mule de nombreuses machines d'arcade
-   et permet ainsi de jouer Ã  de vieux jeux tels que Pong ou bien Space
+   du côté des graphiques de jeu. En outre, les ordinateurs permettent de
+   jouer à des jeux dont les machines ont aujourd'hui disparu via le biais
+   d'émulateurs. Par exemple, MAME émule de nombreuses machines d'arcade
+   et permet ainsi de jouer à de vieux jeux tels que Pong ou bien Space
    Invaders. Ils permettent aussi de jouer en LAN (acronyme anglais que
-   l'on peut traduire par rÃ©seau local), connectant plusieurs joueurs sur
-   le mÃªme jeu.
+   l'on peut traduire par réseau local), connectant plusieurs joueurs sur
+   le même jeu.
 
-PÃ©riphÃ©riques d'entrÃ©e
+Périphériques d'entrée
 
-   AprÃ¨s les premiÃ¨res tentatives de pÃ©riphÃ©rique de contrÃ´le, la plupart
-   des jeux vidÃ©o sur console de salon et ordinateur se sont tournÃ©s
+   Après les premières tentatives de périphérique de contrôle, la plupart
+   des jeux vidéo sur console de salon et ordinateur se sont tournés
    respectivement vers les manettes de jeu et le duo clavier/souris qui
-   resteront pendant longtemps les pÃ©riphÃ©riques les plus utilisÃ©s^[6].
+   resteront pendant longtemps les périphériques les plus utilisés^[6].
 
-   Certains jeux peuvent Ã©galement utiliser des contrÃ´leurs dÃ©diÃ©s, sans
+   Certains jeux peuvent également utiliser des contrôleurs dédiés, sans
    toutefois restreindre leur utilisation par le biais des trois
-   contrÃ´leurs courants, le clavier, la souris, et la manette de jeu. Par
-   exemple, les joysticks et les volants, certains Ã  retour de force, sont
-   utilisÃ©s pour amÃ©liorer l'expÃ©rience de jeu des simulateurs de vols et
-   des jeux de courses, sans Ãªtre indispensables.
+   contrôleurs courants, le clavier, la souris, et la manette de jeu. Par
+   exemple, les joysticks et les volants, certains à retour de force, sont
+   utilisés pour améliorer l'expérience de jeu des simulateurs de vols et
+   des jeux de courses, sans être indispensables.
 
-   Enfin, certains jeux sont dÃ©diÃ©s Ã  certains contrÃ´leurs spÃ©cifiques.
-   C'est le cas depuis plusieurs annÃ©es pour certains des jeux sur bornes
-   d'arcade. Ainsi les jeux de rythme nÃ©cessitent un tapis de danse, et
+   Enfin, certains jeux sont dédiés à certains contrôleurs spécifiques.
+   C'est le cas depuis plusieurs années pour certains des jeux sur bornes
+   d'arcade. Ainsi les jeux de rythme nécessitent un tapis de danse, et
    les jeux de tir fonctionnent avec des pistolets laser ou optiques.
 
-   Des expÃ©riences commerciales utilisant des contrÃ´leurs originaux
-   standardisÃ©s sont entreprises. Quelques consoles portables de
+   Des expériences commerciales utilisant des contrôleurs originaux
+   standardisés sont entreprises. Quelques consoles portables de
    Nintendo : la Nintendo DS et la Nintendo 3DS ainsi que l'ensemble de
-   leurs jeux utilisent un Ã©cran tactile et un microphone. Les manettes
+   leurs jeux utilisent un écran tactile et un microphone. Les manettes
    des consoles Wii (Wiimote), Wii U (Wiimote), PlayStation 3, PlayStation
    4 (Sixaxis, PlayStation Move) et Xbox 360 (Kinect) se servent des
    mouvements du joueur pour interagir avec le jeu, en plus de leurs
    utilisations classiques.
 
-   L'industrie propose Ã©galement de regrouper plusieurs technologies sur
-   un seul pÃ©riphÃ©rique comme c'est le cas avec la DualShock 4^[7].
+   L'industrie propose également de regrouper plusieurs technologies sur
+   un seul périphérique comme c'est le cas avec la DualShock 4^[7].
 
-PÃ©riphÃ©riques de sortie
+Périphériques de sortie
 
-   Les jeux vidÃ©o restituent l'information par le biais de l'image et du
-   son. L'affichage s'effectue principalement sur du matÃ©riel existant,
-   comme la tÃ©lÃ©vision pour les consoles de salon, ou les moniteurs
-   d'ordinateur, Ã©ventuellement au moyen d'une sortie vidÃ©o (pour
-   affichage sur grand Ã©cran, par exemple). Le rendu sonore du jeu est
+   Les jeux vidéo restituent l'information par le biais de l'image et du
+   son. L'affichage s'effectue principalement sur du matériel existant,
+   comme la télévision pour les consoles de salon, ou les moniteurs
+   d'ordinateur, éventuellement au moyen d'une sortie vidéo (pour
+   affichage sur grand écran, par exemple). Le rendu sonore du jeu est
    retransmis via des haut-parleurs externes, ou une sortie audio vers un
-   dispositif d'amplification externe (chaÃ®ne hi-fi, par exemple).
+   dispositif d'amplification externe (chaîne hi-fi, par exemple).
 
-   Ces derniÃ¨res annÃ©es, des jeux de rÃ©alitÃ© virtuelle sont apparus grÃ¢ce
-   Ã  de nouveaux pÃ©riphÃ©riques, tel l'EyeToy sur PlayStation 2, rendant
-   possibles ensuite des jeux en rÃ©alitÃ© augmentÃ©e comme EyePet. La notion
-   de rÃ©alitÃ© virtuelle dans le jeu vidÃ©o est approfondie en 2010 avec
+   Ces dernières années, des jeux de réalité virtuelle sont apparus grâce
+   à de nouveaux périphériques, tel l'EyeToy sur PlayStation 2, rendant
+   possibles ensuite des jeux en réalité augmentée comme EyePet. La notion
+   de réalité virtuelle dans le jeu vidéo est approfondie en 2010 avec
    l'apparition de Kinect et du PlayStation Move.
 
-   Les dispositifs de rÃ©alitÃ© virtuelle, quant Ã  eux, se dÃ©veloppent dans
-   les annÃ©es 2010, qui voient l'apparition des produits Oculus, dont
+   Les dispositifs de réalité virtuelle, quant à eux, se développent dans
+   les années 2010, qui voient l'apparition des produits Oculus, dont
    l'Oculus Quest, du Valve Index ou encore du PS VR, mais aussi de
-   dispositifs expÃ©rimentaux comme le Kit VR du Nintendo Labo.
+   dispositifs expérimentaux comme le Kit VR du Nintendo Labo.
 
 Industrie
 
-Multiplateformes et exclusivitÃ©s
+Multiplateformes et exclusivités
 
-   De nos jours, la plupart des Ã©diteurs tiers (indÃ©pendant des
+   De nos jours, la plupart des éditeurs tiers (indépendant des
    constructeurs) publient leurs titres sur plusieurs plateformes. Cela
-   tient Ã  des raisons techniques (le rapprochement technologique entre
-   les machines) et Ã  des raisons industrielles (l'augmentation du coÃ»t
-   moyen de production). MalgrÃ© tout, chaque constructeur (Sony, Nintendo,
-   Microsoft) a intÃ©rÃªt Ã  proposer des titres exclusifs de qualitÃ© pour
-   valoriser ses machines. Ils le font Ã  travers des productions internes
-   ou en passant des accords avec des Ã©diteurs tiers. Ainsi, ce sont
-   souvent les exclusifs qui font le succÃ¨s et la renommÃ©e d'une
+   tient à des raisons techniques (le rapprochement technologique entre
+   les machines) et à des raisons industrielles (l'augmentation du coût
+   moyen de production). Malgré tout, chaque constructeur (Sony, Nintendo,
+   Microsoft) a intérêt à proposer des titres exclusifs de qualité pour
+   valoriser ses machines. Ils le font à travers des productions internes
+   ou en passant des accords avec des éditeurs tiers. Ainsi, ce sont
+   souvent les exclusifs qui font le succès et la renommée d'une
    machine^[8].
 
-Ã‰volution des modes de consommation
+Évolution des modes de consommation
 
-   Jusqu'au milieu des annÃ©es 2000, la distribution de jeux vidÃ©o se
+   Jusqu'au milieu des années 2000, la distribution de jeux vidéo se
    faisait majoritairement sous forme traditionnelle, par le biais
-   dâ€™hyper-spÃ©cialistes (tels que Fnac ou Virgin), d'enseignes
-   spÃ©cialisÃ©es (comme Game ou Micromania) ou de la grande distribution
-   (Auchan, Carrefour, etc.). Puis, poussÃ©es par l'engouement du public
-   pour Internet et l'achat en ligne, certaines enseignes se sont mises Ã 
-   distribuer en ligne des jeux vidÃ©o dÃ©matÃ©rialisÃ©s en tÃ©lÃ©chargement
-   direct, parfois Ã  des prix plus attractifs que les circuits de
-   distribution traditionnels (un nombre restreint d'intermÃ©diaires dans
-   la chaÃ®ne de commercialisation permettant des rabais) :
-     * le BAD (Buy and Download, littÃ©ralement Acheter et TÃ©lÃ©charger) :
-       de nombreux sites permettent de tÃ©lÃ©charger des jeux vidÃ©o Ã 
-       l'unitÃ© ;
-     * le GOD (Games on Demand, littÃ©ralement Jeux Ã  la Demande) : des
-       sites tels que GameTap ou Direct2Drive aux Ã‰tats-Unis, ou Metaboli
-       en France permettent de s'abonner Ã  des bouquets de jeux pour des
-       prix compÃ©titifs.
+   d'hyper-spécialistes (tels que Fnac ou Virgin), d'enseignes
+   spécialisées (comme Game ou Micromania) ou de la grande distribution
+   (Auchan, Carrefour, etc.). Puis, poussées par l'engouement du public
+   pour Internet et l'achat en ligne, certaines enseignes se sont mises à
+   distribuer en ligne des jeux vidéo dématérialisés en téléchargement
+   direct, parfois à des prix plus attractifs que les circuits de
+   distribution traditionnels (un nombre restreint d'intermédiaires dans
+   la chaîne de commercialisation permettant des rabais) :
+     * le BAD (Buy and Download, littéralement Acheter et Télécharger) :
+       de nombreux sites permettent de télécharger des jeux vidéo à
+       l'unité ;
+     * le GOD (Games on Demand, littéralement Jeux à la Demande) : des
+       sites tels que GameTap ou Direct2Drive aux États-Unis, ou Metaboli
+       en France permettent de s'abonner à des bouquets de jeux pour des
+       prix compétitifs.
 
-   D'abord considÃ©rÃ©e comme dangereuse pour les intÃ©rÃªts des Ã©diteurs et
-   concepteurs de jeux vidÃ©o (risque de piratage Ã©levÃ©, difficultÃ© Ã 
-   contrÃ´ler le marchÃ©), la distribution numÃ©rique de jeux vidÃ©o
-   s'installe progressivement dans le paysage vidÃ©oludique, et se
-   dÃ©mocratise notamment avec la plate-forme Steam.
+   D'abord considérée comme dangereuse pour les intérêts des éditeurs et
+   concepteurs de jeux vidéo (risque de piratage élevé, difficulté à
+   contrôler le marché), la distribution numérique de jeux vidéo
+   s'installe progressivement dans le paysage vidéoludique, et se
+   démocratise notamment avec la plate-forme Steam.
 
-Impact Ã©conomique
+Impact économique
 
-   Article connexe : Liste des jeux vidÃ©o les plus vendus.
+   Article connexe : Liste des jeux vidéo les plus vendus.
 
-   L'industrie vidÃ©oludique gÃ©nÃ¨re actuellement un revenu plus important
-   que celui du cinÃ©ma^[2] et ceci depuis 1997. En 2017, le revenu global
-   Ã©tait de plus de 120 milliards de dollars^[9], et 4,3 milliards d'euros
+   L'industrie vidéoludique génère actuellement un revenu plus important
+   que celui du cinéma^[2] et ceci depuis 1997. En 2017, le revenu global
+   était de plus de 120 milliards de dollars^[9], et 4,3 milliards d'euros
    en France^[10]. En 2012, le chiffre d'affaires mondial de l'industrie
    atteint 60 milliards de dollars selon le SNJV (Syndicat National du Jeu
-   vidÃ©o). L'industrie vidÃ©oludique serait ainsi la premiÃ¨re industrie
-   culturelle dans le monde. Le jeu le plus coÃ»teux de l'histoire (fin
-   2013), GTA V, a coÃ»tÃ© 270 millions de dollars (moitiÃ© production,
-   moitiÃ© marketing) soit l'ordre de grandeur d'un blockbuster
-   hollywoodien. Le dÃ©veloppement d'un jeu vidÃ©o aujourd'hui est
-   extrÃªmement coÃ»teux et peut nÃ©cessiter des Ã©quipes de dÃ©veloppement
-   travaillant sur le jeu sur de nombreuses annÃ©es. Il est donc risquÃ© et
-   difficile pour les studios de gÃ©nÃ©rer du bÃ©nÃ©fice. Ã€ cela s'ajoute le
-   fait que le studio ne reÃ§oit qu'un faible pourcentage du coÃ»t de
-   revient d'un jeu â€” 35 % allant Ã  la grande distribution, 51 % Ã 
-   l'Ã©diteur (dont environ 22 % au constructeur de la console) et 14 % au
+   vidéo). L'industrie vidéoludique serait ainsi la première industrie
+   culturelle dans le monde. Le jeu le plus coûteux de l'histoire (fin
+   2013), GTA V, a coûté 270 millions de dollars (moitié production,
+   moitié marketing) soit l'ordre de grandeur d'un blockbuster
+   hollywoodien. Le développement d'un jeu vidéo aujourd'hui est
+   extrêmement coûteux et peut nécessiter des équipes de développement
+   travaillant sur le jeu sur de nombreuses années. Il est donc risqué et
+   difficile pour les studios de générer du bénéfice. À cela s'ajoute le
+   fait que le studio ne reçoit qu'un faible pourcentage du coût de
+   revient d'un jeu -- 35 % allant à la grande distribution, 51 % à
+   l'éditeur (dont environ 22 % au constructeur de la console) et 14 % au
    studio^[11].
 
-   Bien que des crÃ©ateurs comme Ã‰ric Chahi ou Jordan Mechner ont dÃ©montrÃ©
-   qu'il est possible de crÃ©er un jeu par soi-mÃªme, aujourd'hui la
-   crÃ©ation d'un jeu nÃ©cessite le plus souvent la collaboration de
-   nombreux corps de mÃ©tiers trÃ¨s spÃ©cialisÃ©s. Cela inclut : graphistes,
-   musiciens, animateurs, programmeurs, ainsi que des mÃ©tiers spÃ©cifiques
-   au jeu vidÃ©o tel que game designer. L'industrie du jeu vidÃ©o employait
+   Bien que des créateurs comme Éric Chahi ou Jordan Mechner ont démontré
+   qu'il est possible de créer un jeu par soi-même, aujourd'hui la
+   création d'un jeu nécessite le plus souvent la collaboration de
+   nombreux corps de métiers très spécialisés. Cela inclut : graphistes,
+   musiciens, animateurs, programmeurs, ainsi que des métiers spécifiques
+   au jeu vidéo tel que game designer. L'industrie du jeu vidéo employait
    ainsi plus de 10 000 personnes en France en 2008 avec plus de 430
-   entreprises implantÃ©es^[12].
-   [220px-Videogameretaildisplay.jpg] Un rayon Â« jeux vidÃ©o Â» typique en
+   entreprises implantées^[12].
+   [220px-Videogameretaildisplay.jpg] Un rayon « jeux vidéo » typique en
    2005.
 
-   CAPTION: Chiffres de vente des jeux vidÃ©o dans le monde (en milliards
+   CAPTION: Chiffres de vente des jeux vidéo dans le monde (en milliards
    d'euros)^[13]
 
-   AnnÃ©e Ã‰tats-Unis Japon Europe
+   Année États-Unis Japon Europe
    2003  12         4,2   7,5
    2004  11,1       4     7,9
    2005  10,8       4,8   8,3
@@ -520,206 +598,206 @@ Impact Ã©conomique
    2007  17,1       9,3   14,9
    2008  22,3       9,7   17,1
 
-La monÃ©tisation des donnÃ©es personnelles dans les jeux vidÃ©o
+La monétisation des données personnelles dans les jeux vidéo
 
-   De maniÃ¨re similaire au business model des GAFAM dÃ©crit par Soshanna
+   De manière similaire au business model des GAFAM décrit par Soshanna
    Zuboff dans son livre The age of surveillance capitalism : The fight
    for a human future at the new frontier of power paru en 2019,
-   lâ€™industrie vidÃ©oludique monÃ©tise les donnÃ©es privÃ©es de joueurs et ce
-   grÃ¢ce Ã  des algorithmes internes aux jeux. Le concept de Surveillance
-   Capitalism dÃ©veloppÃ© par S. Zuboff dÃ©crit un nouveau modÃ¨le
-   dâ€™accumulation capitalistique dont lâ€™ambition est dâ€™extraire de la
-   valeur des donnÃ©es personnelles des utilisateurs de services
-   numÃ©riques. Si lâ€™autrice dÃ©crit en prioritÃ© comment les gÃ©ants du
-   numÃ©rique accumulent et monÃ©tisent les donnÃ©es de leurs utilisateurs,
-   nous constatons plusieurs points communs dans lâ€™industrie vidÃ©oludique.
-   A ce jour nous avons connaissance de trois algorithmes dont lâ€™objectif
-   est dâ€™inciter le joueur Ã  dÃ©penser son argent via les
+   l'industrie vidéoludique monétise les données privées de joueurs et ce
+   grâce à des algorithmes internes aux jeux. Le concept de Surveillance
+   Capitalism développé par S. Zuboff décrit un nouveau modèle
+   d'accumulation capitalistique dont l'ambition est d'extraire de la
+   valeur des données personnelles des utilisateurs de services
+   numériques. Si l'autrice décrit en priorité comment les géants du
+   numérique accumulent et monétisent les données de leurs utilisateurs,
+   nous constatons plusieurs points communs dans l'industrie vidéoludique.
+   A ce jour nous avons connaissance de trois algorithmes dont l'objectif
+   est d'inciter le joueur à dépenser son argent via les
    microtransactions.
 
-   Lâ€™Ã©diteur AmÃ©ricain Activision a en effet dÃ©posÃ© en 2015 un brevet
-   nommÃ© Â« system and method for providing pricing relative to player
-   statistics Â»^[14] dont lâ€™objectif est de proposer des offres de biens
-   virtuels ajustÃ©es aux goÃ»ts de chacun des joueurs, grÃ¢ce aux
-   informations personnelles rÃ©coltÃ©es dans le jeu. Ã€ partir de donnÃ©es
-   comme les personnages jouÃ©s par un joueur par exemple, cet algorithme
-   lui propose un cosmÃ©tique quâ€™il est susceptible dâ€™acheter. La
-   personnalisation de lâ€™offre grÃ¢ce aux donnÃ©es personnelles est
-   justement une des caractÃ©ristiques propres aux surveillance capitalist
-   de S. Zuboff^[15], dâ€™oÃ¹ lâ€™origine du rapprochement Ã©tudiÃ© ici.
+   L'éditeur Américain Activision a en effet déposé en 2015 un brevet
+   nommé « system and method for providing pricing relative to player
+   statistics »^[14] dont l'objectif est de proposer des offres de biens
+   virtuels ajustées aux goûts de chacun des joueurs, grâce aux
+   informations personnelles récoltées dans le jeu. À partir de données
+   comme les personnages joués par un joueur par exemple, cet algorithme
+   lui propose un cosmétique qu'il est susceptible d'acheter. La
+   personnalisation de l'offre grâce aux données personnelles est
+   justement une des caractéristiques propres aux surveillance capitalist
+   de S. Zuboff^[15], d'où l'origine du rapprochement étudié ici.
 
-   Un second usage connu des donnÃ©es privÃ©es via des algorithmes par les
-   Ã©diteurs de jeux est de favoriser les joueurs ayant dÃ©pensÃ©s de
-   lâ€™argent dans le jeu. En effet, rÃ©cemment, le studio de jeux amÃ©ricain
-   Activision a dÃ©veloppÃ© un second algorithme^[16] permettant dâ€™associer
-   les joueurs ayant rÃ©alisÃ©s des microtransactions avec de meilleurs
+   Un second usage connu des données privées via des algorithmes par les
+   éditeurs de jeux est de favoriser les joueurs ayant dépensés de
+   l'argent dans le jeu. En effet, récemment, le studio de jeux américain
+   Activision a développé un second algorithme^[16] permettant d'associer
+   les joueurs ayant réalisés des microtransactions avec de meilleurs
    joueurs pour augmenter leurs chances de gagner, et donc leur
-   satisfaction. Cet algorithme nommÃ© Â« System and methods for driving
-   microtransaction in multiplayer games Â»^[17] est disponible
+   satisfaction. Cet algorithme nommé « System and methods for driving
+   microtransaction in multiplayer games »^[17] est disponible
    publiquement et une infographie simple explique clairement le but de ce
-   brevet (page 11 figure 8 du brevet). Il permet dâ€™associer lâ€™achat de
-   cosmÃ©tiques pour un personnage au sentiment de victoire et de crÃ©er un
-   cercle vertueux du point de vue de lâ€™Ã©diteur, oÃ¹ la victoire est
-   assimilÃ©e Ã  lâ€™achat de contenus
+   brevet (page 11 figure 8 du brevet). Il permet d'associer l'achat de
+   cosmétiques pour un personnage au sentiment de victoire et de créer un
+   cercle vertueux du point de vue de l'éditeur, où la victoire est
+   assimilée à l'achat de contenus
 
-   Enfin, un troisiÃ¨me algorithme dâ€™Activision publiÃ© en 2017 sous le nom
-   Â« access to an exclusive virtual section of an online game based on
-   past spending behavior Â»^[18] permet dâ€™Ã©valuer la propension Ã 
-   consommer dâ€™un joueur Ã  partir de leurs donnÃ©es privÃ©es, notamment
-   lâ€™historique dâ€™achats sur plusieurs jeux. CouplÃ© au premier algorithme
-   mentionnÃ©, cet algorithme permet de conditionner les promotions
-   individuelles Ã  un certain seuil dâ€™argent investi dans le jeu, ce qui
-   rÃ©compense les joueurs qui dÃ©pensent dÃ©jÃ  et incite les autres Ã 
-   dÃ©penser plus pour Ã  leur tour avoir des promotions.
+   Enfin, un troisième algorithme d'Activision publié en 2017 sous le nom
+   « access to an exclusive virtual section of an online game based on
+   past spending behavior »^[18] permet d'évaluer la propension à
+   consommer d'un joueur à partir de leurs données privées, notamment
+   l'historique d'achats sur plusieurs jeux. Couplé au premier algorithme
+   mentionné, cet algorithme permet de conditionner les promotions
+   individuelles à un certain seuil d'argent investi dans le jeu, ce qui
+   récompense les joueurs qui dépensent déjà et incite les autres à
+   dépenser plus pour à leur tour avoir des promotions.
 
-   Par ailleurs, il existe une certaine proximitÃ© entre les gÃ©ants du
-   numÃ©rique et lâ€™industrie vidÃ©oludique, chaque GAFAM Ã©tant positionnÃ©
-   sur ce secteur dâ€™activitÃ© dâ€™une maniÃ¨re ou dâ€™une autre. En effet, Apple
-   dÃ©veloppe des jeux sur smartphone et gÃ¨re lâ€™Apple store ; Google
-   propose un service de cloud gaming via Google Stadia, en parallÃ¨le de
-   la gestion du Play Store sur Android ; Amazon est positionnÃ© sur le
-   secteur du streaming depuis que lâ€™entreprise a rachetÃ© la plateforme
-   Twitch pour un milliard de dollars en 2014^[19] et dispose Ã©galement
-   dâ€™une branche de production de jeux, Amazon Games ; Microsoft possÃ¨de
-   Ã©galement une branche de jeux vidÃ©o, qui dÃ©veloppe la sÃ©rie de consoles
+   Par ailleurs, il existe une certaine proximité entre les géants du
+   numérique et l'industrie vidéoludique, chaque GAFAM étant positionné
+   sur ce secteur d'activité d'une manière ou d'une autre. En effet, Apple
+   développe des jeux sur smartphone et gère l'Apple store ; Google
+   propose un service de cloud gaming via Google Stadia, en parallèle de
+   la gestion du Play Store sur Android ; Amazon est positionné sur le
+   secteur du streaming depuis que l'entreprise a racheté la plateforme
+   Twitch pour un milliard de dollars en 2014^[19] et dispose également
+   d'une branche de production de jeux, Amazon Games ; Microsoft possède
+   également une branche de jeux vidéo, qui développe la série de consoles
    X Box et des jeux.
 
-Transformation des jeux vidÃ©o dâ€™un produit Ã  un service : lâ€™essor des
-microtransactions et des communautÃ©s de joueurs
+Transformation des jeux vidéo d'un produit à un service : l'essor des
+microtransactions et des communautés de joueurs
 
-   Ã€ partir des annÃ©es 2000, le modÃ¨le d'entreprise des jeux AAA,
-   lâ€™Ã©quivalent des blockbusters au cinÃ©ma, se retrouve menacÃ© par
-   plusieurs facteurs. Tout dâ€™abord, lâ€™industrie vidÃ©oludique souffre de
-   lâ€™explosion de la bulle internet Ã  la fin des annÃ©es 90, puis de la
-   crise financiÃ¨re de 2008^[20]. Par ailleurs ce modÃ¨le souffre de
-   plusieurs limites inhÃ©rentes Ã  une Ã©conomie du hit. PremiÃ¨rement il
-   devient de plus en plus difficile de rentabiliser le dÃ©veloppement de
-   plusieurs jeux avec le succÃ¨s dâ€™un seul, les coÃ»ts de dÃ©veloppement de
-   jeux sur consoles et PC ayant fortement augmentÃ©, le meilleur exemple
-   Ã©tant le jeu Red Dead Redemption 2 du studio Rockstar dont le budget
-   est estimÃ© Ã  800 millions de dollars en 2018^[21]. DeuxiÃ¨mement, ce
-   modÃ¨le est nÃ©cessairement risquÃ©, Ã©tant donnÃ© quâ€™il est impossible de
-   sâ€™assurer quâ€™un jeu aura le succÃ¨s suffisant pour compenser les Ã©checs
+   À partir des années 2000, le modèle d'entreprise des jeux AAA,
+   l'équivalent des blockbusters au cinéma, se retrouve menacé par
+   plusieurs facteurs. Tout d'abord, l'industrie vidéoludique souffre de
+   l'explosion de la bulle internet à la fin des années 90, puis de la
+   crise financière de 2008^[20]. Par ailleurs ce modèle souffre de
+   plusieurs limites inhérentes à une économie du hit. Premièrement il
+   devient de plus en plus difficile de rentabiliser le développement de
+   plusieurs jeux avec le succès d'un seul, les coûts de développement de
+   jeux sur consoles et PC ayant fortement augmenté, le meilleur exemple
+   étant le jeu Red Dead Redemption 2 du studio Rockstar dont le budget
+   est estimé à 800 millions de dollars en 2018^[21]. Deuxièmement, ce
+   modèle est nécessairement risqué, étant donné qu'il est impossible de
+   s'assurer qu'un jeu aura le succès suffisant pour compenser les échecs
    des autres jeux.
 
-   Câ€™est pour ces raisons que plusieurs innovations arrivent en 2006 avec
-   la nouvelle gÃ©nÃ©ration de consoles, la PS3 et sa concurrente la XBOX
+   C'est pour ces raisons que plusieurs innovations arrivent en 2006 avec
+   la nouvelle génération de consoles, la PS3 et sa concurrente la XBOX
    360, qui proposent des plateformes de vente en ligne sur leur console,
    le Playstore et le Xbox live respectivement. Cela marque la naissance
    des microtransactions, soit des transactions payantes permettant
-   d'acheter un bien numÃ©rique dâ€™une valeur minimum de 0.99â‚¬ qui vont
-   petit Ã  petit sâ€™imposer dans la plupart des jeux^[22], tout type
+   d'acheter un bien numérique d'une valeur minimum de 0.99EUR qui vont
+   petit à petit s'imposer dans la plupart des jeux^[22], tout type
    confondu.
 
-   La premiÃ¨re consÃ©quence importante de ce modÃ¨le est quâ€™il permet de
-   lisser les revenus des Ã©diteurs de jeu. En effet, auparavant un studio
-   rÃ©alisait la majoritÃ© de ses recettes avec la vente dâ€™un jeu AAA Ã  un
-   moment donnÃ© de lâ€™annÃ©e, noÃ«l gÃ©nÃ©ralement. Avec le systÃ¨me des
-   microtransactions, il devient possible de sortir un jeu, de continuer Ã 
-   le dÃ©velopper, et de percevoir des revenus rÃ©guliers tout au long de la
-   durÃ©e de vie du jeu avec la vente de biens virtuels. Cette disparition
-   du risque est une avancÃ©e majeure pour les studios de jeu qui gagnent
-   en sÃ©curitÃ© financiÃ¨re avec cette nouvelle visibilitÃ© sur les recettes.
-   Par ailleurs, le fait de pouvoir rendre payant la mise Ã  jour des jeux
-   permet de sortir des jeux dont le dÃ©veloppement est encore en cours, de
-   continuer Ã  les dÃ©velopper tout en commenÃ§ant Ã  percevoir les recettes
-   des premiÃ¨res ventes. Cette technique est appelÃ©e early access dâ€™un jeu
-   oÃ¹ un studio rend disponible une version alpha ou beta du jeu et
-   utilisera le retour des joueurs pour amÃ©liorer le jeu. De maniÃ¨re
-   gÃ©nÃ©rale, Ã  partir du moment oÃ¹ les jeux ne sont plus des produits mais
-   des services de mise Ã  jour, les studios utilisent les joueurs comme
-   des testeurs. La communautÃ© dâ€™un jeu devient donc une richesse pour
-   lâ€™Ã©diteur en lui permettant de perfectionner son jeu grÃ¢ce au retour
-   des joueurs. Ce phÃ©nomÃ¨ne est traduit par Mathieu Cocq comme un Capital
-   communautaire^[23] le jeu Ã©tant en partie le rÃ©sultat de
-   lâ€™investissement des joueurs utilisÃ©s par lâ€™Ã©diteur pour
-   lâ€™amÃ©liorer/continuer son dÃ©veloppement. Plusieurs auteurs vont plus
-   loin en parlant de travail des joueurs, comme Julian KÃ¼cklich qui
-   dÃ©veloppe la notion de Playbour, avec lâ€™article Precarious Playbour:
+   La première conséquence importante de ce modèle est qu'il permet de
+   lisser les revenus des éditeurs de jeu. En effet, auparavant un studio
+   réalisait la majorité de ses recettes avec la vente d'un jeu AAA à un
+   moment donné de l'année, noël généralement. Avec le système des
+   microtransactions, il devient possible de sortir un jeu, de continuer à
+   le développer, et de percevoir des revenus réguliers tout au long de la
+   durée de vie du jeu avec la vente de biens virtuels. Cette disparition
+   du risque est une avancée majeure pour les studios de jeu qui gagnent
+   en sécurité financière avec cette nouvelle visibilité sur les recettes.
+   Par ailleurs, le fait de pouvoir rendre payant la mise à jour des jeux
+   permet de sortir des jeux dont le développement est encore en cours, de
+   continuer à les développer tout en commençant à percevoir les recettes
+   des premières ventes. Cette technique est appelée early access d'un jeu
+   où un studio rend disponible une version alpha ou beta du jeu et
+   utilisera le retour des joueurs pour améliorer le jeu. De manière
+   générale, à partir du moment où les jeux ne sont plus des produits mais
+   des services de mise à jour, les studios utilisent les joueurs comme
+   des testeurs. La communauté d'un jeu devient donc une richesse pour
+   l'éditeur en lui permettant de perfectionner son jeu grâce au retour
+   des joueurs. Ce phénomène est traduit par Mathieu Cocq comme un Capital
+   communautaire^[23] le jeu étant en partie le résultat de
+   l'investissement des joueurs utilisés par l'éditeur pour
+   l'améliorer/continuer son développement. Plusieurs auteurs vont plus
+   loin en parlant de travail des joueurs, comme Julian Kücklich qui
+   développe la notion de Playbour, avec l'article Precarious Playbour:
    Modders and the Digital Games Industry^[24] paru en 2005. Dans cet
-   article Julian KÃ¼cklich dÃ©crit lâ€™activitÃ© des moddeurs, soit les
-   dÃ©veloppeurs anonyme/non affiliÃ©s Ã  lâ€™Ã©diteur qui contribuent au
-   dÃ©veloppement dâ€™un jeu en proposant de ajouts Â« faits maison Â» qui vont
+   article Julian Kücklich décrit l'activité des moddeurs, soit les
+   développeurs anonyme/non affiliés à l'éditeur qui contribuent au
+   développement d'un jeu en proposant de ajouts « faits maison » qui vont
    enrichir le jeu avec de nouveaux contenus disponibles pour tous. Julian
-   KÃ¼cklich assimile les moddeurs Ã  des travailleurs prÃ©caires dans la
-   mesure oÃ¹ le fruit du travail des moddeurs, les mods, est appropriÃ© par
-   lâ€™Ã©diteur, qui ne les rÃ©munÃ¨re pas alors quâ€™ils participent Ã 
-   lâ€™amÃ©lioration du jeu. En effet, un jeu Ã©tant la propriÃ©tÃ©
-   intellectuelle de lâ€™Ã©diteur, toutes modification de ce dernier peut
-   Ãªtre considÃ©rÃ©e comme illÃ©gale et ensuite rÃ©utilisÃ©e par lâ€™Ã©diteurs,
-   sans quâ€™il ait besoin de compenser lâ€™auteur orignal. La plupart des
-   moddeurs, souvent rÃ©unis en communautÃ© et travaillent bÃ©nÃ©volement sans
-   nÃ©cessairement attendre une contrepartie en Ã©change du contenu ajoutÃ©,
-   leur objectif Ã©tant avant tout dâ€™amÃ©liorer un jeu quâ€™ils apprÃ©cient et
-   de rendre service Ã  la communautÃ© des joueurs. Cette culture est
-   similaire Ã  celle de lâ€™open source Ã  lâ€™origine du dÃ©veloppement de
-   logiciels libres dâ€™accÃ¨s et dâ€™internet, nÃ© du travail collectif de
-   chercheurs amÃ©ricains^[25] la diffÃ©rence Ã©tant que dans le cadre des
-   jeux vidÃ©o, les mods dÃ©veloppÃ©s sont accaparÃ©s et commercialisÃ©s par
-   les Ã©diteurs possÃ©dant le jeu. Câ€™est cette forme dâ€™exploitation dont
-   Julian KÃ¼cklich entend rendre compte avec le concept de Playbor.
+   Kücklich assimile les moddeurs à des travailleurs précaires dans la
+   mesure où le fruit du travail des moddeurs, les mods, est approprié par
+   l'éditeur, qui ne les rémunère pas alors qu'ils participent à
+   l'amélioration du jeu. En effet, un jeu étant la propriété
+   intellectuelle de l'éditeur, toutes modification de ce dernier peut
+   être considérée comme illégale et ensuite réutilisée par l'éditeurs,
+   sans qu'il ait besoin de compenser l'auteur orignal. La plupart des
+   moddeurs, souvent réunis en communauté et travaillent bénévolement sans
+   nécessairement attendre une contrepartie en échange du contenu ajouté,
+   leur objectif étant avant tout d'améliorer un jeu qu'ils apprécient et
+   de rendre service à la communauté des joueurs. Cette culture est
+   similaire à celle de l'open source à l'origine du développement de
+   logiciels libres d'accès et d'internet, né du travail collectif de
+   chercheurs américains^[25] la différence étant que dans le cadre des
+   jeux vidéo, les mods développés sont accaparés et commercialisés par
+   les éditeurs possédant le jeu. C'est cette forme d'exploitation dont
+   Julian Kücklich entend rendre compte avec le concept de Playbor.
 
-MÃ©tiers
+Métiers
 
    [220px-Virtual-camera-system.png] Les concepteurs de jeux disposent de
-   divers outils informatiques. Ici, un Ã©diteur destinÃ© Ã  rÃ©gler la camÃ©ra
+   divers outils informatiques. Ici, un éditeur destiné à régler la caméra
    virtuelle.
 
-   Les jeux vidÃ©o sont gÃ©nÃ©ralement crÃ©Ã©s par des Ã©quipes de dÃ©veloppeurs,
-   de diffÃ©rents corps de mÃ©tiers.
-     * Les producteurs, chargÃ©s de gÃ©rer le dÃ©veloppement des jeux par les
-       Ã©quipes internes ou les studios externes.
-     * les concepteurs de jeux, ou game designers, chargÃ©s d'imaginer les
-       concepts sur lesquels sont basÃ©s le jeu, comme le gameplay ou
-       l'univers de celui-ci. Ils sont parfois assistÃ©s par des
-       scÃ©naristes, en particulier pour les jeux dont l'univers est riche
-       et complexe, tel que les jeux de rÃ´le.
-     * les concepteurs de niveau ou level designer, chargÃ©s de rÃ©aliser
-       les niveaux de jeu en respectant les consignes globales dÃ©finies
+   Les jeux vidéo sont généralement créés par des équipes de développeurs,
+   de différents corps de métiers.
+     * Les producteurs, chargés de gérer le développement des jeux par les
+       équipes internes ou les studios externes.
+     * les concepteurs de jeux, ou game designers, chargés d'imaginer les
+       concepts sur lesquels sont basés le jeu, comme le gameplay ou
+       l'univers de celui-ci. Ils sont parfois assistés par des
+       scénaristes, en particulier pour les jeux dont l'univers est riche
+       et complexe, tel que les jeux de rôle.
+     * les concepteurs de niveau ou level designer, chargés de réaliser
+       les niveaux de jeu en respectant les consignes globales définies
        par le ou les game designers ;
      * les infographistes 2D et 3D, les musiciens, les techniciens,
        assistent les concepteurs que ce soit pour la phase de conception
-       ou de rÃ©alisation ;
-     * les programmeurs ou codeurs, chargÃ©s du dÃ©veloppement global du
-       jeu, et qui s'occupent de la crÃ©ation ou de l'intÃ©gration du moteur
-       du jeu, mais aussi de la rÃ©alisation de logiciels annexes, comme la
-       crÃ©ation d'un Ã©diteur de niveau ; certaines catÃ©gories de codeurs
+       ou de réalisation ;
+     * les programmeurs ou codeurs, chargés du développement global du
+       jeu, et qui s'occupent de la création ou de l'intégration du moteur
+       du jeu, mais aussi de la réalisation de logiciels annexes, comme la
+       création d'un éditeur de niveau ; certaines catégories de codeurs
        existent : ceux qui s'occupent du noyau du jeu (codeur Kernel,
        codeur moteur ou codeur bas niveau), ceux qui s'occupent de la
        gestion de l'intelligence artificielle (codeur IA) ou ceux qui
        s'occupent de l'ergonomie et de l'interface.
-     * les mÃ©tiers du son entrent dans deux catÃ©gories. Le compositeur se
-       charge de crÃ©er les musiques qui participent Ã  la construction de
-       l'univers du jeu. Il intÃ¨gre parfois des contraintes spÃ©cifiques Ã 
-       la narration en introduisant des sÃ©quences musicales qui s'adaptent
-       Ã  l'action du joueur ou Ã  la dramaturgie de la scÃ¨ne. Le sound
+     * les métiers du son entrent dans deux catégories. Le compositeur se
+       charge de créer les musiques qui participent à la construction de
+       l'univers du jeu. Il intègre parfois des contraintes spécifiques à
+       la narration en introduisant des séquences musicales qui s'adaptent
+       à l'action du joueur ou à la dramaturgie de la scène. Le sound
        designer, lui, se charge de la production des bruitages, paroles
-       et/ou des effets spÃ©ciaux. Sa tÃ¢che le conduit principalement Ã 
-       rÃ©aliser des retours (ou Â« feedbacks Â») liÃ©s Ã  des Ã©vÃ©nements
+       et/ou des effets spéciaux. Sa tâche le conduit principalement à
+       réaliser des retours (ou « feedbacks ») liés à des événements
        visuels (mouvement de l'avatar, mouvement des ennemis, bruits
-       attachÃ©s Ã  des objets visibles) ou Ã  produire des Ã©lÃ©ments sonores
-       d'ambiance qui soutiennent le rÃ©alisme du jeu. Pour les petits
-       studios et pour les crÃ©ateurs de jeu vidÃ©o indÃ©pendants, c'est
-       souvent la mÃªme personne qui rÃ©alise la musique et les Â« fx Â». Dans
-       des structures plus grandes, ces rÃ´les sont disjoints.
+       attachés à des objets visibles) ou à produire des éléments sonores
+       d'ambiance qui soutiennent le réalisme du jeu. Pour les petits
+       studios et pour les créateurs de jeu vidéo indépendants, c'est
+       souvent la même personne qui réalise la musique et les « fx ». Dans
+       des structures plus grandes, ces rôles sont disjoints.
      * les testeurs, plus ou moins nombreux selon l'avancement du projet
-       ou des parties du jeu testÃ©es, qui vÃ©rifient si le logiciel
-       fonctionne comme il a Ã©tÃ© convenu.
-     * les traducteurs, chargÃ©s de traduire non seulement les dialogues,
-       mais aussi les inscriptions prÃ©sentes dans les jeux ainsi que les
-       divers Ã©lÃ©ments des menus. Les traducteurs rÃ©alisent aussi la
-       localisation d'un jeu. Cet aspect parfois nÃ©gligÃ© participe
-       pourtant Ã©normÃ©ment Ã  la finition du logiciel.
+       ou des parties du jeu testées, qui vérifient si le logiciel
+       fonctionne comme il a été convenu.
+     * les traducteurs, chargés de traduire non seulement les dialogues,
+       mais aussi les inscriptions présentes dans les jeux ainsi que les
+       divers éléments des menus. Les traducteurs réalisent aussi la
+       localisation d'un jeu. Cet aspect parfois négligé participe
+       pourtant énormément à la finition du logiciel.
 
-   En France, l'Association des producteurs d'Å“uvres multimÃ©dia (APOM)
-   estime Ã  5 000 le nombre d'emplois directs dans le secteur du jeu
-   vidÃ©o, en 1998, contre 3 000, en 2002, et 1 500, en 2006.
+   En France, l'Association des producteurs d'oeuvres multimédia (APOM)
+   estime à 5 000 le nombre d'emplois directs dans le secteur du jeu
+   vidéo, en 1998, contre 3 000, en 2002, et 1 500, en 2006.
 
-Types de jeux vidÃ©o
+Types de jeux vidéo
 
-   Article dÃ©taillÃ© : Genre de jeu vidÃ©o.
+   Article détaillé : Genre de jeu vidéo.
 
-   Les principaux genres du jeu vidÃ©o sont (par ordre alphabÃ©tique) :
+   Les principaux genres du jeu vidéo sont (par ordre alphabétique) :
      * Action
      * Aventure
      * Battle Royale
@@ -730,770 +808,770 @@ Types de jeux vidÃ©o
      * GTA-like
      * Guerre
      * Infiltration
-     * Jeu de rÃ´le
+     * Jeu de rôle
      * Ligue fantasy
      * MMO
      * MMORPG
      * MOBA
      * Plates-formes
-     * Porte-monstre-trÃ©sor
-     * RÃ©flexion
+     * Porte-monstre-trésor
+     * Réflexion
      * Rogue-like
      * Rythme
-     * Sandbox (Bac Ã  sable)
+     * Sandbox (Bac à sable)
      * Shoot them up
      * Simulation
      * Sport
-     * StratÃ©gie
-     * StratÃ©gie en temps rÃ©el
+     * Stratégie
+     * Stratégie en temps réel
      * Survival horror
-     * Tir Ã  la troisiÃ¨me personne ou TPS
-     * Tir Ã  la premiÃ¨re personne ou FPS
+     * Tir à la troisième personne ou TPS
+     * Tir à la première personne ou FPS
      * Visual novel
 
-DÃ©finition juridique en France
+Définition juridique en France
 
-   La dÃ©finition du jeu vidÃ©o entre 1990 et 2000 a Ã©tÃ© floue ; elle a Ã©tÃ©
-   dÃ©finie comme une Â« Å“uvre logicielle Â», puis comme une Â« Å“uvre
-   audiovisuelle Â»^[26]. Avec lâ€™arrÃªt jurisprudentiel de 2009 (arrÃªt
+   La définition du jeu vidéo entre 1990 et 2000 a été floue ; elle a été
+   définie comme une « oeuvre logicielle », puis comme une « oeuvre
+   audiovisuelle »^[26]. Avec l'arrêt jurisprudentiel de 2009 (arrêt
    Cryo)^[27] :
 
-   Â« Le jeu vidÃ©o est une Å“uvre complexe, qui ne saurait Ãªtre rÃ©duite Ã  sa
-   seule dimension logicielle, quelle que soit lâ€™importance de celle-ci,
-   de sorte que chacune de ses composantes est soumise au rÃ©gime qui lui
-   est applicable en fonction de sa nature Â»
+   « Le jeu vidéo est une oeuvre complexe, qui ne saurait être réduite à
+   sa seule dimension logicielle, quelle que soit l'importance de
+   celle-ci, de sorte que chacune de ses composantes est soumise au régime
+   qui lui est applicable en fonction de sa nature »
 
-   Le jeu vidÃ©o est donc juridiquement la cohabitation de diffÃ©rents
-   Ã©lÃ©ments, graphiques, musicaux, narratifs^[26].
+   Le jeu vidéo est donc juridiquement la cohabitation de différents
+   éléments, graphiques, musicaux, narratifs^[26].
 
-   Le jeu vidÃ©o est considÃ©rÃ© comme une Â« Å“uvre de l'esprit Â», qui est
-   donc protÃ©gÃ©e par le droit d'auteur mais elle reste dÃ©fini variablement
-   en droit franÃ§ais, d'une part, par sa nature comme une Â« Å“uvre
-   audiovisuelle Â» ou Â« Å“uvre logicielle Â», d'autre part, en fonction de
-   son processus de crÃ©ation comme Â« Å“uvre de collaboration Â» ou Â« Å“uvre
-   collective Â»^[28]. De plus, le code de la propriÃ©tÃ© intellectuelle n'y
-   fait pas spÃ©cifiquement rÃ©fÃ©rence^[28].
+   Le jeu vidéo est considéré comme une « oeuvre de l'esprit », qui est
+   donc protégée par le droit d'auteur mais elle reste défini variablement
+   en droit français, d'une part, par sa nature comme une « oeuvre
+   audiovisuelle » ou « oeuvre logicielle », d'autre part, en fonction de
+   son processus de création comme « oeuvre de collaboration » ou « oeuvre
+   collective »^[28]. De plus, le code de la propriété intellectuelle n'y
+   fait pas spécifiquement référence^[28].
 
-DÃ©bats et controverses
+Débats et controverses
 
-   Article dÃ©taillÃ© : Controverse autour du jeu vidÃ©o.
+   Article détaillé : Controverse autour du jeu vidéo.
 
-   Le jeu vidÃ©o comme loisir et phÃ©nomÃ¨ne de masse soulÃ¨ve des
-   interrogations et des critiques. Le jeu vidÃ©o est Ã  l'Ã©chelle de
-   l'histoire des sociÃ©tÃ©s humaines une activitÃ© rÃ©cente, les parents
-   d'enfants nÃ©s dans les annÃ©es 1990 n'ont pour la plupart jamais jouÃ© Ã 
+   Le jeu vidéo comme loisir et phénomène de masse soulève des
+   interrogations et des critiques. Le jeu vidéo est à l'échelle de
+   l'histoire des sociétés humaines une activité récente, les parents
+   d'enfants nés dans les années 1990 n'ont pour la plupart jamais joué à
    ce type de jeu dans leur enfance ou adolescence.
 
 Reconnaissance en tant qu'art
 
-   Il existe depuis plusieurs annÃ©es tout un dÃ©bat sur le rapport du jeu
-   vidÃ©o Ã  l'art^[29]. Certains n'hÃ©sitent pas Ã  en faire une discipline
-   artistique comme les autres, avec ses qualitÃ©s propres. C'est en
-   particulier la position d'Olivier SÃ©guret, critique au journal
-   LibÃ©ration, qui se bat pour faire reconnaÃ®tre au jeu vidÃ©o sa portÃ©e
-   artistique, notamment par l'Ã©tablissement de parallÃ¨les avec l'histoire
-   du cinÃ©ma^[30]. Ou encore de quelques auteurs comme Nic Kelman (en),
-   qui tentent d'apporter de nouvelles visions concernant les jeux vidÃ©o,
-   en proposant Ã  leurs lecteurs de reconsidÃ©rer leur propre dÃ©finition de
+   Il existe depuis plusieurs années tout un débat sur le rapport du jeu
+   vidéo à l'art^[29]. Certains n'hésitent pas à en faire une discipline
+   artistique comme les autres, avec ses qualités propres. C'est en
+   particulier la position d'Olivier Séguret, critique au journal
+   Libération, qui se bat pour faire reconnaître au jeu vidéo sa portée
+   artistique, notamment par l'établissement de parallèles avec l'histoire
+   du cinéma^[30]. Ou encore de quelques auteurs comme Nic Kelman (en),
+   qui tentent d'apporter de nouvelles visions concernant les jeux vidéo,
+   en proposant à leurs lecteurs de reconsidérer leur propre définition de
    l'Art en tant que tel.
 
-   Le jeu vidÃ©o s'inscrit depuis longtemps dans la culture des sociÃ©tÃ©s
-   contemporaines. Si l'industrie du jeu vidÃ©o connaÃ®t ses produits grand
-   public et purement commerciaux, certains reprÃ©sentent des titres
-   considÃ©rÃ©s comme des Å“uvres d'art par la critique, Ã  l'instar de Rez
-   sur Dreamcast, des crÃ©ations du franÃ§ais David Cage ou encore des jeux
-   Myst et Riven des frÃ¨res Miller.
+   Le jeu vidéo s'inscrit depuis longtemps dans la culture des sociétés
+   contemporaines. Si l'industrie du jeu vidéo connaît ses produits grand
+   public et purement commerciaux, certains représentent des titres
+   considérés comme des oeuvres d'art par la critique, à l'instar de Rez
+   sur Dreamcast, des créations du français David Cage ou encore des jeux
+   Myst et Riven des frères Miller.
 
-   La conception de l'art vidÃ©oludique se heurte Ã  des visions plus
+   La conception de l'art vidéoludique se heurte à des visions plus
    traditionnelles de la nature de l'art^[non neutre], pour lesquelles le
-   ludique (caractÃ©ristique du jeu vidÃ©o) exclut
-   l'artistique^[rÃ©f. nÃ©cessaire]. Le fait mÃªme de jouer Ã  un jeu vidÃ©o
-   signifierait l'impossibilitÃ© d'entretenir un rapport avec lui tel qu'il
-   est possible d'avoir avec une Å“uvre de cinÃ©ma ou de peinture. Pourtant
-   il existe une relation Ã©motionnelle, qui, par extension, serait
-   Ã©galement artistique^[31]. Toutefois, le dÃ©bat reste ouvert, la
-   conception du jeu vidÃ©o gÃ©ant Paix contre guerre (sur Ã©cran de 100 m^2)
-   par le peintre plasticien Bernard Quentin en 1995, la crÃ©ation du MusÃ©e
-   du jeu vidÃ©o Ã  Paris, et la dÃ©coration de l'Ordre des Arts et des
-   Lettres dÃ©cernÃ©e par le ministÃ¨re de la culture Ã  plusieurs figures
-   importantes du jeu vidÃ©o (FrÃ©dÃ©rick Raynal, Michel Ancel, Shigeru
+   ludique (caractéristique du jeu vidéo) exclut
+   l'artistique^[réf. nécessaire]. Le fait même de jouer à un jeu vidéo
+   signifierait l'impossibilité d'entretenir un rapport avec lui tel qu'il
+   est possible d'avoir avec une oeuvre de cinéma ou de peinture. Pourtant
+   il existe une relation émotionnelle, qui, par extension, serait
+   également artistique^[31]. Toutefois, le débat reste ouvert, la
+   conception du jeu vidéo géant Paix contre guerre (sur écran de 100 m^2)
+   par le peintre plasticien Bernard Quentin en 1995, la création du Musée
+   du jeu vidéo à Paris, et la décoration de l'Ordre des Arts et des
+   Lettres décernée par le ministère de la culture à plusieurs figures
+   importantes du jeu vidéo (Frédérick Raynal, Michel Ancel, Shigeru
    Miyamoto ou encore Peter Molyneux) sont autant de premiers pas dans la
-   reconnaissance officielle du jeu vidÃ©o en tant qu'art.
+   reconnaissance officielle du jeu vidéo en tant qu'art.
 
-   Le 10 mai 2011, la Fondation Nationale amÃ©ricaine pour les Arts modifie
-   ses directives en changeant la mention Â« Arts Ã  la radio et Ã  la
-   tÃ©lÃ©vision Â» en Â« Arts dans les mÃ©dias Â», rendant de fait les jeux
-   vidÃ©o Ã©ligibles explicitement et officiellement Ã  l'appellation dâ€™Å“uvre
-   d'art^[32]^,^[33].
+   Le 10 mai 2011, la Fondation Nationale américaine pour les Arts modifie
+   ses directives en changeant la mention « Arts à la radio et à la
+   télévision » en « Arts dans les médias », rendant de fait les jeux
+   vidéo éligibles explicitement et officiellement à l'appellation
+   d'oeuvre d'art^[32]^,^[33].
 
-   Du 11 novembre 2011 au 9 janvier 2012 est organisÃ©e au Grand Palais Ã 
-   Paris une exposition retraÃ§ant l'Ã©volution du jeu vidÃ©o depuis ses
-   dÃ©buts. PrÃ©sentant plusieurs jeux marquants jouables par les visiteurs,
+   Du 11 novembre 2011 au 9 janvier 2012 est organisée au Grand Palais à
+   Paris une exposition retraçant l'évolution du jeu vidéo depuis ses
+   débuts. Présentant plusieurs jeux marquants jouables par les visiteurs,
    l'exposition s'axe avant tout autour de l'aspect culturel et artistique
-   du jeu vidÃ©o, comme l'annonce la prÃ©sentation : Â« Au-delÃ  de
-   lâ€™esthÃ©tique et de la technique, lâ€™histoire du jeu vidÃ©o est aussi une
-   histoire culturelle des nouveaux imaginaires contemporains nÃ©s de la
-   rencontre entre des fonds culturels des Ã‰tats-Unis, du Japon et de
-   lâ€™Europe, et plus spÃ©cifiquement de la France qui occupe un rang majeur
-   dans ce domaine. Ã€ travers des supports de crÃ©ation aussi divers que le
-   cinÃ©ma, le dessin animÃ© europÃ©en, la bande dessinÃ©e franco-belge, les
-   comics amÃ©ricains, les mangas japonais, lâ€™Â« anime Â» japonaise, les
-   sÃ©ries tÃ©lÃ©visÃ©es amÃ©ricaines, de nouveaux univers se sont crÃ©Ã©s. Ils
-   sont autant de sources pour le jeu vidÃ©o qui en retour les
-   inspire Â»^[34].
+   du jeu vidéo, comme l'annonce la présentation : « Au-delà de
+   l'esthétique et de la technique, l'histoire du jeu vidéo est aussi une
+   histoire culturelle des nouveaux imaginaires contemporains nés de la
+   rencontre entre des fonds culturels des États-Unis, du Japon et de
+   l'Europe, et plus spécifiquement de la France qui occupe un rang majeur
+   dans ce domaine. À travers des supports de création aussi divers que le
+   cinéma, le dessin animé européen, la bande dessinée franco-belge, les
+   comics américains, les mangas japonais, l'« anime » japonaise, les
+   séries télévisées américaines, de nouveaux univers se sont créés. Ils
+   sont autant de sources pour le jeu vidéo qui en retour les
+   inspire »^[34].
 
    En mars 2012, le Smithsonian American Art Museum de Washington, aux
-   Ã‰tats-Unis, propose l'exposition Â« The Art of Video Games Â», explorant
-   les jeux vidÃ©o sous l'angle de lâ€™Å“uvre artistique et proposant une
+   États-Unis, propose l'exposition « The Art of Video Games », explorant
+   les jeux vidéo sous l'angle de l'oeuvre artistique et proposant une
    relecture de quarante ans de leur histoire^[35]^,^[36].
 
    En mars 2013, le Museum of Modern Art (MoMA) de New York ouvre une
-   exposition permanente prÃ©sentant 14 jeux aussi bien anciens que
-   rÃ©cents, retenus sur diffÃ©rents critÃ¨res d'ordres esthÃ©tique, visuel,
-   sonores ou technologique. Les mÃ©caniques de jeu, le scÃ©nario ou la
-   libertÃ© d'action sont aussi pris en compte dans le choix de cette
-   sÃ©lection^[37]. Ã€ terme, la collection doit rÃ©unir 40 Å“uvres prÃ©sentÃ©es
-   au sein des galeries du MoMA dans la collection Â« Architecture et
-   Design Â». Les titres retenus sont Pac-Man, Tetris, Another World, Myst,
-   SimCity 2000, Vib-Ribbon, Les Sims, Katamari Damacy, EVE Online, Dwarf
-   Fortress, Portal, flOw, Passage et Canabalt.
+   exposition permanente présentant 14 jeux aussi bien anciens que
+   récents, retenus sur différents critères d'ordres esthétique, visuel,
+   sonores ou technologique. Les mécaniques de jeu, le scénario ou la
+   liberté d'action sont aussi pris en compte dans le choix de cette
+   sélection^[37]. À terme, la collection doit réunir 40 oeuvres
+   présentées au sein des galeries du MoMA dans la collection
+   « Architecture et Design ». Les titres retenus sont Pac-Man, Tetris,
+   Another World, Myst, SimCity 2000, Vib-Ribbon, Les Sims, Katamari
+   Damacy, EVE Online, Dwarf Fortress, Portal, flOw, Passage et Canabalt.
 
-   Du 25 septembre 2015 au 6 mars 2016, le musÃ©e Art ludique prÃ©sente, Ã 
-   Paris, la premiÃ¨re grande exposition au monde consacrÃ©e Ã  lâ€™art dans le
-   jeu vidÃ©o et Ã  son inspiration franÃ§aise. Cette exposition met en avant
-   le travail prÃ©paratoire des artistes, Ã  travers de nombreux concept
+   Du 25 septembre 2015 au 6 mars 2016, le musée Art ludique présente, à
+   Paris, la première grande exposition au monde consacrée à l'art dans le
+   jeu vidéo et à son inspiration française. Cette exposition met en avant
+   le travail préparatoire des artistes, à travers de nombreux concept
    art, des esquisses au crayon, des peintures ou des sculptures
-   traditionnelles et numÃ©riques. Le MusÃ©e axe sa thÃ©matique sur la
-   richesse esthÃ©tique de l'architecture et des univers dans le jeu vidÃ©o,
-   la diversitÃ© graphique des personnages qui peuplent ces mondes
-   virtuels, la magie et la fÃ©erie qui touchent un large public. Sont
-   ainsi mis Ã  l'honneur Assassin's Creed, Remember me, Dishonored, The
-   Technomancer, Les Lapins CrÃ©tins ou encore Rayman ; ainsi que des jeux
-   plus indÃ©pendants comme Soldats inconnus : MÃ©moires de la Grande
+   traditionnelles et numériques. Le Musée axe sa thématique sur la
+   richesse esthétique de l'architecture et des univers dans le jeu vidéo,
+   la diversité graphique des personnages qui peuplent ces mondes
+   virtuels, la magie et la féerie qui touchent un large public. Sont
+   ainsi mis à l'honneur Assassin's Creed, Remember me, Dishonored, The
+   Technomancer, Les Lapins Crétins ou encore Rayman ; ainsi que des jeux
+   plus indépendants comme Soldats inconnus : Mémoires de la Grande
    Guerre, Syberia, Of Orcs and Men, Wild et Child of Light. L'exposition
-   met aussi en lumiÃ¨re les passerelles qui existent entre le jeu vidÃ©o et
-   le 7^e art, notamment dans Beyond: Two Souls. Le fondateur du musÃ©e Art
-   ludique, Jean-Jacques Launier, dÃ©clare Ã  propos de l'exposition, que le
-   jeu vidÃ©o Â« incarne lâ€™Art Total. Il fait appel au dessin, Ã  la
-   peinture, Ã  la sculpture, Ã  la crÃ©ation dâ€™univers entiers et de
-   centaines de personnages par jeu, Ã  la mise en scÃ¨ne, Ã  lâ€™animation, au
-   scÃ©nario, Ã  la musique, et bien sÃ»r Ã  la conception dâ€™un mode de jeu
-   destinÃ© Ã  transcender lâ€™interactivitÃ©. Â» Emmanuel Ethis, prÃ©sident du
-   Haut conseil de l'Ã‰ducation artistique et culturelle, renchÃ©rit Ã 
-   l'occasion de l'exposition : Â« le jeu vidÃ©o est bien un art total, car
-   sâ€™il est ludique par nature, il porte aussi lâ€™ambition souveraine de
-   sâ€™inscrire dans une histoire connotÃ©e, diaprÃ©e de correspondances et de
-   rÃ©fÃ©rences Ã  tous les arts qui lâ€™ont prÃ©cÃ©dÃ© Â»^[38]^,^[39]^,^[40].
+   met aussi en lumière les passerelles qui existent entre le jeu vidéo et
+   le 7^e art, notamment dans Beyond: Two Souls. Le fondateur du musée Art
+   ludique, Jean-Jacques Launier, déclare à propos de l'exposition, que le
+   jeu vidéo « incarne l'Art Total. Il fait appel au dessin, à la
+   peinture, à la sculpture, à la création d'univers entiers et de
+   centaines de personnages par jeu, à la mise en scène, à l'animation, au
+   scénario, à la musique, et bien sûr à la conception d'un mode de jeu
+   destiné à transcender l'interactivité. » Emmanuel Ethis, président du
+   Haut conseil de l'Éducation artistique et culturelle, renchérit à
+   l'occasion de l'exposition : « le jeu vidéo est bien un art total, car
+   s'il est ludique par nature, il porte aussi l'ambition souveraine de
+   s'inscrire dans une histoire connotée, diaprée de correspondances et de
+   références à tous les arts qui l'ont précédé »^[38]^,^[39]^,^[40].
 
 Impact environnemental
 
-   Article connexe : Impact environnemental du numÃ©rique.
+   Article connexe : Impact environnemental du numérique.
 
-   L'essor du jeu Ã  la demande (cloud gaming en anglais) s'accompange d'un
-   accroissement de l'Impact environnemental du jeu vidÃ©o. Les centres de
-   donnÃ©es distants et les serveurs web reprÃ©sentent en effet une
-   infrastructure matÃ©rielle et une consommation Ã©lectrique
-   supplÃ©mentaires induites par le cloud. En 2020, ces jeux reprÃ©sentent
-   7 % de l'utilisation mondiale du rÃ©seau. Si 30 % des joueurs passaient
-   au cloud, l'augmentation des Ã©missions de carbone liÃ©es au jeu serait
-   de 29,9 %, estime une Ã©tude de 2020, tandis qu'un scÃ©nario Ã  90 % de
-   joueurs sur le cloud entraÃ®nerait une augmentation de 112 % des
-   Ã©missions. Ces projections sont estimÃ©es pour des dÃ©finitions d'Ã©cran
+   L'essor du jeu à la demande (cloud gaming en anglais) s'accompange d'un
+   accroissement de l'Impact environnemental du jeu vidéo. Les centres de
+   données distants et les serveurs web représentent en effet une
+   infrastructure matérielle et une consommation électrique
+   supplémentaires induites par le cloud. En 2020, ces jeux représentent
+   7 % de l'utilisation mondiale du réseau. Si 30 % des joueurs passaient
+   au cloud, l'augmentation des émissions de carbone liées au jeu serait
+   de 29,9 %, estime une étude de 2020, tandis qu'un scénario à 90 % de
+   joueurs sur le cloud entraînerait une augmentation de 112 % des
+   émissions. Ces projections sont estimées pour des définitions d'écran
    de 720p ou 1080p en fonction des plateformes, mais seraient encore
-   amplifiÃ©es pour des rÃ©solutions de jeu de 4K^[41].
+   amplifiées pour des résolutions de jeu de 4K^[41].
 
-Ã‰tude du jeu vidÃ©o
+Étude du jeu vidéo
 
-   Depuis quelques annÃ©es, certaines universitÃ©s proposent dans leurs
-   programmes l'Ã©tude du jeu vidÃ©o comme discipline pÃ©dagogique. Depuis
-   l'automne 2011, l'universitÃ© de MontrÃ©al propose une mineure en Ã©tudes
-   du jeu vidÃ©o. Cette initiative, menÃ©e par Bernard Perron, du
-   dÃ©partement dâ€™histoire de lâ€™art et dâ€™Ã©tudes cinÃ©matographiques, est
-   partie d'initiatives europÃ©ennes^[Quoi ?]. Selon lui, le jeu vidÃ©o est
-   Â« officiellement reconnu en France comme le 10^e art depuis
-   1993 Â»^[42], mais ce nâ€™est vraiment que depuis le dÃ©but du XXI^e siÃ¨cle
-   que lâ€™Ã©tude du jeu vidÃ©o est considÃ©rÃ©e comme une pratique
-   sÃ©rieuse^[43]^,^[44].
+   Depuis quelques années, certaines universités proposent dans leurs
+   programmes l'étude du jeu vidéo comme discipline pédagogique. Depuis
+   l'automne 2011, l'université de Montréal propose une mineure en études
+   du jeu vidéo. Cette initiative, menée par Bernard Perron, du
+   département d'histoire de l'art et d'études cinématographiques, est
+   partie d'initiatives européennes^[Quoi ?]. Selon lui, le jeu vidéo est
+   « officiellement reconnu en France comme le 10^e art depuis
+   1993 »^[42], mais ce n'est vraiment que depuis le début du XXI^e siècle
+   que l'étude du jeu vidéo est considérée comme une pratique
+   sérieuse^[43]^,^[44].
 
-   Contrairement Ã  la littÃ©rature et au cinÃ©ma, le jeu vidÃ©o sous-entend
-   tout dâ€™abord un investissement personnel. Les joueurs ne se contentent
-   pas de discuter de la valeur du jeu et de son apprÃ©ciation. Ils
-   Ã©changent aussi abondamment Ã  propos des diffÃ©rentes maniÃ¨res de
+   Contrairement à la littérature et au cinéma, le jeu vidéo sous-entend
+   tout d'abord un investissement personnel. Les joueurs ne se contentent
+   pas de discuter de la valeur du jeu et de son appréciation. Ils
+   échangent aussi abondamment à propos des différentes manières de
    vaincre un monstre ou de traverser un niveau en particulier.
 
-   Ã€ lâ€™universitÃ©, les considÃ©rations par rapport au jeu vidÃ©o vont
-   au-delÃ  de celles des joueurs. Par exemple, il est question de
-   lâ€™implication du joueur, des rÃ©percussions cognitives, ou encore des
-   rapports de performance^[rÃ©f. souhaitÃ©e].
+   À l'université, les considérations par rapport au jeu vidéo vont
+   au-delà de celles des joueurs. Par exemple, il est question de
+   l'implication du joueur, des répercussions cognitives, ou encore des
+   rapports de performance^[réf. souhaitée].
 
 Temps de jeu
 
-   Certains jeux vidÃ©o peuvent susciter lâ€™inquiÃ©tude en raison de leur
-   aspect chronophage, un enfant ou adolescent de 8 Ã  18 ans passant en
-   moyenne en 2010 quatre heures par jour devant un ordinateur ou Ã  jouer
-   aux jeux vidÃ©o^[45]. Comment gÃ©rer ce difficile problÃ¨me du temps de
-   jeu ? Il nâ€™y a pas de temps de jeu Â« idÃ©al Â», mÃªme si lâ€™AcadÃ©mie
-   amÃ©ricaine de pÃ©diatrie recommande de ne pas dÃ©passer deux heures par
-   jour devant un Ã©cran^[46].
+   Certains jeux vidéo peuvent susciter l'inquiétude en raison de leur
+   aspect chronophage, un enfant ou adolescent de 8 à 18 ans passant en
+   moyenne en 2010 quatre heures par jour devant un ordinateur ou à jouer
+   aux jeux vidéo^[45]. Comment gérer ce difficile problème du temps de
+   jeu ? Il n'y a pas de temps de jeu « idéal », même si l'Académie
+   américaine de pédiatrie recommande de ne pas dépasser deux heures par
+   jour devant un écran^[46].
 
-   Lâ€™idÃ©e selon laquelle il existe un volume de jeu horaire idÃ©al nâ€™est ni
-   prouvÃ©e, ni particuliÃ¨rement judicieuse pour contrÃ´ler lâ€™activitÃ© du
+   L'idée selon laquelle il existe un volume de jeu horaire idéal n'est ni
+   prouvée, ni particulièrement judicieuse pour contrôler l'activité du
    joueur sur le jeu. En effet, si la limite de deux heures de jeu par
-   jour est parfois avancÃ©e, rien ne prouve quâ€™elle garantisse une
-   pratique adÃ©quate du jeu, ni quâ€™au-delÃ  de cette limite, la pratique
-   devienne rÃ©ellement problÃ©matique. Ici, comme ailleurs, tout dÃ©pend de
-   la personnalitÃ© du joueur et de lâ€™environnement social dans lequel il
-   Ã©volue.
+   jour est parfois avancée, rien ne prouve qu'elle garantisse une
+   pratique adéquate du jeu, ni qu'au-delà de cette limite, la pratique
+   devienne réellement problématique. Ici, comme ailleurs, tout dépend de
+   la personnalité du joueur et de l'environnement social dans lequel il
+   évolue.
 
-   Le critÃ¨re le plus appropriÃ© pour dÃ©terminer le seuil de Â« nocivitÃ© Â»
-   dâ€™un jeu vidÃ©o sur le joueur est sans doute la perte de lien social
-   quâ€™une pratique excessive du jeu est susceptible dâ€™entraÃ®ner.
-   Lâ€™amoindrissement des relations avec les autres membres de la famille,
-   les amis, les collÃ¨gues est un indicateur plus pertinent pour juger du
-   caractÃ¨re excessif de la pratique du jeu. Il est donc fortement
-   recommandÃ© de ne pas sâ€™arrÃªter Ã  une limite horaire excessivement
-   rÃ©duite et inflexible lorsque vous fixez les rÃ¨gles de jeu qui
-   sâ€™imposent Ã  votre enfant.
+   Le critère le plus approprié pour déterminer le seuil de « nocivité »
+   d'un jeu vidéo sur le joueur est sans doute la perte de lien social
+   qu'une pratique excessive du jeu est susceptible d'entraîner.
+   L'amoindrissement des relations avec les autres membres de la famille,
+   les amis, les collègues est un indicateur plus pertinent pour juger du
+   caractère excessif de la pratique du jeu. Il est donc fortement
+   recommandé de ne pas s'arrêter à une limite horaire excessivement
+   réduite et inflexible lorsque vous fixez les règles de jeu qui
+   s'imposent à votre enfant.
 
-   Si certains jeux comportent un systÃ¨me de coupure, qui interrompt le
-   jeu aprÃ¨s une certaine durÃ©e, et qui peut Ãªtre fixÃ©e par les parents,
-   cette solution est loin dâ€™Ãªtre idÃ©ale dans la mesure oÃ¹ lâ€™interruption
-   brutale du jeu peut Ãªtre mal vÃ©cue par le joueur, qui nâ€™a pas le temps
+   Si certains jeux comportent un système de coupure, qui interrompt le
+   jeu après une certaine durée, et qui peut être fixée par les parents,
+   cette solution est loin d'être idéale dans la mesure où l'interruption
+   brutale du jeu peut être mal vécue par le joueur, qui n'a pas le temps
    de sauvegarder sa partie, ou dont les efforts pour accomplir le but
-   quâ€™il sâ€™est fixÃ© (mener Ã  bien une mission par exemple) sont ainsi
-   rÃ©duits Ã  nÃ©ant. La frustration ainsi engendrÃ©e par cette interruption
-   brutale du jeu peut faire naÃ®tre chez le joueur une certaine
-   agressivitÃ©. Ainsi, si vous dÃ©sirez recourir Ã  cette mÃ©thode pour
-   limiter la durÃ©e passÃ©e devant le jeu, il est recommandÃ© dâ€™informer
-   votre enfant de lâ€™activation de ce systÃ¨me de coupure et de veiller Ã 
-   ce quâ€™il soit prÃ©venu suffisamment tÃ´t de la coupure Ã  venir, afin de
+   qu'il s'est fixé (mener à bien une mission par exemple) sont ainsi
+   réduits à néant. La frustration ainsi engendrée par cette interruption
+   brutale du jeu peut faire naître chez le joueur une certaine
+   agressivité. Ainsi, si vous désirez recourir à cette méthode pour
+   limiter la durée passée devant le jeu, il est recommandé d'informer
+   votre enfant de l'activation de ce système de coupure et de veiller à
+   ce qu'il soit prévenu suffisamment tôt de la coupure à venir, afin de
    sauvegarder le fruit de son travail^[47].
 
-   Cet aspect chronophage est un des Ã©lÃ©ments de la sÃ©dentaritÃ© impliquÃ©
-   dans l'obÃ©sitÃ© et le surpoids infantile qui touche un enfant sur cinq
-   en Europe et un enfant sur trois aux Ã‰tats-Unis^[48]. L'utilisation de
-   l'exergaming (en) (mot portemanteau Ã  partir des termes anglais
-   exercise, exercice physique, et gaming, jeu vidÃ©o) qui vise Ã  jouer Ã 
-   des jeux vidÃ©o dynamiques associÃ©s aux exercices physiques (tel Dance
-   Dance Revolution), afin d'aider les enfants Ã  maigrir, a fait l'objet
-   de plusieurs Ã©tudes scientifiques, certaines montrant un effet
-   bÃ©nÃ©fique important (Ã  savoir se rapprocher des niveaux d'exercice
-   recommandÃ©s) de ce type de jeux^[49], d'autres un impact faible^[50],
+   Cet aspect chronophage est un des éléments de la sédentarité impliqué
+   dans l'obésité et le surpoids infantile qui touche un enfant sur cinq
+   en Europe et un enfant sur trois aux États-Unis^[48]. L'utilisation de
+   l'exergaming (en) (mot portemanteau à partir des termes anglais
+   exercise, exercice physique, et gaming, jeu vidéo) qui vise à jouer à
+   des jeux vidéo dynamiques associés aux exercices physiques (tel Dance
+   Dance Revolution), afin d'aider les enfants à maigrir, a fait l'objet
+   de plusieurs études scientifiques, certaines montrant un effet
+   bénéfique important (à savoir se rapprocher des niveaux d'exercice
+   recommandés) de ce type de jeux^[49], d'autres un impact faible^[50],
    et d'autres ne montrant aucun impact^[51].
 
 Violence
 
-   Le niveau de violence de certains jeux vidÃ©o est l'objet de critiques
-   rÃ©currentes. Le risque qu'elle dÃ©bouche sur une augmentation des actes
-   de violence dans la vie quotidienne est rÃ©guliÃ¨rement Ã©tudiÃ©^[52]. La
-   plupart des Ã©tudes n'ont trouvÃ© aucun lien entre violence virtuelle et
-   violence rÃ©elle^[53]^,^[54]^,^[55]^,^[56]. Certaines soulignent
-   nÃ©anmoins une corrÃ©lation avec une agressivitÃ© accrue parmi les
+   Le niveau de violence de certains jeux vidéo est l'objet de critiques
+   récurrentes. Le risque qu'elle débouche sur une augmentation des actes
+   de violence dans la vie quotidienne est régulièrement étudié^[52]. La
+   plupart des études n'ont trouvé aucun lien entre violence virtuelle et
+   violence réelle^[53]^,^[54]^,^[55]^,^[56]. Certaines soulignent
+   néanmoins une corrélation avec une agressivité accrue parmi les
    joueurs^[57].
 
-   Ces Ã©tudes sont sujettes Ã  controverse du fait d'enjeux moraux,
-   religieux et politiques^[rÃ©f. souhaitÃ©e]. Pour Laurent TrÃ©mel, elles
-   sont souvent artificielles : Â« en amalgamant par exemple la pratique
-   trÃ¨s occasionnelle d'une lycÃ©enne issue d'un milieu aisÃ© qui fera un
-   puzzle sur son portable entre deux messages adressÃ©s Ã  ses copines Ã 
-   celle d'un adolescent de milieu populaire en voie de dÃ©scolarisation
-   qui passe dix heures par jour Ã  jouer Ã  un jeu de course automobile
+   Ces études sont sujettes à controverse du fait d'enjeux moraux,
+   religieux et politiques^[réf. souhaitée]. Pour Laurent Trémel, elles
+   sont souvent artificielles : « en amalgamant par exemple la pratique
+   très occasionnelle d'une lycéenne issue d'un milieu aisé qui fera un
+   puzzle sur son portable entre deux messages adressés à ses copines à
+   celle d'un adolescent de milieu populaire en voie de déscolarisation
+   qui passe dix heures par jour à jouer à un jeu de course automobile
    seul sur sa console, on fait l'inverse de ce qu'il faudrait faire dans
-   une perspective sociologique Â»^[58].
+   une perspective sociologique »^[58].
 
 Protection des enfants
 
-   Article dÃ©taillÃ© : SystÃ¨me d'Ã©valuation des jeux vidÃ©o.
+   Article détaillé : Système d'évaluation des jeux vidéo.
 
-   Dans les annÃ©es 1990, alors que les jeux vidÃ©o devenaient de plus en
-   plus rÃ©alistes dans leurs graphismes, plusieurs systÃ¨mes de
-   classifications ont Ã©tÃ© mis en place Ã  travers le monde. Leur but est
-   de protÃ©ger les mineurs et d'informer les parents en attribuant Ã 
-   chaque jeu un Ã¢ge limite en dessous duquel le jeu est formellement
-   dÃ©conseillÃ©. Ces organismes ont aussi gÃ©nÃ©ralement le pouvoir
+   Dans les années 1990, alors que les jeux vidéo devenaient de plus en
+   plus réalistes dans leurs graphismes, plusieurs systèmes de
+   classifications ont été mis en place à travers le monde. Leur but est
+   de protéger les mineurs et d'informer les parents en attribuant à
+   chaque jeu un âge limite en dessous duquel le jeu est formellement
+   déconseillé. Ces organismes ont aussi généralement le pouvoir
    d'interdire la vente de jeux qu'ils jugent immoraux en refusant de les
    classifier. En effet, en l'absence de classification, un jeu n'a pas le
-   droit d'Ãªtre mis en vente^[OÃ¹ ?]. Ainsi, l'OFLC d'Australie refuse
-   rÃ©guliÃ¨rement la classification de certains jeux, tels Manhunt ou
+   droit d'être mis en vente^[Où ?]. Ainsi, l'OFLC d'Australie refuse
+   régulièrement la classification de certains jeux, tels Manhunt ou
    Soldier of Fortune: Payback^[59].
 
-   Les consoles de derniÃ¨re gÃ©nÃ©ration (Wii, Wii U, Switch,PS4, Xbox One
-   X, PSP, PSVITA, DSi et 3DS) disposent d'un systÃ¨me de contrÃ´le parental
-   permettant d'empÃªcher la lecture de jeux dÃ©conseillÃ©s en dessous d'un
-   certain Ã¢ge. Les ordinateurs Ã©quipÃ©s de Windows Vista et Microsoft
-   Windows 7 disposent quant Ã  eux d'un systÃ¨me de contrÃ´le parental,
-   permettant de dÃ©finir des plages horaires et d'interdire certains
+   Les consoles de dernière génération (Wii, Wii U, Switch,PS4, Xbox One
+   X, PSP, PSVITA, DSi et 3DS) disposent d'un système de contrôle parental
+   permettant d'empêcher la lecture de jeux déconseillés en dessous d'un
+   certain âge. Les ordinateurs équipés de Windows Vista et Microsoft
+   Windows 7 disposent quant à eux d'un système de contrôle parental,
+   permettant de définir des plages horaires et d'interdire certains
    jeux^[60].
 
-Ã‰pilepsies
+Épilepsies
 
-   L'utilisation de jeux vidÃ©o peut provoquer des crises d'Ã©pilepsie.
-   NÃ©anmoins, ce risque semble fortement liÃ© aux sujets Ã©pileptiques
+   L'utilisation de jeux vidéo peut provoquer des crises d'épilepsie.
+   Néanmoins, ce risque semble fortement lié aux sujets épileptiques
    photosensibles sans pour autant exclure totalement les autres sujets
-   Ã©pileptiques. Les progrÃ¨s techniques des consoles de jeux vidÃ©o et des
-   tÃ©lÃ©viseurs ont fortement contribuÃ© Ã  rÃ©duire le risque de provoquer
-   une crise d'Ã©pilepsie, notamment grÃ¢ce Ã  des frÃ©quences de balayage de
-   plus en plus Ã©levÃ©es, des couleurs moins contrastÃ©es et plus
-   naturelles, et une meilleure dÃ©finition d'image^[61]. Certains sujets
-   Ã©pileptiques ignorent leur Ã©tat jusqu'Ã  ce qu'il leur soit rÃ©vÃ©lÃ© lors
-   d'une partie^[62]. Il est recommandÃ© aux sujets Ã©pileptiques de ne pas
-   jouer plus de 30 minutes aux jeux vidÃ©o et de faire des pauses entre
-   chaque session, les crises d'Ã©pilepsie pouvant Ãªtre induites non
-   seulement par la nature mÃªme du jeu vidÃ©o (essentiellement chez les
-   sujets Ã©pileptiques photosensibles), mais Ã©galement par la fatigue et
+   épileptiques. Les progrès techniques des consoles de jeux vidéo et des
+   téléviseurs ont fortement contribué à réduire le risque de provoquer
+   une crise d'épilepsie, notamment grâce à des fréquences de balayage de
+   plus en plus élevées, des couleurs moins contrastées et plus
+   naturelles, et une meilleure définition d'image^[61]. Certains sujets
+   épileptiques ignorent leur état jusqu'à ce qu'il leur soit révélé lors
+   d'une partie^[62]. Il est recommandé aux sujets épileptiques de ne pas
+   jouer plus de 30 minutes aux jeux vidéo et de faire des pauses entre
+   chaque session, les crises d'épilepsie pouvant être induites non
+   seulement par la nature même du jeu vidéo (essentiellement chez les
+   sujets épileptiques photosensibles), mais également par la fatigue et
    le stress induits par de longues parties^[61]^,^[63].
 
-RÃ©gulation du jeu par PEGI
+Régulation du jeu par PEGI
 
-   Le Pan European Game Information (PEGI) est un organisme crÃ©Ã© pour
-   protÃ©ger les mineurs en ce qui concerne les jeux vidÃ©o en Europe. Il
-   attribue des labels dont peuvent disposer les Ã©diteurs et qui sont
-   devenus obligatoires pour les jeux commercialisÃ©s en Europe.
-   Aujourdâ€™hui, plus de 19 000 jeux prÃ©sentent un tel label. Pour
-   l'obtenir, les Ã©diteurs doivent remplir un formulaire dâ€™Ã©valuation et
-   de dÃ©claration du contenu, qui doit rendre compte rendu du jeu en
-   question en prÃ©cisant les Ã©lÃ©ments susceptibles ou non de heurter la
-   sensibilitÃ© du joueur. Les Ã©valuateurs de PEGI, qui ne jouent pas
-   forcÃ©ment aux diffÃ©rents jeux, en dÃ©duisent le classement appropriÃ©,
-   qui correspond Ã  une classe dâ€™Ã¢ge de joueurs^[64].
+   Le Pan European Game Information (PEGI) est un organisme créé pour
+   protéger les mineurs en ce qui concerne les jeux vidéo en Europe. Il
+   attribue des labels dont peuvent disposer les éditeurs et qui sont
+   devenus obligatoires pour les jeux commercialisés en Europe.
+   Aujourd'hui, plus de 19 000 jeux présentent un tel label. Pour
+   l'obtenir, les éditeurs doivent remplir un formulaire d'évaluation et
+   de déclaration du contenu, qui doit rendre compte rendu du jeu en
+   question en précisant les éléments susceptibles ou non de heurter la
+   sensibilité du joueur. Les évaluateurs de PEGI, qui ne jouent pas
+   forcément aux différents jeux, en déduisent le classement approprié,
+   qui correspond à une classe d'âge de joueurs^[64].
 
-   Par la suite, PEGI laisse le travail Ã  ses administrateurs indÃ©pendants
-   qui effectuent une deuxiÃ¨me vÃ©rification de la classification. Elles
+   Par la suite, PEGI laisse le travail à ses administrateurs indépendants
+   qui effectuent une deuxième vérification de la classification. Elles
    sont deux : le Video Standards Council (VSC), pour les jeux allant
-   jusquâ€™Ã  lâ€™Ã¢ge de sept ans, et Nicam pour les jeux Ã©tiquetÃ©s de 12 Ã  18
-   ans. AprÃ¨s ces dÃ©marches, un bilan du jeu est effectuÃ© et lâ€™Ã©diteur
-   reÃ§oit une licence qui lâ€™autorise Ã  appliquer le label PEGI, sous forme
-   d'un pictogramme apposÃ© sur la jaquette du jeu.
+   jusqu'à l'âge de sept ans, et Nicam pour les jeux étiquetés de 12 à 18
+   ans. Après ces démarches, un bilan du jeu est effectué et l'éditeur
+   reçoit une licence qui l'autorise à appliquer le label PEGI, sous forme
+   d'un pictogramme apposé sur la jaquette du jeu.
 
-Qui gÃ¨re PEGI ?
+Qui gère PEGI ?
 
-   PEGI est composÃ© de trois administrateurs indÃ©pendants : NICAM, VSC et
-   ISFE. Mais le PEGI est Ã©galement un systÃ¨me autonome, divisÃ© en
-   plusieurs conseils et comitÃ©s oÃ¹ chacun possÃ¨de un rÃ´le bien prÃ©cis. De
-   ce fait, il existe un conseil d'administration qui se situe au cÅ“ur du
-   PEGI, qui regroupe de nombreux acteurs du marchÃ© du jeu vidÃ©o tels que
-   les fabricants de consoles de jeu, les Ã©diteurs de jeuxâ€¦ et qui gÃ¨re
-   avec le directeur gÃ©nÃ©ral les activitÃ©s quotidiennes du PEGI.
+   PEGI est composé de trois administrateurs indépendants : NICAM, VSC et
+   ISFE. Mais le PEGI est également un système autonome, divisé en
+   plusieurs conseils et comités où chacun possède un rôle bien précis. De
+   ce fait, il existe un conseil d'administration qui se situe au coeur du
+   PEGI, qui regroupe de nombreux acteurs du marché du jeu vidéo tels que
+   les fabricants de consoles de jeu, les éditeurs de jeux... et qui gère
+   avec le directeur général les activités quotidiennes du PEGI.
 
-   PEGI, travaille par ailleurs, avec un groupe dâ€™experts et une
-   commission juridique qui sâ€™occupent dâ€™adapter celui-ci Ã  la lÃ©gislation
-   des diffÃ©rents pays pour sâ€™assurer dâ€™une bonne mise en application des
+   PEGI, travaille par ailleurs, avec un groupe d'experts et une
+   commission juridique qui s'occupent d'adapter celui-ci à la législation
+   des différents pays pour s'assurer d'une bonne mise en application des
    dispositions du code de conduite du PEGI et de la classification.
 
-Utilisation positive du jeu vidÃ©o
+Utilisation positive du jeu vidéo
 
-   Les jeux vidÃ©o ont des effets directs sur les capacitÃ©s mentales et
-   physiques des joueurs, que ce soit des rÃ©flexes plus accrus, un
-   dÃ©veloppement de l'empathie ou encore l'amÃ©lioration des capacitÃ©s de
-   traitement des informations en images^[65]. En 2003, une Ã©tude suisse
-   portant sur les Ã©ventuels effets nÃ©fastes pour les yeux a constatÃ© que
+   Les jeux vidéo ont des effets directs sur les capacités mentales et
+   physiques des joueurs, que ce soit des réflexes plus accrus, un
+   développement de l'empathie ou encore l'amélioration des capacités de
+   traitement des informations en images^[65]. En 2003, une étude suisse
+   portant sur les éventuels effets néfastes pour les yeux a constaté que
    l'attention visuelle des joueurs fatigue moins vite que celle des non
-   joueurs. Les joueurs arrivent Ã©galement a apprÃ©hender un plus grand
+   joueurs. Les joueurs arrivent également a appréhender un plus grand
    nombre d'objets d'un seul coup d'oeil. Par ailleurs, leur attention
-   visuelle est plus efficace, en vision pÃ©riphÃ©rique comme centrale.
-   Enfin, ils parviennent plus rapidement Ã  recentrer leur attention. La
-   pratique rÃ©guliÃ¨re de jeux vidÃ©o d'actions donc amÃ©liorerait
-   globalement l'attention visuelle sÃ©lective^[65]. De fait, les jeux
-   vidÃ©o sont parfois utilisÃ©s en tant que thÃ©rapie mÃ©dicale ou par les
-   militaires dans le but dâ€™entraÃ®ner leurs recrues.
+   visuelle est plus efficace, en vision périphérique comme centrale.
+   Enfin, ils parviennent plus rapidement à recentrer leur attention. La
+   pratique régulière de jeux vidéo d'actions donc améliorerait
+   globalement l'attention visuelle sélective^[65]. De fait, les jeux
+   vidéo sont parfois utilisés en tant que thérapie médicale ou par les
+   militaires dans le but d'entraîner leurs recrues.
 
-   Une Ã©tude confirme en 2020 ces conclusions. Selon DaphnÃ© Bavelier,
-   Ã©tudiante de la plasticitÃ© cÃ©rÃ©brale Ã  l'universitÃ© de Rochester aux
-   Ã‰tats-Unis, certains jeux tels que Halo, Call of Duty ou Unreal
-   Tournament ont un effet trÃ¨s visible sur les capacitÃ©s cognitives des
-   joueurs. Les jeux vidÃ©o d'actions permettraient aux joueurs de
-   dÃ©velopper une meilleure capacitÃ© d'attention, ils se fatiguent moins
-   vite et possÃ¨dent une meilleure capacitÃ© de rÃ©action. De plus, les
-   joueurs de jeux d'action obtiennent des meilleurs rÃ©sultats aux tests
-   d'acuitÃ© visuelle, ils sont capables de lire des textes plus petits et
+   Une étude confirme en 2020 ces conclusions. Selon Daphné Bavelier,
+   étudiante de la plasticité cérébrale à l'université de Rochester aux
+   États-Unis, certains jeux tels que Halo, Call of Duty ou Unreal
+   Tournament ont un effet très visible sur les capacités cognitives des
+   joueurs. Les jeux vidéo d'actions permettraient aux joueurs de
+   développer une meilleure capacité d'attention, ils se fatiguent moins
+   vite et possèdent une meilleure capacité de réaction. De plus, les
+   joueurs de jeux d'action obtiennent des meilleurs résultats aux tests
+   d'acuité visuelle, ils sont capables de lire des textes plus petits et
    sont plus sensibles aux changements de contrastes^[66].
 
-ThÃ©rapie mÃ©dicale
+Thérapie médicale
 
-   Certains jeux nÃ©cessitant des interactions physiques, par
-   l'intermÃ©diaire de tapis de danse ou de capture de mouvement par une
-   camÃ©ra, permettent Ã©galement de pratiquer une activitÃ© sportive
-   rÃ©guliÃ¨re et sont parfois prÃ©conisÃ©s pour les enfants atteints de
-   surpoids^[rÃ©f. nÃ©cessaire]. Ainsi l'universitÃ© de West Virginia a
-   Ã©tudiÃ© un groupe de 35 enfants obÃ¨ses et leur a demandÃ© de jouer Ã 
-   Dance Dance Revolution qui se joue Ã  l'aide d'un tapis de danse. Ils
-   ont constatÃ© que, sans mÃªme changer leur rÃ©gime, les enfants ont rÃ©duit
-   leur prise de poids de faÃ§on significative^[67]. Aujourd'hui, Nintendo
-   tente d'exploiter ce domaine et dÃ©veloppe des jeux d'exercice physique,
+   Certains jeux nécessitant des interactions physiques, par
+   l'intermédiaire de tapis de danse ou de capture de mouvement par une
+   caméra, permettent également de pratiquer une activité sportive
+   régulière et sont parfois préconisés pour les enfants atteints de
+   surpoids^[réf. nécessaire]. Ainsi l'université de West Virginia a
+   étudié un groupe de 35 enfants obèses et leur a demandé de jouer à
+   Dance Dance Revolution qui se joue à l'aide d'un tapis de danse. Ils
+   ont constaté que, sans même changer leur régime, les enfants ont réduit
+   leur prise de poids de façon significative^[67]. Aujourd'hui, Nintendo
+   tente d'exploiter ce domaine et développe des jeux d'exercice physique,
    comme Wii Fit^[68].
 
-   En 2018 est commercialisÃ© le Xbox Adaptive Controller (en) (en
-   franÃ§ais, Â« manette adaptative Xbox Â»), conÃ§u principalement pour
-   rÃ©pondre aux besoins des joueurs Ã  mobilitÃ© rÃ©duite^[69]. Il s'agit
-   d'un concentrateur unifiÃ© de pÃ©riphÃ©riques rendant les jeux plus
-   accessibles. DÃ©veloppÃ© depuis le dÃ©but par des partenariats importants
+   En 2018 est commercialisé le Xbox Adaptive Controller (en) (en
+   français, « manette adaptative Xbox »), conçu principalement pour
+   répondre aux besoins des joueurs à mobilité réduite^[69]. Il s'agit
+   d'un concentrateur unifié de périphériques rendant les jeux plus
+   accessibles. Développé depuis le début par des partenariats importants
    avec les organismes AbleGamers (en), The Cerebral Palsy Foundation
-   SpecialEffect et Warfighter Engaged, le projet a bÃ©nÃ©ficiÃ© des apports
-   de ses groupes pour dÃ©velopper les fonctionnalitÃ©s adaptÃ©es aux
-   diffÃ©rentes motricitÃ©s.
+   SpecialEffect et Warfighter Engaged, le projet a bénéficié des apports
+   de ses groupes pour développer les fonctionnalités adaptées aux
+   différentes motricités.
 
 Simulation et apprentissage
 
-   Dans les annÃ©es 1990, l'armÃ©e des Ã‰tats-Unis a modifiÃ© le jeu Doom II
-   dans le but dâ€™entraÃ®ner ses troupes. Le jeu Ã©tait utilisÃ© pour
-   amÃ©liorer les talents de visÃ©e et le temps de rÃ©action des
-   recrues^[70]. Plus rÃ©cemment, des outils immersifs de rÃ©alitÃ© virtuelle
-   ont Ã©tÃ© dÃ©veloppÃ©s pour traiter certains troubles psychologiques comme
+   Dans les années 1990, l'armée des États-Unis a modifié le jeu Doom II
+   dans le but d'entraîner ses troupes. Le jeu était utilisé pour
+   améliorer les talents de visée et le temps de réaction des
+   recrues^[70]. Plus récemment, des outils immersifs de réalité virtuelle
+   ont été développés pour traiter certains troubles psychologiques comme
    l'agoraphobie ou l'acrophobie. Ces simulateurs reposent sur des
-   technologies qui ont Ã©tÃ© dÃ©veloppÃ©es Ã  l'origine pour les jeux
-   vidÃ©o^[71].
+   technologies qui ont été développées à l'origine pour les jeux
+   vidéo^[71].
 
-   Les jeux vidÃ©o sont aussi utilisÃ©s comme source d'intÃ©rÃªt dans certains
-   didacticiels. Les jeux vidÃ©o Ã©ducatifs, que l'on assimile gÃ©nÃ©ralement
-   Ã  des logiciels pour l'Ã©veil des tout petits ou comme supports
-   pÃ©dagogiques destinÃ©s aux enfants, ont donnÃ© naissance plus rÃ©cemment Ã 
-   des jeux Ã©ducatifs Â« pour adultes Â» connu principalement sous le nom de
-   serious game dont l'intÃ©rÃªt est de transmettre un savoir-faire de
-   maniÃ¨re ludique^[72].
+   Les jeux vidéo sont aussi utilisés comme source d'intérêt dans certains
+   didacticiels. Les jeux vidéo éducatifs, que l'on assimile généralement
+   à des logiciels pour l'éveil des tout petits ou comme supports
+   pédagogiques destinés aux enfants, ont donné naissance plus récemment à
+   des jeux éducatifs « pour adultes » connu principalement sous le nom de
+   serious game dont l'intérêt est de transmettre un savoir-faire de
+   manière ludique^[72].
 
-   Selon Learning and Teaching Scotland, jouer au Programme d'entraÃ®nement
-   cÃ©rÃ©bral du D^r Kawashima amÃ©liore les capacitÃ©s de calcul mental du
-   joueur. Pendant neuf semaines, deux groupes d'Ã©coliers ont Ã©tÃ©
-   Ã©tudiÃ©s : le premier devait jouer au Programme d'entraÃ®nement cÃ©rÃ©bral
+   Selon Learning and Teaching Scotland, jouer au Programme d'entraînement
+   cérébral du D^r Kawashima améliore les capacités de calcul mental du
+   joueur. Pendant neuf semaines, deux groupes d'écoliers ont été
+   étudiés : le premier devait jouer au Programme d'entraînement cérébral
    pendant 20 minutes tous les jours, tandis que le second apprenait via
-   des mÃ©thodes traditionnelles. Ã€ la fin de l'expÃ©rience, les deux
-   groupes avaient progressÃ© mais celui qui s'Ã©tait entraÃ®nÃ© grÃ¢ce au jeu
-   s'Ã©tait amÃ©liorÃ© de 50 % de plus^[Quoi ?]^[73].
+   des méthodes traditionnelles. À la fin de l'expérience, les deux
+   groupes avaient progressé mais celui qui s'était entraîné grâce au jeu
+   s'était amélioré de 50 % de plus^[Quoi ?]^[73].
 
-   Dâ€™aprÃ¨s une Ã©tude allemande de 2014, jouer aux jeux vidÃ©o prÃ©senterait
-   des bÃ©nÃ©fices secondaires. Cela permettrait de dÃ©velopper la substance
-   grise. Simone KÃ¼hn de l'institut Max Planck et ses collÃ¨gues ont invitÃ©
-   48 adultes non adeptes des jeux vidÃ©o Ã  jouer au moins 30 minutes par
+   D'après une étude allemande de 2014, jouer aux jeux vidéo présenterait
+   des bénéfices secondaires. Cela permettrait de développer la substance
+   grise. Simone Kühn de l'institut Max Planck et ses collègues ont invité
+   48 adultes non adeptes des jeux vidéo à jouer au moins 30 minutes par
    jour pendant deux mois au jeu Super Mario 64, qui fait notamment appel
-   Ã  lâ€™orientation spatiale. Le joueur pouvait naviguer en utilisant la
-   vision subjective (comme sâ€™il Ã©tait lui-mÃªme le personnage fictif) ou
-   alors une vue dâ€™ensemble. En comparant le scanner cÃ©rÃ©bral avant et
-   aprÃ¨s lâ€™entraÃ®nement, les chercheurs observent une augmentation de la
-   matiÃ¨re grise dans le cortex cÃ©rÃ©bral, lâ€™hippocampe et le cervelet. Ces
-   Ã©volutions permettraient une plus grande aisance Ã  se repÃ©rer dans
-   lâ€™espace en jonglant plus facilement entre vues subjective et
-   objective, une meilleure coordination, rapiditÃ© et prÃ©cision dans
-   lâ€™exÃ©cution des tÃ¢ches de motricitÃ©. Cette expÃ©rience semble donc
-   dÃ©montrer une fois de plus que le cerveau nâ€™est pas une entitÃ©
+   à l'orientation spatiale. Le joueur pouvait naviguer en utilisant la
+   vision subjective (comme s'il était lui-même le personnage fictif) ou
+   alors une vue d'ensemble. En comparant le scanner cérébral avant et
+   après l'entraînement, les chercheurs observent une augmentation de la
+   matière grise dans le cortex cérébral, l'hippocampe et le cervelet. Ces
+   évolutions permettraient une plus grande aisance à se repérer dans
+   l'espace en jonglant plus facilement entre vues subjective et
+   objective, une meilleure coordination, rapidité et précision dans
+   l'exécution des tâches de motricité. Cette expérience semble donc
+   démontrer une fois de plus que le cerveau n'est pas une entité
    immuable, mais qu'il est au contraire en mesure de modifier sa
-   structure pour sâ€™adapter aux exigences de son environnement. Les
-   auteurs Ã©voquent la possibilitÃ© dâ€™une utilisation prÃ©ventive, voire
-   thÃ©rapeutique du jeu vidÃ©o. Il pourrait en effet freiner le
-   dÃ©veloppement de certaines maladies neurodÃ©gÃ©nÃ©ratives, comme la
+   structure pour s'adapter aux exigences de son environnement. Les
+   auteurs évoquent la possibilité d'une utilisation préventive, voire
+   thérapeutique du jeu vidéo. Il pourrait en effet freiner le
+   développement de certaines maladies neurodégénératives, comme la
    maladie d'Alzheimer^[74].
 
-Effets positifs et nÃ©gatifs de la rÃ©alitÃ© virtuelle
+Effets positifs et négatifs de la réalité virtuelle
 
-   Les chercheurs utilisent des casques de rÃ©alitÃ© virtuelle (VR) pour
-   confronter des patients Ã  leurs peurs et les aider Ã  les surmonter.
-   Exposer le patient de faÃ§on renouvelÃ©e et contrÃ´lÃ©e Ã  sa peur permet de
-   la guÃ©rir. Il peut choisir lui-mÃªme sa progression. Conscient que la
-   situation nâ€™est pas rÃ©elle, il lui est plus simple de porter le casque
+   Les chercheurs utilisent des casques de réalité virtuelle (VR) pour
+   confronter des patients à leurs peurs et les aider à les surmonter.
+   Exposer le patient de façon renouvelée et contrôlée à sa peur permet de
+   la guérir. Il peut choisir lui-même sa progression. Conscient que la
+   situation n'est pas réelle, il lui est plus simple de porter le casque
    de son propre chef.
 
-   La vertu principale de la VR est que le sujet devient acteur et nâ€™est
-   plus spectateur. Aux Ã‰tats-Unis le chercheur Daniel Hoffman, directeur
-   du centre de rÃ©alitÃ© virtuelle Ã  Washington, imagine SpiderWorld, monde
-   virtuel pour combattre lâ€™arachnophobie dâ€™une patiente. Lâ€™autre
-   application de la VR est de soigner la douleur et la rÃ©duire chez les
-   grands brÃ»lÃ©s. Avec SnowWorld, monde enneigÃ© crÃ©Ã© par ce mÃªme chercheur
+   La vertu principale de la VR est que le sujet devient acteur et n'est
+   plus spectateur. Aux États-Unis le chercheur Daniel Hoffman, directeur
+   du centre de réalité virtuelle à Washington, imagine SpiderWorld, monde
+   virtuel pour combattre l'arachnophobie d'une patiente. L'autre
+   application de la VR est de soigner la douleur et la réduire chez les
+   grands brûlés. Avec SnowWorld, monde enneigé créé par ce même chercheur
    permet aux patients de mieux ignorer ou supporter leurs
    souffrances^[75].
 
-   La VR nourrit nÃ©anmoins les craintes de certains
-   spÃ©cialistes^[Lesquels ?]. L'usager connaÃ®trait une dÃ©sensibilisation
-   en n'Ã©tant plus affectÃ© ni atteint par les actes de violence. PrÃ©parer
-   des soldats virtuellement Ã  des scÃ¨nes de combat pourrait mener Ã  une
-   absence dâ€™Ã©motions ou de compassion. Aussi, la VR est personnalisÃ©e en
-   fonction des individus grÃ¢ce Ã  l'oculomÃ©trie dans le but de collecter
-   les donnÃ©es des usagers. La question de cette collecte d'informations
-   personnelles, Ã©tant liÃ©e Ã  la protection de la vie privÃ©e, alimente les
-   dÃ©bats autour des nouvelles technologies. Un des effets cognitifs de la
-   VR est lâ€™altÃ©ration de perception de la rÃ©alitÃ©, rÃ©duisant les
-   capacitÃ©s physiques et sociales^[76].
+   La VR nourrit néanmoins les craintes de certains
+   spécialistes^[Lesquels ?]. L'usager connaîtrait une désensibilisation
+   en n'étant plus affecté ni atteint par les actes de violence. Préparer
+   des soldats virtuellement à des scènes de combat pourrait mener à une
+   absence d'émotions ou de compassion. Aussi, la VR est personnalisée en
+   fonction des individus grâce à l'oculométrie dans le but de collecter
+   les données des usagers. La question de cette collecte d'informations
+   personnelles, étant liée à la protection de la vie privée, alimente les
+   débats autour des nouvelles technologies. Un des effets cognitifs de la
+   VR est l'altération de perception de la réalité, réduisant les
+   capacités physiques et sociales^[76].
 
-Notes et rÃ©fÃ©rences
+Notes et références
 
-    1. â†‘ (en) Declan Burrowes, Â« Â« Baerâ€™s Odyssey: Meet the serial
-       inventor who built the worldâ€™s first game console Â» Â», Ars
-       Technica,â€ 13 juillet 2013 (lire en ligne, consultÃ© le 23 juillet
+    1. ^| (en) Declan Burrowes, « « Baer's Odyssey: Meet the serial
+       inventor who built the world's first game console » », Ars
+       Technica, 13 juillet 2013 (lire en ligne, consulté le 23 juillet
        2022).
-    2. â†‘ ^a et b (en) Â« Game Industry Bigger Than Hollywood Â», sur
-       Slashdot, 19 dÃ©cembre 2004 (consultÃ© le 24 juin 2019).
-    3. â†‘ Â« Les icÃ´nes Â», MusÃ©e du jeu vidÃ©o.
-    4. â†‘ Il existe par exemple la N-Gage, un compromis entre tÃ©lÃ©phone et
+    2. ^| ^a et b (en) « Game Industry Bigger Than Hollywood », sur
+       Slashdot, 19 décembre 2004 (consulté le 24 juin 2019).
+    3. ^| « Les icônes », Musée du jeu vidéo.
+    4. ^| Il existe par exemple la N-Gage, un compromis entre téléphone et
        console portable, ou bien encore le F305 de Sony Ericsson qui
        comporte les touches "X" et "O" des manettes PlayStation.
-    5. â†‘ Â« The history of SNK Â», sur uk.gamespot.com (consultÃ© le 13
-       fÃ©vrier 2009)
-    6. â†‘ (en)wii.advancedmn.com, 30 janvier 2006,
+    5. ^| « The history of SNK », sur uk.gamespot.com (consulté le 13
+       février 2009)
+    6. ^| (en)wii.advancedmn.com, 30 janvier 2006,
        http://wii.advancedmn.com/article.php?artid=6355 Evolution of
        controllers.
-    7. â†‘ Alexandre Becker, Â« Toutes les caractÃ©ristiques de la PS4 et
-       DualShock 4 Â», sur pszone.fr, 27 juin 2013
-    8. â†‘ Â« Gamasutra - Feature - Analyze This: How Exclusive Will
-       Exclusive Games Be in This Generation? Â» (consultÃ© le 13 fÃ©vrier
+    7. ^| Alexandre Becker, « Toutes les caractéristiques de la PS4 et
+       DualShock 4 », sur pszone.fr, 27 juin 2013
+    8. ^| « Gamasutra - Feature - Analyze This: How Exclusive Will
+       Exclusive Games Be in This Generation? » (consulté le 13 février
        2009)
-    9. â†‘ Â« misterbazar.fr/marche-jeux-vidâ€¦ Â»^(Archive.org â€¢ Wikiwix â€¢
-       Archive.is â€¢ Google â€¢ Que faire ?).
-   10. â†‘ Lloyd ChÃ©ry, Â« Jeux vidÃ©o : ce qu'il faut retenir des chiffres
-       impressionnants de 2017 Â», Le Point, 27 fÃ©vrier 2018.
-   11. â†‘ StÃ©phane Natkin, CÃ©cile Le Prado, Viviane Gal et Liliana Vega,
-       Â« Quelques aspects de l'Ã©conomie du jeu vidÃ©o Â» [PDF], sur
+    9. ^| « misterbazar.fr/marche-jeux-vid... »^(Archive.org o Wikiwix o
+       Archive.is o Google o Que faire ?).
+   10. ^| Lloyd Chéry, « Jeux vidéo : ce qu'il faut retenir des chiffres
+       impressionnants de 2017 », Le Point, 27 février 2018.
+   11. ^| Stéphane Natkin, Cécile Le Prado, Viviane Gal et Liliana Vega,
+       « Quelques aspects de l'économie du jeu vidéo » [PDF], sur
        deptinfo.cnam.fr
-   12. â†‘ Â« afjv.com/press0803/080318_emplâ€¦ Â»^(Archive.org â€¢ Wikiwix â€¢
-       Archive.is â€¢ Google â€¢ Que faire ?).
-   13. â†‘ Chiffres de l'IDATE.
-   14. â†‘ Â« United States Patent n^o US9656175B1: Â« System and method for
-       providing in-game pricing relative to player statistics Â» Â» [PDF].
-   15. â†‘ (en) Shoshana Zuboff, Â« Big other: Surveillance Capitalism and
-       the Prospects of an Information Civilization Â», Journal of
-       Information Technology, vol. 30, n^o 1,â€ 1^er mars 2015, p. 75â€“89
-       (ISSN 0268-3962, DOI 10.1057/jit.2015.5, lire en ligne, consultÃ© le
+   12. ^| « afjv.com/press0803/080318_empl... »^(Archive.org o Wikiwix o
+       Archive.is o Google o Que faire ?).
+   13. ^| Chiffres de l'IDATE.
+   14. ^| « United States Patent n^o US9656175B1: « System and method for
+       providing in-game pricing relative to player statistics » » [PDF].
+   15. ^| (en) Shoshana Zuboff, « Big other: Surveillance Capitalism and
+       the Prospects of an Information Civilization », Journal of
+       Information Technology, vol. 30, n^o 1, 1^er mars 2015, p. 75-89
+       (ISSN 0268-3962, DOI 10.1057/jit.2015.5, lire en ligne, consulté le
        23 juin 2021)
-   16. â†‘ Â« Un brevet dâ€™Activision sur le matchmaking encourage les joueurs
-       Ã  avoir recours aux micro-transactions Â», sur Hitek, 18 septembre
-       2017
-   17. â†‘ (en) Â« Brevet nÂ° US20160005270A1 United States, Â« System and
-       method for driving microtransactions in multiplayer video games Â» Â»
-   18. â†‘ (en) Â« Brevet nÂ° US9623335B1, United States, Â« Access to an
+   16. ^| « Un brevet d'Activision sur le matchmaking encourage les
+       joueurs à avoir recours aux micro-transactions », sur Hitek, 18
+       septembre 2017
+   17. ^| (en) « Brevet n° US20160005270A1 United States, « System and
+       method for driving microtransactions in multiplayer video games » »
+   18. ^| (en) « Brevet n° US9623335B1, United States, « Access to an
        exclusive virtual section of an online game based on past spending
-       behavior Â» Â»
-   19. â†‘ Â« Amazon s'empare de Twitch pour un milliard de dollars Â», sur
+       behavior » »
+   19. ^| « Amazon s'empare de Twitch pour un milliard de dollars », sur
        lemonde.fr, 25 septembre 2014.
-   20. â†‘ Le Diberder, Alain, Â« Â« Le modÃ¨le Ã©conomique des jeux vidÃ©o, un
-       colosse en pÃ©ril Â» Â», HermÃ¨s, La Revue, vol. 62, n^o 1,â€ 2012,
+   20. ^| Le Diberder, Alain, « « Le modèle économique des jeux vidéo, un
+       colosse en péril » », Hermès, La Revue, vol. 62, n^o 1, 2012,
        p. 136-143.
-   21. â†‘ Â« Dossier Â« Les 20 jeux les plus chers de lâ€™histoire Â» Â», sur
+   21. ^| « Dossier « Les 20 jeux les plus chers de l'histoire » », sur
        jeuxvideo.com, 19 avril 2019.
-   22. â†‘ (en) David Zendle, Rachel Meyer et Nick Ballou, Â« The changing
+   22. ^| (en) David Zendle, Rachel Meyer et Nick Ballou, « The changing
        face of desktop video game monetisation: An exploration of exposure
        to loot boxes, pay to win, and cosmetic microtransactions in the
-       most-played Steam games of 2010-2019 Â», PLOS ONE, vol. 15, n^o 5,â€
-       7 mai 2020, e0232780 (ISSN 1932-6203, PMID 32379808,
+       most-played Steam games of 2010-2019 », PLOS ONE, vol. 15, n^o 5, 7
+       mai 2020, e0232780 (ISSN 1932-6203, PMID 32379808,
        PMCID PMC7205278, DOI 10.1371/journal.pone.0232780, lire en ligne,
-       consultÃ© le 23 juin 2021)
-   23. â†‘ Mathieu Cocq, Â« Lâ€™organisation et lâ€™exploitation du travail des
-       joueurs Â», RÃ©seaux, vol. 1, n^o 213,â€ 2019, p. 111 (ISSN 0751-7971
-       et 1777-5809, DOI 10.3917/res.213.0111, lire en ligne, consultÃ© le
+       consulté le 23 juin 2021)
+   23. ^| Mathieu Cocq, « L'organisation et l'exploitation du travail des
+       joueurs », Réseaux, vol. 1, n^o 213, 2019, p. 111 (ISSN 0751-7971
+       et 1777-5809, DOI 10.3917/res.213.0111, lire en ligne, consulté le
        23 juin 2021)
-   24. â†‘ (en) KÃ¼cklich, J.R., Â« Precarious Playbour: Modders and the
-       Digital Games Industry Â», The Fibreculture Journal,â€ 2005
-   25. â†‘ Flichy, Patrice, Â« Comment Internet est devenu un marchÃ© Â»,
-       TraitÃ© de sociologie Ã©conomique,â€ 2009
-   26. â†‘ ^a et b Rudy Salles, Â« n^o 2261 - Avis prÃ©sentÃ© au nom de la
-       Commission des affaires culturelles et de l'Ã©ducation sur le projet
-       de loi de finances pour 2015, tome VII MÃ©dias, livre et industries
-       culturelles Â» [PDF], sur assemblee-nationale.fr, 9 octobre 2014
-   27. â†‘ Â« ArrÃªt n^o 732 du 25 juin 2009 (07-20.387) - Cour de cassation -
-       PremiÃ¨re chambre civile Â», sur courdecassation.fr, 25 juin 2009
-   28. â†‘ ^a et b Patrice Martin-Lalande, Â« Mission parlementaire sur le
-       rÃ©gime juridique du jeu vidÃ©o en droit d'auteur Â» [PDF], sur
+   24. ^| (en) Kücklich, J.R., « Precarious Playbour: Modders and the
+       Digital Games Industry », The Fibreculture Journal, 2005
+   25. ^| Flichy, Patrice, « Comment Internet est devenu un marché »,
+       Traité de sociologie économique, 2009
+   26. ^| ^a et b Rudy Salles, « n^o 2261 - Avis présenté au nom de la
+       Commission des affaires culturelles et de l'éducation sur le projet
+       de loi de finances pour 2015, tome VII Médias, livre et industries
+       culturelles » [PDF], sur assemblee-nationale.fr, 9 octobre 2014
+   27. ^| « Arrêt n^o 732 du 25 juin 2009 (07-20.387) - Cour de cassation
+       - Première chambre civile », sur courdecassation.fr, 25 juin 2009
+   28. ^| ^a et b Patrice Martin-Lalande, « Mission parlementaire sur le
+       régime juridique du jeu vidéo en droit d'auteur » [PDF], sur
        patricemartinlalande.net, mai-novembre 2011
-   29. â†‘ Siegfried Forster, Â« Â«PlaytimeÂ»: le jeu vidÃ©o, un art de son
-       temps Â», sur rfi.fr, 20 dÃ©cembre 2013
-   30. â†‘ [1], ConfÃ©rence du 11 mars 2004.
-   31. â†‘ Augustin Fontanier, Â« L'art de jouer (article sur les rapports du
-       jeu vidÃ©o Ã  l'art Ã  l'occasion de l'exposition Museogames au MusÃ©e
-       des arts et mÃ©tiers) Â», sur lintermede.com, 12 septembre 2010
-   32. â†‘ http://arts.gov/grants/apply/AIM-presentation.html
-   33. â†‘ Â« USA : le Jeu VidÃ©o reconnu comme un Art Â», sur gameblog.fr, 10
+   29. ^| Siegfried Forster, « «Playtime»: le jeu vidéo, un art de son
+       temps », sur rfi.fr, 20 décembre 2013
+   30. ^| [1], Conférence du 11 mars 2004.
+   31. ^| Augustin Fontanier, « L'art de jouer (article sur les rapports
+       du jeu vidéo à l'art à l'occasion de l'exposition Museogames au
+       Musée des arts et métiers) », sur lintermede.com, 12 septembre 2010
+   32. ^| http://arts.gov/grants/apply/AIM-presentation.html
+   33. ^| « USA : le Jeu Vidéo reconnu comme un Art », sur gameblog.fr, 10
        mai 2011
-   34. â†‘ Â« Game Story Â», sur grandpalais.fr, 10 novembre 2011 - 9 janvier
+   34. ^| « Game Story », sur grandpalais.fr, 10 novembre 2011 - 9 janvier
        2012
-   35. â†‘ Â« Ã‰tats-Unis: les jeux vidÃ©o, un art exposÃ© Ã  Washington Â», Le
-       Point magazine, 19 mars 2012 (consultÃ© le 24 octobre 2021).
-   36. â†‘ (en-US) Smithsonian American Art Museum, Â« The Art of Video
-       Games Â», sur Smithsonian American Art Museum, 2012 (consultÃ© le 24
+   35. ^| « États-Unis: les jeux vidéo, un art exposé à Washington », Le
+       Point magazine, 19 mars 2012 (consulté le 24 octobre 2021).
+   36. ^| (en-US) Smithsonian American Art Museum, « The Art of Video
+       Games », sur Smithsonian American Art Museum, 2012 (consulté le 24
        octobre 2021).
-   37. â†‘ Kevin Hottot, Â« Le jeu vidÃ©o entre au Museum of Modern Art de New
-       York Â», sur Next INpact, 30 novembre 2012 (consultÃ© le 8 janvier
-       2019).
-   38. â†‘ Â« Â« Lâ€™art dans le jeu vidÃ©o Â», lâ€™exposition qui met les artistes
-       franÃ§ais Ã  lâ€™honneur Â», Le Monde,â€ 25 septembre 2015 (lire en
-       ligne, consultÃ© le 14 avril 2020)
-   39. â†‘ Â« L'Art dans le jeu vidÃ©o Â», sur Art Ludique - Le MusÃ©e (consultÃ©
-       le 14 avril 2020).
-   40. â†‘ Erwan Higuinen, Â« N'en dÃ©plaise aux rabat-joie, le jeu vidÃ©o est
-       bien un art Â», sur Slate, 6 fÃ©vrier 2019 (consultÃ© le 14 avril
+   37. ^| Kevin Hottot, « Le jeu vidéo entre au Museum of Modern Art de
+       New York », sur Next INpact, 30 novembre 2012 (consulté le 8
+       janvier 2019).
+   38. ^| « « L'art dans le jeu vidéo », l'exposition qui met les artistes
+       français à l'honneur », Le Monde, 25 septembre 2015 (lire en ligne,
+       consulté le 14 avril 2020)
+   39. ^| « L'Art dans le jeu vidéo », sur Art Ludique - Le Musée
+       (consulté le 14 avril 2020).
+   40. ^| Erwan Higuinen, « N'en déplaise aux rabat-joie, le jeu vidéo est
+       bien un art », sur Slate, 6 février 2019 (consulté le 14 avril
        2020).
-   41. â†‘ Le cloud gaming peut-il devenir sobre pour lâ€™environnement ?,
+   41. ^| Le cloud gaming peut-il devenir sobre pour l'environnement ?,
        servicesmobiles.fr, 7 juillet 2022 citant notamment (en) Matthew
-       Marsden, Mike Hazas et Matthew Broadbent, Â« From One Edge to the
-       Other: Exploring Gaming's Rising Presence on the Network Â»,
+       Marsden, Mike Hazas et Matthew Broadbent, « From One Edge to the
+       Other: Exploring Gaming's Rising Presence on the Network »,
        Proceedings of the 7th International Conference on ICT for
-       Sustainability, ACM,â€ 21 juin 2020, p. 247â€“254
+       Sustainability, ACM, 21 juin 2020, p. 247-254
        (ISBN 978-1-4503-7595-5, DOI 10.1145/3401335.3401366, lire en
-       ligne, consultÃ© le 23 juillet 2022).
-   42. â†‘ Audrey Larochelle, Â« TÃ©tris Ã  l'universitÃ© Â», Quartier Libre,â€
+       ligne, consulté le 23 juillet 2022).
+   42. ^| Audrey Larochelle, « Tétris à l'université », Quartier Libre,
        2011 (lire en ligne).
-   43. â†‘ Antoine Verselder, Â« Le jeu en ligne renforcerait la sociabilitÃ©
-       des joueurs, et non l'inverse Â», sur gameblog.fr, 3 avril 2014
-       (consultÃ© le 14 juillet 2016).
-   44. â†‘ Catherine Jewell, Â« Jeux vidÃ©o : l'art du XXI^e siÃ¨cle Â», sur
-       wipo.int, aoÃ»t 2012 (consultÃ© le 14 juillet 2016).
-   45. â†‘ (en) Victoria J. Rideout, Ulla G. Foehr et Donald F. Roberts,
-       Â« Generation M2: Media in the Lives of 8- to 18-Year-Olds, A Kaiser
-       Family Foundation Study Â», sur Kaiser Family Foundation, janvier
+   43. ^| Antoine Verselder, « Le jeu en ligne renforcerait la sociabilité
+       des joueurs, et non l'inverse », sur gameblog.fr, 3 avril 2014
+       (consulté le 14 juillet 2016).
+   44. ^| Catherine Jewell, « Jeux vidéo : l'art du XXI^e siècle », sur
+       wipo.int, août 2012 (consulté le 14 juillet 2016).
+   45. ^| (en) Victoria J. Rideout, Ulla G. Foehr et Donald F. Roberts,
+       « Generation M2: Media in the Lives of 8- to 18-Year-Olds, A Kaiser
+       Family Foundation Study », sur Kaiser Family Foundation, janvier
        2010
-   46. â†‘ (en) Miriam E. Bar-on et col, Â« Children, Adolescents, and
-       Television Â», PEDIATRICS, vol. 107, n^o 2,â€ 1^er fÃ©vrier 2001,
+   46. ^| (en) Miriam E. Bar-on et col, « Children, Adolescents, and
+       Television », PEDIATRICS, vol. 107, n^o 2, 1^er février 2001,
        p. 423-426 (DOI 10.1542/peds.107.2.423)
-   47. â†‘ Â« Le temps de jeu Â», sur pedagojeux.fr
-   48. â†‘ (en) Youfa Yang & Tim Lobstein, Â« Worldwide trends in childhood
-       overweight and obesity Â», International Journal of Pediatric
-       Obesity, vol. 1,â€ 2006, p. 11-25
-   49. â†‘ (en) D. L. Graf et col, Â« Playing Active Video Games Increases
-       Energy Expenditure in Children Â», PEDIATRICS, vol. 124, n^o 2,â€
-       1^er aoÃ»t 2009, p. 534-540 (DOI 10.1542/peds.2008-2851)
-   50. â†‘ (en) Ralph Maddison et col, Â« Active video games : the mediating
-       effect of aerobic fitness on body composition Â», International
+   47. ^| « Le temps de jeu », sur pedagojeux.fr
+   48. ^| (en) Youfa Yang & Tim Lobstein, « Worldwide trends in childhood
+       overweight and obesity », International Journal of Pediatric
+       Obesity, vol. 1, 2006, p. 11-25
+   49. ^| (en) D. L. Graf et col, « Playing Active Video Games Increases
+       Energy Expenditure in Children », PEDIATRICS, vol. 124, n^o 2, 1^er
+       août 2009, p. 534-540 (DOI 10.1542/peds.2008-2851)
+   50. ^| (en) Ralph Maddison et col, « Active video games : the mediating
+       effect of aerobic fitness on body composition », International
        Journal of Behavioral Nutrition and Physical Activity, vol. 9,
-       n^o 1,â€ 2012, p. 54 (DOI 10.1186/1479-5868-9-54)
-   51. â†‘ (en) T. Baranowski et col, Â« Impact of an Active Video Game on
-       Healthy Children's Physical Activity Â», PEDIATRICS, vol. 129,
-       n^o 3,â€ 27 fÃ©vrier 2012, e636-e642 (DOI 10.1542/peds.2011-2050)
-   52. â†‘ (en) Craig A Anderson et Brad J Bushman, Â« Effects of Violent
+       n^o 1, 2012, p. 54 (DOI 10.1186/1479-5868-9-54)
+   51. ^| (en) T. Baranowski et col, « Impact of an Active Video Game on
+       Healthy Children's Physical Activity », PEDIATRICS, vol. 129,
+       n^o 3, 27 février 2012, e636-e642 (DOI 10.1542/peds.2011-2050)
+   52. ^| (en) Craig A Anderson et Brad J Bushman, « Effects of Violent
        Video Games on Aggressive Behavior, Aggressive Cognition,
        Aggressive Affect, Physiological Arousal, and Prosocial Behavior :
-       A Meta-Analytic Review of the Scientific Literature Â»,
-       Psychological Science, vol. 12, n^o 5,â€ octobre 2001, p. 353-359
-       (ISSN 0956-7976, rÃ©sumÃ©).
-   53. â†‘ Michel Nachez et Patrick Schmoll, Â« Violence et sociabilitÃ© dans
-       les jeux vidÃ©o en ligne Â», SociÃ©tÃ©s, n^o 82,â€ 2003, p. 5-17 (lire
-       en ligne [PDF]).
-   54. â†‘ (en) Rob Fahey, Â« Violent video games won't corrupt anyone Â», sur
-       The Times, 11 novembre 2009 (consultÃ© le 11 novembre 2009) :
-       Â« Decades of research, often funded by groups with a vested
-       interest in proving the â€œevilâ€ of video games, have failed to prove
-       a link between game violence and real-life violence. Â».
-   55. â†‘ (en) Â« No strong link seen between violent video games and
-       aggression Â» [Â« Pas de corrÃ©lation significative entre violence des
-       jeux vidÃ©o et agressions Â»], Ã©tude de l'UniversitÃ© de l'Illinois Ã 
-       Urbana-Champaign, sur Phys.org, 11 aoÃ»t 2005.
-   56. â†‘ (en) Â« Violent video games found not to be associated with
-       adolescent aggression Â» [Â« Les jeux vidÃ©o violents non liÃ©s Ã 
-       l'agressivitÃ© adolescente Â»], sur Oxford Internet Institute,
-       UniversitÃ© d'Oxford, 13 fÃ©vrier 2019 (consultÃ© le 13 fÃ©vrier 2019).
-   57. â†‘ Elly A. Konijn, Marije Nije Bijvank, Brad J. Bushman, Â« I wish I
+       A Meta-Analytic Review of the Scientific Literature »,
+       Psychological Science, vol. 12, n^o 5, octobre 2001, p. 353-359
+       (ISSN 0956-7976, résumé).
+   53. ^| Michel Nachez et Patrick Schmoll, « Violence et sociabilité dans
+       les jeux vidéo en ligne », Sociétés, n^o 82, 2003, p. 5-17 (lire en
+       ligne [PDF]).
+   54. ^| (en) Rob Fahey, « Violent video games won't corrupt anyone »,
+       sur The Times, 11 novembre 2009 (consulté le 11 novembre 2009) :
+       « Decades of research, often funded by groups with a vested
+       interest in proving the "evil" of video games, have failed to prove
+       a link between game violence and real-life violence. ».
+   55. ^| (en) « No strong link seen between violent video games and
+       aggression » [« Pas de corrélation significative entre violence des
+       jeux vidéo et agressions »], étude de l'Université de l'Illinois à
+       Urbana-Champaign, sur Phys.org, 11 août 2005.
+   56. ^| (en) « Violent video games found not to be associated with
+       adolescent aggression » [« Les jeux vidéo violents non liés à
+       l'agressivité adolescente »], sur Oxford Internet Institute,
+       Université d'Oxford, 13 février 2019 (consulté le 13 février 2019).
+   57. ^| Elly A. Konijn, Marije Nije Bijvank, Brad J. Bushman, « I wish I
        were a warrior: the role of wishful identification in the effects
-       of violent video games on aggression in adolescent boys. Â»,
+       of violent video games on aggression in adolescent boys. »,
        Developmental Psychology, vol. 43(4) p. 1038-1044, juillet 2007.
-   58. â†‘ Laurent TrÃ©mel, Â« Les jeux vidÃ©o jouent un rÃ´le de
-       normalisation Â», sur Lâ€™Atelier BNP Paribas, septembre 2008
-       (consultÃ© le 14 fÃ©vrier 2019).
-   59. â†‘ Â« Product reviews, how-tos, deals and the latest tech news Â», sur
-       CNET (consultÃ© le 14 juillet 2020).
-   60. â†‘ Â« Windows Vista Parental Control Â», sur Microsoft (consultÃ© le 13
-       fÃ©vrier 2009).
-   61. â†‘ ^a et b Â« Ã‰pilepsie et jeux vidÃ©o : rÃ©sultats dâ€™une Ã©tude
-       multicentrique Â», sur cnrs.fr (consultÃ© le 17 novembre 2012)
-   62. â†‘ Â« Epilepsie : Pikachu sous contrÃ´le ? Â» (consultÃ© le 17 novembre
+   58. ^| Laurent Trémel, « Les jeux vidéo jouent un rôle de
+       normalisation », sur L'Atelier BNP Paribas, septembre 2008
+       (consulté le 14 février 2019).
+   59. ^| « Product reviews, how-tos, deals and the latest tech news »,
+       sur CNET (consulté le 14 juillet 2020).
+   60. ^| « Windows Vista Parental Control », sur Microsoft (consulté le
+       13 février 2009).
+   61. ^| ^a et b « Épilepsie et jeux vidéo : résultats d'une étude
+       multicentrique », sur cnrs.fr (consulté le 17 novembre 2012)
+   62. ^| « Epilepsie : Pikachu sous contrôle ? » (consulté le 17 novembre
        2012).
-   63. â†‘ Â« Les jeux vidÃ©o sont-ils dangereux ? Â», sur news.doctissimo.fr,
-       20 dÃ©cembre 2002 (consultÃ© le 13 fÃ©vrier 2009).
-   64. â†‘ Â« L'industrie Â», sur Syndicat des Ã©diteurs de logiciels de
-       loisirs (consultÃ© le 23 mai 2018).
-   65. â†‘ ^a et b Celia Hodent-Villaman, Â« Les jeux vidÃ©o sont-ils bons
-       pour le cerveau ? Â», Revue des sciences humaines, janvier 2007
-       (consultÃ© le 28 novembre 2019).
-   66. â†‘ Anne Debroise, Â« Les effets positifs des jeux vidÃ©o Â», Le Point,
-       5 dÃ©cembre 2012 (consultÃ© le 23 mai 2020).
-   67. â†‘ http://www.timeswv.com/westvirginia/local_story_076011645.html
-   68. â†‘ Â« Wii Fit Â», Nintendo (consultÃ© le 31 octobre 2010).
-   69. â†‘ Â« La manette adaptative Xbox est disponible en France ! Â», sur
-       Xbox Wire en Francais, 4 septembre 2018 (consultÃ© le 9 mars 2020).
-   70. â†‘ Jody Ray Bennett, Â« Guns and games Â» [PDF], sur Ã‰cole
-       polytechnique fÃ©dÃ©rale de Zurich, 18 fÃ©vrier 2009
-   71. â†‘ http://www.reponseatout.com/article.php3?id_article=189
-   72. â†‘ http://www.seriousgames.org/about2.html
-   73. â†‘ (en) Â« Computer game boosts maths scores Â», sur ews.bbc.co.uk, 25
-       septembre 2008
-   74. â†‘ Marc Olano, Â« DÃ©velopper son cerveau grÃ¢ce aux jeux vidÃ©o Â», sur
-       Sciences Humaines (consultÃ© le 5 mars 2020).
-   75. â†‘ Pierre Ropert, Â« Les vertus de la rÃ©alitÃ© virtuelle Â», sur
-       franceculture.fr, 19 aoÃ»t 2016
-   76. â†‘ Amar Silem, Â« Craintes et risques de la rÃ©alitÃ© virtuelle Â», sur
+   63. ^| « Les jeux vidéo sont-ils dangereux ? », sur news.doctissimo.fr,
+       20 décembre 2002 (consulté le 13 février 2009).
+   64. ^| « L'industrie », sur Syndicat des éditeurs de logiciels de
+       loisirs (consulté le 23 mai 2018).
+   65. ^| ^a et b Celia Hodent-Villaman, « Les jeux vidéo sont-ils bons
+       pour le cerveau ? », Revue des sciences humaines, janvier 2007
+       (consulté le 28 novembre 2019).
+   66. ^| Anne Debroise, « Les effets positifs des jeux vidéo », Le Point,
+       5 décembre 2012 (consulté le 23 mai 2020).
+   67. ^| http://www.timeswv.com/westvirginia/local_story_076011645.html
+   68. ^| « Wii Fit », Nintendo (consulté le 31 octobre 2010).
+   69. ^| « La manette adaptative Xbox est disponible en France ! », sur
+       Xbox Wire en Francais, 4 septembre 2018 (consulté le 9 mars 2020).
+   70. ^| Jody Ray Bennett, « Guns and games » [PDF], sur École
+       polytechnique fédérale de Zurich, 18 février 2009
+   71. ^| http://www.reponseatout.com/article.php3?id_article=189
+   72. ^| http://www.seriousgames.org/about2.html
+   73. ^| (en) « Computer game boosts maths scores », sur ews.bbc.co.uk,
+       25 septembre 2008
+   74. ^| Marc Olano, « Développer son cerveau grâce aux jeux vidéo », sur
+       Sciences Humaines (consulté le 5 mars 2020).
+   75. ^| Pierre Ropert, « Les vertus de la réalité virtuelle », sur
+       franceculture.fr, 19 août 2016
+   76. ^| Amar Silem, « Craintes et risques de la réalité virtuelle », sur
        realite-virtuelle.com, 16 novembre 2016
 
 Annexes
 
    Sur les autres projets Wikimedia :
-     * Jeu vidÃ©o, sur Wikimedia Commons
-     * Jeu vidÃ©o, sur le Wiktionnaire
-     * Jeux vidÃ©o, sur Wikiversity
-     * Jeu vidÃ©o, sur Wikibooks
-     * Jeu vidÃ©o, sur Wikiquote
+     * Jeu vidéo, sur Wikimedia Commons
+     * Jeu vidéo, sur le Wiktionnaire
+     * Jeux vidéo, sur Wikiversity
+     * Jeu vidéo, sur Wikibooks
+     * Jeu vidéo, sur Wikiquote
 
 Articles connexes
 
-     * DÃ©veloppeur de jeux vidÃ©o
-     * Distributeur de jeux vidÃ©o
-     * Ã‰diteur de jeux vidÃ©o
-     * Testeur de jeux vidÃ©o
-     * Histoire du jeu vidÃ©o
-     * Lexique du jeu vidÃ©o
+     * Développeur de jeux vidéo
+     * Distributeur de jeux vidéo
+     * Éditeur de jeux vidéo
+     * Testeur de jeux vidéo
+     * Histoire du jeu vidéo
+     * Lexique du jeu vidéo
      * Lentille de contact bionique
-     * Jeu vidÃ©o de l'annÃ©e
+     * Jeu vidéo de l'année
 
 Bibliographie
 
-     * Daniel Ichbiah, La Saga des Jeux VidÃ©o, Paris, Pix'n Love, 2009
-       (rÃ©impr. 1997, 1998, 2004), 454 p. (ISBN 978-2-918272-02-1,
+     * Daniel Ichbiah, La Saga des Jeux Vidéo, Paris, Pix'n Love, 2009
+       (réimpr. 1997, 1998, 2004), 454 p. (ISBN 978-2-918272-02-1,
        OCLC 662584962, lire en ligne).
      * (en) Steven Poole, Trigger Happy : Videogames and the Entertainment
-       Revolution, New York, Arcade Publishing, 2000 (rÃ©impr. 2001, 2004,
-       2007), 1^re Ã©d., 248 p., poche (ISBN 978-1-55970-598-1,
-       LCCN 00044799, prÃ©sentation en ligne).
-     * Alain et FrÃ©dÃ©ric Le Diberder, L'Univers des jeux vidÃ©o, 1998
-     * Jean-Yves Kerbrat, Manuel d'Ã©criture de jeux vidÃ©o, 2006.
-     * Alexis Blanchet, Des pixels Ã  Hollywood, une histoire Ã©conomique et
+       Revolution, New York, Arcade Publishing, 2000 (réimpr. 2001, 2004,
+       2007), 1^re éd., 248 p., poche (ISBN 978-1-55970-598-1,
+       LCCN 00044799, présentation en ligne).
+     * Alain et Frédéric Le Diberder, L'Univers des jeux vidéo, 1998
+     * Jean-Yves Kerbrat, Manuel d'écriture de jeux vidéo, 2006.
+     * Alexis Blanchet, Des pixels à Hollywood, une histoire économique et
        culturelle, Paris, Pix'n Love, 2010, 454 p.
        (ISBN 978-2-918272-11-3).
      * (en) Tristan Donovan, Replay. The history of videogame, East
        Sussex, Yellow Ant, 2011, 501 p. (ISBN 978-0-9565072-0-4).
      * Nicolas Nova et Laurent Bolli, Joypad ! Le design des manettes,
-       Lyon, Les Moutons Ã©lectriques, 2013, 224 p.
+       Lyon, Les Moutons électriques, 2013, 224 p.
        (ISBN 978-2-36183-095-3).
-     * Mathieu Triclot, Philosophie des jeux vidÃ©o, Paris, La dÃ©couverte,
+     * Mathieu Triclot, Philosophie des jeux vidéo, Paris, La découverte,
        2017, 252 p. (ISBN 978-2-35522-038-8).
-     * Julien Rueff, Â« OÃ¹ en sont les Â« game studies Â» ? Â» Â», RÃ©seaux,
-       n^o 151,â€ mai 2008, p. 139-166 (lire en ligne).
-     * Samuel Rufat (dir.) et Hovig Ter Minassian (dir.), Le jeu vidÃ©o
-       comme objet de recherche, Questions ThÃ©oriques, avril 2011, 196 p..
-     * AndrÃ© Lange, Â« Bibliographie : Jeux vidÃ©o / Ã‰dition multimÃ©dia Â»,
-       sur Histoire de la tÃ©lÃ©vision (et de quelques autres mÃ©dias)
-       (consultÃ© le 14 mars 2019).
-     * Philippe Tomblaine, Jeux vidÃ©o ! : Une histoire du 10^e art,
-       MontÃ©limar, Les Moutons Ã©lectriques, coll. Â« BibliothÃ¨que des
-       miroirs Â», 2015, 240 p. (ISBN 978-2-36183-211-7).
+     * Julien Rueff, « Où en sont les « game studies » ? » », Réseaux,
+       n^o 151, mai 2008, p. 139-166 (lire en ligne).
+     * Samuel Rufat (dir.) et Hovig Ter Minassian (dir.), Le jeu vidéo
+       comme objet de recherche, Questions Théoriques, avril 2011, 196 p..
+     * André Lange, « Bibliographie : Jeux vidéo / Édition multimédia »,
+       sur Histoire de la télévision (et de quelques autres médias)
+       (consulté le 14 mars 2019).
+     * Philippe Tomblaine, Jeux vidéo ! : Une histoire du 10^e art,
+       Montélimar, Les Moutons électriques, coll. « Bibliothèque des
+       miroirs », 2015, 240 p. (ISBN 978-2-36183-211-7).
 
 Liens externes
 
-     * Ressource relative Ã  la santÃ© Voir et modifier les donnÃ©es sur
+     * Ressource relative à la santé Voir et modifier les données sur
        Wikidata  :
           + Medical Subject Headings
-     * Notices dans des dictionnaires ou encyclopÃ©dies gÃ©nÃ©ralistes Voir
-       et modifier les donnÃ©es sur Wikidata  :
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
           + Britannica
           + Enciclopedia De Agostini
-          + Gran EnciclopÃ¨dia Catalana
+          + Gran Enciclopèdia Catalana
           + Store norske leksikon
           + Treccani
-     * Notices d'autoritÃ© Voir et modifier les donnÃ©es sur Wikidata  :
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
           + LCCN
           + GND
-          + IsraÃ«l
-          + TchÃ©quie
-          + CorÃ©e du Sud
+          + Israël
+          + Tchéquie
+          + Corée du Sud
 
-   v Â· m
-   Jeu vidÃ©o
-         GÃ©nÃ©ralitÃ©s
+   v · m
+   Jeu vidéo
+   Généralités
      * extension
      * ludification
      * notation
-     * systÃ¨mes d'Ã©valuation
+     * systèmes d'évaluation
      * collection
 
    [100px-Vg_icon.svg.png]
@@ -1501,13 +1579,13 @@ Liens externes
      * action
      * action-aventure
      * aventure
-     * Ã©ducatif
-     * inspirÃ© des jeux de sociÃ©tÃ©
+     * éducatif
+     * inspiré des jeux de société
      * publicitaire
      * simulation
-     * stratÃ©gie
-     * rÃ©flexion
-     * rÃ´le
+     * stratégie
+     * réflexion
+     * rôle
      * shoot 'em up
      * sport
 
@@ -1517,83 +1595,83 @@ Liens externes
      * mobile
      * console
      * console portable
-     * Ã©lectronique de poche
+     * électronique de poche
      * laserdisc
      * navigateur
      * ordinateur
      * serveur MUD
 
    Culture
-     * bandes dessinÃ©es
+     * bandes dessinées
      * controverses
      * crunch
      * esport
      * films
      * livres
      * histoire
-     * jeu indÃ©pendant
+     * jeu indépendant
      * jeu open source
      * lexique
-     * mÃ©dia vidÃ©oludique
-     * musÃ©es
+     * média vidéoludique
+     * musées
      * musique
      * PC Master Race
-     * prÃ©servation
-     * rÃ©compenses
+     * préservation
+     * récompenses
      * retrogaming
      * salle d'arcade
-     * sÃ©ries
+     * séries
      * tricheries
      * univers
 
    Industrie
      * commerce
      * distributeurs
-     * Ã©diteurs
+     * éditeurs
      * marketing
-     * publicitÃ©
-     * consoles de jeux vidÃ©o les plus vendues
-     * jeux vidÃ©o les plus vendus
-     * sÃ©ries de jeux vidÃ©o les plus vendues
-     * jeux vidÃ©o les plus chers Ã  produire
+     * publicité
+     * consoles de jeux vidéo les plus vendues
+     * jeux vidéo les plus vendus
+     * séries de jeux vidéo les plus vendues
+     * jeux vidéo les plus chers à produire
 
-   MatÃ©riel
+   Matériel
      * arcade
-     * casque de rÃ©alitÃ© virtuelle
-     * concepteur de matÃ©riel
+     * casque de réalité virtuelle
+     * concepteur de matériel
      * console
-     * contrÃ´leur
+     * contrôleur
      * extension de console
      * stockage
 
-   DÃ©veloppement
-     * dÃ©veloppeurs
-     * Ã©coles
+   Développement
+     * développeurs
+     * écoles
      * studio
-     * Ã©diteur de niveau
+     * éditeur de niveau
      * game design
      * game jam
-     * gÃ©nÃ©ration procÃ©durale
-     * mÃ©tiers
+     * génération procédurale
+     * métiers
      * mod
      * moteur de jeu
 
-   v Â· m
-   Histoire du jeu vidÃ©o
-               GÃ©nÃ©rations
-     * PremiÃ¨re (1972â€“1980)
-     * DeuxiÃ¨me (1976â€“1992)
-     * TroisiÃ¨me (1983â€“2003)
-     * QuatriÃ¨me (1987â€“2004)
-     * CinquiÃ¨me (1992â€“2006)
-     * SixiÃ¨me (1998â€“2013)
-     * SeptiÃ¨me (2004â€“2017)
-     * HuitiÃ¨me (depuis 2011)
-     * NeuviÃ¨me (depuis 2020)
+   v · m
+   Histoire du jeu vidéo
+   Générations
+     * Première (1972-1980)
+     * Deuxième (1976-1992)
+     * Troisième (1983-2003)
+     * Quatrième (1987-2004)
+     * Cinquième (1992-2006)
+     * Sixième (1998-2013)
+     * Septième (2004-2017)
+     * Huitième (depuis 2011)
+     * Neuvième (depuis 2020)
 
    [100px-Vg_history_icon_alt.svg.png]
    Chronologie
-     * Chronologie du jeu vidÃ©o jusqu'en 1972
+     * Chronologie du jeu vidéo jusqu'en 1972
 
      * 1971
      * 1972
@@ -1655,14 +1733,14 @@ Liens externes
      * 2023
      * 2024
 
-                                         Ã‰vÃ©nements
-     * Ã‚ge d'or des jeux d'arcade
-     * Krach du jeu vidÃ©o de 1983
-     * Article de qualitÃ© Enfouissement de jeux vidÃ©o par Atari
+   Événements
+     * Âge d'or des jeux d'arcade
+     * Krach du jeu vidéo de 1983
+     * Article de qualité Enfouissement de jeux vidéo par Atari
      * Bon article Piratage du PlayStation Network
 
-   v Â· m
-   Genres de jeux vidÃ©o
+   v · m
+   Genres de jeux vidéo
    Action
      * Beat them all
           + Hack 'n' slash
@@ -1672,9 +1750,9 @@ Liens externes
      * Jeu de tir
           + Tir au pistolet optique
           + Shoot 'em up
-          + Tir Ã  la premiÃ¨re personne
+          + Tir à la première personne
           + MMOFPS
-          + Tir Ã  la troisiÃ¨me personne
+          + Tir à la troisième personne
           + Tir tactique
           + Battle royale
      * Snake
@@ -1693,7 +1771,7 @@ Liens externes
      * Fiction interactive
      * Film interactif
      * Jeu de drague
-          + BishÅjo
+          + Bishojo
           + Eroge
           + Otome
      * Visual novel
@@ -1701,7 +1779,7 @@ Liens externes
      * Myst-like
      * Walking simulator
 
-   Jeu de rÃ´le
+   Jeu de rôle
      * Action-RPG
           + Immersive sim
           + Soulslike (en)
@@ -1712,28 +1790,28 @@ Liens externes
      * Roguelike
      * Tactical RPG
 
-   RÃ©flexion
+   Réflexion
      * Jeu de labyrinthe
-     * Jeu d'objets cachÃ©s
+     * Jeu d'objets cachés
      * Tile-matching
      * Programmation
-     * DÃ©mineur
+     * Démineur
      * Quiz
 
    Simulation
      * Animal de compagnie virtuel
      * Clumsy simulator
      * God game
-     * Jeu d'Ã©levage
+     * Jeu d'élevage
      * Jeu de gestion
-          + Simulation Ã©conomique
+          + Simulation économique
           + City-builder
           + Simulation gouvernementale
      * Simulation de vie
      * Sport
 
-   Simulation de vÃ©hicules
-     * Combat motorisÃ©
+   Simulation de véhicules
+     * Combat motorisé
      * Course
           + Karting
           + Sim racing
@@ -1745,39 +1823,39 @@ Liens externes
      * Simulateur de sous-marin
      * Simulation ferroviaire
 
-   StratÃ©gie
+   Stratégie
      * Wargame
-     * StratÃ©gie au tour par tour
+     * Stratégie au tour par tour
           + Auto battler
           + Tactique au tour par tour
           + Jeu d'artillerie
-          + Jeu de cartes Ã  collectionner
-     * StratÃ©gie en temps rÃ©el
-          + Tactique en temps rÃ©el
+          + Jeu de cartes à collectionner
+     * Stratégie en temps réel
+          + Tactique en temps réel
           + Tower defense
           + MMORTS
           + MOBA
      * Jeu 4X
-     * Grande stratÃ©gie
+     * Grande stratégie
 
    Autres genres
      * Casse-briques
      * Rythme
      * Party game
-     * Jeu incrÃ©mental
+     * Jeu incrémental
      * Jeu d'horreur
      * Jeu sandbox
 
-   v Â· m
-   Concepts vidÃ©oludiques
-   Ã‰lÃ©ments de jeu
+   v · m
+   Concepts vidéoludiques
+   Éléments de jeu
    Level design
      * Monde ouvert
      * Mur invisible
      * Niveau
 
    Game design
-     * Affichage tÃªte haute
+     * Affichage tête haute
      * Boss
      * Bot
      * Brouillard de guerre
@@ -1785,20 +1863,20 @@ Liens externes
      * Bullet time
      * Campagne
      * Cheat
-     * CinÃ©matique
+     * Cinématique
      * Classe de personnage
      * Combo
-     * DÃ©tection de collision
+     * Détection de collision
      * Die and retry
      * Easter egg
      * Frag
      * Full motion video
-     * Gameplay Ã©mergent
-     * Gameplay non linÃ©aire
+     * Gameplay émergent
+     * Gameplay non linéaire
      * High score
      * Intelligence artificielle
      * Item
-     * Jouet vidÃ©o
+     * Jouet vidéo
      * Loot
      * Masque de collision
      * Mini-carte
@@ -1806,32 +1884,32 @@ Liens externes
      * Mort permanente
      * Mot de passe
      * New Game Plus
-     * Partie terminÃ©e
+     * Partie terminée
      * Personnage joueur
      * Personnage non-joueur
-     * Point de contrÃ´le
+     * Point de contrôle
      * Power-up
      * Quick time event
      * Quicksave
-     * RejouabilitÃ©
-     * Rencontre alÃ©atoire
+     * Rejouabilité
+     * Rencontre aléatoire
      * Respawn
      * Rocket-jumping
      * Sauvegarde
-     * SuccÃ¨s
+     * Succès
      * Tank controls
      * Warp zone
 
-   Types de gameplay et faÃ§ons de jouer
+   Types de gameplay et façons de jouer
      * Camping
      * Capture du drapeau
-     * Match Ã  mort
+     * Match à mort
      * Rush
 
    Attributs
-     * AgilitÃ©
-     * CompÃ©tence
-     * ExpÃ©rience
+     * Agilité
+     * Compétence
+     * Expérience
      * Magie
      * Point de vie
      * Vie
@@ -1846,34 +1924,34 @@ Liens externes
      * Ladder
      * Jeu solo
      * Multijoueur
-     * CoopÃ©ratif
-     * Scoring (jeu vidÃ©o)
+     * Coopératif
+     * Scoring (jeu vidéo)
      * Speedrun
           + Tool-assisted speedrun
 
    Mode de production
      *
           + Game jam
-     * Jeu vidÃ©o AAA
-     * Jeu vidÃ©o amateur
-     * Bon article Jeu vidÃ©o indÃ©pendant
-     * Jeu vidÃ©o open source
+     * Jeu vidéo AAA
+     * Jeu vidéo amateur
+     * Bon article Jeu vidéo indépendant
+     * Jeu vidéo open source
      * Portage
      * Remake
-     * RemastÃ©risation
-     * SÃ©rie dÃ©rivÃ©e
+     * Remastérisation
+     * Série dérivée
 
-   IntentionnalitÃ©
-     * Jeu sÃ©rieux
+   Intentionnalité
+     * Jeu sérieux
           + Advergame
-          + Jeu Ã©ducatif
+          + Jeu éducatif
           + Newsgame
      * Casual game
      * Art game
      * Crossover
      * Non-jeu
 
-   Dynamiques de crÃ©ation
+   Dynamiques de création
      * Crunch
      * Mod
 
@@ -1882,36 +1960,36 @@ Liens externes
      * Machinima
      * Vibration
 
-   v Â· m
+   v · m
    Types de jeux
      * Classification des jeux
-     * ThÃ©orie des jeux
+     * Théorie des jeux
      * Liste des types de jeux
-     * Genre de jeu vidÃ©o
+     * Genre de jeu vidéo
 
    Principaux types
      * Jeu d'ambiance
      * Jeu d'argent
      * Connaissances
-     * CoopÃ©ration
+     * Coopération
      * Hasard
-     * Jeu de sociÃ©tÃ©
-     * StratÃ©gie
-     * VidÃ©o
+     * Jeu de société
+     * Stratégie
+     * Vidéo
 
-   Jeux de rÃ©flexion
-     * Casse-tÃªte
+   Jeux de réflexion
+     * Casse-tête
      * Jeu combinatoire abstrait
-     * DÃ©duction
+     * Déduction
      * Devinettes
-     * Ã‰nigme
-     * Jeu mathÃ©matique
-     * NumÃ©riques et logiques
+     * Énigme
+     * Jeu mathématique
+     * Numériques et logiques
 
-   Par matÃ©riel
+   Par matériel
      * Cartes
      * Chiffres
-     * DÃ©s
+     * Dés
      * Dominos
      * Figurines
      * Lettres
@@ -1924,86 +2002,86 @@ Liens externes
      * Entreprise
      * Gestion
      * Guerre
-     * NÃ©gociation
-     * Jeu de rÃ´le
+     * Négociation
+     * Jeu de rôle
      * Simulation
 
    Pour enfants
      * Jeu de construction
-     * Ã‰ducatif
+     * Éducatif
      * Jeu enfantin
      * Jouet
-     * PÃ©dagogique
+     * Pédagogique
 
    Par lieu
-     * CafÃ©
+     * Café
      * Par correspondance
      * Plage
      * Plein air
      * Radiophonique
      * Rue (en)
      * Salon
-     * TÃ©lÃ©visÃ©
+     * Télévisé
 
-   DextÃ©ritÃ© physique
+   Dextérité physique
      * Jeu d'adresse
      * Sport
      * Jeu sportif
 
-     * icÃ´ne dÃ©corative Portail du jeu vidÃ©o
+     * icône décorative Portail du jeu vidéo
 
    Ce document provient de
-   Â« https://fr.wikipedia.org/w/index.php?title=Jeu_vidÃ©o&oldid=210001235
-   Â».
-   CatÃ©goriesâ€¯:
-     * Jeu vidÃ©o
+   « https://fr.wikipedia.org/w/index.php?title=Jeu_vidéo&oldid=210001235
+   ».
+   Catégories:
+     * Jeu vidéo
      * Technologies de l'information et de la communication pour
        l'enseignement
 
-   CatÃ©gories cachÃ©esâ€¯:
+   Catégories cachées:
      * Article contenant un lien mort
      * Page en semi-protection longue
-     * Article contenant un appel Ã  traduction en anglais
+     * Article contenant un appel à traduction en anglais
      * Article avec passages non neutres
-     * Article Ã  rÃ©fÃ©rence nÃ©cessaire
-     * Article Ã  rÃ©fÃ©rence souhaitÃ©e
-     * CatÃ©gorie Commons avec lien local identique sur Wikidata
+     * Article à référence nécessaire
+     * Article à référence souhaitée
+     * Catégorie Commons avec lien local identique sur Wikidata
      * Page utilisant P486
      * Page pointant vers des bases externes
-     * Page pointant vers des bases relatives Ã  la santÃ©
+     * Page pointant vers des bases relatives à la santé
      * Page utilisant P1417
      * Page utilisant P6706
      * Page utilisant P1296
      * Page utilisant P4342
      * Page utilisant P3365
-     * Page pointant vers des dictionnaires ou encyclopÃ©dies gÃ©nÃ©ralistes
-     * Article de WikipÃ©dia avec notice d'autoritÃ©
-     * Portail:Jeu vidÃ©o/Articles liÃ©s
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Jeu vidéo/Articles liés
      * Bon article en polonais
 
-     * La derniÃ¨re modification de cette page a Ã©tÃ© faite le 25 novembre
-       2023 Ã  22:15.
+     * La dernière modification de cette page a été faite le 25 novembre
+       2023 à 22:15.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mÃªmes conditions ; dâ€™autres
-       conditions peuvent sâ€™appliquer. Voyez les conditions dâ€™utilisation
-       pour plus de dÃ©tails, ainsi que les crÃ©dits graphiques. En cas de
-       rÃ©utilisation des textes de cette page, voyez comment citer les
+       Commons attribution, partage dans les mêmes conditions ; d'autres
+       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
-       WikipediaÂ® est une marque dÃ©posÃ©e de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance rÃ©gie par le paragraphe 501(c)(3) du
-       code fiscal des Ã‰tats-Unis.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
 
-     * Politique de confidentialitÃ©
-     * Ã€ propos de WikipÃ©dia
+     * Politique de confidentialité
+     * À propos de Wikipédia
      * Avertissements
      * Contact
      * Code de conduite
-     * DÃ©veloppeurs
+     * Développeurs
      * Statistiques
-     * DÃ©claration sur les tÃ©moins (cookies)
+     * Déclaration sur les témoins (cookies)
      * Version mobile
 
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Activer ou dÃ©sactiver la limitation de largeur du contenu
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu

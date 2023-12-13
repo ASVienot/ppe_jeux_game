@@ -2,21 +2,21 @@
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MZ4PW5H
 
-   Ã—
+   ×
      * Accueil
      * Actus
           + Actu
           + Librairie
           + Concours
-     * VidÃ©o
+     * Vidéo
      * Podcast
-     * PÃ©dago
+     * Pédago
      * Guides Matos
           + Skis de rando
                o Skis de rando par marques
                o Skis de rando par gammes
                o Test skis de rando
-               o RÃ©sultats de recherche
+               o Résultats de recherche
                o Comparateur skis de rando
           + Chaussures ski rando
                o Marques chaussures ski rando
@@ -24,7 +24,7 @@
                o Tests chaussures ski rando
                o Chaussures ski rando Femmes
                o Chaussures ski rando Homme
-               o RÃ©sultats de recherche
+               o Résultats de recherche
                o Comparateur chaussures ski rando
           + Fixations ski rando
                o Marques fixations ski rando
@@ -32,24 +32,24 @@
                o Tests fixations ski rando
                o Resultats de recherche
                o Comparateur fixations skis de rando
-          + VÃªtement montagne
-               o VÃªtement de montagne par marque
-               o VÃªtement de montagne par gamme
-               o VÃªtement de montagne par type
-               o VÃªtement de montagne par MatiÃ¨re
-               o VÃªtement de montagne homme
-               o VÃªtement de montagne femmes
-               o VÃªtement de montagne junior unisexe
-               o VÃªtement de montagne junior fille
-               o VÃªtement de montagne junior garÃ§on
-               o Test / Avis vÃªtement de montagne
-               o Comparateur vÃªtement de montagne
-               o RÃ©sultats de recherche
-          + Equipement sÃ©curitÃ© avalanche
-               o Comparateur sÃ©curitÃ© avalanche
-               o SÃ©curitÃ© avalanche par marque
-               o SÃ©curitÃ© avalanche par type
-               o RÃ©sultats de recherche
+          + Vêtement montagne
+               o Vêtement de montagne par marque
+               o Vêtement de montagne par gamme
+               o Vêtement de montagne par type
+               o Vêtement de montagne par Matière
+               o Vêtement de montagne homme
+               o Vêtement de montagne femmes
+               o Vêtement de montagne junior unisexe
+               o Vêtement de montagne junior fille
+               o Vêtement de montagne junior garçon
+               o Test / Avis vêtement de montagne
+               o Comparateur vêtement de montagne
+               o Résultats de recherche
+          + Equipement sécurité avalanche
+               o Comparateur sécurité avalanche
+               o Sécurité avalanche par marque
+               o Sécurité avalanche par type
+               o Résultats de recherche
           + Chaussures de montagne et rando
                o Marques chaussures de montagne
                o Gammes chaussures de montagne
@@ -58,56 +58,56 @@
                o Chaussures de montagne Homme
                o Chaussures de montagne Femme
                o Comparateur chaussures de montagne
-          + Sacs Ã  dos
-               o Sacs Ã  dos par marque
-               o Sacs Ã  dos par gamme
-               o Tests sacs Ã  dos
-               o Comparateur sacs Ã  dos
-               o RÃ©sultats de recherche
-          + MatÃ©riel bivouac
-               o MatÃ©riel bivouac par marque
-               o MatÃ©riel bivouac par gamme
-               o MatÃ©riel bivouac par type
-               o MatÃ©riel bivouac Avis / Test
-               o Comparateur Ã©quipements bivouac
-               o RÃ©sultats de recherche
+          + Sacs à dos
+               o Sacs à dos par marque
+               o Sacs à dos par gamme
+               o Tests sacs à dos
+               o Comparateur sacs à dos
+               o Résultats de recherche
+          + Matériel bivouac
+               o Matériel bivouac par marque
+               o Matériel bivouac par gamme
+               o Matériel bivouac par type
+               o Matériel bivouac Avis / Test
+               o Comparateur équipements bivouac
+               o Résultats de recherche
           + Accessoires alpinisme - ski rando
                o Accessoires par marque
                o Accessoires par gamme
                o Accessoires par type
-               o RÃ©sultats de recherche
+               o Résultats de recherche
                o Comparateur accessoires
      * Tests Matos
      * Topos
      * Magazine
           + Parutions
           + Abonnement
-          + Edition numÃ©rique
+          + Edition numérique
 
      * Abonnez-vous
      * Newsletter
-     * Mentions lÃ©gales
+     * Mentions légales
      * Contact
      * Fil info
      *
 
    _________________
-   â˜°
+   -HVN-
    MM522-web-couv
      * Accueil
      * Actus
           + Actu
           + Librairie
           + Concours
-     * VidÃ©o
+     * Vidéo
      * Podcast
-     * PÃ©dago
+     * Pédago
      * Guides Matos
           + Skis de rando
                o Skis de rando par marques
                o Skis de rando par gammes
                o Test skis de rando
-               o RÃ©sultats de recherche
+               o Résultats de recherche
                o Comparateur skis de rando
           + Chaussures ski rando
                o Marques chaussures ski rando
@@ -115,7 +115,7 @@
                o Tests chaussures ski rando
                o Chaussures ski rando Femmes
                o Chaussures ski rando Homme
-               o RÃ©sultats de recherche
+               o Résultats de recherche
                o Comparateur chaussures ski rando
           + Fixations ski rando
                o Marques fixations ski rando
@@ -123,24 +123,24 @@
                o Tests fixations ski rando
                o Resultats de recherche
                o Comparateur fixations skis de rando
-          + VÃªtement montagne
-               o VÃªtement de montagne par marque
-               o VÃªtement de montagne par gamme
-               o VÃªtement de montagne par type
-               o VÃªtement de montagne par MatiÃ¨re
-               o VÃªtement de montagne homme
-               o VÃªtement de montagne femmes
-               o VÃªtement de montagne junior unisexe
-               o VÃªtement de montagne junior fille
-               o VÃªtement de montagne junior garÃ§on
-               o Test / Avis vÃªtement de montagne
-               o Comparateur vÃªtement de montagne
-               o RÃ©sultats de recherche
-          + Equipement sÃ©curitÃ© avalanche
-               o Comparateur sÃ©curitÃ© avalanche
-               o SÃ©curitÃ© avalanche par marque
-               o SÃ©curitÃ© avalanche par type
-               o RÃ©sultats de recherche
+          + Vêtement montagne
+               o Vêtement de montagne par marque
+               o Vêtement de montagne par gamme
+               o Vêtement de montagne par type
+               o Vêtement de montagne par Matière
+               o Vêtement de montagne homme
+               o Vêtement de montagne femmes
+               o Vêtement de montagne junior unisexe
+               o Vêtement de montagne junior fille
+               o Vêtement de montagne junior garçon
+               o Test / Avis vêtement de montagne
+               o Comparateur vêtement de montagne
+               o Résultats de recherche
+          + Equipement sécurité avalanche
+               o Comparateur sécurité avalanche
+               o Sécurité avalanche par marque
+               o Sécurité avalanche par type
+               o Résultats de recherche
           + Chaussures de montagne et rando
                o Marques chaussures de montagne
                o Gammes chaussures de montagne
@@ -149,31 +149,31 @@
                o Chaussures de montagne Homme
                o Chaussures de montagne Femme
                o Comparateur chaussures de montagne
-          + Sacs Ã  dos
-               o Sacs Ã  dos par marque
-               o Sacs Ã  dos par gamme
-               o Tests sacs Ã  dos
-               o Comparateur sacs Ã  dos
-               o RÃ©sultats de recherche
-          + MatÃ©riel bivouac
-               o MatÃ©riel bivouac par marque
-               o MatÃ©riel bivouac par gamme
-               o MatÃ©riel bivouac par type
-               o MatÃ©riel bivouac Avis / Test
-               o Comparateur Ã©quipements bivouac
-               o RÃ©sultats de recherche
+          + Sacs à dos
+               o Sacs à dos par marque
+               o Sacs à dos par gamme
+               o Tests sacs à dos
+               o Comparateur sacs à dos
+               o Résultats de recherche
+          + Matériel bivouac
+               o Matériel bivouac par marque
+               o Matériel bivouac par gamme
+               o Matériel bivouac par type
+               o Matériel bivouac Avis / Test
+               o Comparateur équipements bivouac
+               o Résultats de recherche
           + Accessoires alpinisme - ski rando
                o Accessoires par marque
                o Accessoires par gamme
                o Accessoires par type
-               o RÃ©sultats de recherche
+               o Résultats de recherche
                o Comparateur accessoires
      * Tests Matos
      * Topos
      * Magazine
           + Parutions
           + Abonnement
-          + Edition numÃ©rique
+          + Edition numérique
 
      *
 
@@ -183,41 +183,41 @@
 
 Ouverture de la saison de ski-alpinisme : en route pour les Jeux olympiques
 
-   Par Simon GÃ©rard
-   PubliÃ© le 24 novembre 2023 Ã  12:23
+   Par Simon Gérard
+   Publié le 24 novembre 2023 à 12:23
 
-   La saison 2023-2024 de la coupe du monde de ski-alpinisme sâ€™ouvre ce
-   weekend Ã  Val-Thorens. CalquÃ©e sur le format olympique de Milan-Cortina
-   en 2026, cette premiÃ¨re Ã©tape est composÃ©e dâ€™un sprint le samedi et
-   dâ€™un relais mixte le dimanche. Au programme, donc, un cocktail de
-   courses dynamiques, nerveuses, au potentiel mÃ©diatique Ã©levÃ©.
+   La saison 2023-2024 de la coupe du monde de ski-alpinisme s'ouvre ce
+   weekend à Val-Thorens. Calquée sur le format olympique de Milan-Cortina
+   en 2026, cette première étape est composée d'un sprint le samedi et
+   d'un relais mixte le dimanche. Au programme, donc, un cocktail de
+   courses dynamiques, nerveuses, au potentiel médiatique élevé.
 
-   ARTICLE RECOMMANDÃ‰ : Ski-alpinisme : un chamboulement olympique
+   ARTICLE RECOMMANDÉ : Ski-alpinisme : un chamboulement olympique
 
-   Web_ChM-relais---France-Â©FFME-(57)
-   Â© FFME
+   Web_ChM-relais---France-©FFME-(57)
+   © FFME
 
-Relais mixte, kÃ©sako ?
+Relais mixte, késako ?
 
-   Si le format sprint est rÃ©current depuis maintenant de nombreuses
-   annÃ©es, le relais mixte, lui, nâ€™a fait son apparition que lâ€™an dernier
-   ! Il sâ€™inscrit dans une tendance de nombreux sports (ski de fond,
-   biathlon, athlÃ©tisme â€¦), Ã  dÃ©velopper ce format, trÃ¨s mÃ©diatique.
+   Si le format sprint est récurrent depuis maintenant de nombreuses
+   années, le relais mixte, lui, n'a fait son apparition que l'an dernier
+   ! Il s'inscrit dans une tendance de nombreux sports (ski de fond,
+   biathlon, athlétisme ...), à développer ce format, très médiatique.
 
-   En ski-alpinisme, le relais mixte prend la forme dâ€™une course en binÃ´me
-   oÃ¹ les concurrents doivent complÃ©ter 4 boucles identiques en
-   alternance, chaque boucle Ã©tant composÃ©e de 2 montÃ©es, 2 descentes et
+   En ski-alpinisme, le relais mixte prend la forme d'une course en binôme
+   où les concurrents doivent compléter 4 boucles identiques en
+   alternance, chaque boucle étant composée de 2 montées, 2 descentes et
    un portage.
-   Format mixte entre sprint et distance, dâ€™une durÃ©e approximative de 35
-   minutes (entre 8 et 10 minutes par boucle), le relais mixte dÃ©tonne par
-   rapport au sprint puisquâ€™il permet Ã  la fois aux distanceurs et aux
-   sprinteurs de sâ€™exprimer. Lors de la saison passÃ©e, on a ainsi vu
-   Axelle Mollaret-Gachet ou Xavier Gachet, spÃ©cialistes des formats
-   individuels et tÃªtes dâ€™affiches sur le circuit des grandes courses, se
+   Format mixte entre sprint et distance, d'une durée approximative de 35
+   minutes (entre 8 et 10 minutes par boucle), le relais mixte détonne par
+   rapport au sprint puisqu'il permet à la fois aux distanceurs et aux
+   sprinteurs de s'exprimer. Lors de la saison passée, on a ainsi vu
+   Axelle Mollaret-Gachet ou Xavier Gachet, spécialistes des formats
+   individuels et têtes d'affiches sur le circuit des grandes courses, se
    hisser sur des podiums mondiaux.
 
-   De nombreux athlÃ¨tes se sont exclusivement orientÃ©s sur les deux
-   Ã©preuves olympiques.
+   De nombreux athlètes se sont exclusivement orientés sur les deux
+   épreuves olympiques.
 
 Podiums des championnats du monde 2023
 
@@ -233,93 +233,93 @@ Relais mixte
     2. G. Murada & N. E. Canclini (IT)
     3. A. Gachet-Mollaret & R. Galindo (FR)
 
-   Web_ChM-relais---Emily-Harrop-&-Thibault-Anselmet-Â©FFME-(67)
-   Â© FFME
+   Web_ChM-relais---Emily-Harrop-&-Thibault-Anselmet-©FFME-(67)
+   © FFME
 
-BientÃ´t les JO
+Bientôt les JO
 
-   Si, de toute Ã©vidence, on peut regarder les rÃ©sultats des derniers
-   championnats du monde ou des diffÃ©rentes coupes du monde de la saison
-   passÃ©e pour imaginer les favoris, il est important de prendre en compte
-   lâ€™arrivÃ©e prochaine des JO de 2026.
+   Si, de toute évidence, on peut regarder les résultats des derniers
+   championnats du monde ou des différentes coupes du monde de la saison
+   passée pour imaginer les favoris, il est important de prendre en compte
+   l'arrivée prochaine des JO de 2026.
 
    En effet, seules les disciplines du sprint et du relais mixte seront
-   reprÃ©sentÃ©es lors de cette premiÃ¨re apparition du ski-alpinisme dans la
-   compÃ©tition centenaire. Ainsi, de nombreux athlÃ¨tes, dont beaucoup de
-   la gÃ©nÃ©ration montante, se sont exclusivement orientÃ©s, durant leur
-   prÃ©paration estivale, sur ces deux Ã©preuves, ce qui pourrait donc
-   rebattre les cartes et faire apparaÃ®tre de nouveaux visages sur le
-   devant de la scÃ¨ne.
+   représentées lors de cette première apparition du ski-alpinisme dans la
+   compétition centenaire. Ainsi, de nombreux athlètes, dont beaucoup de
+   la génération montante, se sont exclusivement orientés, durant leur
+   préparation estivale, sur ces deux épreuves, ce qui pourrait donc
+   rebattre les cartes et faire apparaître de nouveaux visages sur le
+   devant de la scène.
 
    Cette orientation pour les JO fait bien entendu grincer des dents une
    partie du monde du ski-alpinisme, pour qui le sprint et le relais ne
-   sont pas lâ€™essence du sport, dont les racines se retrouvent plus sur
-   des formats comme ceux proposÃ©s par la Grande Course, qui proposent des
-   parcours longs, techniques, typÃ©s montagne et souvent en Ã©quipe de
+   sont pas l'essence du sport, dont les racines se retrouvent plus sur
+   des formats comme ceux proposés par la Grande Course, qui proposent des
+   parcours longs, techniques, typés montagne et souvent en équipe de
    deux.
 
-   Pour autant, lâ€™entrÃ©e aux JO a le mÃ©rite de pousser plus loin la
-   professionnalisation et la mÃ©diatisation du sport, et de lui donner un
-   tremplin pour Ã©ventuellement ajouter une Ã©preuve longue individuelle,
-   comme aimerait l'impulser la FÃ©dÃ©ration FranÃ§aise de Montagne et
-   dâ€™Escalade (FFME) Ã  travers la candidature de la France en 2030.
+   Pour autant, l'entrée aux JO a le mérite de pousser plus loin la
+   professionnalisation et la médiatisation du sport, et de lui donner un
+   tremplin pour éventuellement ajouter une épreuve longue individuelle,
+   comme aimerait l'impulser la Fédération Française de Montagne et
+   d'Escalade (FFME) à travers la candidature de la France en 2030.
 
-   ARTICLE RECOMMANDÃ‰ : Milan-Cortina 2026 : des Jeux sans montagne
+   ARTICLE RECOMMANDÉ : Milan-Cortina 2026 : des Jeux sans montagne
 
      Cette orientation pour les JO fait bien entendu grincer des dents
-     une partie du monde du ski-alpinisme (...) mais a le mÃ©rite de
-     pousser plus loin la professionnalisation et la mÃ©diatisation du
+     une partie du monde du ski-alpinisme (...) mais a le mérite de
+     pousser plus loin la professionnalisation et la médiatisation du
      sport.
 
 Coupe du monde
 
 Le calendrier 2023/2024
 
-     * 24/11/2023 â€“ Val Thorens : sprint, relais mixte
-     * 20/01/2024 â€“ Comapedrosa Ã  Arinsal - La Massana (Andorre) :
+     * 24/11/2023 - Val Thorens : sprint, relais mixte
+     * 20/01/2024 - Comapedrosa à Arinsal - La Massana (Andorre) :
        individuelle, verticale
-     * 27/01/2024 â€“ Boi Taull (Espagne) : sprint, relais mixte
-     * 02/02/2024 â€“ Villars-sur-Ollon (Suisse) : sprint, relais mixte,
+     * 27/01/2024 - Boi Taull (Espagne) : sprint, relais mixte
+     * 02/02/2024 - Villars-sur-Ollon (Suisse) : sprint, relais mixte,
        individuelle
-     * 22/02/2024 â€“ Marmotta Trophy Ã  Val Martello, Bolzano (Italie) :
+     * 22/02/2024 - Marmotta Trophy à Val Martello, Bolzano (Italie) :
        individuelle, relais mixte, sprint
-     * 01/03/2024 â€“ Schladming, Dachstein (Autriche) : verticale, sprint
-     * 06/04/2024 â€“ Cortina d'Ampezzo (Italie) : verticale, individuelle,
+     * 01/03/2024 - Schladming, Dachstein (Autriche) : verticale, sprint
+     * 06/04/2024 - Cortina d'Ampezzo (Italie) : verticale, individuelle,
        sprint, relais mixte
 
-   230305---ChM-relais---Axelle-Gachet-Mollaret-Â©FFME-(59)
-   Â©FFME
+   230305---ChM-relais---Axelle-Gachet-Mollaret-©FFME-(59)
+   ©FFME
    Tags : coupe du monde, jeux olympiques, relais mixte, ski-alpinisme,
    sprint
    VOIR AUSSI
      * P8A8941 Coupe du monde de Val Thorens, entre promesses tenues et
        rebondissements
-     * jametlene-reskp-gn2 l3lGMZM-unsplash [Tribune] JO dâ€™hiver 2030 en
-       France : Â« pas Ã  nâ€™importe quel prix pour lâ€™environnement et les
-       territoires de montagne Â»
-     * Mezzalama 2023 c SimoCocco 4394 Mezzalama : le rÃ©cit du team
+     * jametlene-reskp-gn2 l3lGMZM-unsplash [Tribune] JO d'hiver 2030 en
+       France : « pas à n'importe quel prix pour l'environnement et les
+       territoires de montagne »
+     * Mezzalama 2023 c SimoCocco 4394 Mezzalama : le récit du team
        Montagnes Magazine
-     * trofeo-mezzalama Mezzalama : le trophÃ©e pour les Ã©quipes italiennes
-     * ecrins-vedrines [VidÃ©o] Pelvoux, DÃ´me, Meije Orientale :
-       l'enchaÃ®nement de Benjamin VÃ©drines, en images
-     * transvanoise-gerard-cailhol-welfringer Transvanoise : rÃ©cit de la
-       cordÃ©e GÃ©rard â€“ Cailhol â€“ Welfringer
+     * trofeo-mezzalama Mezzalama : le trophée pour les équipes italiennes
+     * ecrins-vedrines [Vidéo] Pelvoux, Dôme, Meije Orientale :
+       l'enchaînement de Benjamin Védrines, en images
+     * transvanoise-gerard-cailhol-welfringer Transvanoise : récit de la
+       cordée Gérard - Cailhol - Welfringer
      * emily harrop tromso Coupe du monde de ski-alpinisme 2022/2023 : des
-       FranÃ§aisÂ·es en cristal
-     * Â©Montaz-Rosset-Studio-(2) Record sur Chamonix-Zermatt pour Benjamin
-       VÃ©drines et Samuel Ã‰quy
+       Français·es en cristal
+     * ©Montaz-Rosset-Studio-(2) Record sur Chamonix-Zermatt pour Benjamin
+       Védrines et Samuel Équy
 
    ACHETEZ VOTRE MATOS EN LIGNE
-     * ekosport 80x56 2023 Ekosport, nÂ°1 du sport Outdoor en Europe
-       www.ekosport.fr Tout le matÃ©riel de ski de rando et alpinisme au
+     * ekosport 80x56 2023 Ekosport, n°1 du sport Outdoor en Europe
+       www.ekosport.fr Tout le matériel de ski de rando et alpinisme au
        meilleur Prix... plus de 400 marques ! Paiement 3x ou 4x. Liv.
        Point Relais gratuite*
-     * logo alpinstore 80x56 V2 MatÃ©riel de Ski Alpin/Rando/Fond,
+     * logo alpinstore 80x56 V2 Matériel de Ski Alpin/Rando/Fond,
        Snowboard, trail, rando et montagne www.alpinstore.com Livraison
-       gratuite dÃ¨s 50â‚¬, paiement en 3X, avantages fidÃ©litÃ©, parainage
-     * Logo-cimalp CrÃ©ateur de vÃªtements techniques pour les amoureux de
-       montagne www.cimalp.fr Des produits outdoor Ã  prix juste, qui
-       respectent lâ€™environnement. TestÃ©s et approuvÃ©s par des guides et
+       gratuite dès 50EUR, paiement en 3X, avantages fidélité, parainage
+     * Logo-cimalp Créateur de vêtements techniques pour les amoureux de
+       montagne www.cimalp.fr Des produits outdoor à prix juste, qui
+       respectent l'environnement. Testés et approuvés par des guides et
        AEM.
      * precision-ski Les plus grandes marques Outdoor au meilleur prix sur
        Precision Ski www.precisionski.fr Frais de port offerts, livraison
@@ -331,21 +331,21 @@ Le calendrier 2023/2024
      * [Il y a] 68 ans, la mort de Louis Lachenal
      * Ouverture de la saison de ski-alpinisme : en route pour les Jeux
        olympiques
-     * Samaya propose la solution RE-USE sur une sÃ©lection dâ€™Ã©quipements
-     * OÃ¹ sont les femmes dans le milieu professionnel de la montagne ?
+     * Samaya propose la solution RE-USE sur une sélection d'équipements
+     * Où sont les femmes dans le milieu professionnel de la montagne ?
 
-   LES DERNIERES VIDÃ‰OS
+   LES DERNIERES VIDÉOS
      * [Film] The Ascension Series : Morag Skelton, l'alpiniste qui grimpe
        dans le silence
      * [Teaser] Retour au mont Aiguille : reconstitution de l'ascension de
        1492
-     * [Teaser] Rise : Juliette Willmann s'Ã©lÃ¨ve en pente raide
+     * [Teaser] Rise : Juliette Willmann s'élève en pente raide
      * [Teaser] 14 x 2 000 des Bauges : du ski entre amis sur les plus
-       hauts sommets du massif d'Ã  cÃ´tÃ©
-     * [Teaser] Inseparable : Myia, le VTT et l'identitÃ© Squamish
+       hauts sommets du massif d'à côté
+     * [Teaser] Inseparable : Myia, le VTT et l'identité Squamish
 
    Suivez-nous
-   S'abonner Ã  la newsletter
+   S'abonner à la newsletter
    Visitez nos autres sites
    [Voir nos sites___________________________________]
    Partenaires
@@ -354,8 +354,8 @@ Le calendrier 2023/2024
        #522
        - Novembre 2023
        MM522-web-couv
-       Acheter ce numÃ©ro
+       Acheter ce numéro
        S'abonner
 
-   Tous droits rÃ©servÃ©s Â©montagnes-magazine.com (NivÃ©ales MÃ©dias COMALP)
-   Contact Mentions lÃ©gales
+   Tous droits réservés ©montagnes-magazine.com (Nivéales Médias COMALP)
+   Contact Mentions légales

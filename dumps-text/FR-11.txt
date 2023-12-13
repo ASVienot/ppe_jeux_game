@@ -4,38 +4,38 @@
 
    Pourquoi voyez-vous ce message ?
 
-   Vous avez choisi de refuser le dÃ©pÃ´t de cookies, vous pouvez Ã  tout
+   Vous avez choisi de refuser le dépôt de cookies, vous pouvez à tout
    moment modifier votre choix, ici.
 
    Le contenu de ce site est le fruit du travail de journalistes qui vous
-   apportent chaque jour une information locale de qualitÃ©, fiable,
-   complÃ¨te, et des services en ligne innovants. Ce travail sâ€™appuie sur
-   les revenus complÃ©mentaires de la publicitÃ© et de lâ€™abonnement.
+   apportent chaque jour une information locale de qualité, fiable,
+   complète, et des services en ligne innovants. Ce travail s'appuie sur
+   les revenus complémentaires de la publicité et de l'abonnement.
    Je m'abonne
 
-   DÃ©jÃ  abonnÃ© ?
+   Déjà abonné ?
    Connectez-vous
 
-   Connectez-vous ou crÃ©ez un compte
+   Connectez-vous ou créez un compte
 
-   Pour pouvoir enregistrer un article, un compte est nÃ©cessaire.
-   Se connecter ou crÃ©er un compte
+   Pour pouvoir enregistrer un article, un compte est nécessaire.
+   Se connecter ou créer un compte
 
-   DÃ©finir votre page d'accueil
+   Définir votre page d'accueil
      * Colmar - Guebwiller
      * Mulhouse - Thann
-     * SÃ©lestat - Erstein
-     * Sundgau - Trois-FrontiÃ¨res
+     * Sélestat - Erstein
+     * Sundgau - Trois-Frontières
 
-     * VidÃ©os
+     * Vidéos
      * Newsletters
-     * MÃ©tÃ©o
+     * Météo
      * Libra Memoria
      * Boutique
      * LeCLUB
-     * Mon SÃ©jour en Montagne
+     * Mon Séjour en Montagne
 
-   Journal numÃ©rique
+   Journal numérique
    Mulhouse
 
    Mulhouse
@@ -43,46 +43,46 @@
    dim. 03/12/2023
    Lire le journal
    L'Alsace
-   S'abonner Se connecter Me connecter/ Mâ€™inscrire
-   CrÃ©ation de compte
-     * Activer JavaScript dans votre navigateur pour accÃ©der Ã 
+   S'abonner Se connecter Me connecter/ M'inscrire
+   Création de compte
+     * Activer JavaScript dans votre navigateur pour accéder à
        l'inscription sur notre site
 
-   CivilitÃ©
-   (*) Madame ( ) Monsieur ( ) SociÃ©tÃ©
+   Civilité
+   (*) Madame ( ) Monsieur ( ) Société
    Siret ____________________
    Nom ____________________
-   PrÃ©nom ____________________
+   Prénom ____________________
    Adresse e-mail ____________________
    Mot de passe ____________________
-   [ ] Je souhaite recevoir les communications et les exclusivitÃ©s du
+   [ ] Je souhaite recevoir les communications et les exclusivités du
    Groupe EBRA
    [ ] Je souhaite recevoir les communications des partenaires du Groupe
    EBRA
-   [ ] J'ai lu et acceptÃ© les Conditions gÃ©nÃ©rales d'utilisation
+   [ ] J'ai lu et accepté les Conditions générales d'utilisation
 
    Si vous voyez ce champ, ne le remplissez pas ____________________
    ____________________
    Je m'inscris
 
    L'Alsace, en tant que responsable de traitement, recueille dans ce
-   formulaire des informations qui sont enregistrÃ©es dans un fichier
-   informatisÃ© par son Service Relations Clients, la finalitÃ© Ã©tant
-   dâ€™assurer la crÃ©ation et la gestion de votre compte, ainsi que des
+   formulaire des informations qui sont enregistrées dans un fichier
+   informatisé par son Service Relations Clients, la finalité étant
+   d'assurer la création et la gestion de votre compte, ainsi que des
    abonnements et autres services souscrits. Si vous y avez consenti, ces
-   donnÃ©es peuvent Ã©galement Ãªtre utilisÃ©es pour lâ€™envoi de newsletters
-   et/ou dâ€™offres promotionnelles par L'Alsace, les sociÃ©tÃ©s qui lui sont
-   affiliÃ©es et/ou ses partenaires commerciaux. Vous pouvez exercer en
-   permanence vos droits dâ€™accÃ¨s, rectification, effacement, limitation,
+   données peuvent également être utilisées pour l'envoi de newsletters
+   et/ou d'offres promotionnelles par L'Alsace, les sociétés qui lui sont
+   affiliées et/ou ses partenaires commerciaux. Vous pouvez exercer en
+   permanence vos droits d'accès, rectification, effacement, limitation,
    opposition, retirer votre consentement et/ou pour toute question
-   relative au traitement de vos donnÃ©es Ã  caractÃ¨re personnel en
+   relative au traitement de vos données à caractère personnel en
    contactant s.lecteur@lalsace.fr ou consulter les liens suivants :
-   Protection des donnÃ©es, CGU du site et Contact. Le DÃ©lÃ©guÃ© Ã  la
-   Protection des DonnÃ©es personnelles (dpo@ebra.fr) est en copie de toute
-   demande relative Ã  vos informations personnelles.
-   Vous Ãªtes dÃ©jÃ  inscrit ? Connectez-vous
+   Protection des données, CGU du site et Contact. Le Délégué à la
+   Protection des Données personnelles (dpo@ebra.fr) est en copie de toute
+   demande relative à vos informations personnelles.
+   Vous êtes déjà inscrit ? Connectez-vous
    L'Alsace
-     * ActualitÃ©
+     * Actualité
      * Alsace
      * Sport
      * Faits divers
@@ -92,15 +92,15 @@
      * Services
      *
 
-     * Ã€ la Une
+     * À la Une
      * Fil info
      * France-Monde
      * Coronavirus
-     * Ã‰conomie
+     * Économie
      * Politique
-     * Lâ€™Ã©ditorial
-     * Ã‰ducation
-     * MÃ©tÃ©o
+     * L'éditorial
+     * Éducation
+     * Météo
      * Environnement
      * Insolite
 
@@ -108,34 +108,34 @@
      * L'actu du Haut-Rhin
           + Colmar - Guebwiller
           + Mulhouse - Thann
-          + Sundgau - Trois-FrontiÃ¨res
+          + Sundgau - Trois-Frontières
      * L'actu du Bas-Rhin
           + Selestat - Erstein
-     * Rheinblick â€“ Lâ€™actualitÃ© transfrontaliÃ¨re
+     * Rheinblick - L'actualité transfrontalière
 
-   Je choisis mon Ã©dition favorite
-     * Toute l'actualitÃ© sportive
+   Je choisis mon édition favorite
+     * Toute l'actualité sportive
      * Matches en direct
-     * RÃ©sultats et classements
-     * Le billet de la rÃ©daction
-     * Les dossiers de la rÃ©daction
+     * Résultats et classements
+     * Le billet de la rédaction
+     * Les dossiers de la rédaction
      * >nos clubs alsaciens
           + Racing club de Strasbourg
           + Volley Mulhouse Alsace
           + Mulhouse Olympic Natation
-          + Mulhouse Basket AgglomÃ©ration
+          + Mulhouse Basket Agglomération
           + ASPTT Mulhouse-Rixheim
           + SIG
           + SAHB
      * Jeux Olympiques Paris 2024
-     * TiercÃ©
+     * Tiercé
      * Tous les sports
           + Football national et international
-          + Football rÃ©gional
+          + Football régional
           + Basket-ball
           + Volley-ball
           + Rugby
-          + AthlÃ©tisme
+          + Athlétisme
           + Auto-moto
           + Cyclisme
           + Handball
@@ -143,35 +143,35 @@
           + Tennis
           + Sports nautiques
           + Sports de combat
-          + Sports dâ€™hiver
+          + Sports d'hiver
           + Autres sports
      * Jeux olympiques Paris 2024
 
      * Tous les faits divers
           + Colmar Guebwiller
-          + Sungdau Trois FrontiÃ¨res
+          + Sungdau Trois Frontières
           + Mulhouse Thann
           + Selestat Erstein
 
      * Nos grands formats
      * Le Lab
      * Nos podcasts
-     * Nos vidÃ©os
+     * Nos vidéos
      * Nos galeries
-     * Nos dÃ©sinfox
+     * Nos désinfox
 
-     * Toute l'actualitÃ© culturelle
-     * CinÃ©ma
+     * Toute l'actualité culturelle
+     * Cinéma
      * Livres
      * Musique
-     * TÃ©lÃ©vision - SÃ©ries - Streaming
+     * Télévision - Séries - Streaming
      * Diverto.TV
           + Programme TV
-     * Programme cinÃ©
+     * Programme ciné
      * Pour Sortir, l'agenda des sorties
 
      * Tous nos magazines
-          + SantÃ©
+          + Santé
           + Lifestyle
           + Immobilier
           + Automobile
@@ -183,27 +183,27 @@
      * Les Lecteurs Voyageurs > maintenant dans Services
      * Le JDE - Le Journal de Enfants
      * #IciOnAgit !
-     * Saisons dâ€™Alsace
+     * Saisons d'Alsace
      * Passion Vosges
-     * SupplÃ©ments numÃ©riques
+     * Suppléments numériques
 
      * Boutique
      * Live shopping
      * Les Lecteurs Voyageurs
           + Le programme de nos voyages
-     * Libra Memoria - avis de dÃ©cÃ¨s
-     * Annonces immobiliÃ¨res
+     * Libra Memoria - avis de décès
+     * Annonces immobilières
      * Annonces automobile
      * > paroles de partenaires
           + Articles partenaires
      * Infos Services
-     * Annonces Judiciaires et LÃ©gales
-     * Vie des SociÃ©tÃ©s
-     * MarchÃ©s publics
-     * France MarchÃ©s Portail dâ€™appels dâ€™offres
+     * Annonces Judiciaires et Légales
+     * Vie des Sociétés
+     * Marchés publics
+     * France Marchés Portail d'appels d'offres
      * Le groupe EBRA
-          + PrÃ©sentation du groupe
-          + EBRA MÃ©dias
+          + Présentation du groupe
+          + EBRA Médias
           + EBRA Events
      * Articles partenaires
 
@@ -214,10 +214,10 @@
    ____________________ Ok
    ____________________ Ok
 
-   L'Ã©dition du soir en numÃ©rique dÃ¨s 21h30 Le journal en numÃ©rique dÃ¨s 5h
-   AccÃ©dez Ã  tous les contenus en illimitÃ©
+   L'édition du soir en numérique dès 21h30 Le journal en numérique dès 5h
+   Accédez à tous les contenus en illimité
    S'abonner
-     * ActualitÃ©
+     * Actualité
      * Alsace
      * Sport
      * Faits divers
@@ -226,15 +226,15 @@
      * Magazines
      * Services
 
-     * Ã€ la Une
+     * À la Une
      * Fil info
      * France-Monde
      * Coronavirus
-     * Ã‰conomie
+     * Économie
      * Politique
-     * Lâ€™Ã©ditorial
-     * Ã‰ducation
-     * MÃ©tÃ©o
+     * L'éditorial
+     * Éducation
+     * Météo
      * Environnement
      * Insolite
 
@@ -242,34 +242,34 @@
      * L'actu du Haut-Rhin
           + Colmar - Guebwiller
           + Mulhouse - Thann
-          + Sundgau - Trois-FrontiÃ¨res
+          + Sundgau - Trois-Frontières
      * L'actu du Bas-Rhin
           + Selestat - Erstein
-     * Rheinblick â€“ Lâ€™actualitÃ© transfrontaliÃ¨re
+     * Rheinblick - L'actualité transfrontalière
 
-   Je choisis mon ï¿½dition favorite
-     * Toute l'actualitÃ© sportive
+   Je choisis mon ½dition favorite
+     * Toute l'actualité sportive
      * Matches en direct
-     * RÃ©sultats et classements
-     * Le billet de la rÃ©daction
-     * Les dossiers de la rÃ©daction
+     * Résultats et classements
+     * Le billet de la rédaction
+     * Les dossiers de la rédaction
      * >nos clubs alsaciens
           + Racing club de Strasbourg
           + Volley Mulhouse Alsace
           + Mulhouse Olympic Natation
-          + Mulhouse Basket AgglomÃ©ration
+          + Mulhouse Basket Agglomération
           + ASPTT Mulhouse-Rixheim
           + SIG
           + SAHB
      * Jeux Olympiques Paris 2024
-     * TiercÃ©
+     * Tiercé
      * Tous les sports
           + Football national et international
-          + Football rÃ©gional
+          + Football régional
           + Basket-ball
           + Volley-ball
           + Rugby
-          + AthlÃ©tisme
+          + Athlétisme
           + Auto-moto
           + Cyclisme
           + Handball
@@ -277,39 +277,39 @@
           + Tennis
           + Sports nautiques
           + Sports de combat
-          + Sports dâ€™hiver
+          + Sports d'hiver
           + Autres sports
      * Jeux olympiques Paris 2024
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Tous les faits divers
           + Colmar Guebwiller
-          + Sungdau Trois FrontiÃ¨res
+          + Sungdau Trois Frontières
           + Mulhouse Thann
           + Selestat Erstein
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Nos grands formats
      * Le Lab
      * Nos podcasts
-     * Nos vidÃ©os
+     * Nos vidéos
      * Nos galeries
-     * Nos dÃ©sinfox
+     * Nos désinfox
 
-   Je choisis mon ï¿½dition favorite
-     * Toute l'actualitÃ© culturelle
-     * CinÃ©ma
+   Je choisis mon ½dition favorite
+     * Toute l'actualité culturelle
+     * Cinéma
      * Livres
      * Musique
-     * TÃ©lÃ©vision - SÃ©ries - Streaming
+     * Télévision - Séries - Streaming
      * Diverto.TV
           + Programme TV
-     * Programme cinÃ©
+     * Programme ciné
      * Pour Sortir, l'agenda des sorties
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Tous nos magazines
-          + SantÃ©
+          + Santé
           + Lifestyle
           + Immobilier
           + Automobile
@@ -321,51 +321,51 @@
      * Les Lecteurs Voyageurs > maintenant dans Services
      * Le JDE - Le Journal de Enfants
      * #IciOnAgit !
-     * Saisons dâ€™Alsace
+     * Saisons d'Alsace
      * Passion Vosges
-     * SupplÃ©ments numÃ©riques
+     * Suppléments numériques
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Boutique
      * Live shopping
      * Les Lecteurs Voyageurs
           + Le programme de nos voyages
-     * Libra Memoria - avis de dÃ©cÃ¨s
-     * Annonces immobiliÃ¨res
+     * Libra Memoria - avis de décès
+     * Annonces immobilières
      * Annonces automobile
      * > paroles de partenaires
           + Articles partenaires
      * Infos Services
-     * Annonces Judiciaires et LÃ©gales
-     * Vie des SociÃ©tÃ©s
-     * MarchÃ©s publics
-     * France MarchÃ©s Portail dâ€™appels dâ€™offres
+     * Annonces Judiciaires et Légales
+     * Vie des Sociétés
+     * Marchés publics
+     * France Marchés Portail d'appels d'offres
      * Le groupe EBRA
-          + PrÃ©sentation du groupe
-          + EBRA MÃ©dias
+          + Présentation du groupe
+          + EBRA Médias
           + EBRA Events
      * Articles partenaires
 
-   Je choisis mon ï¿½dition favorite
-   Journal numÃ©rique
+   Je choisis mon ½dition favorite
+   Journal numérique
    Mulhouse
 
    Mulhouse
 
    dim. 03/12/2023
    Lire le journal
-     * VidÃ©os
+     * Vidéos
      * Newsletters
-     * MÃ©tÃ©o
+     * Météo
      * Libra Memoria
      * Boutique
      * LeCLUB
-     * Mon SÃ©jour en Montagne
+     * Mon Séjour en Montagne
 
    Icone de l'application mobile
 
-   Retrouvez tous nos contenus et notre journal en numÃ©rique
-   TÃ©lÃ©chargez gratuitement l'app
+   Retrouvez tous nos contenus et notre journal en numérique
+   Téléchargez gratuitement l'app
    Suivez-nous
      * Facebook
      * Twitter
@@ -375,120 +375,120 @@
      * Contact
      * FAQ
      * CGAU du site
-     * Informations lÃ©gales
-     * Protection des donnÃ©es
+     * Informations légales
+     * Protection des données
      * Politique RSE
 
      *
-     * Magazine SantÃ©
-     * E-sport : les joueurs professionnels de jeux vidÃ©o sont-ils de
+     * Magazine Santé
+     * E-sport : les joueurs professionnels de jeux vidéo sont-ils de
        vrais sportifs ?
 
-SantÃ© E-sport : les joueurs professionnels de jeux vidÃ©o sont-ils de vrais
+Santé E-sport : les joueurs professionnels de jeux vidéo sont-ils de vrais
 sportifs ?
 
    Des joueurs assis dans un confortable fauteuil, casque sur les
-   oreilles, les yeux rivÃ©s sur lâ€™Ã©cranâ€¦ A priori, lâ€™image du pratiquant
-   de jeux vidÃ©o renvoie plutÃ´t Ã  une forme de sÃ©dentaritÃ©, sinon
-   dâ€™inactivitÃ© physique. Mais dans les faits, la rÃ©alitÃ© est bien
-   diffÃ©rente... Explications.
-   En partenariat avec Destination SantÃ© - 14 juin 2023 Ã  06:15 | mis Ã 
-   jour le 14 juin 2023 Ã  15:14 - Temps de lecture :
+   oreilles, les yeux rivés sur l'écran... A priori, l'image du pratiquant
+   de jeux vidéo renvoie plutôt à une forme de sédentarité, sinon
+   d'inactivité physique. Mais dans les faits, la réalité est bien
+   différente... Explications.
+   En partenariat avec Destination Santé - 14 juin 2023 à 06:15 | mis à
+   jour le 14 juin 2023 à 15:14 - Temps de lecture :
     |
-   Une Ã©tude a analysÃ© le programme d'entraÃ®nement de 115 e-athlÃ¨tes. Plus
-   de la moitiÃ© des participants est convaincue que cette prÃ©paration
-   amÃ©liore les performances les jours de match. Photo Adobe Stock
+   Une étude a analysé le programme d'entraînement de 115 e-athlètes. Plus
+   de la moitié des participants est convaincue que cette préparation
+   améliore les performances les jours de match. Photo Adobe Stock
 
-   Une Ã©tude a analysÃ© le programme d'entraÃ®nement de 115 e-athlÃ¨tes. Plus
-   de la moitiÃ© des participants est convaincue que cette prÃ©paration
-   amÃ©liore les performances les jours de match. Photo Adobe Stock
+   Une étude a analysé le programme d'entraînement de 115 e-athlètes. Plus
+   de la moitié des participants est convaincue que cette préparation
+   améliore les performances les jours de match. Photo Adobe Stock
 
-   Lâ€™e-sport correspond Ã  la pratique compÃ©titive du jeu vidÃ©o.
-   Constitue-t-elle vraiment une activitÃ© physique, laquelle rappelons-le
-   est dÃ©finie comme lâ€™ensemble des mouvements du corps produits par les
-   muscles, entraÃ®nant une dÃ©pense dâ€™Ã©nergie supÃ©rieure Ã  celle qui est
-   dÃ©pensÃ©e au repos ?
+   L'e-sport correspond à la pratique compétitive du jeu vidéo.
+   Constitue-t-elle vraiment une activité physique, laquelle rappelons-le
+   est définie comme l'ensemble des mouvements du corps produits par les
+   muscles, entraînant une dépense d'énergie supérieure à celle qui est
+   dépensée au repos ?
 
-   Une premiÃ¨re rÃ©ponse Ã  cette question se situe peut-Ãªtre du cÃ´tÃ© du
-   ComitÃ© international Olympique (CIO) qui sâ€™intÃ©resse de prÃ¨s au sujet.
-   Â« Il a Ã©tÃ© admis que le jeu Ã©lectronique de compÃ©tition comportait une
-   certaine activitÃ© physique pouvant Ãªtre comparÃ©e Ã  celle de sports plus
-   traditionnels Â», plaide-t-il. Et de prÃ©ciser : Â« En revanche, cela ne
-   peut pas nÃ©cessairement Ãªtre dit du jeu Ã©lectronique de loisir. Câ€™est
-   pourquoi lâ€™utilisation du terme â€˜sportâ€™ en ce qui concerne lâ€™e-sport et
-   les jeux Ã©lectroniques doit faire lâ€™objet dâ€™un dialogue et dâ€™une Ã©tude
-   plus approfondis Â».
+   Une première réponse à cette question se situe peut-être du côté du
+   Comité international Olympique (CIO) qui s'intéresse de près au sujet.
+   « Il a été admis que le jeu électronique de compétition comportait une
+   certaine activité physique pouvant être comparée à celle de sports plus
+   traditionnels », plaide-t-il. Et de préciser : « En revanche, cela ne
+   peut pas nécessairement être dit du jeu électronique de loisir. C'est
+   pourquoi l'utilisation du terme `sport' en ce qui concerne l'e-sport et
+   les jeux électroniques doit faire l'objet d'un dialogue et d'une étude
+   plus approfondis ».
 
-Du sport pour se prÃ©parer
+Du sport pour se préparer
 
-   La science statue Ã©galement sur le sujet. En 2016, des universitaires
-   finlandais du DÃ©partement dâ€™informatique et des systÃ¨mes dâ€™information
-   de lâ€™UniversitÃ© de Jyvaskyla se sont justement penchÃ©s sur les
-   programmes dâ€™entraÃ®nement de 115 e-athlÃ¨tes.
+   La science statue également sur le sujet. En 2016, des universitaires
+   finlandais du Département d'informatique et des systèmes d'information
+   de l'Université de Jyvaskyla se sont justement penchés sur les
+   programmes d'entraînement de 115 e-athlètes.
 
-   RÃ©sultat : sur les cinq heures quotidiennes de prÃ©paration, une heure
-   apparaÃ®t pleinement consacrÃ©e Ã  de lâ€™exercice physique. Et pour cause,
-   plus de la moitiÃ© des participants est convaincue que cette prÃ©paration
-   amÃ©liore les performances les jours de match. Et 47% des interrogÃ©s
-   concÃ¨dent Ã©galement le faire pour se maintenir en bonne santÃ©.
+   Résultat : sur les cinq heures quotidiennes de préparation, une heure
+   apparaît pleinement consacrée à de l'exercice physique. Et pour cause,
+   plus de la moitié des participants est convaincue que cette préparation
+   améliore les performances les jours de match. Et 47% des interrogés
+   concèdent également le faire pour se maintenir en bonne santé.
 
-   Une autre Ã©tude rÃ©alisÃ©e cette fois-ci en Afrique du Sud en 2021,
+   Une autre étude réalisée cette fois-ci en Afrique du Sud en 2021,
    alertait toutefois sur les risques de troubles musculo-squelettiques
-   (TMS) liÃ©s notamment Ã  la position assise prolongÃ©e et Ã  lâ€™usage de la
+   (TMS) liés notamment à la position assise prolongée et à l'usage de la
    manette.
 
-   Mais comme le soulignaient les auteurs : Â« la pratique rÃ©guliÃ¨re
-   dâ€™exercice peut rÃ©duire considÃ©rablement les risques de dÃ©velopper ces
-   TMS et contribuer Ã  soulager la douleur et lâ€™inconfort liÃ©s Ã  la
-   station assise Â».
-     * Magazine SantÃ©
+   Mais comme le soulignaient les auteurs : « la pratique régulière
+   d'exercice peut réduire considérablement les risques de développer ces
+   TMS et contribuer à soulager la douleur et l'inconfort liés à la
+   station assise ».
+     * Magazine Santé
      * Magazine
      * Fil Info
      *
 
    0 commentaire
    (BUTTON) COMMENTAIRES SUIVANTS
-   RÃ©agir
+   Réagir
 
      * Sites du groupe EBRA
           + L'Alsace
           + Le Bien Public
-          + Le DauphinÃ© LibÃ©rÃ©
-          + Les DerniÃ¨res Nouvelles d'Alsace
-          + L'Est RÃ©publicain
-          + Le Journal de SaÃ´ne-et-Loire
-          + Le ProgrÃ¨s
-          + Le RÃ©publicain Lorrain
+          + Le Dauphiné Libéré
+          + Les Dernières Nouvelles d'Alsace
+          + L'Est Républicain
+          + Le Journal de Saône-et-Loire
+          + Le Progrès
+          + Le Républicain Lorrain
           + Vosges Matin
           + Le JDE
-          + La NuÃ©e bleue
+          + La Nuée bleue
           + Le groupe EBRA
-     * Nos thÃ©matiques
+     * Nos thématiques
           + Sport
           + Faits divers
           + Politique
-          + Ã‰conomie
+          + Économie
           + Environnement
           + Lifestyle
           + Culture - Loisirs
           + Les Lecteurs Voyageurs
-          + Ã‰lections
-          + Nos chartes Ã©ditoriales
+          + Élections
+          + Nos chartes éditoriales
      * Nos services
           + Boutique
           + Diverto.TV
           + Guide d'achat
-          + Avis de dÃ©cÃ¨s
-          + Annonces immobiliÃ¨res
+          + Avis de décès
+          + Annonces immobilières
           + Annonces automobile
           + Nos partenaires
           + Pour sortir
           + Application mobile
-          + Offre Guest: offrez le journal Ã  vos clients
-          + Charte de modÃ©ration
+          + Offre Guest: offrez le journal à vos clients
+          + Charte de modération
           + Devenez porteur de presse
           + Archives
-          + PublicitÃ©: Communiquez sur nos supports
+          + Publicité: Communiquez sur nos supports
 
    Suivez-nous
      * Facebook
@@ -499,8 +499,8 @@ Du sport pour se prÃ©parer
      * Contact
      * FAQ
      * CGAU du site
-     * Informations lÃ©gales
-     * Protection des donnÃ©es
+     * Informations légales
+     * Protection des données
      * Politique RSE
 
    OJD Digital Ad Trust Display
@@ -508,13 +508,13 @@ Du sport pour se prÃ©parer
      * A la une
      * Fil Info
      * Alsace
-     * VidÃ©o
+     * Vidéo
      * Rechercher
 
    Alsace
      * 68 Haut-Rhin
           + Colmar - Guebwiller
           + Mulhouse - Thann
-          + Sundgau - Trois-FrontiÃ¨res
+          + Sundgau - Trois-Frontières
      * 67 Bas-Rhin
           + Selestat - Erstein

@@ -2,21 +2,21 @@
    [logo-large.svg] [close.svg]
    Politique arrow-down
      * Sondage
-     * AssemblÃ©e nationale
-     * RÃ©forme des retraites
+     * Assemblée nationale
+     * Réforme des retraites
      * Emmanuel Macron
-     * Elections europÃ©ennes 2024
+     * Elections européennes 2024
 
    France arrow-down
      * Emploi
      * JO Paris 2024
-     * ImpÃ´t
+     * Impôt
      * Immobilier
      * Faits divers
      * Transport
-     * Ã‰conomie
+     * Économie
      * Police
-     * SantÃ©
+     * Santé
      * Justice
      * Terrorisme
 
@@ -30,11 +30,11 @@
      * Europe
      * Science
      * Covid-19
-     * Conflit israÃ©lo-palestinien
+     * Conflit israélo-palestinien
 
    Environnement arrow-down
-     * MÃ©tÃ©o
-     * Ã‰nergies
+     * Météo
+     * Énergies
      * Changement climatique
      * Ecologie
      * Restriction d'eau
@@ -47,32 +47,32 @@
      * LGBT+
      * Psychologie
      * Vie de bureau
-     * Bien-Ãªtre
+     * Bien-être
      * Alimentation
      * Femmes
-     * ParentalitÃ©
-     * Ã‰ducation
-     * SantÃ©
+     * Parentalité
+     * Éducation
+     * Santé
 
    Culture arrow-down
-     * MÃ©dias
+     * Médias
      * Mode
-     * Jeux vidÃ©o
-     * SÃ©ries TV
+     * Jeux vidéo
+     * Séries TV
      * Musique
      * Livre
-     * CinÃ©ma
+     * Cinéma
 
    Divertissement arrow-down
      * Sport
      * NRJ Music Awards
-     * RÃ©seaux sociaux
+     * Réseaux sociaux
      * People
-     * TÃ©lÃ©vision
+     * Télévision
      * Insolite
 
    Prise de parole arrow-down
-     * TÃ©moignage
+     * Témoignage
      * Tribune
 
    JO Paris 2024 arrow-down
@@ -81,7 +81,7 @@
      * Billets JO 2024
      * Jeux Paralympiques 2024
 
-   VidÃ©os
+   Vidéos
    Plus arrow-down
      * En transit.ion
      * Escapade en Valais
@@ -89,15 +89,15 @@
 
    (BUTTON) [dropdown.svg] [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
      * [dropdown.svg]
      * [logo-large.svg] [logo-small.svg]
 
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
-   ActualitÃ©s 04/10/2016 14:11
+   Divertissement Prise de parole JO Paris 2024 Vidéos
+   Actualités 04/10/2016 14:11
 
-Comment sont crÃ©Ã©s les escape games
+Comment sont créés les escape games
 
    Par Nadege El Ghomari
      * [partage-facebook.svg]
@@ -106,180 +106,180 @@ Comment sont crÃ©Ã©s les escape games
      * [partage-linkedin.svg]
      * [partage-email.svg]
 
-   Photo SimonÃ© Eusebio
-   SimonÃ© Eusebio
+   Photo Simoné Eusebio
+   Simoné Eusebio
 
-   CULTURE - Ces derniers mois, les escape games ont poussÃ© comme des
-   champignons aux quatre coins de la France. Ces jeux d'Ã©vasion qui se
-   jouent en Ã©quipe et consistent Ã  rÃ©soudre des Ã©nigmes pour trouver un
-   objet, l'auteur d'un crime ou sortir de la piÃ¨ce, enchantent ceux qui
-   se sentent l'Ã¢me d'un Hercule Poirot.
+   CULTURE - Ces derniers mois, les escape games ont poussé comme des
+   champignons aux quatre coins de la France. Ces jeux d'évasion qui se
+   jouent en équipe et consistent à résoudre des énigmes pour trouver un
+   objet, l'auteur d'un crime ou sortir de la pièce, enchantent ceux qui
+   se sentent l'âme d'un Hercule Poirot.
 
-   Du Nord au Sud, de l'Est Ã  l'Ouest, aucune rÃ©gion n'est en reste. Rien
-   qu'Ã  Paris, le site Wescape recense 27 organismes sur les 180 dans tout
-   l'Hexagone. Calais est Ã©galement bien fournie avec pas moins de 14
+   Du Nord au Sud, de l'Est à l'Ouest, aucune région n'est en reste. Rien
+   qu'à Paris, le site Wescape recense 27 organismes sur les 180 dans tout
+   l'Hexagone. Calais est également bien fournie avec pas moins de 14
    enseignes tandis que dans le sud, Marseille et Montpellier disposent de
-   7 Ã©tablissements chacun.
+   7 établissements chacun.
    [logo-ads.png]
 
-   La liste ne cesse de se rallonger, mais comment sont ficelÃ©es les
-   Ã©nigmes et comment sont crÃ©Ã©s les dÃ©cors et mÃ©canismes de ces piÃ¨ces
+   La liste ne cesse de se rallonger, mais comment sont ficelées les
+   énigmes et comment sont créés les décors et mécanismes de ces pièces
    dont il faut sortir?
 
-   Le scÃ©nario, point de fuite d'un escape game
+   Le scénario, point de fuite d'un escape game
 
-   Chaque "room" a son histoire et chaque histoire a ses Ã©nigmes. C'est
-   ainsi que se prÃ©sentent les escape games. Les Ã©quipes, qui peuvent
-   aller de 2 Ã  10 personnes selon les Ã©tablissements, se voient confier
-   une mission avant leur entrÃ©e dans la piÃ¨ce. Les joueurs dÃ©couvrent
-   ensuite tout un univers: un thÃ¨me, un dÃ©cor, des indices... Tout est
+   Chaque "room" a son histoire et chaque histoire a ses énigmes. C'est
+   ainsi que se présentent les escape games. Les équipes, qui peuvent
+   aller de 2 à 10 personnes selon les établissements, se voient confier
+   une mission avant leur entrée dans la pièce. Les joueurs découvrent
+   ensuite tout un univers: un thème, un décor, des indices... Tout est
    fait pour que l'immersion soit totale.
 
-   ChloÃ© Blondel fait partie des prÃ©curseurs des escape games en France.
-   Pour sa salle, "La PiÃ¨ce", elle fait appel Ã  un auteur qui Ã©crit les
-   Ã©nigmes. L'auteur en question, connu sous le pseudo de Fibre Tigre,
-   assimile la crÃ©ation d'Ã©nigmes au bricolage. "Le mieux c'est de se
-   rendre dans un magasin, confesse-t-il au HuffPost. Un jour j'ai trouvÃ©
-   un produit hydrofuge. En Ã©crivant avec sur une vitre, il reste
-   invisible mais apparaÃ®t avec de la buÃ©e. Ã‡a ferait une Ã©nigme chouette
+   Chloé Blondel fait partie des précurseurs des escape games en France.
+   Pour sa salle, "La Pièce", elle fait appel à un auteur qui écrit les
+   énigmes. L'auteur en question, connu sous le pseudo de Fibre Tigre,
+   assimile la création d'énigmes au bricolage. "Le mieux c'est de se
+   rendre dans un magasin, confesse-t-il au HuffPost. Un jour j'ai trouvé
+   un produit hydrofuge. En écrivant avec sur une vitre, il reste
+   invisible mais apparaît avec de la buée. Ça ferait une énigme chouette
    non?"
    [logo-ads.png]
 
    Ensuite il faut prendre beaucoup de choses en compte: "Budget,
-   difficultÃ©, faisabilitÃ©, usure, universalitÃ©, homogÃ©nÃ©itÃ©, Ã©numÃ¨re le
-   crÃ©ateur d'Ã©nigme. Mais surtout, il faut faire diffÃ©rent de la
-   concurrence." Une fois les Ã©nigmes imaginÃ©es, c'est au tour de ChloÃ© de
+   difficulté, faisabilité, usure, universalité, homogénéité, énumère le
+   créateur d'énigme. Mais surtout, il faut faire différent de la
+   concurrence." Une fois les énigmes imaginées, c'est au tour de Chloé de
    produire le tout.
 
-   Des auteurs de films et de sÃ©ries se sont lancÃ©s
+   Des auteurs de films et de séries se sont lancés
 
-   Les fondateurs de Lock Academy, escape game inspirÃ© de Cluedo, ont crÃ©Ã©
-   eux-mÃªmes leur tout premier scÃ©nario. HabituÃ©s Ã  ce type d'exercice,
-   Laurent Ifrah et son associÃ© avaient dÃ©jÃ  une expÃ©rience d'Ã©criture de
-   scÃ©nario pour des films ou des sÃ©ries avant mÃªme de se lancer dans
+   Les fondateurs de Lock Academy, escape game inspiré de Cluedo, ont créé
+   eux-mêmes leur tout premier scénario. Habitués à ce type d'exercice,
+   Laurent Ifrah et son associé avaient déjà une expérience d'écriture de
+   scénario pour des films ou des séries avant même de se lancer dans
    l'escape game.
 
-   Pour SÃ©bastien Djian, fondateur de Victory, le scÃ©nario a une place
-   toute aussi importante que les mÃ©canismes qui vont le faire vivre.
-   L'Ã©quipe reste donc toujours attentive Ã  ce qu'il se fait de nouveau
-   sur le marchÃ©. "RÃ©cemment, nous avons testÃ© des Ã©nigmes avec de la
-   rÃ©alitÃ© augmentÃ©e", raconte le crÃ©ateur d'escape games qui emmÃ¨ne ses
+   Pour Sébastien Djian, fondateur de Victory, le scénario a une place
+   toute aussi importante que les mécanismes qui vont le faire vivre.
+   L'équipe reste donc toujours attentive à ce qu'il se fait de nouveau
+   sur le marché. "Récemment, nous avons testé des énigmes avec de la
+   réalité augmentée", raconte le créateur d'escape games qui emmène ses
    joueurs dans un bunker, une banque, mais aussi dans la Matrice ou dans
-   le dÃ©cor du film "Shutter Island".
+   le décor du film "Shutter Island".
    [logo-ads.png]
 
-   "Faire rÃªver" avec des mÃ©canismes et des dÃ©cors
+   "Faire rêver" avec des mécanismes et des décors
 
-   Le choix du dÃ©cor est essentiel pour les crÃ©ateurs de salles. "Faire
-   rÃªver" c'est le but tous les fondateurs d'escape games que Le HuffPost
-   a eu l'opportunitÃ© d'interroger.
+   Le choix du décor est essentiel pour les créateurs de salles. "Faire
+   rêver" c'est le but tous les fondateurs d'escape games que Le HuffPost
+   a eu l'opportunité d'interroger.
 
-   La majoritÃ© des rooms sont dÃ©corÃ©es Ã  partir de meubles chinÃ©s, mais
-   certains Ã©tablissements font appel Ã  des dÃ©corateurs de cinÃ©ma pour
-   leurs salles. C'est notamment le cas de Victory ou de La PiÃ¨ce. "J'ai
-   fait appel Ã  des crÃ©ateurs pour certaines Ã©nigmes oÃ¹ il fallait
-   vraiment crÃ©er un objet particulier", explique ChloÃ© Blondel.
+   La majorité des rooms sont décorées à partir de meubles chinés, mais
+   certains établissements font appel à des décorateurs de cinéma pour
+   leurs salles. C'est notamment le cas de Victory ou de La Pièce. "J'ai
+   fait appel à des créateurs pour certaines énigmes où il fallait
+   vraiment créer un objet particulier", explique Chloé Blondel.
 
-   Labsterium, un organisme spÃ©cialisÃ© dans la crÃ©ation de mÃ©canismes,
-   intervient Ã  ce moment-lÃ . C'est pour crÃ©er des meubles spÃ©ciaux, des
-   bombes, ou des minuteurs que les crÃ©ateurs d'escape games font appel Ã 
-   cette firme basÃ©e Ã  Paris.
+   Labsterium, un organisme spécialisé dans la création de mécanismes,
+   intervient à ce moment-là. C'est pour créer des meubles spéciaux, des
+   bombes, ou des minuteurs que les créateurs d'escape games font appel à
+   cette firme basée à Paris.
    [logo-ads.png]
    Vous ne pouvez pas visionner ce contenu car :
-     * Vous avez refusÃ© les cookies associÃ©s aux contenus issus de tiers
-       en vous abonnant. Vous ne pourrez donc pas lire nos vidÃ©os qui ont
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
        besoin de cookies tiers pour fonctionner.
-     * Vous utilisez un bloqueur de publicitÃ©. Nous vous conseillons de le
-       dÃ©sactiver afin dâ€™accÃ©der Ã  nos vidÃ©os.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d'accéder à nos vidéos.
 
-   Si vous n'Ãªtes dans aucun de ces deux cas, contactez-nous Ã 
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
    aide@huffingtonpost.fr.
    Vous ne pouvez pas visionner ce contenu car :
-     * Vous avez refusÃ© les cookies associÃ©s aux contenus issus de tiers
-       en vous abonnant. Vous ne pourrez donc pas lire nos vidÃ©os qui ont
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
        besoin de cookies tiers pour fonctionner.
-     * Vous utilisez un bloqueur de publicitÃ©. Nous vous conseillons de le
-       dÃ©sactiver afin dâ€™accÃ©der Ã  nos vidÃ©os.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d'accéder à nos vidéos.
 
-   Si vous n'Ãªtes dans aucun de ces deux cas, contactez-nous Ã 
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
    aide@huffingtonpost.fr.
 
-   Pour Nicolas PrÃ©vost, fondateur de Labsterium, plusieurs Ã©tapes sont
-   nÃ©cessaires Ã  la conception d'un mÃ©canisme ce type:
+   Pour Nicolas Prévost, fondateur de Labsterium, plusieurs étapes sont
+   nécessaires à la conception d'un mécanisme ce type:
 
-   Pour trouver leurs mÃ©canismes, d'autres vont jusqu'en Hongrie, pays
+   Pour trouver leurs mécanismes, d'autres vont jusqu'en Hongrie, pays
    "pionnier" des escape games.
    Photo
 
-   Â© Victory
+   © Victory
    Photo
 
-   Â© RoWin' atelier / La PiÃ¨ce
+   © RoWin' atelier / La Pièce
 
    Des mois de travail pour une heure de jeu
 
-   De quelques mois Ã  un an, le dÃ©lai d'Ã©laboration d'un escape game varie
-   d'un Ã©tablissement Ã  l'autre. Pour ChloÃ© Blondel, le diable est dans
-   les dÃ©tails: "Quand on veut bien faire Ã§a peut prendre du temps."
+   De quelques mois à un an, le délai d'élaboration d'un escape game varie
+   d'un établissement à l'autre. Pour Chloé Blondel, le diable est dans
+   les détails: "Quand on veut bien faire ça peut prendre du temps."
 
    Il faut aussi trouver un local et selon les villes, la recherche peut
-   Ãªtre longue. Pour les crÃ©ateurs de la Lock Academy, il est d'ailleurs
-   plus logique de crÃ©er les Ã©nigmes avant de chercher le local afin de
-   pouvoir dÃ©terminer les besoins en Ã©lectricitÃ©, l'amÃ©nagement, le type
+   être longue. Pour les créateurs de la Lock Academy, il est d'ailleurs
+   plus logique de créer les énigmes avant de chercher le local afin de
+   pouvoir déterminer les besoins en électricité, l'aménagement, le type
    de cloison, etc.
    [logo-ads.png]
 
-   Une fois que tout est mis en place, les Ã©tablissements passent par une
-   phase de test "pour voir si c'est accessible", explique ChloÃ© Blondel.
-   "C'est un jeu oÃ¹ il ne faut pas donner trop de frustration aux gens, il
-   ne faut pas qu'ils restent bloquÃ©s trop longtemps au dÃ©but du jeu et
-   qu'ils puissent sortir quasiment sans aide. C'est un Ã©quilibre qui se
+   Une fois que tout est mis en place, les établissements passent par une
+   phase de test "pour voir si c'est accessible", explique Chloé Blondel.
+   "C'est un jeu où il ne faut pas donner trop de frustration aux gens, il
+   ne faut pas qu'ils restent bloqués trop longtemps au début du jeu et
+   qu'ils puissent sortir quasiment sans aide. C'est un équilibre qui se
    met en place tout au long du jeu."
 
-   Et s'il y a une chose qui est sÃ»re pour tous les professionnels du
-   secteur, c'est que les escape games ne sont jamais totalement achevÃ©s.
-   Tous restent attentifs aux retours des joueurs, quitte Ã  modifier leurs
-   Ã©nigmes en cours de route.
+   Et s'il y a une chose qui est sûre pour tous les professionnels du
+   secteur, c'est que les escape games ne sont jamais totalement achevés.
+   Tous restent attentifs aux retours des joueurs, quitte à modifier leurs
+   énigmes en cours de route.
 
    plus :
-   Culture Jeu ActualitÃ©s
+   Culture Jeu Actualités
    Nadege El Ghomari
    Envoyer une correction
    Newsletter
 
    Inscrivez-vous aux newsletters du HuffPost et recevez par email les
-   infos les plus importantes et une sÃ©lection de nos meilleurs articles
+   infos les plus importantes et une sélection de nos meilleurs articles
    ____________________ [email.svg]
 
-   En vous inscrivant Ã  ce service, vous acceptez que votre adresse mail
-   soit utilisÃ©e par le Huffington Post, responsable de traitement, pour
-   la gestion de votre inscription Ã  la newsletter.
-   ConformÃ©ment Ã  la loi du 06/01/1978 modifiÃ©e et au RÃ¨glement europÃ©en
-   nÂ°2016/679/UE du 27/04/2016, vous bÃ©nÃ©ficiez dâ€™un droit dâ€™accÃ¨s, de
-   modification, de portabilitÃ©, de suppression et dâ€™opposition au
+   En vous inscrivant à ce service, vous acceptez que votre adresse mail
+   soit utilisée par le Huffington Post, responsable de traitement, pour
+   la gestion de votre inscription à la newsletter.
+   Conformément à la loi du 06/01/1978 modifiée et au Règlement européen
+   n°2016/679/UE du 27/04/2016, vous bénéficiez d'un droit d'accès, de
+   modification, de portabilité, de suppression et d'opposition au
    traitement des informations vous concernant, que vous pouvez exercer
-   auprÃ¨s de dpo@groupelemonde.fr. Pour toute information complÃ©mentaire
-   ou rÃ©clamation: CNIL
-   (BUTTON) Sâ€™inscrire
+   auprès de dpo@groupelemonde.fr. Pour toute information complémentaire
+   ou réclamation: CNIL
+   (BUTTON) S'inscrire
    (BUTTON) (BUTTON) (BUTTON)
    (BUTTON) (BUTTON)
-   [logo-ads.png] PublicitÃ©
+   [logo-ads.png] Publicité
    [logo-large.svg]
    Politique France International Environnement Life Culture
-   Divertissement Prise de parole JO Paris 2024 VidÃ©os
+   Divertissement Prise de parole JO Paris 2024 Vidéos
    Les sites du groupe arrow-down
    Le Monde
    Courrier International
-   TÃ©lÃ©rama
+   Télérama
    L'Obs
    La Vie
    Le Monde diplomatique
    Suivez-nous
    Facebook Instagram Twitter Youtube Dailymotion Flipboard Newsletters
    RSS
-   LÃ©gal - Infos arrow-down
-   Gestion des cookies Qui sommes-nous ? Mentions LÃ©gales Conditions
-   gÃ©nÃ©rales de vente Politique de confidentialitÃ© PublicitÃ© Contactez
+   Légal - Infos arrow-down
+   Gestion des cookies Qui sommes-nous ? Mentions Légales Conditions
+   générales de vente Politique de confidentialité Publicité Contactez
    nous FAQ Plan du site le HuffPost
 
-   #Le HuffPost : ActualitÃ©s
+   #Le HuffPost : Actualités

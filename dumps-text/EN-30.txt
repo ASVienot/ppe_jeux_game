@@ -1,5 +1,5 @@
-    #Ideas & Inspiration » Feed Ideas & Inspiration » Comments Feed Ideas
-   & Inspiration » 40 Entertaining Party Games Comments Feed alternate
+    #Ideas & Inspiration � Feed Ideas & Inspiration � Comments Feed Ideas
+   & Inspiration � 40 Entertaining Party Games Comments Feed alternate
    alternate alternate
 
      * Anniversaries
@@ -26,7 +26,7 @@
      * Wedding
      * Wedding Invitations
 
-   Ideas & Inspiration » Events » 40 Entertaining Party Games
+   Ideas & Inspiration � Events � 40 Entertaining Party Games
 
 40 Entertaining Party Games
 
@@ -34,7 +34,7 @@
 
    When planning a party, you need to have great food and great people.
    However, if you really want to make your party memorable for years to
-   come, you’ll need great party games. We sometimes overlook the pure joy
+   come, you'll need great party games. We sometimes overlook the pure joy
    that can come out of playing a great party game with a room full of
    friends, so we have a list of the 40 best party games.
 
@@ -74,7 +74,7 @@ Fleece Blankets
    (BUTTON) SHUFFLE (BUTTON) CLEAR FILTERS
    [actors.png] [svg%3E] (BUTTON) Actors
 
-   Players ‘react’ to a made up scenario and others have to guess what it
+   Players `react' to a made up scenario and others have to guess what it
    is.
    [back_draw.png] [svg%3E] (BUTTON) Back Draw
 
@@ -87,8 +87,8 @@ Fleece Blankets
    [bite_the_bag.png] [svg%3E] (BUTTON) Bite the Bag
 
    Players try to lift a bag off the ground with nothing but their teeth.
-   Their feet can’t leave the ground.
-   [blindmans_swag.png] [svg%3E] (BUTTON) Blindman’s Swag
+   Their feet can't leave the ground.
+   [blindmans_swag.png] [svg%3E] (BUTTON) Blindman's Swag
 
    Couples guide their blindfolded partner to the prize using only words.
    [charades.png] [svg%3E] (BUTTON) Charades
@@ -110,7 +110,7 @@ Fleece Blankets
    [everyone_is_a_musician.png] [svg%3E] (BUTTON) Everyone is a Musician
 
    Try to get others to guess the song you are playing using an instrument
-   you don’t know how to play.
+   you don't know how to play.
    [fire_department.png] [svg%3E] (BUTTON) Fire Department
 
    Children divide into two lines and attempt to transfer all of the water
@@ -130,16 +130,16 @@ Fleece Blankets
    [hot_potatoe.png] [svg%3E] (BUTTON) Hot Potato
 
    Kids pass a ball to each other. One designated player sits eyes closed
-   and then yells ‘hot potato’ at any random time. Whoever is stuck with
+   and then yells `hot potato' at any random time. Whoever is stuck with
    the ball loses.
    [ice_cube.png] [svg%3E] (BUTTON) Ice Cube
 
    Players are each given an ice cube. Whoever can melt the icecube the
    quickest (without putting it in their mouths, stomping on it or using
    any equipment) wins.
-   [its_a_ping_pong_ball.png] [svg%3E] (BUTTON) It’s a Ping Pong Ball
+   [its_a_ping_pong_ball.png] [svg%3E] (BUTTON) It's a Ping Pong Ball
 
-   Two competing teams try to blow a ping pong ball off of opponents’ side
+   Two competing teams try to blow a ping pong ball off of opponents' side
    of the table.
    [let_them_eat_cake.png] [svg%3E] (BUTTON) Let Them Eat Cake
 
@@ -147,7 +147,7 @@ Fleece Blankets
    hands behind their back.
    [like_and_dislike.png] [svg%3E] (BUTTON) Like and Dislike
 
-   All players write down one thing they like and one thing they don’t
+   All players write down one thing they like and one thing they don't
    like. Then you try to figure out who wrote what.
    [limbo.png] [svg%3E] (BUTTON) Limbo
 
@@ -191,7 +191,7 @@ Fleece Blankets
    psychiatrist) has to figure out who they really are.
    [red_light-green_light.png] [svg%3E] (BUTTON) Red Light/Green Light
 
-   Kids race to the finish line, but can only run when the ‘traffic guard’
+   Kids race to the finish line, but can only run when the `traffic guard'
    says so.
    [rubber_chicken.png] [svg%3E] (BUTTON) Rubber Chicken
 
@@ -205,7 +205,7 @@ Fleece Blankets
    Two teams stand on a line and attempt to grab a ball that is placed in
    the middle of the field. Whoever grabs the ball has to make it back to
    their line without the other team tagging them.
-   [tag_n_bag_or_sticker_stalker.png] [svg%3E] (BUTTON) Tag ‘n Bag or
+   [tag_n_bag_or_sticker_stalker.png] [svg%3E] (BUTTON) Tag `n Bag or
    Sticker Stalker
 
    Throughout the night, players must stick stickers on other players
@@ -245,9 +245,9 @@ Description
 
 Example
 
-   Kyle is up. Andre whispers to him that he has to react to ‘getting
-   stung by a bee’. Kyle then pretends to get stung by a bee by grabbing
-   him arm and saying ‘OW’! The other players guess that he is stung by a
+   Kyle is up. Andre whispers to him that he has to react to `getting
+   stung by a bee'. Kyle then pretends to get stung by a bee by grabbing
+   him arm and saying `OW'! The other players guess that he is stung by a
    bee!
    (BUTTON)
 
@@ -263,7 +263,7 @@ Description
 
 Example
 
-   Eric chooses a word from a hat to write and gets ‘horse’. He then grabs
+   Eric chooses a word from a hat to write and gets `horse'. He then grabs
    his pen and paper and places it on his teammates back. The timer starts
    and Eric then begins to write the letters H-O-R-S-E. His teammate
    guesses correctly and they win!
@@ -301,7 +301,7 @@ Example
    leans over but stumbles forward leaving her feet. She is out.
    (BUTTON)
 
-Blindman’s Swag
+Blindman's Swag
 
 Description
 
@@ -313,8 +313,8 @@ Example
 
    The prize is on a box at the other end of a room. Julie is guiding her
    blindfolded partner Emily across the room towards the box. She says
-   things like, ‘take three steps forward’, ‘now turn right at take two
-   steps, but watch out for the chair!’ Finally Emily reaches the box and
+   things like, `take three steps forward', `now turn right at take two
+   steps, but watch out for the chair!' Finally Emily reaches the box and
    grabs the prize!
    (BUTTON)
 
@@ -332,7 +332,7 @@ Description
 
 Example
 
-   Vince chooses the term ‘Abraham Lincoln’ and begins to mime the
+   Vince chooses the term `Abraham Lincoln' and begins to mime the
    Gettysburg Address. He then points to an imaginary top hat and long
    beard. His teammates finally guess Abraham Lincoln and they move onto
    the next card until the timer runs out.
@@ -373,20 +373,20 @@ Duck Duck Goose
 
 Description
 
-   One child is ‘it’. The rest sit in a circle. The ‘it’ child walks
+   One child is `it'. The rest sit in a circle. The `it' child walks
    around the perimeter of the circle tapping each child on the head
-   saying ‘duck’. When the ‘it’ child calls someone a ‘goose’, the ‘it’
+   saying `duck'. When the `it' child calls someone a `goose', the `it'
    child must make it around the circle to the sitting place of the
-   ‘goose’ child, while the ‘goose’ child must attempt to tag the ‘it’
-   child before he/she makes it to where the ‘goose’ was sitting.
+   `goose' child, while the `goose' child must attempt to tag the `it'
+   child before he/she makes it to where the `goose' was sitting.
 
 Example
 
    All of the children are sitting in a circle and Isabelle is walking
-   around tapping everyone on the head, saying ‘Duck’ for each person she
-   taps. Then she taps Linda on the head and says ‘Goose’. Linda gets up
+   around tapping everyone on the head, saying `Duck' for each person she
+   taps. Then she taps Linda on the head and says `Goose'. Linda gets up
    to chase Isabelle as Isabelle runs around the circle and tries to get
-   back to Linda’s vacated space in the circle. Isabelle makes it before
+   back to Linda's vacated space in the circle. Isabelle makes it before
    Linda can tag her, so now Linda gets to be the tapper.
    (BUTTON)
 
@@ -401,7 +401,7 @@ Description
 Example
 
    Gabriel chooses a cowbell as his instrument. The song that he picks is
-   ‘Happy Birthday’. He then tries to play ‘Happy Birthday’ on his
+   `Happy Birthday'. He then tries to play `Happy Birthday' on his
    cowbell.
    (BUTTON)
 
@@ -450,7 +450,7 @@ Description
 
 Example
 
-   John chooses the clue ‘elephant’ and then tries to draw it. His
+   John chooses the clue `elephant' and then tries to draw it. His
    teammates guess it correctly so he moves onto the next clue. They
    repeat until the one minute is up.
    (BUTTON)
@@ -480,7 +480,7 @@ Description
    All children should sit in a circle with one standing with his/her eyes
    closed. The players sitting in the circle pass a ball to each other. No
    player can hold the ball for more than a second. At any point the
-   standing player can yell ‘HOT POTATO!’ and whoever is holding the ball
+   standing player can yell `HOT POTATO!' and whoever is holding the ball
    at that time is the out!
 
 Example
@@ -508,20 +508,20 @@ Example
    anyone else and wins.
    (BUTTON)
 
-It’s a Ping Pong Ball
+It's a Ping Pong Ball
 
 Description
 
    Two children sit on opposite sides of a table on their knees with their
    arms behind their back. A ping pong ball is placed in the middle of the
    table. When the judge says GO, they both try to blow the ping pong ball
-   off the opponents’ side of the table.
+   off the opponents' side of the table.
 
 Example
 
    Gregory and Allison are at separate ends of the table. The ping pong
    ball is placed in the middle and the judge signals to start blowing.
-   Allison blows so hard that the ball falls off of the table on Gregory’s
+   Allison blows so hard that the ball falls off of the table on Gregory's
    side. Allison Wins!
    (BUTTON)
 
@@ -552,7 +552,7 @@ Example
 
    After everyone writes down their dislike and likes on a card and then
    shuffles and redistributes, Caroline chooses to read first. She reads
-   ‘I like baseball, but I hate snakes.’ Then, each player takes turns
+   `I like baseball, but I hate snakes.' Then, each player takes turns
    guessing who it was that wrote that card. Caroline chooses Vince, while
    Eric and Stefanie think it was Fred. It was Vince!
    (BUTTON)
@@ -579,9 +579,9 @@ Mummy Wrap
 
 Description
 
-   Divide children into two teams and assign each team a ‘mummy’. Give
+   Divide children into two teams and assign each team a `mummy'. Give
    each team one roll of toilet paper. When the game starts, the kids must
-   wrap the ‘mummy’ in toilet paper. Whichever team finishes their roll of
+   wrap the `mummy' in toilet paper. Whichever team finishes their roll of
    toilet paper first is the winner.
 
 Example
@@ -621,10 +621,10 @@ Description
 
 Example
 
-   Derek starts the story by writing, ‘A man is walking down the
-   street...’, then Leslie goes next and writes, ‘and then he trips and
-   falls.’ Then Samuel takes the paper and continues the story to say,
-   ‘when he gets up he realizes he has lost his glasses...’ They continue
+   Derek starts the story by writing, `A man is walking down the
+   street...', then Leslie goes next and writes, `and then he trips and
+   falls.' Then Samuel takes the paper and continues the story to say,
+   `when he gets up he realizes he has lost his glasses...' They continue
    taking turns writing until they last person goes or they decide the
    story is finished.
    (BUTTON)
@@ -695,7 +695,7 @@ Pin the Tail on the Donkey
 Description
 
    Tape the image of a donkey (without a tail) onto the wall. Each child
-   is given a paper cut-out of a donkey’s tail with a small piece of tape.
+   is given a paper cut-out of a donkey's tail with a small piece of tape.
    The child is then blindfolded and attempts to walk over and tape the
    tail to where he/she thinks it should go on the donkey image. The tail
    that is closest wins!
@@ -739,10 +739,10 @@ Description
 
 Example
 
-   Franklin is the traffic guard. He yells, ‘GREEN LIGHT’ and all of the
-   other kids run towards the finish line. He then yells, ‘RED LIGHT’ and
+   Franklin is the traffic guard. He yells, `GREEN LIGHT' and all of the
+   other kids run towards the finish line. He then yells, `RED LIGHT' and
    everyone stops. However, he sees that Jenny took a few extra steps
-   after he said ‘RED LIGHT’, therefore she has to go back to the start.
+   after he said `RED LIGHT', therefore she has to go back to the start.
    (BUTTON)
 
 Rubber Chicken
@@ -756,7 +756,7 @@ Description
 Example
 
    Susie takes the rubber chicken and whips it around the room yelling,
-   ‘I’m a cowboy!’ Fred laughs! Susie wins.
+   `I'm a cowboy!' Fred laughs! Susie wins.
    (BUTTON)
 
 Spoons and Eggs
@@ -769,7 +769,7 @@ Description
 
 Example
 
-   James and his friends all receive spoons and eggs. James’ mother yells
+   James and his friends all receive spoons and eggs. James' mother yells
    GO and they swiftly walk towards the finish line. James drops his egg
    but it does not break, so he picks it up with his spoon and continues
    to the finish line, narrowly beating out his friends.
@@ -789,11 +789,11 @@ Example
 
    Erica and Doug are called from opposite sides. Doug makes it to the
    ball first, grabs it, and turns to run back to his line. Erica tags
-   Doug after he takes a few steps away so Doug loses. Erica’s team gets a
+   Doug after he takes a few steps away so Doug loses. Erica's team gets a
    point.
    (BUTTON)
 
-Tag ‘n Bag or Sticker Stalker
+Tag `n Bag or Sticker Stalker
 
 Description
 
@@ -819,10 +819,10 @@ Description
 
 Example
 
-   John’s team has a clue that says ‘This item is kept with the apples’.
+   John's team has a clue that says `This item is kept with the apples'.
    So, they check to see if the item is the apple tree in the yard.
-   However, Jane’s team chooses to look in the refrigerator where the
-   apples are kept cold. Jane’s team finds the item!
+   However, Jane's team chooses to look in the refrigerator where the
+   apples are kept cold. Jane's team finds the item!
    (BUTTON)
 
 Tug of War
@@ -836,8 +836,8 @@ Description
 
 Example
 
-   Judy’s team stands on one side of the rope, with Tyler’s team on the
-   other. Both teams pull extremely hard, but since Tyler’s side is
+   Judy's team stands on one side of the rope, with Tyler's team on the
+   other. Both teams pull extremely hard, but since Tyler's side is
    stronger, they end up pulling the rope over their winning line.
    (BUTTON)
 
@@ -852,9 +852,9 @@ Description
 Example
 
    John is thinking of actor Harrison Ford. The players ask questions
-   like, ‘Is this a person?’, ‘Is this a famous person?’, ‘Is it a male?’.
-   Finally, the players narrow it down enough so that Susan guesses, ‘Is
-   he Harrison Ford.’ Susan wins!
+   like, `Is this a person?', `Is this a famous person?', `Is it a male?'.
+   Finally, the players narrow it down enough so that Susan guesses, `Is
+   he Harrison Ford.' Susan wins!
    (BUTTON)
 
 Two Truths and a Lie
@@ -882,11 +882,11 @@ Description
 
 Example
 
-   Mitzi whispers, ‘I took a drink from the fountain’ into the ear of
+   Mitzi whispers, `I took a drink from the fountain' into the ear of
    Taylor. Then Taylor whispers what she thought she heard into the ear of
    the person next to her. By the end of the line, they realize that at
    some point something was miscommunicated, because the last person says
-   ‘I snuck a drink from a falcon’.
+   `I snuck a drink from a falcon'.
    (BUTTON)
 
 Who Am I
@@ -895,23 +895,23 @@ Description
 
    Each player writes a name of a famous person on a card. The card is
    then given facedown to the person to their left. Then the cards are
-   taped (or held) to each player’s forehead. Players take turns asking
+   taped (or held) to each player's forehead. Players take turns asking
    only yes or no questions to figure out the identity of the person on
    the card.
 
 Example
 
-   John has the name ‘President Obama’ on his card. He asks, ‘Am I
-   famous?’, and the group answers, ‘Yes’. Next, Gwen, who has the name
-   ‘Pocahontas’ on her forehead, asks ‘Am I male?’ and the group says,
-   ‘No’. They keep asking questions until Gwen guesses the correct name on
+   John has the name `President Obama' on his card. He asks, `Am I
+   famous?', and the group answers, `Yes'. Next, Gwen, who has the name
+   `Pocahontas' on her forehead, asks `Am I male?' and the group says,
+   `No'. They keep asking questions until Gwen guesses the correct name on
    her card before John.
 
 Wrapping Up
 
    Whether you play these party games with your family or friends, these
    memories you create while playing these games will last a lifetime.
-   Cherish all the moments you’ve spent together playing these games and
+   Cherish all the moments you've spent together playing these games and
    make everlasting bonds with your loved ones. Be sure to capture these
    memories with pictures that you can add in a custom photo book and on
    film to reminisce on for years to come. For more ways to celebrate
@@ -953,7 +953,7 @@ Tags
 
 Written by Shutterfly Community | View all posts
 
-   ★ Lifestyle Expert
+   * Lifestyle Expert
 
    Shutterfly Community is here to help capture and share life's most
    important moments. Discover thoughtful gifts, creative ideas and
@@ -998,7 +998,7 @@ We Recommend
      * The Best Canvas Prints: 8 Styles For Any Home
      * What To Write In A Holiday Card
      * Christmas Greetings Wording: What To Write In A Christmas Card
-     * What Is A Metal Print? Here’s What You Should Know
+     * What Is A Metal Print? Here's What You Should Know
      * Make Your Own Custom Puzzle From A Picture
      * Relive Memories With Year In Review Photo Books
      * 100+ Clever Christmas Captions For Photos
@@ -1058,7 +1058,7 @@ Refer a friend, get a reward >
    Lifetouch logo Lifetouch logo
    Groovebook logo Groovebook logo
    Borrowlenses logo Borrowlenses logo
-     * © 1999–2023 Shutterfly, Inc. All rights reserved.
+     * � 1999-2023 Shutterfly, Inc. All rights reserved.
      * Site map
      * Terms of Use
      * Privacy Policy

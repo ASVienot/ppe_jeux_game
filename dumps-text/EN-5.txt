@@ -1,4 +1,4 @@
-    #StackAdapt » Feed alternate alternate alternate
+    #StackAdapt � Feed alternate alternate alternate
 
    Skip to content (*) ( ) ( ) ( ) ( ) ( ) ( ) ( )
 
@@ -165,11 +165,11 @@ StackAdapt Cookie Notice
 
    Erin Hynes
 
-   There will be 179.6 million monthly gamers in the US this year—meaning
+   There will be 179.6 million monthly gamers in the US this year--meaning
    more than half of the US population will identify as digital gamers by
    the end of 2022.
 
-   Gamers are now nearly synonymous with everyday consumers, and it’s time
+   Gamers are now nearly synonymous with everyday consumers, and it's time
    for advertisers to pay attention. Advertising in video games, also
    known as in-game advertising, will help you tap into a growing and
    engaged audience.
@@ -178,14 +178,14 @@ StackAdapt Cookie Notice
    audiences through video game ads. In-game advertising leverages
    programmatic to enable ads to appear in mobile, computer, and video
    games. With blended in-game, ads are seamlessly integrated, so they
-   don’t interrupt gameplay.
+   don't interrupt gameplay.
 
 What Are In-Game Ads
 
    Blended in-game ads appear on in-game objects such as billboards,
    walls, jerseys, and more during gameplay. The goal of blended in-game
    advertising is to insert ads that get noticed while not interrupting
-   the player’s enjoyment of the game.
+   the player's enjoyment of the game.
 
    They are non-intrusive, highly-viewable and drive high brand recall.
    Blended in-game ads can be delivered through programmatic advertising
@@ -197,7 +197,7 @@ What Are In-Game Ads
 What Are Two Common Blended In-Game Ad Units
 
    The most common formats that are leveraged in a blended in-game ad
-   campaign are display and video ads. Let’s break them down:
+   campaign are display and video ads. Let's break them down:
 
 In-Game Display Ads
 
@@ -205,7 +205,7 @@ In-Game Display Ads
    copy. They should be eye-catching enough to attract the attention of a
    gamer, and they should deliver a quick message.
 
-   Since display ads are often small, it’s important to clearly
+   Since display ads are often small, it's important to clearly
    communicate a single message with a strong call to action (CTA). Note
    that CTAs cannot be clickable, so be sure to communicate concisely to
    the user how they can engage with your brand further.
@@ -213,21 +213,21 @@ In-Game Display Ads
 Blended In-Game Video Ads
 
    Video advertising is a great way to create an emotional connection to
-   your brand. Since it’s a visual medium, it’s important to focus on a
+   your brand. Since it's a visual medium, it's important to focus on a
    narrative that demonstrates your larger brand story.
 
-   Rather than telling the audience why you’re the best product or service
+   Rather than telling the audience why you're the best product or service
    for them, show them how your values align with theirs.
 
 4 Benefits of Advertising in Video Games
 
    In-game advertising offers an opportunity to reach a growing and
-   diverse audience. But, this isn’t the only benefit of leveraging this
+   diverse audience. But, this isn't the only benefit of leveraging this
    channel.
 
 1. Reach a diverse audience of gamers.
 
-   There isn’t a “one size fits all” for a typical gamer. Gaming audiences
+   There isn't a "one size fits all" for a typical gamer. Gaming audiences
    are incredibly diverse in their demographics. For example, a 2021 study
    showed that 55% of gamers identified as male, and 45% identified as
    female, and that most gamers range in age across a few generations
@@ -242,7 +242,7 @@ Blended In-Game Video Ads
 2. Leverage in-game ads to build brand awareness.
 
    In-game advertising helps you reach your target user in a
-   non-disruptive, highly-viewable environment. You’re able to connect
+   non-disruptive, highly-viewable environment. You're able to connect
    your brand with a captive audience who is unlikely to be multitasking,
    which increases the likelihood of brand recall and awareness.
 
@@ -269,7 +269,7 @@ Blended In-Game Video Ads
    that are exclusive to in-game environments. Plus, you can reach new
    audiences through emerging technologies.
 
-   With this format, it’s important to optimize your ads for the gaming
+   With this format, it's important to optimize your ads for the gaming
    environment in order to maximize exposure and capture the attention of
    users. Creatives should be tailored to an in-game environment, so that
    the messaging fits within an in-game context.
@@ -277,7 +277,7 @@ Blended In-Game Video Ads
 Start Advertising in Video Games
 
    Are you ready to get into the game? By leveraging in-game advertising,
-   you can reap the many benefits of this growing channel. You’ll reach a
+   you can reap the many benefits of this growing channel. You'll reach a
    diverse and engaged audience, with an opportunity to build brand
    awareness.
 
@@ -306,7 +306,7 @@ Digital Marketing Channels to Adopt in 2023
    a race car on a race track to illustrate in-game advertising
      * Digital Advertising Trends
 
-3 Reasons Why Advertisers Should Be ‘Getting In The Game’
+3 Reasons Why Advertisers Should Be `Getting In The Game'
 
    gif showing a race car moving back and forth on a track, like it would
    in a video game
@@ -367,4 +367,4 @@ Legal
    Made with
    on Planet Earth
 
-   © 2014 - 2023 StackAdapt Inc.
+   � 2014 - 2023 StackAdapt Inc.

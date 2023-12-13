@@ -18,5 +18,5 @@ What can I do to resolve this?
    include what you were doing when this page came up and the Cloudflare
    Ray ID found at the bottom of this page.
 
-   Cloudflare Ray ID: 82cb84b39de56fd5 • Your IP: (BUTTON) Click to reveal
-   88.173.207.76 • Performance & security by Cloudflare
+   Cloudflare Ray ID: 82cb84b39de56fd5 o Your IP: (BUTTON) Click to reveal
+   88.173.207.76 o Performance & security by Cloudflare

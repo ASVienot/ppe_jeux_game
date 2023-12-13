@@ -1,4 +1,4 @@
-   #Oxford Internet Institute Â» The Association between Video Game Play
+   #Oxford Internet Institute » The Association between Video Game Play
    and Cognition Comments Feed alternate alternate
 
    Skip down to main content
@@ -201,9 +201,9 @@ Overview
                                      context, using actual game play data.
                                      We intend to recruit a large
                                      representative sample of gamers from
-                                     industry partnersâ€™ online platforms,
+                                     industry partnersâ online platforms,
                                      who would contribute their actual
-                                     gameplay dataâ€”when, how and what they
+                                     gameplay dataâwhen, how and what they
                                      play. Volunteers would then complete
                                      online cognitive tasks that measure
                                      their attention control, working
@@ -299,7 +299,7 @@ INFORMATION FOR:
                                      website you find most interesting and
                                      useful.
                                      Strictly Necessary Cookies
-                                   - moove_gdrp_popup -  a cookie that
+                                   - moove_gdrp_popup -Â  a cookie that
                                      saves your preferences for cookie
                                      settings. Without this cookie, the
                                      screen offering you cookie options

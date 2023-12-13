@@ -8,7 +8,7 @@
      * Register
      * Log In
 
-   This site requires JavaScript. Your browser either doesn’t support
+   This site requires JavaScript. Your browser either doesn't support
    JavaScript or you have it turned off.
 
    For this page to function correctly, please enable JavaScript and then
@@ -40,7 +40,7 @@ Course Outline
                o Responsibility, Safety Skills, Knowledge, and Involvement
           + (BUTTON) Topic 6: Funding for Hunter Education
                o Hunter Education Funding Sources
-               o Pittman–Robertson Act
+               o Pittman-Robertson Act
           + (BUTTON) Topic 7: Summary
                o What You Learned
      * (BUTTON) Unit 2: Know Your Firearm Equipment
@@ -528,14 +528,14 @@ The Washington Hunter Ed Course
 
    Hunter Ed is committed to Hunting education safety. We work with the
    Washington Department of Fish and Wildlife to produce Hunting safety
-   education that’s accurate, interesting, and easy to understand.
-     * Top ⬆
+   education that's accurate, interesting, and easy to understand.
+     * Top ^|
      * Log In
      * Select Another State Course
      * Home
      * Register
      * Partners
-     * Today’s Hunter
+     * Today's Hunter
 
    More Online Recreational Safety Courses from Kalkomey
      * Online Boating License Courses
@@ -569,5 +569,5 @@ The Washington Hunter Ed Course
     Richardson, TX 75080
     1-800-830-2268
 
-   Kalkomey logo © 2004–2023 All rights reserved. Privacy Policy and Terms
+   Kalkomey logo � 2004-2023 All rights reserved. Privacy Policy and Terms
    of Use.

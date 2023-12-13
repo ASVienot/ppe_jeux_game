@@ -1,247 +1,354 @@
-   #alternate Modifier WikipÃ©dia (fr) Flux Atom de WikipÃ©dia
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
 
    Aller au contenu
 
    [ ] Menu principal
    Menu principal
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Navigation
      * Accueil
-     * Portails thÃ©matiques
+     * Portails thématiques
      * Article au hasard
      * Contact
 
    Contribuer
-     * DÃ©buter sur WikipÃ©dia
+     * Débuter sur Wikipédia
      * Aide
-     * CommunautÃ©
-     * Modifications rÃ©centes
+     * Communauté
+     * Modifications récentes
      * Faire un don
 
    Langues
-   Sur cette version linguistique de WikipÃ©dia, les liens interlangues
-   sont placÃ©s en haut Ã  droite du titre de lâ€™article.
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l'article.
    Aller en haut.
-   WikipÃ©dia l'encyclopÃ©die libre
+   Wikipédia l'encyclopédie libre
    Rechercher
    ____________________
    (BUTTON) Rechercher
 
-     * CrÃ©er un compte
+     * Créer un compte
      * Se connecter
 
    [ ] Outils personnels
-     * CrÃ©er un compte
+     * Créer un compte
      * Se connecter
 
-   Pages pour les contributeurs dÃ©connectÃ©s en savoir plus
+   Pages pour les contributeurs déconnectés en savoir plus
      * Contributions
      * Discussion
 
 Sommaire
 
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
-     * DÃ©but
-     * 1GÃ©nÃ©ralitÃ©s
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section GÃ©nÃ©ralitÃ©s
-          + 1.1Le mot Â« jeu Â»
-          + 1.2DifficultÃ© de la dÃ©finition
-          + 1.3Extension du domaine du jeu
-          + 1.4Le jeu chez l'animal
-     * 2CaractÃ¨res du jeu
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section CaractÃ¨res du jeu
-          + 2.1Classification des jeux selon Roger Caillois
-          + 2.2CoopÃ©ration et compÃ©tition
-          + 2.3Le simulacre
-          + 2.4Le hasard
-          + 2.5Les rÃ¨gles
-          + 2.6Sports et jeux
-     * 3Histoire
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Histoire
-          + 3.1Le mythe de PalamÃ¨de
-     * 4Philosophie
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Philosophie
-          + 4.1Jeu et irrÃ©alitÃ©
-          + 4.2Jeu et dÃ©fi
-          + 4.3Jeu et morale
-     * 5Jeu et Ã©ducation
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Jeu et Ã©ducation
-          + 5.1Le jeu comme outil Ã©ducatif
-          + 5.2Jeu et apprentissage scolaire
-          + 5.3Jeu symbolique
-          + 5.4Ludant et LudÃ©
-     * 6Types de jeux
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Types de jeux
-          + 6.1Jeux d'argent
-          + 6.2Jeux de sociÃ©tÃ©
-          + 6.3Jeux solitaires
-          + 6.4Jeux mathÃ©matiques et mathÃ©matique des jeux
-          + 6.5Jeux vidÃ©o
-          + 6.6Jeux de stratÃ©gie
-          + 6.7Jeux de plein air
-          + 6.8Jeux par correspondance
-          + 6.9Livres-Jeux
-          + 6.10Jeux Ã  monnayeur
-          + 6.11Jeux d'adresse
-          + 6.12Jeux d'acrobatie ou Ã  sensations
-          + 6.13Jeux de mots
-     * 7Annexes
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Annexes
-          + 7.1Bibliographie
-               o 7.1.1Monographies
-               o 7.1.2Articles
-          + 7.2Articles connexes
-          + 7.3Liens externes
-     * 8Notes et rÃ©fÃ©rences
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1Généralités
+       (BUTTON) Afficher/masquer la sous-section Généralités
 
-   [ ] Basculer la table des matiÃ¨res
+     * 1.1Le mot « jeu »
+
+     1.2Difficulté de la définition
+
+     1.3Extension du domaine du jeu
+
+     1.4Le jeu chez l'animal
+
+
+
+   2Caractères du jeu
+
+   (BUTTON) Afficher/masquer la sous-section Caractères du jeu
+     * 2.1Classification des jeux selon Roger Caillois
+
+
+
+   2.2Coopération et compétition
+
+
+
+   2.3Le simulacre
+
+
+
+   2.4Le hasard
+
+
+
+   2.5Les règles
+
+
+
+   2.6Sports et jeux
+
+
+
+   3Histoire
+
+   (BUTTON) Afficher/masquer la sous-section Histoire
+     * 3.1Le mythe de Palamède
+
+
+
+   4Philosophie
+
+   (BUTTON) Afficher/masquer la sous-section Philosophie
+     * 4.1Jeu et irréalité
+
+
+
+   4.2Jeu et défi
+
+
+
+   4.3Jeu et morale
+
+
+
+   5Jeu et éducation
+
+   (BUTTON) Afficher/masquer la sous-section Jeu et éducation
+     * 5.1Le jeu comme outil éducatif
+
+
+
+   5.2Jeu et apprentissage scolaire
+
+
+
+   5.3Jeu symbolique
+
+
+
+   5.4Ludant et Ludé
+
+
+
+   6Types de jeux
+
+   (BUTTON) Afficher/masquer la sous-section Types de jeux
+     * 6.1Jeux d'argent
+
+
+
+   6.2Jeux de société
+
+
+
+   6.3Jeux solitaires
+
+
+
+   6.4Jeux mathématiques et mathématique des jeux
+
+
+
+   6.5Jeux vidéo
+
+
+
+   6.6Jeux de stratégie
+
+
+
+   6.7Jeux de plein air
+
+
+
+   6.8Jeux par correspondance
+
+
+
+   6.9Livres-Jeux
+
+
+
+   6.10Jeux à monnayeur
+
+
+
+   6.11Jeux d'adresse
+
+
+
+   6.12Jeux d'acrobatie ou à sensations
+
+
+
+   6.13Jeux de mots
+
+
+
+   7Annexes
+
+   (BUTTON) Afficher/masquer la sous-section Annexes
+     * 7.1Bibliographie
+
+     * 7.1.1Monographies
+
+
+
+   7.1.2Articles
+
+
+
+   7.2Articles connexes
+
+
+
+   7.3Liens externes
+
+
+
+   8Notes et références
+
+   [ ] Basculer la table des matières
 
 Jeu
 
    [ ] 144 langues
      * Afrikaans
      * Alemannisch
-     * áŠ áˆ›áˆ­áŠ›
-     * AragonÃ©s
-     * Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
+     * emarNa
+     * Aragonés
+     * a+l+e+r+b+y+tm
      * Asturianu
-     * AzÉ™rbaycanca
-     * ØªÛ†Ø±Ú©Ø¬Ù‡
-     * Ð‘Ð°ÑˆÒ¡Ð¾Ñ€Ñ‚ÑÐ°
-     * Å½emaitÄ—Å¡ka
+     * Az@rbaycanca
+     * t+r+©g+h+
+     * Bash¡ortsa
+     * Zemaiteska
      * Bikol Central
-     * Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ
-     * Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ (Ñ‚Ð°Ñ€Ð°ÑˆÐºÐµÐ²Ñ–Ñ†Ð°)
-     * Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸
-     * à¤­à¥‹à¤œà¤ªà¥à¤°à¥€
-     * à¦¬à¦¾à¦‚à¦²à¦¾
-     * à½–à½¼à½‘à¼‹à½¡à½²à½‚
+     * Belaruskaya
+     * Belaruskaya (tarashkeviica)
+     * B"lgarski
+     * ­ª°
+     * ¬¾²¾
+     * ¼¡²
      * Brezhoneg
      * Bosanski
-     * CatalÃ 
-     * ÐÐ¾Ñ…Ñ‡Ð¸Ð¹Ð½
-     * á£áŽ³áŽ©
-     * Ú©ÙˆØ±Ø¯ÛŒ
+     * Català
+     * Nohchijn
+     * £³©
+     * ©w+r+d+
      * Corsu
-     * ÄŒeÅ¡tina
-     * Ð§Ó‘Ð²Ð°ÑˆÐ»Ð°
+     * Cestina
+     * CHvashla
      * Cymraeg
      * Dansk
      * Deutsch
-     * Î•Î»Î»Î·Î½Î¹ÎºÎ¬
+     * Ellynika'
      * English
      * Esperanto
-     * EspaÃ±ol
+     * Español
      * Eesti
      * Euskara
-     * EstremeÃ±u
-     * ÙØ§Ø±Ø³ÛŒ
+     * Estremeñu
+     * f+a+r+s+
      * Suomi
-     * VÃµro
-     * FÃ¸royskt
+     * Võro
+     * Føroyskt
      * Arpetan
      * Furlan
      * Frysk
      * Gaeilge
-     * è´›èªž
-     * KriyÃ²l gwiyannen
-     * GÃ idhlig
+     *
+     * Kriyòl gwiyannen
+     * Gàidhlig
      * Galego
      * Gaelg
      * Hausa
-     * ×¢×‘×¨×™×ª
-     * à¤¹à¤¿à¤¨à¥à¤¦à¥€
+     * E+B+R+J+T+
+     * ¹¿¨¦
      * Fiji Hindi
      * Hrvatski
      * Magyar
-     * Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶
+     * ¡µ¥¥¶
      * Interlingua
      * Bahasa Indonesia
      * Ido
-     * Ãslenska
-     * áƒá“„á’ƒá‘Žá‘á‘¦ / inuktitut
-     * æ—¥æœ¬èªž
+     * Íslenska
+     * ¦ / inuktitut
+     * ¥¬
      * Patois
      * Jawa
-     * áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜
+     * ¥ £
      * Qaraqalpaqsha
      * Tyap
-     * ÒšÐ°Ð·Ð°Ò›ÑˆÐ°
-     * à²•à²¨à³à²¨à²¡
-     * í•œêµ­ì–´
-     * ÐšÑŠÐ°Ñ€Ð°Ñ‡Ð°Ð¹-Ð¼Ð°Ð»ÐºÑŠÐ°Ñ€
-     * KurdÃ®
-     * ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°
+     * azasha
+     * ¨¨¡
+     * ­´
+     * K"arachaj-malk"ar
+     * Kurdî
+     * Kyrgyzcha
      * Latina
      * Ladino
      * Lingua Franca Nova
      * Limburgs
-     * LingÃ¡la
-     * àº¥àº²àº§
-     * LietuviÅ³
-     * LatvieÅ¡u
+     * Lingála
+     * ¥²§
+     * Lietuviu
+     * Latviesu
      * Basa Banyumasan
      * Malagasy
-     * ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
-     * à´®à´²à´¯à´¾à´³à´‚
-     * à¤®à¤°à¤¾à¤ à¥€
+     * Makedonski
+     * ®²¯¾³
+     * ®°¾
      * Bahasa Melayu
-     * MirandÃ©s
-     * PlattdÃ¼Ã¼tsch
+     * Mirandés
+     * Plattdüütsch
      * Nederlands
      * Norsk nynorsk
-     * Norsk bokmÃ¥l
+     * Norsk bokmål
      * Nouormand
      * Occitan
      * Livvinkarjala
-     * à¨ªà©°à¨œà¨¾à¨¬à©€
+     * ª°¾¬
      * Picard
      * Norfuk / Pitkern
      * Polski
-     * Ù¾Ù†Ø¬Ø§Ø¨ÛŒ
-     * Ù¾ÚšØªÙˆ
-     * PortuguÃªs
+     * p+n+g+a+b+
+     * p+t+w+
+     * Português
      * Runa Simi
      * Rumantsch
-     * RomÃ¢nÄƒ
-     * Ð ÑƒÑÑÐºÐ¸Ð¹
-     * Ð ÑƒÑÐ¸Ð½ÑŒÑÐºÑ‹Ð¹
-     * à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥
-     * Ð¡Ð°Ñ…Ð° Ñ‚Ñ‹Ð»Ð°
+     * Româna
+     * Russkij
+     * Rusin'skyj
+     * ¸¸¤®
+     * Saha tyla
      * Sicilianu
      * Scots
-     * Srpskohrvatski / ÑÑ€Ð¿ÑÐºÐ¾Ñ…Ñ€Ð²Ð°Ñ‚ÑÐºÐ¸
+     * Srpskohrvatski / srpskohrvatski
      * Simple English
-     * SlovenÄina
-     * SlovenÅ¡Äina
+     * Slovencina
+     * Slovenscina
      * Shqip
-     * Ð¡Ñ€Ð¿ÑÐºÐ¸ / srpski
+     * Srpski / srpski
      * Seeltersk
      * Sunda
      * Svenska
      * Kiswahili
-     * à®¤à®®à®¿à®´à¯
-     * à°¤à±†à°²à±à°—à±
-     * Ð¢Ð¾Ò·Ð¸ÐºÓ£
-     * à¹„à¸—à¸¢
+     * ¤®¿´
+     * ¤²
+     * To·ik£
+     * ¢
      * Tagalog
-     * TÃ¼rkÃ§e
+     * Türkçe
      * Xitsonga
-     * Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð° / tatarÃ§a
-     * Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°
-     * Ø§Ø±Ø¯Ùˆ
-     * OÊ»zbekcha / ÑžÐ·Ð±ÐµÐºÑ‡Ð°
-     * VÃ¨neto
-     * VepsÃ¤n kelâ€™
-     * Tiáº¿ng Viá»‡t
+     * Tatarcha / tatarça
+     * Ukrayins'ka
+     * a+r+d+w+
+     * O;Szbekcha / v%zbekcha
+     * Vèneto
+     * Vepsän kel'
+     * Tie>'ng Vie>-.t
      * Walon
      * Winaray
-     * å´è¯­
-     * áƒ›áƒáƒ áƒ’áƒáƒšáƒ£áƒ áƒ˜
-     * ×™×™Ö´×“×™×©
-     * ä¸­æ–‡
-     * BÃ¢n-lÃ¢m-gÃº
-     * ç²µèªž
+     * ´­
+     *  £
+     * J+J+iD+J+Sh
+     * ­
+     * Bân-lâm-gú
+     * µ
      * IsiZulu
 
    Modifier les liens
@@ -249,183 +356,183 @@ Jeu
      * Article
      * Discussion
 
-   [ ] franÃ§ais
+   [ ] français
 
      * Lire
      * Modifier
      * Modifier le code
-     * Voir lâ€™historique
+     * Voir l'historique
 
    [ ] Outils
    Outils
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
-     * Voir lâ€™historique
+     * Voir l'historique
 
-   GÃ©nÃ©ral
-     * Pages liÃ©es
-     * Suivi des pages liÃ©es
-     * TÃ©lÃ©verser un fichier
-     * Pages spÃ©ciales
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
      * Lien permanent
      * Informations sur la page
      * Citer cette page
      * Obtenir l'URL raccourcie
-     * Ã‰lÃ©ment Wikidata
+     * Élément Wikidata
 
-   Imprimerâ€¯/â€¯exporter
-     * CrÃ©er un livre
-     * TÃ©lÃ©charger comme PDF
+   Imprimer/exporter
+     * Créer un livre
+     * Télécharger comme PDF
      * Version imprimable
 
-   Dans dâ€™autres projets
+   Dans d'autres projets
      * Wikimedia Commons
      * Wikiquote
 
-   Un article de WikipÃ©dia, l'encyclopÃ©die libre.
-   Page dâ€™aide sur lâ€™homonymie
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d'aide sur l'homonymie
 
    Pour les articles homonymes, voir Jeu (homonymie).
    [220px-Paul_C%C3%A9zanne%2C_1892-95%2C_Les_joueurs_de_carte_%28The_Card
    _Players%29%2C_60_x_73_cm%2C_oil_on_canvas%2C_Courtauld_Institute_of_Ar
-   t%2C_London.jpg] Les Joueurs de cartes de Paul CÃ©zanne (1892-1895,
+   t%2C_London.jpg] Les Joueurs de cartes de Paul Cézanne (1892-1895,
    Institut Courtauld).
 
-   Le jeu est une activitÃ©, humaine ou animale, pratiquÃ©e pour se
+   Le jeu est une activité, humaine ou animale, pratiquée pour se
    divertir^[1].
 
-   Propre aux mammifÃ¨res, cette activitÃ© d'ordre psychique ou bien
-   physique crÃ©e une dÃ©pense d'Ã©nergie dÃ©corrÃ©lÃ©e des intÃ©rÃªts essentiels
-   immÃ©diats autres que le plaisir. De ce fait, Johan Huizinga remarque
-   que de trÃ¨s nombreuses activitÃ©s humaines peuvent s'assimiler Ã  des
-   jeux. Mais la dÃ©finition du jeu reste difficile Ã  circonscrire, ce qui
-   prÃ©sente un intÃ©rÃªt pour la philosophie.
+   Propre aux mammifères, cette activité d'ordre psychique ou bien
+   physique crée une dépense d'énergie décorrélée des intérêts essentiels
+   immédiats autres que le plaisir. De ce fait, Johan Huizinga remarque
+   que de très nombreuses activités humaines peuvent s'assimiler à des
+   jeux. Mais la définition du jeu reste difficile à circonscrire, ce qui
+   présente un intérêt pour la philosophie.
 
-   Il est plus facile de rÃ©pertorier les jeux. Ceux-ci se caractÃ©risent
-   gÃ©nÃ©ralement par un nom et des rÃ¨gles qu'on peut classer par types.
+   Il est plus facile de répertorier les jeux. Ceux-ci se caractérisent
+   généralement par un nom et des règles qu'on peut classer par types.
 
-   Les sciences de l'Ã©ducation et du dÃ©veloppement humain, les sciences
-   cognitives, la pÃ©dagogie examinent le jeu comme pratique infantile,
-   importante pour les apprentissages et l'Ã©ducation, ce qui peut le
-   rendre productif Ã  moyen et long termes. Dans le jeu, le jeune humain,
-   comme celui d'autres espÃ¨ces, rÃ©alise sans enjeu vital des actes qui
-   lui seront nÃ©cessaires dans sa vie adulte.
+   Les sciences de l'éducation et du développement humain, les sciences
+   cognitives, la pédagogie examinent le jeu comme pratique infantile,
+   importante pour les apprentissages et l'éducation, ce qui peut le
+   rendre productif à moyen et long termes. Dans le jeu, le jeune humain,
+   comme celui d'autres espèces, réalise sans enjeu vital des actes qui
+   lui seront nécessaires dans sa vie adulte.
 
-   L'adulte, cependant, continue Ã  jouer, et applique frÃ©quemment le
-   concept de jeu Ã  des activitÃ©s qu'il ne conÃ§oit pas comme purement
-   divertissantes. C'est ainsi qu'on pose la question Â« quel jeu
-   joues-tu ? Â». La sociologie et la psychologie des interactions
-   humaines, Ã©tablissent, l'une et l'autre, des liens entre les jeux
-   rÃ©glÃ©s, comme les sports, et les conventions, souvent implicites, qui
-   rÃ¨glent la vie des sociÃ©tÃ©s et les sentiments des individus qui les
-   composent. Cette extension du concept de jeu donne en Ã©conomie la
-   thÃ©orie des jeux.
+   L'adulte, cependant, continue à jouer, et applique fréquemment le
+   concept de jeu à des activités qu'il ne conçoit pas comme purement
+   divertissantes. C'est ainsi qu'on pose la question « quel jeu
+   joues-tu ? ». La sociologie et la psychologie des interactions
+   humaines, établissent, l'une et l'autre, des liens entre les jeux
+   réglés, comme les sports, et les conventions, souvent implicites, qui
+   règlent la vie des sociétés et les sentiments des individus qui les
+   composent. Cette extension du concept de jeu donne en économie la
+   théorie des jeux.
 
-GÃ©nÃ©ralitÃ©s[modifier | modifier le code]
+Généralités[modifier | modifier le code]
 
-Le mot Â« jeu Â»[modifier | modifier le code]
+Le mot « jeu »[modifier | modifier le code]
 
-   Le mot Â« jeu Â» vient du mot latin jocus signifiant Â« plaisanterie Â» ou
-   Â« badinage Â», qui a aussi donnÃ© en franÃ§ais jouet. Par mÃ©tonymie, on
-   appelle Â« jeu Â» l'ensemble des cartes Ã  jouer, et par extension, tout
+   Le mot « jeu » vient du mot latin jocus signifiant « plaisanterie » ou
+   « badinage », qui a aussi donné en français jouet. Par métonymie, on
+   appelle « jeu » l'ensemble des cartes à jouer, et par extension, tout
    assortiment ou ensemble. En informatique, on a ainsi des jeux de
-   donnÃ©es. Le Â« jeu Â» peut aussi dÃ©signer la faÃ§on personnelle de
+   données. Le « jeu » peut aussi désigner la façon personnelle de
    pratiquer un jeu ou de jouer d'un instrument.
 
-   En latin les jeux sont dÃ©signÃ©s par ludi, qui a donnÃ© en franÃ§ais
-   Â« ludique Â» et autres dÃ©rivÃ©s (ludothÃ¨que, ludant, ludÃ©, ludionâ€¦).
+   En latin les jeux sont désignés par ludi, qui a donné en français
+   « ludique » et autres dérivés (ludothèque, ludant, ludé, ludion...).
 
-   Les sens dÃ©rivÃ©s du mot renseignent sur l'Ã©tendue du concept^[2]. On
-   connaÃ®t, dans de nombreuses langues, les jeux de l'amour ; certaines
-   figures de style sont des jeux de mots ; les comÃ©diens Â« jouent Â» leur
-   rÃ´le, plutÃ´t que de les Â« agir Â», bien qu'on les dise aussi acteurs ;
-   la Â« rÃ¨gle du jeu Â» dÃ©signe par synecdoque l'ensemble des conventions
-   sociales. En franÃ§ais, on joue d'un instrument de musique, que les
-   Espagnols, comme les anciens FranÃ§ais, Â« touchent Â» ; et deux piÃ¨ces
-   qui peuvent avoir du mouvement l'une par rapport Ã  l'autre ont du jeu.
+   Les sens dérivés du mot renseignent sur l'étendue du concept^[2]. On
+   connaît, dans de nombreuses langues, les jeux de l'amour ; certaines
+   figures de style sont des jeux de mots ; les comédiens « jouent » leur
+   rôle, plutôt que de les « agir », bien qu'on les dise aussi acteurs ;
+   la « règle du jeu » désigne par synecdoque l'ensemble des conventions
+   sociales. En français, on joue d'un instrument de musique, que les
+   Espagnols, comme les anciens Français, « touchent » ; et deux pièces
+   qui peuvent avoir du mouvement l'une par rapport à l'autre ont du jeu.
 
-   Par ailleurs, il est une situation oÃ¹ l'emploi du mot Â« jeu Â» peut
+   Par ailleurs, il est une situation où l'emploi du mot « jeu » peut
    avoir un enjeu particulier de reconnaissance. Notamment dans le domaine
-   sportif et en France, oÃ¹ le terme jeu Ã  XIII est employÃ© pour dÃ©signer
-   administrativement le rugby Ã  XIII de 1947 Ã  1993.
+   sportif et en France, où le terme jeu à XIII est employé pour désigner
+   administrativement le rugby à XIII de 1947 à 1993.
 
-DifficultÃ© de la dÃ©finition[modifier | modifier le code]
+Difficulté de la définition[modifier | modifier le code]
 
    [220px-ABY_Chivas_Regal_of_Marikacats_%2814049845616%29.jpg] Les
-   mammifÃ¨res jouent, comme de nombreuses espÃ¨ces dont l'humain.
+   mammifères jouent, comme de nombreuses espèces dont l'humain.
 
-   Le jeu a fait l'objet d'une attention sÃ©rieuse donnant lieu Ã  une
-   grande quantitÃ© de publications. Les essais de Huizinga (1938) et de
-   Caillois (1958) lui sont consacrÃ©s entiÃ¨rement. Â« Le jeu est plus
-   ancien que la culture Â», pose Huizinga en ouverture de son Homo
-   Ludens : les animaux Â« jouent exactement comme les hommes Â». Le jeu
+   Le jeu a fait l'objet d'une attention sérieuse donnant lieu à une
+   grande quantité de publications. Les essais de Huizinga (1938) et de
+   Caillois (1958) lui sont consacrés entièrement. « Le jeu est plus
+   ancien que la culture », pose Huizinga en ouverture de son Homo
+   Ludens : les animaux « jouent exactement comme les hommes ». Le jeu
    manifeste l'existence de l'esprit avant la culture et celle-ci, prise
    dans son sens le plus large, garde du jeu des traits fondamentaux^[3].
-   Caillois, limitant son propos Ã  l'espÃ¨ce humaine, constate lui aussi
-   l'ubiquitÃ© du jeu, avec une restriction : Â« le jeu est une activitÃ© de
-   luxe et qui suppose des loisirs^[4] Â». Ces auteurs vont s'attacher Ã 
+   Caillois, limitant son propos à l'espèce humaine, constate lui aussi
+   l'ubiquité du jeu, avec une restriction : « le jeu est une activité de
+   luxe et qui suppose des loisirs^[4] ». Ces auteurs vont s'attacher à
    examiner les traits principaux du jeu, partant de la notion commune,
-   sans tenter de dÃ©finir rigoureusement ce que c'est. L'association du
-   jeu Ã  l'enfance s'est renforcÃ©e depuis, aprÃ¨s les travaux de Piaget
+   sans tenter de définir rigoureusement ce que c'est. L'association du
+   jeu à l'enfance s'est renforcée depuis, après les travaux de Piaget
    (1945) qui soulignent son importance pour l'apprentissage. Jacques
-   Henriot propose en 1989 une dÃ©finition gÃ©nÃ©rale :
+   Henriot propose en 1989 une définition générale :
 
-     Â« On appelle jeu tout procÃ¨s mÃ©taphorique rÃ©sultant de la dÃ©cision
-     prise et maintenue de mettre en Å“uvre un ensemble plus ou moins
-     coordonnÃ© de schÃ¨mes consciemment perÃ§us comme alÃ©atoires pour la
-     rÃ©alisation d'un thÃ¨me dÃ©libÃ©rÃ©ment conÃ§u comme arbitraire^[5]. Â»
+     « On appelle jeu tout procès métaphorique résultant de la décision
+     prise et maintenue de mettre en oeuvre un ensemble plus ou moins
+     coordonné de schèmes consciemment perçus comme aléatoires pour la
+     réalisation d'un thème délibérément conçu comme arbitraire^[5]. »
 
-   Les jeux et divertissements d'adolescents et adultes, et la crÃ©ation,
-   au XX^e siÃ¨cle et plus rÃ©cemment, d'une grande quantitÃ© de jeux de
-   sociÃ©tÃ© et jeux vidÃ©o ont suscitÃ© moins de commentaires Ã©rudits.
+   Les jeux et divertissements d'adolescents et adultes, et la création,
+   au XX^e siècle et plus récemment, d'une grande quantité de jeux de
+   société et jeux vidéo ont suscité moins de commentaires érudits.
 
-   Pour BrougÃ¨re (2005), cinq caractÃ¨res font d'une activitÃ© un jeu :
-     * que l'on sache qu'il s'agit d'un jeu, mÃªme si l'activitÃ© existe
-       aussi en dehors du jeu : Â« Jouer Ã  cuisiner Â» n'est pas Â« faire la
-       cuisine Â» ;
-     * que l'on dÃ©cide librement d'entrer dans le jeu.
+   Pour Brougère (2005), cinq caractères font d'une activité un jeu :
+     * que l'on sache qu'il s'agit d'un jeu, même si l'activité existe
+       aussi en dehors du jeu : « Jouer à cuisiner » n'est pas « faire la
+       cuisine » ;
+     * que l'on décide librement d'entrer dans le jeu.
 
-   Ces deux critÃ¨res sont essentiels. Plus accessoires, les trois autres
-   critÃ¨res sont
-     * lâ€™existence de rÃ¨gles implicites ou explicites partagÃ©es, mÃªme si
-       le dÃ©roulement du jeu peut changer ces rÃ¨gles ;
-     * que le jeu n'aie pas de consÃ©quence directe dans la vie Â« rÃ©elle Â»,
-       matÃ©rielle et sociale ;
+   Ces deux critères sont essentiels. Plus accessoires, les trois autres
+   critères sont
+     * l'existence de règles implicites ou explicites partagées, même si
+       le déroulement du jeu peut changer ces règles ;
+     * que le jeu n'aie pas de conséquence directe dans la vie « réelle »,
+       matérielle et sociale ;
      * l'incertitude sur l'issue du jeu.
 
-   Ã€ des nuances prÃ¨s, rÃ©pondant Ã  des objections faites aux auteurs
-   prÃ©cÃ©dents, ces caractÃ¨res sont ceux posÃ©s par Huizinga et par
+   À des nuances près, répondant à des objections faites aux auteurs
+   précédents, ces caractères sont ceux posés par Huizinga et par
    Caillois^[a].
 
-   En 2007, Olivier CaÃ¯ra, Ã©tudiant spÃ©cifiquement le jeu de rÃ´le sur
+   En 2007, Olivier Caïra, étudiant spécifiquement le jeu de rôle sur
    table et s'appuyant sur les travaux de Goffman^[6] et Bateson^[7],
-   propose une dÃ©finition sous la forme Â« d'exigences Â» plutÃ´t que de
-   caractÃ©ristiques, puisque le jeu est une construction humaine et pas
-   nÃ©cessairement d'un produit fini^[8] :
-     * principe d'entrÃ©e facultative : la libertÃ© de participer ou de ne
+   propose une définition sous la forme « d'exigences » plutôt que de
+   caractéristiques, puisque le jeu est une construction humaine et pas
+   nécessairement d'un produit fini^[8] :
+     * principe d'entrée facultative : la liberté de participer ou de ne
        pas participer au jeu ;
-     * principe de rÃ©versibilitÃ© : les gains et pertes sont rÃ©versibles,
+     * principe de réversibilité : les gains et pertes sont réversibles,
        le champion doit remettre son titre en jeu ; c'est ce principe qui
-       implique que le jeu ne doit pas avoir de consÃ©quences irrÃ©versibles
-       sur la santÃ© ou la vie sociale ;
-     * principe d'action directe personnelle : Â« le joueur a prise sur le
-       dÃ©roulement de la partie Â» ;
-     * principe d'incertitude : Â« le dispositif doit garantir
-       l'intervention d'une part de hasard ou s'efforcer d'Ã©quilibrer la
-       force au jeu des participants Â» ;
-     * principe de lisibilitÃ© : les principes, les rÃ¨gles sont connus de
-       tous, le cadre du jeu (espace, durÃ©e) est fixÃ© ;
-     * principe d'interchangeabilitÃ© des places : ce principe remplace le
-       principe d'Ã©galitÃ© puisque certains jeux sont asymÃ©triques, comme
-       les jeux de guerre ou de diplomatie oÃ¹ les forces sont
-       dÃ©sÃ©quilibrÃ©es ;
-     * principe de Bateson : mÃªme si les actions sont similaires Ã  des
-       actions rÃ©elles, un participant ou un observateur peut dÃ©terminer
-       si l'activitÃ© est un jeu ou pas ; par exemple, un affrontement
-       sportif se distingue d'un affrontement hostile mÃªme si les actions
+       implique que le jeu ne doit pas avoir de conséquences irréversibles
+       sur la santé ou la vie sociale ;
+     * principe d'action directe personnelle : « le joueur a prise sur le
+       déroulement de la partie » ;
+     * principe d'incertitude : « le dispositif doit garantir
+       l'intervention d'une part de hasard ou s'efforcer d'équilibrer la
+       force au jeu des participants » ;
+     * principe de lisibilité : les principes, les règles sont connus de
+       tous, le cadre du jeu (espace, durée) est fixé ;
+     * principe d'interchangeabilité des places : ce principe remplace le
+       principe d'égalité puisque certains jeux sont asymétriques, comme
+       les jeux de guerre ou de diplomatie où les forces sont
+       déséquilibrées ;
+     * principe de Bateson : même si les actions sont similaires à des
+       actions réelles, un participant ou un observateur peut déterminer
+       si l'activité est un jeu ou pas ; par exemple, un affrontement
+       sportif se distingue d'un affrontement hostile même si les actions
        sont identiques.
 
 Extension du domaine du jeu[modifier | modifier le code]
@@ -433,129 +540,129 @@ Extension du domaine du jeu[modifier | modifier le code]
    [250px-Pieter_Bruegel_d._%C3%84._041b.jpg] Les Jeux d'enfants, peinture
    de Pieter Brueghel l'Ancien (1560).
 
-   Pratiquement, toute activitÃ© humaine peut Ãªtre l'objet d'un jeu, et
-   rÃ©ciproquement tout jeu peut cesser de le devenir. Selon Huizinga, le
-   jeu est avant tout une institution (comme l'Ã©cole, l'AssemblÃ©e
-   nationale...), limitÃ©e dans le temps et limitÃ©e aux joueurs de la
-   partie^[9]. Le jeu institue un espace de libertÃ© au sein d'une lÃ©galitÃ©
-   particuliÃ¨re dÃ©finie par la rÃ¨gle du jeu^[10].
+   Pratiquement, toute activité humaine peut être l'objet d'un jeu, et
+   réciproquement tout jeu peut cesser de le devenir. Selon Huizinga, le
+   jeu est avant tout une institution (comme l'école, l'Assemblée
+   nationale...), limitée dans le temps et limitée aux joueurs de la
+   partie^[9]. Le jeu institue un espace de liberté au sein d'une légalité
+   particulière définie par la règle du jeu^[10].
 
-   Le jeu est aussi une maniÃ¨re de reprÃ©senter le monde. Le jeu transpose
-   dans un objet concret des systÃ¨mes de valeurs ou des systÃ¨mes formels
-   abstraits. De ce point de vue le jeu peut Ãªtre considÃ©rÃ© comme un
-   modÃ¨le du monde ou une mÃ©taphore d'une de ses parties. Jouer et/ou
+   Le jeu est aussi une manière de représenter le monde. Le jeu transpose
+   dans un objet concret des systèmes de valeurs ou des systèmes formels
+   abstraits. De ce point de vue le jeu peut être considéré comme un
+   modèle du monde ou une métaphore d'une de ses parties. Jouer et/ou
    inventer un jeu, construire une partie en interaction avec son
-   adversaire relÃ¨ve alors d'une activitÃ© culturelle de haut niveau, et
-   chaque partie jouÃ©e est une forme d'Å“uvre d'art.
+   adversaire relève alors d'une activité culturelle de haut niveau, et
+   chaque partie jouée est une forme d'oeuvre d'art.
 
-   Le jeu de l'acteur, par l'absence de rÃ¨gles strictes, par le caractÃ¨re
-   prÃ©visible de l'action ou encore par l'absence de compÃ©tition donne un
-   aperÃ§u de la difficultÃ© Ã  cerner les limites du jeu.
+   Le jeu de l'acteur, par l'absence de règles strictes, par le caractère
+   prévisible de l'action ou encore par l'absence de compétition donne un
+   aperçu de la difficulté à cerner les limites du jeu.
 
-   Le jeu ne se dÃ©veloppe pas seulement dans un cadre formel mais se crÃ©e
-   aussi spontanÃ©ment. Jouer Ã  la poupÃ©e, Ã  la guerre, Ã  la classe ou avec
+   Le jeu ne se développe pas seulement dans un cadre formel mais se crée
+   aussi spontanément. Jouer à la poupée, à la guerre, à la classe ou avec
    des figurines ne permettent ni de gagner, ni de perdre, mais se
-   contentent de reprÃ©senter le monde et d'entraÃ®ner le joueur Ã  affronter
-   la vie rÃ©elle, dans un cadre oÃ¹ une fausse manÅ“uvre n'engendre que peu
-   de consÃ©quences.
+   contentent de représenter le monde et d'entraîner le joueur à affronter
+   la vie réelle, dans un cadre où une fausse manoeuvre n'engendre que peu
+   de conséquences.
 
-   Les modalitÃ©s de jeu varient dans les diverses cultures humaines,
-   indÃ©pendamment des moyens matÃ©riels dont elles disposent. Certains jeux
-   peuvent Ãªtre des Â« pratiques [â€¦] quâ€™une communautÃ© humaine reconnaÃ®t
-   comme faisant partie de son patrimoine dans la mesure oÃ¹ celles-ci
-   procurent Ã  ce groupe humain un sentiment de continuitÃ© et
-   dâ€™identitÃ©^[11] Â», Â« un ensemble de ressources hÃ©ritÃ©es du passÃ© que
-   des personnes considÃ¨rent [â€¦] comme un reflet et une expression de
+   Les modalités de jeu varient dans les diverses cultures humaines,
+   indépendamment des moyens matériels dont elles disposent. Certains jeux
+   peuvent être des « pratiques [...] qu'une communauté humaine reconnaît
+   comme faisant partie de son patrimoine dans la mesure où celles-ci
+   procurent à ce groupe humain un sentiment de continuité et
+   d'identité^[11] », « un ensemble de ressources héritées du passé que
+   des personnes considèrent [...] comme un reflet et une expression de
    leurs valeurs, croyances, savoirs et traditions en continuelle
-   Ã©volution^[12] Â». Le ministÃ¨re de la Culture franÃ§ais a recensÃ© un
+   évolution^[12] ». Le ministère de la Culture français a recensé un
    certain nombre de jeux pouvant faire partie du patrimoine commun
-   immatÃ©riel de la France^[13].
+   immatériel de la France^[13].
 
 Le jeu chez l'animal[modifier | modifier le code]
 
    [220px-Zwergziegen_Kl%C3%A4rung_Rangordnung_Bergtierpark_Erlenbach.JPG]
-   Combat simulÃ© entre deux chevreaux.
+   Combat simulé entre deux chevreaux.
 
-   Le jeu joue un rÃ´le dans l'apprentissage, ce qui explique qu'il se
-   retrouve particuliÃ¨rement chez les jeunes et dans les espÃ¨ces oÃ¹ de
-   nombreux comportements sont Ã  apprendre. C'est le cas des mammifÃ¨res et
-   de certains oiseaux comme les perroquets et les corvidÃ©s. Des exemples
+   Le jeu joue un rôle dans l'apprentissage, ce qui explique qu'il se
+   retrouve particulièrement chez les jeunes et dans les espèces où de
+   nombreux comportements sont à apprendre. C'est le cas des mammifères et
+   de certains oiseaux comme les perroquets et les corvidés. Des exemples
    de comportements de jeu chez d'autres animaux tels que les reptiles
    sont beaucoup plus rare^[14].
 
    On peut en effet observer que les jeux des jeunes animaux consistent le
-   plus souvent Ã  exercer une activitÃ© motrice ou mimer les adultes :
-   chasses, Ã©corcer les branches chez le perroquet, comportements sociaux
+   plus souvent à exercer une activité motrice ou mimer les adultes :
+   chasses, écorcer les branches chez le perroquet, comportements sociaux
    , etc.. Les animaux adultes, cependant, jouent aussi, seuls, avec leurs
-   congÃ©nÃ¨res, et avec des espÃ¨ces diffÃ©rentes, y compris les hommes^[14].
+   congénères, et avec des espèces différentes, y compris les hommes^[14].
 
-   Dans les jeux, des comportements peuvent se succÃ©der rapidement sans
-   efficacitÃ© rÃ©elle avec des inversions du rÃ´le des partenaires, par
+   Dans les jeux, des comportements peuvent se succéder rapidement sans
+   efficacité réelle avec des inversions du rôle des partenaires, par
    exemple jeu de poursuite, de capture, de lutte. Les mouvements sont
-   souvent incomplets ou exagÃ©rÃ©s, les risques de faire mal contrÃ´lÃ©s :
-   morsures sans forcer, griffes rentrÃ©es, coups de pattes retenus
+   souvent incomplets ou exagérés, les risques de faire mal contrôlés :
+   morsures sans forcer, griffes rentrées, coups de pattes retenus
    , etc.^[14]
 
-   De nombreuses espÃ¨ces ont des vocalisations, mimiques, ou postures
-   spÃ©cifiques semblant avoir pour fonction d'inviter un partenaire au jeu
-   ou de l'informer que Ã§a en est un. On a par exemple la posture
-   avant-train abaissÃ© du chien, la play face du chimpanzÃ© (mimique
-   Ã©voquant un sourire), ou encore le perroquet kÃ©a surnommÃ© Â« clown des
-   montagnes Â» qui se met sur le dos et agite les pattes en criant^[14].
+   De nombreuses espèces ont des vocalisations, mimiques, ou postures
+   spécifiques semblant avoir pour fonction d'inviter un partenaire au jeu
+   ou de l'informer que ça en est un. On a par exemple la posture
+   avant-train abaissé du chien, la play face du chimpanzé (mimique
+   évoquant un sourire), ou encore le perroquet kéa surnommé « clown des
+   montagnes » qui se met sur le dos et agite les pattes en criant^[14].
 
-CaractÃ¨res du jeu[modifier | modifier le code]
+Caractères du jeu[modifier | modifier le code]
 
 Classification des jeux selon Roger Caillois[modifier | modifier le code]
 
    En 1958, Roger Caillois publie Les jeux et les hommes : Le masque et le
-   vertige, dans lequel il s'essaye Ã  une classification gÃ©nÃ©rale des
+   vertige, dans lequel il s'essaye à une classification générale des
    jeux. Il propose quatre fondements pour le jeu :
-     * la compÃ©tition (agÃ´n)
+     * la compétition (agôn)
      * le hasard (alea)
      * le simulacre (mimicry),
      * le vertige (ilinx).
 
-   La compÃ©tition s'oppose au hasard, et le vertige au simulacre. La
-   compÃ©tition suppose au joueur une valeur personnelle, niÃ©e par
-   l'intervention du sort. Qui joue abandonne sa personnalitÃ© ordinaire
-   soit en l'Ã©tourdissant dans le vertige, soit en la conformant au
-   simulacre d'un autre Ãªtre. Les jeux se placent dans un des quadrants de
-   l'espace organisÃ© par ces deux axes (p. 47-48). Les jeux rÃ©servent la
-   plupart du temps une part Ã  chacun de ces effets.
+   La compétition s'oppose au hasard, et le vertige au simulacre. La
+   compétition suppose au joueur une valeur personnelle, niée par
+   l'intervention du sort. Qui joue abandonne sa personnalité ordinaire
+   soit en l'étourdissant dans le vertige, soit en la conformant au
+   simulacre d'un autre être. Les jeux se placent dans un des quadrants de
+   l'espace organisé par ces deux axes (p. 47-48). Les jeux réservent la
+   plupart du temps une part à chacun de ces effets.
 
-   Ils se rÃ©partissent encore selon un troisiÃ¨me axe, qui oppose
-     * la fantaisie sans rÃ¨gle (paidia),
-     * l'activitÃ© disciplinÃ©e par les conventions arbitraires des rÃ¨gles
+   Ils se répartissent encore selon un troisième axe, qui oppose
+     * la fantaisie sans règle (paidia),
+     * l'activité disciplinée par les conventions arbitraires des règles
        (ludus).
 
-   Les rÃ¨gles, estime Caillois, augmentent la difficultÃ© (p. 48).
+   Les règles, estime Caillois, augmentent la difficulté (p. 48).
 
-   Les couples {agÃ´n ; alea}, {ilinx ; mimicry} et {paidia ; ludus}
-   opposent un mot grec ancien Ã  une locution latine ou anglaise (mimicry
-   se traduit par Â« mimÃ©tisme Â»).
+   Les couples {agôn ; alea}, {ilinx ; mimicry} et {paidia ; ludus}
+   opposent un mot grec ancien à une locution latine ou anglaise (mimicry
+   se traduit par « mimétisme »).
 
-   CAPTION: RÃ©partition des jeux selon Roger Caillois^[15]
+   CAPTION: Répartition des jeux selon Roger Caillois^[15]
 
-   agÃ´n
-   (compÃ©tition) alea
+   agôn
+   (compétition) alea
    (chance) mimicry
    (simulacre) ilinx
    (vertige)
-   Paidia courses et luttes non rÃ©glÃ©es comptines,
+   Paidia courses et luttes non réglées comptines,
    pile ou face,
    pari,
    roulette
    loteries simples,
-   composÃ©es
-   ou Ã  report imitations enfantines,
+   composées
+   ou à report imitations enfantines,
    jeux d'illusion
-   poupÃ©es,
+   poupées,
    panoplies,
    masques,
    travesti
-   thÃ©Ã¢tre, manÃ¨ge,
-   Â« tournis Â» enfantin
-   balanÃ§oire,
+   théâtre, manège,
+   « tournis » enfantin
+   balançoire,
    valse
    volador,
    attractions foraines
@@ -566,900 +673,900 @@ Classification des jeux selon Roger Caillois[modifier | modifier le code]
    fou-rire
    cerf-volant,
    solitaire,
-   rÃ©ussites,
-   mots-croisÃ©s athlÃ©tisme
+   réussites,
+   mots-croisés athlétisme
    boxe,
    escrime,
    football,
    billard,
-   dames, Ã©checs
-   Ludus compÃ©titions sportives en gÃ©nÃ©ral arts du spectacle en gÃ©nÃ©ral
+   dames, échecs
+   Ludus compétitions sportives en général arts du spectacle en général
 
-   N.B. Dans chaque colonne verticale, les jeux sont classÃ©s
-   approximativement de sorte que l'Ã©lÃ©ment padia dÃ©croisse lorsque l'on
-   descend tandis que l'Ã©lÃ©ment ludus croÃ®t.
+   N.B. Dans chaque colonne verticale, les jeux sont classés
+   approximativement de sorte que l'élément padia décroisse lorsque l'on
+   descend tandis que l'élément ludus croît.
 
-   Olivier CaÃ¯ra note que cette classification est trop rigide et pas
-   adaptÃ©e Ã  des jeux plus rÃ©cents^[16] : Â« le poker et le backgammon, par
-   exemple, associent agÃ´n et alea. [â€¦] il faudrait distendre
+   Olivier Caïra note que cette classification est trop rigide et pas
+   adaptée à des jeux plus récents^[16] : « le poker et le backgammon, par
+   exemple, associent agôn et alea. [...] il faudrait distendre
    dangereusement les quatre principes, ou en ajouter d'autres
-   (coopÃ©ration, crÃ©ation, Ã©ruditionâ€¦) pour Ã©puiser la description de
-   pratiques telles que le jeu littÃ©raire, Trivial Pursuit, Pictionary, Il
-   Ã©tait une foisâ€¦ etc. Â»
+   (coopération, création, érudition...) pour épuiser la description de
+   pratiques telles que le jeu littéraire, Trivial Pursuit, Pictionary, Il
+   était une fois... etc. »
 
-   La classification des jeux a un intÃ©rÃªt pratique pour les gestionnaires
-   de ludothÃ¨ques. Le systÃ¨me ESAR, acronyme regroupant les premiÃ¨re
-   lettres des quatre catÃ©gories principalesâ€‰: E pour jeu dâ€™Exercice ; S
-   pour Jeu Symbolique ; A pour jeu dâ€™Assemblage et R pour jeu de RÃ¨gles.
-   Ses auteurs quÃ©bequois, trois psychopÃ©dagogues et un bibliothÃ©caire,
-   ont choisi des catÃ©gories inspirÃ©es de la recherche de Jean Piaget,
-   correspondent Ã  l'Ã©volution des comportements ludiques de l'enfant.
-   Cinq facettes complÃ©mentaires permettent dâ€™identifier ou de relier les
-   types de jeux Ã  la dÃ©clinaison des apports cognitifs, physiques ou
-   fonctionnels, les comportements sociaux dont la compÃ©tition et la
-   coopÃ©ration, habiletÃ©s langagiÃ¨res et les conduites affectifs qui
-   rÃ©sultent de la pratique dâ€™un jeu, quel que soit son support â€” ce qui
-   inclut aussi les jeux virtuels (vidÃ©o)^[17].
+   La classification des jeux a un intérêt pratique pour les gestionnaires
+   de ludothèques. Le système ESAR, acronyme regroupant les première
+   lettres des quatre catégories principales : E pour jeu d'Exercice ; S
+   pour Jeu Symbolique ; A pour jeu d'Assemblage et R pour jeu de Règles.
+   Ses auteurs québequois, trois psychopédagogues et un bibliothécaire,
+   ont choisi des catégories inspirées de la recherche de Jean Piaget,
+   correspondent à l'évolution des comportements ludiques de l'enfant.
+   Cinq facettes complémentaires permettent d'identifier ou de relier les
+   types de jeux à la déclinaison des apports cognitifs, physiques ou
+   fonctionnels, les comportements sociaux dont la compétition et la
+   coopération, habiletés langagières et les conduites affectifs qui
+   résultent de la pratique d'un jeu, quel que soit son support -- ce qui
+   inclut aussi les jeux virtuels (vidéo)^[17].
 
-CoopÃ©ration et compÃ©tition[modifier | modifier le code]
+Coopération et compétition[modifier | modifier le code]
 
-   Que ce soit sous la forme de deux Ã©quipes symÃ©triques ou dans une
+   Que ce soit sous la forme de deux équipes symétriques ou dans une
    relation de type chacun pour soi, beaucoup de jeux reposent sur la
-   compÃ©tition.
+   compétition.
 
    Il existe, principalement parmi les jeux traditionnels, bien d'autres
-   mÃ©canismes. Par exemple, les joueurs peuvent changer d'Ã©quipe au cours
-   du jeu, c'est le cas des jeux convergents comme la balle au chasseur oÃ¹
+   mécanismes. Par exemple, les joueurs peuvent changer d'équipe au cours
+   du jeu, c'est le cas des jeux convergents comme la balle au chasseur où
    les joueurs vont progressivement passer d'une situation un contre tous
-   Ã  une situation tous contre un au cours de la partie.
+   à une situation tous contre un au cours de la partie.
    [250px-Blind_mans_bluff_1803.PNG] Une partie de Colin-maillard par
    Bosio - 1803.
 
    Le principe des jeux paradoxaux est encore plus riche en interactions :
-   il s'agit de jeux oÃ¹ l'adversaire est en mÃªme temps un partenaire
+   il s'agit de jeux où l'adversaire est en même temps un partenaire
    potentiel. La situation paradoxale la plus simple est lorsque trois
-   Ã©quipes sont en relation triangulaire : les joueurs de l'Ã©quipe A
-   peuvent Ã©liminer les joueurs de l'Ã©quipe B, ceux de l'Ã©quipe B les
-   joueurs de l'Ã©quipe C et ceux de l'Ã©quipe C les joueurs de l'Ã©quipe A.
-   Cette disposition implique donc que si l'Ã©quipe A Ã©limine trop de
-   membres de l'Ã©quipe B, plus personne ne pourra la protÃ©ger de l'Ã©quipe
-   C. Ce principe est par exemple utilisÃ© par le jeu poule renard vipÃ¨re
-   ou encore par Atride, un jeu de sociÃ©tÃ© crÃ©Ã© en 1994 par Gauthier
+   équipes sont en relation triangulaire : les joueurs de l'équipe A
+   peuvent éliminer les joueurs de l'équipe B, ceux de l'équipe B les
+   joueurs de l'équipe C et ceux de l'équipe C les joueurs de l'équipe A.
+   Cette disposition implique donc que si l'équipe A élimine trop de
+   membres de l'équipe B, plus personne ne pourra la protéger de l'équipe
+   C. Ce principe est par exemple utilisé par le jeu poule renard vipère
+   ou encore par Atride, un jeu de société créé en 1994 par Gauthier
    Fourcade. Mais il existe des jeux comme la balle assise provoquant des
    situations paradoxales beaucoup plus complexes.
 
-   La structure relationnelle des jeux peut Ãªtre un enjeu idÃ©ologique. Par
-   exemple, Mildred Masheder propose des activitÃ©s ludiques qui ne peuvent
-   Ãªtre menÃ©es Ã  bien que par la solidaritÃ© et la coopÃ©ration entre tous
-   les joueurs^[18]. Ces jeux Ã©ducatifs tentent de marginaliser la
-   compÃ©tition, estimant qu'elle est une source de violence.
+   La structure relationnelle des jeux peut être un enjeu idéologique. Par
+   exemple, Mildred Masheder propose des activités ludiques qui ne peuvent
+   être menées à bien que par la solidarité et la coopération entre tous
+   les joueurs^[18]. Ces jeux éducatifs tentent de marginaliser la
+   compétition, estimant qu'elle est une source de violence.
 
-   Les jeux de rÃ´le constituent les jeux de coopÃ©ration par excellence,
-   les joueurs Ã©tant amenÃ©s Ã  s'entraider pour atteindre des objectifs
+   Les jeux de rôle constituent les jeux de coopération par excellence,
+   les joueurs étant amenés à s'entraider pour atteindre des objectifs
    communs.
 
 Le simulacre[modifier | modifier le code]
 
-   Lorsqu'il joue, le joueur ne sait pas son rÃ´le de faÃ§on plus ou moins
-   explicite. C'est sans doute l'une des facettes les plus archaÃ¯ques du
+   Lorsqu'il joue, le joueur ne sait pas son rôle de façon plus ou moins
+   explicite. C'est sans doute l'une des facettes les plus archaïques du
    jeu.
 
-   Jean Piaget a particuliÃ¨rement bien dÃ©crit l'importance du jeu
-   symbolique dans le dÃ©veloppement du jeune enfant. Il est trÃ¨s frÃ©quent
+   Jean Piaget a particulièrement bien décrit l'importance du jeu
+   symbolique dans le développement du jeune enfant. Il est très fréquent
    que le jeu soit une reprise symbolique de ce qui se passe dans la
-   rÃ©alitÃ©. Mais la capacitÃ© Ã  s'investir dans le Â« comme si... Â» du jeu
-   va de pair avec une capacitÃ© de distinguer le littÃ©ral du
-   mÃ©taphorique : pour que le jeu existe, il faut qu'il reste un certain
-   Ã©cart entre rÃ©alitÃ© et fiction.
+   réalité. Mais la capacité à s'investir dans le « comme si... » du jeu
+   va de pair avec une capacité de distinguer le littéral du
+   métaphorique : pour que le jeu existe, il faut qu'il reste un certain
+   écart entre réalité et fiction.
 
    Il existe donc une certaine ambivalence entre le joueur et le
-   personnage qu'il incarne : il y place une partie de lui-mÃªme mais garde
-   toujours un regard critique sur la rÃ©alitÃ© de cette incarnation.
-   InstitutionnalisÃ©, cet aspect de l'activitÃ© ludique a donnÃ© naissance
-   au jeu dramatique puis au jeu thÃ©Ã¢tral.
+   personnage qu'il incarne : il y place une partie de lui-même mais garde
+   toujours un regard critique sur la réalité de cette incarnation.
+   Institutionnalisé, cet aspect de l'activité ludique a donné naissance
+   au jeu dramatique puis au jeu théâtral.
 
 Le hasard[modifier | modifier le code]
 
-   ReprÃ©sentation d'un dÃ©. Un dÃ©, figure du hasard dans les jeux.
+   Représentation d'un dé. Un dé, figure du hasard dans les jeux.
 
-   Un jeu ne remplit son objet (de plaisir ou d'entraÃ®nement Ã  une
-   activitÃ© mentale ou physique) que dans la mesure oÃ¹ il recÃ¨le une part
-   suffisante d'imprÃ©visibilitÃ© pour le joueur.
+   Un jeu ne remplit son objet (de plaisir ou d'entraînement à une
+   activité mentale ou physique) que dans la mesure où il recèle une part
+   suffisante d'imprévisibilité pour le joueur.
 
-   Dans les sociÃ©tÃ©s qui croient au hasard, celui-ci peut servir pour
-   assurer l'imprÃ©visibilitÃ© de l'issue. C'est alors une composante
-   admise, voire recherchÃ©e (jeux de dÃ©s, ballon ovale susceptible de
-   rebondir de faÃ§on imprÃ©visible). Les sociÃ©tÃ©s oÃ¹ l'on croit que les
-   Ã©vÃ©nements sont le rÃ©sultat et le signe de l'action de forces occultes
-   assurent plutÃ´t l'imprÃ©visibilitÃ© de l'issue du jeu par une Ã©galisation
-   des joueurs : catÃ©gories d'Ã¢ge, d'aptitudes, compensations, handicaps.
+   Dans les sociétés qui croient au hasard, celui-ci peut servir pour
+   assurer l'imprévisibilité de l'issue. C'est alors une composante
+   admise, voire recherchée (jeux de dés, ballon ovale susceptible de
+   rebondir de façon imprévisible). Les sociétés où l'on croit que les
+   événements sont le résultat et le signe de l'action de forces occultes
+   assurent plutôt l'imprévisibilité de l'issue du jeu par une égalisation
+   des joueurs : catégories d'âge, d'aptitudes, compensations, handicaps.
 
-   ParallÃ¨lement, un hasard trop grand s'oppose Ã  l'aspect compÃ©titif des
-   jeux, qui impose que l'issue dÃ©pende de la valeur des joueurs. Le
-   hasard sera alors combattu par des rÃ¨gles trÃ¨s strictes et
-   dÃ©terministes : jeu d'Ã©checs, sport ; ou neutralisÃ© par une
-   multiplication des parties ou des coups avant de dÃ©signer le
-   vainqueur : jeux de hasard comme le 421 ou le poker. L'Ã©limination de
-   toute rÃ©fÃ©rence Ã  la valeur personnelle peut entraÃ®ner des
+   Parallèlement, un hasard trop grand s'oppose à l'aspect compétitif des
+   jeux, qui impose que l'issue dépende de la valeur des joueurs. Le
+   hasard sera alors combattu par des règles très strictes et
+   déterministes : jeu d'échecs, sport ; ou neutralisé par une
+   multiplication des parties ou des coups avant de désigner le
+   vainqueur : jeux de hasard comme le 421 ou le poker. L'élimination de
+   toute référence à la valeur personnelle peut entraîner des
    comportements addictifs comme le jeu pathologique.
 
-   La composante alÃ©atoire est particuliÃ¨rement importante dans les jeux
-   d'argent, qui disposent d'un critÃ¨re indiscutable pour dÃ©terminer le
+   La composante aléatoire est particulièrement importante dans les jeux
+   d'argent, qui disposent d'un critère indiscutable pour déterminer le
    meilleur (c'est celui qui gagne le plus), et peuvent donc se permettre
-   une part d'alÃ©a plus grande.
+   une part d'aléa plus grande.
 
-Les rÃ¨gles[modifier | modifier le code]
+Les règles[modifier | modifier le code]
 
    Pour jouer ensemble, il faut d'abord un accord minimal sur le cadre de
-   jeu. On utilise souvent pour cela la rÃ¨gle de jeu. En mÃªme temps
-   qu'elles sont conÃ§ues comme essentielles au jeu, les rÃ¨gles s'opposent
-   au jeu proprement dit, comme le droit peut s'opposer Ã  la justice. Le
-   respect de l'esprit du jeu, compris comme Ã  l'origine des rÃ¨gles a Ã©tÃ©
-   Ã  l'origine d'une valeur commune aux jeux, le fair-play.
+   jeu. On utilise souvent pour cela la règle de jeu. En même temps
+   qu'elles sont conçues comme essentielles au jeu, les règles s'opposent
+   au jeu proprement dit, comme le droit peut s'opposer à la justice. Le
+   respect de l'esprit du jeu, compris comme à l'origine des règles a été
+   à l'origine d'une valeur commune aux jeux, le fair-play.
 
-   Sans rÃ¨gles, un certain nombre de personnes ne jouerait pas. Les
+   Sans règles, un certain nombre de personnes ne jouerait pas. Les
    instaurer c'est mettre un cadre ; mettre un cadre, c'est associer des
-   volontÃ©s diffÃ©rentes. Avec rien que les rÃ¨gles, d'autres groupes sont
-   exclus, Ã  commencer par ceux pour qui l'esprit juridique et sÃ©rieux
-   s'oppose au jeu, et ceux Ã  qui l'abus des rÃ¨gles est insupportable. On
-   sait qu'on ne commande Ã  personne de jouer. Â« C'est pas du jeu Â», crie
+   volontés différentes. Avec rien que les règles, d'autres groupes sont
+   exclus, à commencer par ceux pour qui l'esprit juridique et sérieux
+   s'oppose au jeu, et ceux à qui l'abus des règles est insupportable. On
+   sait qu'on ne commande à personne de jouer. « C'est pas du jeu », crie
    l'enfant ; et s'en va.
-   Article dÃ©taillÃ© : Jeu de sociÃ©tÃ©.
+   Article détaillé : Jeu de société.
 
 Sports et jeux[modifier | modifier le code]
 
    Cette section ne cite pas suffisamment ses sources (janvier 2016).
-   Pour l'amÃ©liorer, ajoutez des rÃ©fÃ©rences de qualitÃ© et vÃ©rifiables
-   (comment faire ?) ou le modÃ¨le {{RÃ©fÃ©rence nÃ©cessaire}} sur les
-   passages nÃ©cessitant une source.
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
 
    La distinction entre les sports et les jeux ne fait pas l'objet d'un
-   accord gÃ©nÃ©ral.
+   accord général.
 
-   Les sports sont plutÃ´t physiques et rÃ©els, les jeux sont plutÃ´t mentaux
+   Les sports sont plutôt physiques et réels, les jeux sont plutôt mentaux
    et symboliques (virtuels). Mais cette distinction ne semble pas
-   fondamentalement suffisante, des jeux comme les Ã©checs, le Scrabble ou
-   mÃªme certains jeux vidÃ©o ayant acquis une rÃ©elle dimension sportive,
-   avec entraÃ®nement, tournois, champions, spectacle, argent, fatigue
-   physique, etc. Tandis qu'Ã  l'inverse mÃªme un sport comme la course peut
-   n'Ãªtre pratiquÃ© qu'Ã  titre de jeu, sans esprit de
-   compÃ©tition^[rÃ©f. souhaitÃ©e].
+   fondamentalement suffisante, des jeux comme les échecs, le Scrabble ou
+   même certains jeux vidéo ayant acquis une réelle dimension sportive,
+   avec entraînement, tournois, champions, spectacle, argent, fatigue
+   physique, etc. Tandis qu'à l'inverse même un sport comme la course peut
+   n'être pratiqué qu'à titre de jeu, sans esprit de
+   compétition^[réf. souhaitée].
 
-   Un autre Ã©lÃ©ment Ã  citer est la part de hasard : pour les sports,
-   l'imprÃ©visibilitÃ© est assurÃ©e par le nombre des protagonistes et
-   l'Ã©tendue de leurs possibilitÃ©s (qui caractÃ©rise leur maÃ®trise du jeu),
-   ainsi que par des catÃ©gories de poids et des handicaps. Ils sont donc
-   gÃ©nÃ©ralement moins alÃ©atoires. Mais cet Ã©lÃ©ment ne semble pas non plus
+   Un autre élément à citer est la part de hasard : pour les sports,
+   l'imprévisibilité est assurée par le nombre des protagonistes et
+   l'étendue de leurs possibilités (qui caractérise leur maîtrise du jeu),
+   ainsi que par des catégories de poids et des handicaps. Ils sont donc
+   généralement moins aléatoires. Mais cet élément ne semble pas non plus
    discriminant.
 
-   Il semble qu'il faille plutÃ´t rechercher du cÃ´tÃ© de la motivation du
+   Il semble qu'il faille plutôt rechercher du côté de la motivation du
    joueur : lorsqu'il agit pour son seul plaisir dans l'action ou pour
-   s'entraÃ®ner, on parlera plutÃ´t de jeu, tandis que s'il dÃ©finit son
-   plaisir en termes de rÃ©sultat dans un cadre compÃ©titif, il est un
-   sportif. Si la distinction est bien Ã  ce niveau, il devient alors
-   difficile d'Ãªtre sÃ»r du fait qu'on est dans un cadre ludique ou
+   s'entraîner, on parlera plutôt de jeu, tandis que s'il définit son
+   plaisir en termes de résultat dans un cadre compétitif, il est un
+   sportif. Si la distinction est bien à ce niveau, il devient alors
+   difficile d'être sûr du fait qu'on est dans un cadre ludique ou
    sportif, car le sportif s'amuse aussi, tandis que le joueur trouve une
-   part de son plaisir dans le rÃ©sultat^[rÃ©f. souhaitÃ©e].
+   part de son plaisir dans le résultat^[réf. souhaitée].
 
-   Un Ã©lÃ©ment peut encore Ãªtre ajoutÃ©, le sport qu'il soit collectif ou
-   non, reste Ã©litiste : Il favorise certains et exclut d'autres, les
-   dÃ©butants n'ayant pas de fortes capacitÃ©s physiques ne trouvent leur
+   Un élément peut encore être ajouté, le sport qu'il soit collectif ou
+   non, reste élitiste : Il favorise certains et exclut d'autres, les
+   débutants n'ayant pas de fortes capacités physiques ne trouvent leur
    place ni sur le terrain, ni dans les vestiaires, alors que le jeu tient
-   compte de chaque joueur : Il favorise l'intÃ©gration, met en avant des
+   compte de chaque joueur : Il favorise l'intégration, met en avant des
    enjeux comme le sacrifice, la prise de risque pour l'autre, la
-   protection... qui ont des rÃ©els impacts positifs sur la dynamique d'un
-   groupe^[rÃ©f. souhaitÃ©e].
+   protection... qui ont des réels impacts positifs sur la dynamique d'un
+   groupe^[réf. souhaitée].
 
 Histoire[modifier | modifier le code]
 
    [220px-P9210016.JPG] Un jeu de senet provenant de la tombe d'Amenhotep
-   III â€” Brooklyn Museum, New York.
+   III -- Brooklyn Museum, New York.
 
-   Les archÃ©ologues sont souvent tentÃ©s d'interprÃ©ter comme jeu un simple
-   alignement de cupules (comme sur le site nÃ©olithique de 'Ain Ghazal en
+   Les archéologues sont souvent tentés d'interpréter comme jeu un simple
+   alignement de cupules (comme sur le site néolithique de 'Ain Ghazal en
    Jordanie) ou un quadrillage mais l'absence de pions rend difficile de
-   prouver la pratique de jeux prÃ©historiques bien que celle-ci soit
-   certainement l'une des plus anciennes de lâ€™humanitÃ©^[19]. Les Ã‰trusques
+   prouver la pratique de jeux préhistoriques bien que celle-ci soit
+   certainement l'une des plus anciennes de l'humanité^[19]. Les Étrusques
    pratiquaient des jeux (ludi circenses et ludi scaenici) dont les
-   vocations Ã©taient rituelles et religieuses. Les Romains en ont repris
+   vocations étaient rituelles et religieuses. Les Romains en ont repris
    certains principes dans leurs jeux du cirque.
 
-   La prÃ©sence de jeux est bien attestÃ©e dÃ¨s le dÃ©but de l'AntiquitÃ© grÃ¢ce
-   Ã  des tÃ©moignages Ã©crits ou iconographiques. La liste de jeux auxquels
-   Bouddha n'aurait pas jouÃ© est la plus ancienne liste Ã©crite de jeux
-   connue (VI^e et V^e siÃ¨cles av. J.-C.)^[20]. Une rÃ©fÃ©rence Ã©crite d'un
-   jeu qui pourrait Ãªtre le go est dans les Annales des Printemps et
-   Automnes rÃ©digÃ©es entre 722 et 481 av. J.-C. Parmi les jeux dans
-   l'Ã‰gypte antique, le jeu de sociÃ©tÃ© du senet apparaÃ®t Ã  l'Ã©poque
-   prÃ©dynastique et le mehen dÃ¨s 3000 av. J.-C. Les jeux de plateau et de
-   parcours sont aussi prisÃ©s dans l'ancienne MÃ©sopotamie, tel le jeu
-   royal d'Ur dÃ¨s 2600 av. J.-C. ou le mancala en Afrique dÃ¨s le
-   VI^e siÃ¨cle. Souvent utilisÃ©s avec des instruments de hasard (roulement
-   des osselets et des dÃ©s), ils peuvent Ãªtre associÃ©s Ã  l'art divinatoire
-   comme l'hÃ©patoscopie en MÃ©sopotamie, la scapulomancie en Chine^[21].
+   La présence de jeux est bien attestée dès le début de l'Antiquité grâce
+   à des témoignages écrits ou iconographiques. La liste de jeux auxquels
+   Bouddha n'aurait pas joué est la plus ancienne liste écrite de jeux
+   connue (VI^e et V^e siècles av. J.-C.)^[20]. Une référence écrite d'un
+   jeu qui pourrait être le go est dans les Annales des Printemps et
+   Automnes rédigées entre 722 et 481 av. J.-C. Parmi les jeux dans
+   l'Égypte antique, le jeu de société du senet apparaît à l'époque
+   prédynastique et le mehen dès 3000 av. J.-C. Les jeux de plateau et de
+   parcours sont aussi prisés dans l'ancienne Mésopotamie, tel le jeu
+   royal d'Ur dès 2600 av. J.-C. ou le mancala en Afrique dès le
+   VI^e siècle. Souvent utilisés avec des instruments de hasard (roulement
+   des osselets et des dés), ils peuvent être associés à l'art divinatoire
+   comme l'hépatoscopie en Mésopotamie, la scapulomancie en Chine^[21].
 
-   Le Chaturanga indien (dÃ©crit dans le texte sanskrit Vasavadatta au
-   V^e siÃ¨cle) et le chatrang perse (dÃ©crit dans WizÃ¢riÅ¡n Ã® chatrang ud
-   nihiÅ¡m Ã® nÃªw-ardaxÅ¡Ã®r, Â« l'explication des Ã‰checs et l'invention du
-   Nard Â» au VI^e siÃ¨cle) sont considÃ©rÃ©s comme les ancÃªtres du jeu
-   d'Ã©checs^[22].
+   Le Chaturanga indien (décrit dans le texte sanskrit Vasavadatta au
+   V^e siècle) et le chatrang perse (décrit dans Wizârisn î chatrang ud
+   nihism î nêw-ardaxsîr, « l'explication des Échecs et l'invention du
+   Nard » au VI^e siècle) sont considérés comme les ancêtres du jeu
+   d'échecs^[22].
 
-   Le lancer de dÃ©s est trÃ¨s prisÃ© par les Grecs et les Romains, comme en
-   tÃ©moigne l'expression Alea jacta est. Les soldats romains pratiquent le
-   jeu des latroncules. Les jeux de dÃ©s sont encore associÃ©s Ã  des
-   pratiques divinatoires paÃ¯ennes, lâ€™utilisation du sort dans les jeux de
-   hasard et dâ€™argent fait souvent appel Ã  la providence divine (or selon
-   le troisiÃ¨me commandement, Â« Tu ne prononceras ton Dieu, en vain Â»),
-   aussi sont-ils interdits Ã  plusieurs reprises par lâ€™Ã‰glise^[23]. Cela
-   n'empÃªche pas les jeux de dÃ©s de connaÃ®tre un vif succÃ¨s au
-   XII^e siÃ¨cle dans toutes les couches de la sociÃ©tÃ© de lâ€™Occident
-   mÃ©diÃ©val. De mÃªme, le jeu des Ã©checs, de la marelle, du trictrac ou du
-   backgammon issus de lâ€™AntiquitÃ© se popularisent au Moyen Ã‚ge^[21]. Les
-   plus anciennes cartes Ã  jouer apparaissent en Chine durant la dynastie
-   Tang (618-907) au moment oÃ¹ le format des livres passe du rouleau Ã  la
-   feuille et se diffusent en Occident Ã  la fin du Moyen Ã‚ge^[24].
+   Le lancer de dés est très prisé par les Grecs et les Romains, comme en
+   témoigne l'expression Alea jacta est. Les soldats romains pratiquent le
+   jeu des latroncules. Les jeux de dés sont encore associés à des
+   pratiques divinatoires païennes, l'utilisation du sort dans les jeux de
+   hasard et d'argent fait souvent appel à la providence divine (or selon
+   le troisième commandement, « Tu ne prononceras ton Dieu, en vain »),
+   aussi sont-ils interdits à plusieurs reprises par l'Église^[23]. Cela
+   n'empêche pas les jeux de dés de connaître un vif succès au
+   XII^e siècle dans toutes les couches de la société de l'Occident
+   médiéval. De même, le jeu des échecs, de la marelle, du trictrac ou du
+   backgammon issus de l'Antiquité se popularisent au Moyen Âge^[21]. Les
+   plus anciennes cartes à jouer apparaissent en Chine durant la dynastie
+   Tang (618-907) au moment où le format des livres passe du rouleau à la
+   feuille et se diffusent en Occident à la fin du Moyen Âge^[24].
 
-   Le Libro de los juegos, codex Ã©crit au XIII^e siÃ¨cle, reste l'ouvrage
-   le plus important pour l'Ã©tude des jeux mÃ©diÃ©vaux^[25].
+   Le Libro de los juegos, codex écrit au XIII^e siècle, reste l'ouvrage
+   le plus important pour l'étude des jeux médiévaux^[25].
 
-Le mythe de PalamÃ¨de[modifier | modifier le code]
+Le mythe de Palamède[modifier | modifier le code]
 
    Sophocle (495-406 av. J.-C.) est le premier auteur connu qui met en
-   rapport lâ€™invention des jeux avec lâ€™attente lors dâ€™un siÃ¨ge (soit
-   devant Aulis, soit devant Troie) mais il ne cite PalamÃ¨de que pour
-   expliquer quâ€™il a Ã©cartÃ© une famine du camp des Grecs sans lâ€™associer
-   personnellement Ã  lâ€™invention des jeux. Euripide (480-406 av. J.-C.)
-   dit bien que PalamÃ¨de a crÃ©Ã© les pessos (sorte de jeu de pions
-   probablement apparentÃ© aux dames) mais Platon (428-348 av. J.-C.) Ã  la
-   mÃªme pÃ©riode leur attribue une origine divine, par Theuth (le dieu
-   Ã©gyptien Thot) ou HermÃ¨s. CratÃ¨s (IV^e siÃ¨cle av. J.-C. Ã©galement)
-   attribue la crÃ©ation de tous les jeux aux Lydiens quand HÃ©rodote
-   (480-425 av. J.-C.) attribue aussi tous les jeux aux Lydiens (mÃªme les
-   jeux de dÃ©s) sauf le jeu de pessos quâ€™il attribue aux Grecs. PolÃ©mon de
-   LaodicÃ©e (90-144 apr. J.-C.) fait le lien entre les deux pans de
-   lâ€™histoire de Sophocle, PalamÃ¨de qui Ã©carte une famine et la crÃ©ation
-   des jeux au moment dâ€™un siÃ¨ge, pour expliquer que PalamÃ¨de a crÃ©Ã© les
-   jeux de dÃ©s et les pessos pour consoler lâ€™armÃ©e d'une famine qui y
-   sÃ©vissait^[26].
+   rapport l'invention des jeux avec l'attente lors d'un siège (soit
+   devant Aulis, soit devant Troie) mais il ne cite Palamède que pour
+   expliquer qu'il a écarté une famine du camp des Grecs sans l'associer
+   personnellement à l'invention des jeux. Euripide (480-406 av. J.-C.)
+   dit bien que Palamède a créé les pessos (sorte de jeu de pions
+   probablement apparenté aux dames) mais Platon (428-348 av. J.-C.) à la
+   même période leur attribue une origine divine, par Theuth (le dieu
+   égyptien Thot) ou Hermès. Cratès (IV^e siècle av. J.-C. également)
+   attribue la création de tous les jeux aux Lydiens quand Hérodote
+   (480-425 av. J.-C.) attribue aussi tous les jeux aux Lydiens (même les
+   jeux de dés) sauf le jeu de pessos qu'il attribue aux Grecs. Polémon de
+   Laodicée (90-144 apr. J.-C.) fait le lien entre les deux pans de
+   l'histoire de Sophocle, Palamède qui écarte une famine et la création
+   des jeux au moment d'un siège, pour expliquer que Palamède a créé les
+   jeux de dés et les pessos pour consoler l'armée d'une famine qui y
+   sévissait^[26].
 
-   Cette croyance de la GrÃ¨ce antique formÃ©e au fil des ans fait donc de
-   PalamÃ¨de lâ€™inventeur des jeux de dÃ©s (soit un jeu de hasard) et des
-   pessos (soit un jeu de rÃ©flexion).
+   Cette croyance de la Grèce antique formée au fil des ans fait donc de
+   Palamède l'inventeur des jeux de dés (soit un jeu de hasard) et des
+   pessos (soit un jeu de réflexion).
 
-   Des lÃ©gendes mÃ©diÃ©vales sâ€™appuient sur cette mythologie pour en faire
-   le crÃ©ateur des Ã©checs^[27]. De plus, PalamÃ¨de, personnage de la guerre
-   de Troie, est alors souvent confondu avec PalamÃ¨de, hÃ©ros du cycle
-   arthurien, ce dernier se voit attribuer dâ€™armoiries en forme
-   dâ€™Ã©chiquier^[28]. Un des plus vieux mensuels consacrÃ©s aux Ã©checs, un
-   magazine franÃ§ais du XIX^e siÃ¨cle, sera appelÃ© Le PalamÃ¨de.
+   Des légendes médiévales s'appuient sur cette mythologie pour en faire
+   le créateur des échecs^[27]. De plus, Palamède, personnage de la guerre
+   de Troie, est alors souvent confondu avec Palamède, héros du cycle
+   arthurien, ce dernier se voit attribuer d'armoiries en forme
+   d'échiquier^[28]. Un des plus vieux mensuels consacrés aux échecs, un
+   magazine français du XIX^e siècle, sera appelé Le Palamède.
 
 Philosophie[modifier | modifier le code]
 
-Jeu et irrÃ©alitÃ©[modifier | modifier le code]
+Jeu et irréalité[modifier | modifier le code]
 
-   Le trait le plus Ã©vident du jeu n'est autre que sa diffÃ©rence avec la
-   rÃ©alitÃ©. Jouer, c'est jouer Ã  Ãªtre quelqu'un d'autre, ou bien c'est
-   substituer Ã  l'ordre confus de la rÃ©alitÃ© des rÃ¨gles prÃ©cises et
+   Le trait le plus évident du jeu n'est autre que sa différence avec la
+   réalité. Jouer, c'est jouer à être quelqu'un d'autre, ou bien c'est
+   substituer à l'ordre confus de la réalité des règles précises et
    arbitraires, qu'il faut pourtant respecter scrupuleusement. Il faut
    entrer dans le jeu, il ne supporte pas le scepticisme notait Paul
-   ValÃ©ry^[rÃ©f. souhaitÃ©e]. Cependant, le jeu n'est plaisant que dans la
-   mesure oÃ¹ cette entrÃ©e dans le jeu, en latin inâ€“lusio, c'est-Ã -dire
-   illusion, est librement consentie. Le jeu est l'occasion d'Ã©motions
-   puissantes, voire de vertige, Ã©motions liÃ©es Ã  ses alÃ©as, au dÃ©sir de
-   gagner, au poids des enjeux. Pourtant, le jeu est, en premiÃ¨re analyse
-   du moins, Â« innocent Â», et mÃªme dÃ©sintÃ©ressÃ©, en ce sens que vaincre au
+   Valéry^[réf. souhaitée]. Cependant, le jeu n'est plaisant que dans la
+   mesure où cette entrée dans le jeu, en latin in-lusio, c'est-à-dire
+   illusion, est librement consentie. Le jeu est l'occasion d'émotions
+   puissantes, voire de vertige, émotions liées à ses aléas, au désir de
+   gagner, au poids des enjeux. Pourtant, le jeu est, en première analyse
+   du moins, « innocent », et même désintéressé, en ce sens que vaincre au
    jeu, ce n'est pas humilier l'adversaire. Prendre sa revanche est en
-   droit toujours possible. Â« Toute nouvelle partie apparaÃ®t comme un
-   commencement absolu Â», souligne Caillois 1967. Le jeu Â« est condamnÃ© Ã 
+   droit toujours possible. « Toute nouvelle partie apparaît comme un
+   commencement absolu », souligne Caillois 1967. Le jeu « est condamné à
    ne rien fonder ni produire, car il est dans son essence d'annuler ses
-   rÃ©sultats Â».
+   résultats ».
 
-   Ainsi, le jeu obÃ©it Ã  une logique radicalement opposÃ©e Ã  celle de la
-   rentabilitÃ©. NÃ© selon Schiller, au mÃªme titre que l'art, d'une
-   surabondance d'Ã©nergie vitale par rapport aux besoins, d'une pulsion de
+   Ainsi, le jeu obéit à une logique radicalement opposée à celle de la
+   rentabilité. Né selon Schiller, au même titre que l'art, d'une
+   surabondance d'énergie vitale par rapport aux besoins, d'une pulsion de
    jeu (dans l'allemand de Schiller, Spieltrieb), le jeu est donc avant
-   tout occasion de dÃ©pense pure^[29]. L'activitÃ© dÃ©ployÃ©e par le joueur
+   tout occasion de dépense pure^[29]. L'activité déployée par le joueur
    est fondamentalement superflue. Certes, cela ne semble pas tenir compte
    des jeux d'argent. Mais ceux-ci ne produisent globalement rien, tout au
-   plus enrichissent-ils certains joueurs aux dÃ©pens des autres, remarque
-   Caillois. En ce sens, il n'y a de jeux Ã  proprement parler qu'Ã  somme
-   nulle. Le gain n'est pas un salaire, note Huizinga. Le salaire octroyÃ©
-   Ã  un joueur le transforme ipso facto en un professionnel.
+   plus enrichissent-ils certains joueurs aux dépens des autres, remarque
+   Caillois. En ce sens, il n'y a de jeux à proprement parler qu'à somme
+   nulle. Le gain n'est pas un salaire, note Huizinga. Le salaire octroyé
+   à un joueur le transforme ipso facto en un professionnel.
 
-   Le jeu est donc une activitÃ© Ã  part, distincte des activitÃ©s utiles. Il
+   Le jeu est donc une activité à part, distincte des activités utiles. Il
    faut rapprocher cette dimension d'une remarque de Huizinga: comme le
-   sacrÃ©, le jeu ne vaut qu'Ã  l'intÃ©rieur de frontiÃ¨res temporelles et
-   spatiales prÃ©cises, la durÃ©e de la partie, le stade ou le damier. Le
-   jeu serait une expression frappante de la libertÃ© crÃ©atrice, du
-   triomphe, mais parfaitement circonscrit, sur le dÃ©terminisme pesant des
-   choses ou des statuts sociaux. Ces dimensions permettent Ã  BÃ©atrice
-   Galinon-MÃ©lÃ©nec de l'envisager comme acteur de "remÃ©diation" pour
-   certaines pathologies d'ordre psychique^[30]. Ã€ lire Le Joueur de
-   Fiodor DostoÃ¯evski, le joueur considÃ¨re le hasard comme un Ãªtre
-   fantasque, Ã©tranger Ã  toute rÃ¨gle durable ; un Ãªtre qui peut tout
-   donner et tout reprendre, pour qui tout est possible. Un coup de dÃ©
-   abolit, non le hasard, mais la nÃ©cessitÃ©.
+   sacré, le jeu ne vaut qu'à l'intérieur de frontières temporelles et
+   spatiales précises, la durée de la partie, le stade ou le damier. Le
+   jeu serait une expression frappante de la liberté créatrice, du
+   triomphe, mais parfaitement circonscrit, sur le déterminisme pesant des
+   choses ou des statuts sociaux. Ces dimensions permettent à Béatrice
+   Galinon-Mélénec de l'envisager comme acteur de "remédiation" pour
+   certaines pathologies d'ordre psychique^[30]. À lire Le Joueur de
+   Fiodor Dostoïevski, le joueur considère le hasard comme un être
+   fantasque, étranger à toute règle durable ; un être qui peut tout
+   donner et tout reprendre, pour qui tout est possible. Un coup de dé
+   abolit, non le hasard, mais la nécessité.
 
    N'en concluons pas que le jeu annule toutes les lois. Il les rend
-   plutÃ´t particuliÃ¨rement lisibles et univoques. Les jeux de hasard ont
-   ouvert la voie au calcul des probabilitÃ©s, parce qu'ils permettent de
-   dÃ©pouiller le hasard de tous ses traits contingents en l'introduisant
-   dans un systÃ¨me artificiel et fermÃ©, homogÃ¨ne, soumis au nombre et Ã  la
-   rÃ©pÃ©tition : le jeu de cartes ou la roulette. Les rÃ¨gles du jeu
-   aboutissent Ã  une stylisation extrÃªme de la rÃ©alitÃ©, font de cette
-   derniÃ¨re un simple alibi de la compÃ©tition.
+   plutôt particulièrement lisibles et univoques. Les jeux de hasard ont
+   ouvert la voie au calcul des probabilités, parce qu'ils permettent de
+   dépouiller le hasard de tous ses traits contingents en l'introduisant
+   dans un système artificiel et fermé, homogène, soumis au nombre et à la
+   répétition : le jeu de cartes ou la roulette. Les règles du jeu
+   aboutissent à une stylisation extrême de la réalité, font de cette
+   dernière un simple alibi de la compétition.
 
-   Les jeux, note Caillois, ne sont pas tant rÃ©glÃ©s et fictifs que rÃ©glÃ©s
-   ou fictifs. Le simulacre aurait la mÃªme fonction que la rÃ¨gle
-   arbitraire : mettre hors jeu la rÃ©alitÃ©. Â« Cette conscience de
-   l'irrÃ©alitÃ© fondamentale du comportement adoptÃ© sÃ©pare de la vie
-   courante, en lieu et place de la lÃ©gislation arbitraire qui dÃ©finit
-   d'autres jeux Â»^[rÃ©f. souhaitÃ©e].
+   Les jeux, note Caillois, ne sont pas tant réglés et fictifs que réglés
+   ou fictifs. Le simulacre aurait la même fonction que la règle
+   arbitraire : mettre hors jeu la réalité. « Cette conscience de
+   l'irréalité fondamentale du comportement adopté sépare de la vie
+   courante, en lieu et place de la législation arbitraire qui définit
+   d'autres jeux »^[réf. souhaitée].
 
-Jeu et dÃ©fi[modifier | modifier le code]
+Jeu et défi[modifier | modifier le code]
 
-   Le jeu n'est pas toujours compÃ©tition, comme le montrent les jeux de
+   Le jeu n'est pas toujours compétition, comme le montrent les jeux de
    construction, ou le bilboquet. On imagine cependant mal un jeu de
    hasard ou d'adresse sans incertitude. Il semble pourtant que les jeux
-   de rÃ´les obÃ©issent Ã  un autre principe : participer d'une existence qui
-   nous est inaccessible. Cependant, mÃªme dans ce cas, il y a bien une
-   sorte de dÃ©fi car il n'est pas si facile d'agir continuellement comme
-   un autre. Selon Caillois, la rÃ¨gle du jeu est alors unique ; elle
-   consiste Â« Ã  fasciner le spectateur, en Ã©vitant qu'une faute conduise
-   celui-ci Ã  refuser l'illusion Â»^[rÃ©f. souhaitÃ©e]. On peut de fait
+   de rôles obéissent à un autre principe : participer d'une existence qui
+   nous est inaccessible. Cependant, même dans ce cas, il y a bien une
+   sorte de défi car il n'est pas si facile d'agir continuellement comme
+   un autre. Selon Caillois, la règle du jeu est alors unique ; elle
+   consiste « à fasciner le spectateur, en évitant qu'une faute conduise
+   celui-ci à refuser l'illusion »^[réf. souhaitée]. On peut de fait
    remarquer que dans certains jeux, il suffit, pour l'emporter, de
-   respecter la rÃ¨gle le plus longtemps possible, de demeurer dans le
-   jeu : ainsi le ni oui ni non. Enfin, il y a une certaine proximitÃ©
+   respecter la règle le plus longtemps possible, de demeurer dans le
+   jeu : ainsi le ni oui ni non. Enfin, il y a une certaine proximité
    entre triompher du hasard, ou d'un adversaire, parfois de la mort, mais
    dans un univers strictement conventionnel, et s'affranchir par
-   l'imitation de ses propres limites. Caillois reconnaÃ®t encore une
-   quatriÃ¨me sorte de jeux, Ã  cÃ´tÃ© des compÃ©titions (agÃ´n), des jeux de
-   hasard (alea), et des jeux de rÃ´les (mimicry). Il s'agit de ces
-   activitÃ©s qui n'ont pas d'autre but que le vertige (ilinx), comme de
-   nombreuses attractions de fÃªtes foraines. Indiscutablement, elles
-   enveloppent une dimension de dÃ©fi, c'est-Ã -dire ici de courage
+   l'imitation de ses propres limites. Caillois reconnaît encore une
+   quatrième sorte de jeux, à côté des compétitions (agôn), des jeux de
+   hasard (alea), et des jeux de rôles (mimicry). Il s'agit de ces
+   activités qui n'ont pas d'autre but que le vertige (ilinx), comme de
+   nombreuses attractions de fêtes foraines. Indiscutablement, elles
+   enveloppent une dimension de défi, c'est-à-dire ici de courage
    physique. Quels que soient les enjeux, le beau joueur ne doit pas
-   accorder trop d'importance Ã  la victoire, ou Ã  la dÃ©faite, parce que ce
-   n'est prÃ©cisÃ©ment qu'un jeu, rÃ©putÃ© sans consÃ©quences. Pourtant, s'il
-   ne leur accordait aucune importance, le jeu perdrait tout intÃ©rÃªt. Tout
-   le dÃ©roulement de la partie d'Ã©checs se rattache Ã  la prÃ©servation du
-   roi, Ã  son assimilation provisoire au Moi du joueur. Celui-ci doit Ãªtre
-   capable d'investir le plus intensÃ©ment possible cette convention, et de
-   retirer instantanÃ©ment cet investissement lorsque la partie est finie.
-   Le jeu est ainsi une crÃ©ation dont le joueur reste maÃ®tre (Karl
-   Groos)^[rÃ©f. souhaitÃ©e].
+   accorder trop d'importance à la victoire, ou à la défaite, parce que ce
+   n'est précisément qu'un jeu, réputé sans conséquences. Pourtant, s'il
+   ne leur accordait aucune importance, le jeu perdrait tout intérêt. Tout
+   le déroulement de la partie d'échecs se rattache à la préservation du
+   roi, à son assimilation provisoire au Moi du joueur. Celui-ci doit être
+   capable d'investir le plus intensément possible cette convention, et de
+   retirer instantanément cet investissement lorsque la partie est finie.
+   Le jeu est ainsi une création dont le joueur reste maître (Karl
+   Groos)^[réf. souhaitée].
 
 Jeu et morale[modifier | modifier le code]
 
-   Des moralistes condamnent le jeu, en ce qu'il dÃ©tourne des activitÃ©s
-   productives et religieuses. Cette condamnation, assez gÃ©nÃ©rale en ce
-   qui concerne les jeux d'argent, oÃ¹ le gain ne dÃ©pend pas de l'utilitÃ©
-   du joueur Ã  la sociÃ©tÃ©, et aux jeux de hasard, oÃ¹ s'exprime un culte de
-   la chance, s'Ã©tend, chez des auteurs puritains ou rigoristes chrÃ©tiens,
-   musulmans ou bouddhistes, Ã  tous les jeux et divertissements.
+   Des moralistes condamnent le jeu, en ce qu'il détourne des activités
+   productives et religieuses. Cette condamnation, assez générale en ce
+   qui concerne les jeux d'argent, où le gain ne dépend pas de l'utilité
+   du joueur à la société, et aux jeux de hasard, où s'exprime un culte de
+   la chance, s'étend, chez des auteurs puritains ou rigoristes chrétiens,
+   musulmans ou bouddhistes, à tous les jeux et divertissements.
 
-   Ã‰tienne de La BoÃ©tie dans son Discours de la servitude volontaire prend
-   ainsi, dans une lecture libre d'HÃ©rodote^[31], l'exemple de Cyrus, qui
-   pour assujettir la Lydie, n'aurait pas usÃ© de la force ou de la
-   destruction, mais y aurait Ã©tabli Â« des bordels, des tavernes et des
-   jeux publics Â» pour affaiblir les Lydiens, qui au lieu de s'insurger,
-   se mirent Ã  inventer toute sorte de jeux^[32].
+   Étienne de La Boétie dans son Discours de la servitude volontaire prend
+   ainsi, dans une lecture libre d'Hérodote^[31], l'exemple de Cyrus, qui
+   pour assujettir la Lydie, n'aurait pas usé de la force ou de la
+   destruction, mais y aurait établi « des bordels, des tavernes et des
+   jeux publics » pour affaiblir les Lydiens, qui au lieu de s'insurger,
+   se mirent à inventer toute sorte de jeux^[32].
 
-Jeu et Ã©ducation[modifier | modifier le code]
+Jeu et éducation[modifier | modifier le code]
 
    Cette section ne cite pas suffisamment ses sources (janvier 2016).
-   Pour l'amÃ©liorer, ajoutez des rÃ©fÃ©rences de qualitÃ© et vÃ©rifiables
-   (comment faire ?) ou le modÃ¨le {{RÃ©fÃ©rence nÃ©cessaire}} sur les
-   passages nÃ©cessitant une source.
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
 
-   Johan Huizinga affirmait que Â« jusqu'Ã  un certain point, la
-   compÃ©tition, comme tout autre jeu, est dÃ©pourvue de
-   but Â»^[rÃ©f. souhaitÃ©e]. Pourtant, si le jeu d'Ã©checs est inutile,
+   Johan Huizinga affirmait que « jusqu'à un certain point, la
+   compétition, comme tout autre jeu, est dépourvue de
+   but »^[réf. souhaitée]. Pourtant, si le jeu d'échecs est inutile,
    l'intelligence ne l'est point. Le jeu n'apprend pas de recettes, il
-   dÃ©veloppe des aptitudes gÃ©nÃ©rales (Caillois)^[rÃ©f. souhaitÃ©e]. Il est
-   vrai qu'une intelligence purement Ã©chiquÃ©enne serait remarquablement
-   inadaptÃ©e Ã  la vie. Jean Piaget a montrÃ© aussi quel rÃ´le jouait le jeu
-   dans la formation morale de l'enfant, son rapport Ã  la rÃ¨gle comme aux
-   valeurs d'Ã©galitÃ© et de justice. Ajoutons que si l'important est
-   Â« d'avoir gagnÃ© Â», indÃ©pendamment de toute consÃ©quence, Huizinga
-   lui-mÃªme constatait que cette supÃ©rioritÃ© tendait Â« Ã  prendre
-   l'apparence d'une supÃ©rioritÃ© en gÃ©nÃ©ral Â»^[33]. Ã€ le lire, le jeu est
-   mÃªme partie intÃ©grante de la logique de sociÃ©tÃ©s entiÃ¨res, dans leur
-   existence politique, juridique, guerriÃ¨re. Ces sociÃ©tÃ©s obÃ©iraient en
-   effet davantage Ã  la pulsion de jeu chÃ¨re Ã  Schiller qu'au principe de
-   rÃ©alitÃ©. Dans ces sociÃ©tÃ©s ludiques, individus et groupes seraient
-   moins friands d'avantages matÃ©riels que de l'honneur d'avoir bien jouÃ©.
+   développe des aptitudes générales (Caillois)^[réf. souhaitée]. Il est
+   vrai qu'une intelligence purement échiquéenne serait remarquablement
+   inadaptée à la vie. Jean Piaget a montré aussi quel rôle jouait le jeu
+   dans la formation morale de l'enfant, son rapport à la règle comme aux
+   valeurs d'égalité et de justice. Ajoutons que si l'important est
+   « d'avoir gagné », indépendamment de toute conséquence, Huizinga
+   lui-même constatait que cette supériorité tendait « à prendre
+   l'apparence d'une supériorité en général »^[33]. À le lire, le jeu est
+   même partie intégrante de la logique de sociétés entières, dans leur
+   existence politique, juridique, guerrière. Ces sociétés obéiraient en
+   effet davantage à la pulsion de jeu chère à Schiller qu'au principe de
+   réalité. Dans ces sociétés ludiques, individus et groupes seraient
+   moins friands d'avantages matériels que de l'honneur d'avoir bien joué.
    Ainsi, il ne s'agira pas de gagner la guerre par tous les moyens, mais
-   de laisser une chance Ã  l'adversaire, de s'exposer soi-mÃªme avec
-   vaillance. Lâ€™homo ludens doit montrer qu'il est capable de mettre de
-   bon cÅ“ur en jeu sa vie. Il entend s'affronter au destin, toujours
-   ambigu, et Ã  son vertige, le provoquer, mÃªme. Le risque est donc autant
-   le propre du dÃ©tachement ludique, d'un certain parti du Â« tout ou
-   rien Â», que de l'engagement ou de la foi. Mais s'il est facile de tout
+   de laisser une chance à l'adversaire, de s'exposer soi-même avec
+   vaillance. L'homo ludens doit montrer qu'il est capable de mettre de
+   bon coeur en jeu sa vie. Il entend s'affronter au destin, toujours
+   ambigu, et à son vertige, le provoquer, même. Le risque est donc autant
+   le propre du détachement ludique, d'un certain parti du « tout ou
+   rien », que de l'engagement ou de la foi. Mais s'il est facile de tout
    perdre, on ne saurait tout gagner...
 
-Le jeu comme outil Ã©ducatif[modifier | modifier le code]
+Le jeu comme outil éducatif[modifier | modifier le code]
 
    [220px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art
    _Project.jpg] Les Jeux d'enfants, par Pieter Brueghel l'Ancien (1560),
    Kunsthistorisches Museum.
 
-   Longtemps, les Ã©ducateurs ont tenu le jeu en piÃ¨tre estime. Dans la
-   thÃ©orie du jeu de Friedrich Schiller, reprise et mise Ã  jour par
-   Herbert Spencer Â« Le jeu est un moyen d'employer l'Ã©nergie superflue,
-   une sorte de soupape de la jeunesse Â»^[34]. Alain estimait que l'Ã©cole
+   Longtemps, les éducateurs ont tenu le jeu en piètre estime. Dans la
+   théorie du jeu de Friedrich Schiller, reprise et mise à jour par
+   Herbert Spencer « Le jeu est un moyen d'employer l'énergie superflue,
+   une sorte de soupape de la jeunesse »^[34]. Alain estimait que l'école
    devait tenir le milieu entre le jeu, qui enferme l'enfant dans
-   l'enfance, et le sÃ©rieux, qui l'enferme dans l'utile. MÃªme CÃ©lestin
-   Freinet se mÃ©fiait du jeu, car l'Ã©ducation doit donner Ã  l'enfant de
-   vÃ©ritables responsabilitÃ©s, elle doit privilÃ©gier la forme du travail
-   et de la coopÃ©ration laborieuse. Certes, le jeu a eu quelques
-   dÃ©fenseurs comme Platon^[35] ou Locke^[36], mais son rÃ´le dans le
-   dÃ©veloppement de l'enfant n'a rÃ©ellement Ã©tÃ© pris au sÃ©rieux qu'au
-   cours du XX^e siÃ¨cle. En ce sens, le caractÃ¨re gratuit du jeu tend Ã 
-   Ãªtre Ã©vacuÃ© par certaines pÃ©dagogies contemporaines, ainsi l'Action
-   Catholique des Enfants utilise le jeu comme outil pÃ©dagogique pour
-   discuter avec les enfants des sujets de sociÃ©tÃ©.
+   l'enfance, et le sérieux, qui l'enferme dans l'utile. Même Célestin
+   Freinet se méfiait du jeu, car l'éducation doit donner à l'enfant de
+   véritables responsabilités, elle doit privilégier la forme du travail
+   et de la coopération laborieuse. Certes, le jeu a eu quelques
+   défenseurs comme Platon^[35] ou Locke^[36], mais son rôle dans le
+   développement de l'enfant n'a réellement été pris au sérieux qu'au
+   cours du XX^e siècle. En ce sens, le caractère gratuit du jeu tend à
+   être évacué par certaines pédagogies contemporaines, ainsi l'Action
+   Catholique des Enfants utilise le jeu comme outil pédagogique pour
+   discuter avec les enfants des sujets de société.
 
 Jeu et apprentissage scolaire[modifier | modifier le code]
 
-   Les jeux pÃ©dagogiques contribuent Ã  l'acquisition de connaissances ou
-   de compÃ©tences. Ils sont de plus en plus reconnus par les pÃ©dagogues et
+   Les jeux pédagogiques contribuent à l'acquisition de connaissances ou
+   de compétences. Ils sont de plus en plus reconnus par les pédagogues et
    les enseignants comme utiles, pour les raisons suivantes :
-     * Les enfants aiment et ont besoin de jouer. Un contenu perÃ§u comme
-       ennuyeux, peut les passionner une fois formulÃ© sous forme ludique.
+     * Les enfants aiment et ont besoin de jouer. Un contenu perçu comme
+       ennuyeux, peut les passionner une fois formulé sous forme ludique.
      * Les joueurs jouent ensemble : leur attention est soutenue, au
-       contraire d'un cours oÃ¹ les Ã©lÃ¨ves peuvent penser Ã  autre chose.
+       contraire d'un cours où les élèves peuvent penser à autre chose.
      * La motivation de gagner renforce l'attention
-     * Les jeux de sociÃ©tÃ© socialisent les enfants qui apprennent Ã 
-       respecter une rÃ¨gle commune, ce qui fait partie des objectifs de
-       l'Ã©cole maternelle et primaire.
-     * Les parents sont le plus souvent favorables Ã  cette approche, qui
-       leur permet parfois de prolonger l'expÃ©rience scolaire Ã  la maison.
+     * Les jeux de société socialisent les enfants qui apprennent à
+       respecter une règle commune, ce qui fait partie des objectifs de
+       l'école maternelle et primaire.
+     * Les parents sont le plus souvent favorables à cette approche, qui
+       leur permet parfois de prolonger l'expérience scolaire à la maison.
 
-   On constate Ã©galement que les jeux de sociÃ©tÃ© promeuvent l'esprit de
-   coopÃ©ration :
-     * Les jeux coopÃ©ratifs visent Ã  parvenir Ã  un objectif commun. Ils
-       contribuent Ã  faire comprendre la valeur du travail en Ã©quipe,
-       essentielle dans la vie rÃ©elle.
-     * On constate souvent en classe que les Ã©lÃ¨ves les plus forts aident
-       les moins forts Ã  progresser.
-     * Le respect des rÃ¨gles est en soi une forme de coopÃ©ration
+   On constate également que les jeux de société promeuvent l'esprit de
+   coopération :
+     * Les jeux coopératifs visent à parvenir à un objectif commun. Ils
+       contribuent à faire comprendre la valeur du travail en équipe,
+       essentielle dans la vie réelle.
+     * On constate souvent en classe que les élèves les plus forts aident
+       les moins forts à progresser.
+     * Le respect des règles est en soi une forme de coopération
 
-   C'est pourquoi les jeux pÃ©dagogiques traditionnellement utilisÃ©s
-   surtout en maternelle se dÃ©veloppent maintenant Ã  l'Ã©cole primaire, au
-   collÃ¨ge et plus tard.
+   C'est pourquoi les jeux pédagogiques traditionnellement utilisés
+   surtout en maternelle se développent maintenant à l'école primaire, au
+   collège et plus tard.
 
-   Le dÃ©veloppement rÃ©cent des jeux pÃ©dagogiques en formation continue des
-   adultes est remarquable. On note l'utilisation frÃ©quente des jeux de
-   rÃ´les ou de simulation, qui mettent les participants dans des
-   situations proches de situations de travail rÃ©elles. Ils permettent
-   Ã©galement se simuler les relations de travail pour Ã©duquer les
-   comportements, pas seulement les compÃ©tences.
+   Le développement récent des jeux pédagogiques en formation continue des
+   adultes est remarquable. On note l'utilisation fréquente des jeux de
+   rôles ou de simulation, qui mettent les participants dans des
+   situations proches de situations de travail réelles. Ils permettent
+   également se simuler les relations de travail pour éduquer les
+   comportements, pas seulement les compétences.
 
-   Il faut opposer les jeux pÃ©dagogiques aux jeux Ã©ducatifs. Du point de
-   vue de la ludologie, les jeux Ã©ducatifs n'existent pas car un jeu ne
+   Il faut opposer les jeux pédagogiques aux jeux éducatifs. Du point de
+   vue de la ludologie, les jeux éducatifs n'existent pas car un jeu ne
    tend que vers le plaisir qui est incompatible avec la contrainte de
-   l'apprentissage^[rÃ©f. nÃ©cessaire]. En revanche, les jeux dits
-   pÃ©dagogiques prÃ©tendent intÃ©grer des valeurs sociales de faÃ§on
-   amusante : coopÃ©rer plutÃ´t que s'affronter, rÃ©flÃ©chir avant d'agir,
+   l'apprentissage^[réf. nécessaire]. En revanche, les jeux dits
+   pédagogiques prétendent intégrer des valeurs sociales de façon
+   amusante : coopérer plutôt que s'affronter, réfléchir avant d'agir,
    savoir partager des ressources ou des informations, etc. Mais leur
-   valeur pÃ©dagogique reste intimement liÃ©e Ã  la facultÃ© d'analyse de
-   chaque participant ou, Ã  dÃ©faut, Ã  l'encadrement de cette analyse en
+   valeur pédagogique reste intimement liée à la faculté d'analyse de
+   chaque participant ou, à défaut, à l'encadrement de cette analyse en
    fin de partie.
 
 Jeu symbolique[modifier | modifier le code]
 
-   Le jeu est un comportement complexe qui est associÃ© Ã  une motivation
-   intrinsÃ¨que plutÃ´t quâ€™extrinsÃ¨que ; est habituellement spontanÃ© et
-   plaisant ; est dirigÃ© par le joueur lui-mÃªme et implique un engagement
-   actif non obligatoire^[37]. Le jeu a Ã©tÃ© identifiÃ© comme Ã©tant la
-   premiÃ¨re occupation dans laquelle lâ€™humain sâ€™engage durant sa vie^[38].
-   En ergothÃ©rapie et en psychomotricitÃ©, le jeu est utilisÃ© pour Ã©valuer
-   le dÃ©veloppement de lâ€™enfant, comme moyen dâ€™intervention auprÃ¨s de
-   lâ€™enfant^[39] ou encore comme Ã©lÃ©ment renforÃ§ateur^[40]. DiffÃ©rents
-   types de jeu sont observÃ©s selon les stades de dÃ©veloppement de
-   lâ€™enfant.
+   Le jeu est un comportement complexe qui est associé à une motivation
+   intrinsèque plutôt qu'extrinsèque ; est habituellement spontané et
+   plaisant ; est dirigé par le joueur lui-même et implique un engagement
+   actif non obligatoire^[37]. Le jeu a été identifié comme étant la
+   première occupation dans laquelle l'humain s'engage durant sa vie^[38].
+   En ergothérapie et en psychomotricité, le jeu est utilisé pour évaluer
+   le développement de l'enfant, comme moyen d'intervention auprès de
+   l'enfant^[39] ou encore comme élément renforçateur^[40]. Différents
+   types de jeu sont observés selon les stades de développement de
+   l'enfant.
 
-   Vers lâ€™Ã¢ge dÃ©veloppemental de 18 mois, lâ€™enfant joue de faÃ§on
+   Vers l'âge développemental de 18 mois, l'enfant joue de façon
    conventionnelle avec les objets car il est en mesure de comprendre la
-   fonction dâ€™un objet. Par exemple, il utilise le peigne pour se peigner.
-   Cela dit, plus lâ€™enfant Ã©volue, plus il jouera de faÃ§on imaginative
-   avec les objets et câ€™est Ã  ce moment que sâ€™exprime le jeu symbolique
-   (jeu de faire semblant)^[41]. Selon Piaget, le jeu symbolique Ã©merge
-   durant le stade prÃ©opÃ©ratoire (2^e stade dÃ©veloppemental allant de deux
-   Ã  six ans) et vient sâ€™ajouter au jeu sensori-moteur qui est dÃ©jÃ 
-   prÃ©sent Ã  cet Ã¢ge^[42]. Il existe deux types de jeu symbolique soit le
-   jeu individuel et le jeu social c'est-Ã -dire le jeu effectuÃ© seul ou
-   avec des pairs^[43]. Le jeu symbolique implique lâ€™utilisation de la
-   reprÃ©sentation dâ€™un objet absent et imaginÃ© ou la substitution dâ€™objet
-   pour jouer. En jouant Ã  faire semblant, lâ€™enfant peut symboliquement
-   changer son identitÃ© et/ou celle dâ€™un objet selon les exigences du
-   contexte de jeu^[44]. Par exemple, lâ€™enfant qui bouge un crayon en
-   imaginant que câ€™est un avion reprÃ©sente symboliquement lâ€™avion par le
+   fonction d'un objet. Par exemple, il utilise le peigne pour se peigner.
+   Cela dit, plus l'enfant évolue, plus il jouera de façon imaginative
+   avec les objets et c'est à ce moment que s'exprime le jeu symbolique
+   (jeu de faire semblant)^[41]. Selon Piaget, le jeu symbolique émerge
+   durant le stade préopératoire (2^e stade développemental allant de deux
+   à six ans) et vient s'ajouter au jeu sensori-moteur qui est déjà
+   présent à cet âge^[42]. Il existe deux types de jeu symbolique soit le
+   jeu individuel et le jeu social c'est-à-dire le jeu effectué seul ou
+   avec des pairs^[43]. Le jeu symbolique implique l'utilisation de la
+   représentation d'un objet absent et imaginé ou la substitution d'objet
+   pour jouer. En jouant à faire semblant, l'enfant peut symboliquement
+   changer son identité et/ou celle d'un objet selon les exigences du
+   contexte de jeu^[44]. Par exemple, l'enfant qui bouge un crayon en
+   imaginant que c'est un avion représente symboliquement l'avion par le
    crayon^[45]^[source insuffisante]. Cette forme de jeu montre
-   lâ€™apparition et lâ€™Ã©volution de la fonction sÃ©miotique câ€™est-Ã -dire que
-   lâ€™enfant comprend quâ€™une chose peut en reprÃ©senter une autre^[46]^,
-   ^[41]. Selon Ferland, câ€™est entre trois et cinq ans que lâ€™enfant
-   dÃ©veloppe des scÃ©narios de jeu et arrive Ã  jouer avec des mots, des
-   concepts et des idÃ©es. Par exemple, lâ€™enfant est en mesure dâ€™attribuer
-   des rÃ´les plus prÃ©cis Ã  diffÃ©rents personnages. Toutefois, jusquâ€™Ã 
-   lâ€™Ã¢ge dâ€™environ quatre ans, lâ€™enfant a de la difficultÃ© Ã  diffÃ©rencier
-   le monde rÃ©el de son monde imaginaire^[41]. Ã€ partir de cet Ã¢ge, le jeu
-   symbolique se complexifie car lâ€™enfant peut maintenant Ã©laborer de
-   faÃ§on imaginative des situations plus complexes. Par exemple, lâ€™enfant
-   peut sâ€™inventer un monde imaginaire autre que le monde dans lequel il
+   l'apparition et l'évolution de la fonction sémiotique c'est-à-dire que
+   l'enfant comprend qu'une chose peut en représenter une autre^[46]^,
+   ^[41]. Selon Ferland, c'est entre trois et cinq ans que l'enfant
+   développe des scénarios de jeu et arrive à jouer avec des mots, des
+   concepts et des idées. Par exemple, l'enfant est en mesure d'attribuer
+   des rôles plus précis à différents personnages. Toutefois, jusqu'à
+   l'âge d'environ quatre ans, l'enfant a de la difficulté à différencier
+   le monde réel de son monde imaginaire^[41]. À partir de cet âge, le jeu
+   symbolique se complexifie car l'enfant peut maintenant élaborer de
+   façon imaginative des situations plus complexes. Par exemple, l'enfant
+   peut s'inventer un monde imaginaire autre que le monde dans lequel il
    vit actuellement^[47].
 
-   Le jeu symbolique nÃ©cessite la prÃ©sence de certaines habiletÃ©s chez
-   lâ€™enfant telles que la capacitÃ© de rÃ©solution de problÃ¨me, la
-   reprÃ©sentation, la mÃ©moire, lâ€™attention, la concentration, la
-   visualisation, lâ€™organisation de la pensÃ©e, la flexibilitÃ© et
-   adaptabilitÃ© de la pensÃ©e, la pensÃ©e logique sÃ©quentielle, le langage,
-   la capacitÃ© de dÃ©contextualisation du langage, la capacitÃ© de
-   gÃ©nÃ©ralisation, la compÃ©tence narrative, la comprÃ©hension des rÃ¨gles et
-   rÃ´les sociaux, la comprÃ©hension Ã©motionnelle et les capacitÃ©s motrices
-   et sensorimotrices. Inversement, le jeu symbolique permet Ã  lâ€™enfant
-   dâ€™apprendre de nouvelles habiletÃ©s, de nouveaux comportements, de
-   dÃ©velopper son langage, de partager ses expÃ©riences Ã©motionnelles,
-   dâ€™apprendre Ã  penser^[48]^,^[49] et de se dÃ©velopper au niveau
-   physique^[50]. De plus, le jeu symbolique est le prÃ©curseur du
-   dÃ©veloppement du sens de lâ€™humour^[41].
+   Le jeu symbolique nécessite la présence de certaines habiletés chez
+   l'enfant telles que la capacité de résolution de problème, la
+   représentation, la mémoire, l'attention, la concentration, la
+   visualisation, l'organisation de la pensée, la flexibilité et
+   adaptabilité de la pensée, la pensée logique séquentielle, le langage,
+   la capacité de décontextualisation du langage, la capacité de
+   généralisation, la compétence narrative, la compréhension des règles et
+   rôles sociaux, la compréhension émotionnelle et les capacités motrices
+   et sensorimotrices. Inversement, le jeu symbolique permet à l'enfant
+   d'apprendre de nouvelles habiletés, de nouveaux comportements, de
+   développer son langage, de partager ses expériences émotionnelles,
+   d'apprendre à penser^[48]^,^[49] et de se développer au niveau
+   physique^[50]. De plus, le jeu symbolique est le précurseur du
+   développement du sens de l'humour^[41].
 
-   Selon certains auteurs, ce sont les habiletÃ©s cognitives, sociales et
-   Ã©motionnelles qui ont le plus grand impact sur la capacitÃ© de lâ€™enfant
-   Ã  jouer Ã  des jeux symboliques. En lâ€™absence de ces diffÃ©rentes
-   habiletÃ©s, lâ€™enfant Ã©prouvera des difficultÃ©s dans un contexte de jeu
+   Selon certains auteurs, ce sont les habiletés cognitives, sociales et
+   émotionnelles qui ont le plus grand impact sur la capacité de l'enfant
+   à jouer à des jeux symboliques. En l'absence de ces différentes
+   habiletés, l'enfant éprouvera des difficultés dans un contexte de jeu
    symbolique, ce qui restreindrait son niveau de participation pouvant
-   alors contribuer potentiellement Ã  certains problÃ¨mes dâ€™apprentissage
-   et dâ€™interactions sociales avec ses pairs^[51].
+   alors contribuer potentiellement à certains problèmes d'apprentissage
+   et d'interactions sociales avec ses pairs^[51].
 
-Ludant et LudÃ©[modifier | modifier le code]
+Ludant et Ludé[modifier | modifier le code]
 
    Cette section ne cite pas suffisamment ses sources (janvier 2016).
-   Pour l'amÃ©liorer, ajoutez des rÃ©fÃ©rences de qualitÃ© et vÃ©rifiables
-   (comment faire ?) ou le modÃ¨le {{RÃ©fÃ©rence nÃ©cessaire}} sur les
-   passages nÃ©cessitant une source.
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
 
    Chaque jeu a deux faces au moins, indissociables. D'une part, il y a un
-   (des) objet(s) matÃ©riel(s) (un terrain, un plateau de jeu, des pions,
-   un ballon...) dont l'usage est contraint par les rÃ¨gles du jeu. D'autre
+   (des) objet(s) matériel(s) (un terrain, un plateau de jeu, des pions,
+   un ballon...) dont l'usage est contraint par les règles du jeu. D'autre
    part, il y a des valeurs qui renvoient symboliquement au fonctionnement
-   du monde. Ainsi, il existe des jeux oÃ¹ affamer son adversaire permet de
-   gagner (Monopoly, par exemple) et d'autres oÃ¹ cela est interdit (AwÃ©lÃ©,
-   par exemple), des jeux oÃ¹ l'extermination est la rÃ¨gle (dames) et
-   d'autres oÃ¹ dominer suffit (jeu d'Ã©checs).
+   du monde. Ainsi, il existe des jeux où affamer son adversaire permet de
+   gagner (Monopoly, par exemple) et d'autres où cela est interdit (Awélé,
+   par exemple), des jeux où l'extermination est la règle (dames) et
+   d'autres où dominer suffit (jeu d'échecs).
 
-   La premiÃ¨re face est le Â« ludant Â», ce qui permet de jouer. La seconde
-   ce qui est jouÃ©, le Â« ludÃ© Â». Exemple : Le jeu de dÃ®nette permet Ã 
-   l'enfant de se prendre pour un adulte qui s'adonne aux tÃ¢ches
-   domestiques du mÃ©nage. L'enfant s'essaye ainsi Ã  occuper la place de
-   l'adulte qui, dans la famille, fait Ã  manger. Il fait alors comme s'il
-   Ã©tait grand. D'un cÃ´tÃ© le ludant Â« dÃ®nette Â», de l'autre le ludÃ©
-   Â« place sociale Â».
+   La première face est le « ludant », ce qui permet de jouer. La seconde
+   ce qui est joué, le « ludé ». Exemple : Le jeu de dînette permet à
+   l'enfant de se prendre pour un adulte qui s'adonne aux tâches
+   domestiques du ménage. L'enfant s'essaye ainsi à occuper la place de
+   l'adulte qui, dans la famille, fait à manger. Il fait alors comme s'il
+   était grand. D'un côté le ludant « dînette », de l'autre le ludé
+   « place sociale ».
 
-   Cette facultÃ© du jeu de modÃ©liser les valeurs morales, mais aussi
-   formelles du monde, en fait un outil Ã©ducatif potentiellement puissant.
+   Cette faculté du jeu de modéliser les valeurs morales, mais aussi
+   formelles du monde, en fait un outil éducatif potentiellement puissant.
 
-   Ces nÃ©ologismes (ludant et ludÃ©), non justifiÃ©s scientifiquement, font
-   une rÃ©fÃ©rence explicite aux termes de la linguistique Â« signifiant Â» et
-   Â« signifiÃ© Â». Dans ce cadre, pourquoi ne pas utiliser les mots
-   gÃ©nÃ©riques du domaine reconnus de faÃ§on acadÃ©mique ? Plus encore, quel
-   est le ludant dans un jeu comme Â« chat Â» et quel est le ludÃ© dans un
-   jeu comme le Â« morpion Â» ?
+   Ces néologismes (ludant et ludé), non justifiés scientifiquement, font
+   une référence explicite aux termes de la linguistique « signifiant » et
+   « signifié ». Dans ce cadre, pourquoi ne pas utiliser les mots
+   génériques du domaine reconnus de façon académique ? Plus encore, quel
+   est le ludant dans un jeu comme « chat » et quel est le ludé dans un
+   jeu comme le « morpion » ?
 
 Types de jeux[modifier | modifier le code]
 
 Jeux d'argent[modifier | modifier le code]
 
-   [220px-Roulette-Tisch.jpg] Une table de roulette Ã  Wiesbaden.
-   Articles dÃ©taillÃ©s : Jeu de hasard, Casino (lieu) et Loterie.
+   [220px-Roulette-Tisch.jpg] Une table de roulette à Wiesbaden.
+   Articles détaillés : Jeu de hasard, Casino (lieu) et Loterie.
 
    La plupart des jeux d'argent font appel au hasard : jeux de hasard pur
-   (loterie, roulette...), jeux de hasard raisonnÃ© se pratiquant avec des
-   cartes comme le poker ou avec des dÃ©s comme le backgammon.
+   (loterie, roulette...), jeux de hasard raisonné se pratiquant avec des
+   cartes comme le poker ou avec des dés comme le backgammon.
 
-   Dans les jeux de hasard pur, les stratÃ©gies qui tentent d'augmenter les
-   chances sont appelÃ©es martingales. Les personnes qui s'adonnent Ã  ces
-   jeux de hasard et d'argent (gambling, en anglais) peuvent dÃ©velopper
-   une forte dÃ©pendance Ã  ceux-ci. On nomme cette psychopathologie
-   (addiction, en anglais) Â« jeu pathologique Â» ou Â« jeu excessif Â».
+   Dans les jeux de hasard pur, les stratégies qui tentent d'augmenter les
+   chances sont appelées martingales. Les personnes qui s'adonnent à ces
+   jeux de hasard et d'argent (gambling, en anglais) peuvent développer
+   une forte dépendance à ceux-ci. On nomme cette psychopathologie
+   (addiction, en anglais) « jeu pathologique » ou « jeu excessif ».
 
-   Dans certains pays, les Ã‰tats tirent une part importante de leurs
-   revenus de jeux organisÃ©s Ã  l'Ã©chelle du pays : loterie ou loto
-   national, pari mutuel urbain, etc. Les Ã‰tats-Unis veulent empÃªcher
-   leurs rÃ©sidents de jouer sur des sites basÃ©s Ã  l'Ã©tranger. Ils ont Ã©tÃ©
-   condamnÃ©s Ã  l'OMC et ont encore renforcÃ© leur loi au nom de la
-   moralitÃ©.^[rÃ©f. nÃ©cessaire] Ensuite, ils ont lÃ©gifÃ©rÃ© de telle sorte
-   que les rÃ¨gles de l'OMC ne s'appliquent plus aux jeux et aux paris en
-   ligne.^[rÃ©f. nÃ©cessaire]
+   Dans certains pays, les États tirent une part importante de leurs
+   revenus de jeux organisés à l'échelle du pays : loterie ou loto
+   national, pari mutuel urbain, etc. Les États-Unis veulent empêcher
+   leurs résidents de jouer sur des sites basés à l'étranger. Ils ont été
+   condamnés à l'OMC et ont encore renforcé leur loi au nom de la
+   moralité.^[réf. nécessaire] Ensuite, ils ont légiféré de telle sorte
+   que les règles de l'OMC ne s'appliquent plus aux jeux et aux paris en
+   ligne.^[réf. nécessaire]
 
-   Ã‰galement, les jeux d'argent clandestins varient en importance relative
+   Également, les jeux d'argent clandestins varient en importance relative
    selon les pays.
 
    Les casinos et salles de jeu accueillent des jeux traditionnels comme
-   la roulette, le Jeu de la boule ou les machines Ã  sous. On peut y
+   la roulette, le Jeu de la boule ou les machines à sous. On peut y
    pratiquer des jeux de cartes comme le baccara, le chemin de fer ou le
    blackjack.
 
-   Le jeu pathologique est semblable Ã  la dÃ©pendance Ã  l'alcool et aux
-   drogues. Par le jeu, la personne ayant un problÃ¨me de jeu excessif
-   maintient un ensemble de comportements qui mettent en pÃ©ril sa vie
+   Le jeu pathologique est semblable à la dépendance à l'alcool et aux
+   drogues. Par le jeu, la personne ayant un problème de jeu excessif
+   maintient un ensemble de comportements qui mettent en péril sa vie
    personnelle, familiale ou professionnelle et celle de son entourage.
 
-Jeux de sociÃ©tÃ©[modifier | modifier le code]
+Jeux de société[modifier | modifier le code]
 
-   Article dÃ©taillÃ© : Jeu de sociÃ©tÃ©.
+   Article détaillé : Jeu de société.
 
-   Cette famille est trÃ¨s vaste et on y dÃ©nombre toutes sortes de variÃ©tÃ©s
-   de jeux : jeux de rÃ©flexion, jeux de hasard pur ou raisonnÃ©, jeux de
-   dÃ©duction, jeux de lettres, jeux de connaissance, etc.
+   Cette famille est très vaste et on y dénombre toutes sortes de variétés
+   de jeux : jeux de réflexion, jeux de hasard pur ou raisonné, jeux de
+   déduction, jeux de lettres, jeux de connaissance, etc.
 
-   Certains jeux de sociÃ©tÃ©, devenus trÃ¨s importants, rÃ©unissent des
-   communautÃ©s de joueurs qui s'y consacrent presque exclusivement.
+   Certains jeux de société, devenus très importants, réunissent des
+   communautés de joueurs qui s'y consacrent presque exclusivement.
 
-   C'est par exemple le cas pour des jeux trÃ¨s classiques, comme le jeu
-   d'Ã©checs, le bridge ou le Scrabble. Mais c'est Ã©galement le cas de jeux
-   plus rÃ©cents comme les jeux de simulation, dont les rÃ¨gles visent Ã 
-   dÃ©crire de maniÃ¨re fine certaines situations et en particulier, les
-   jeux de rÃ´le et les jeux de guerre et plus spÃ©cialement les jeux de
+   C'est par exemple le cas pour des jeux très classiques, comme le jeu
+   d'échecs, le bridge ou le Scrabble. Mais c'est également le cas de jeux
+   plus récents comme les jeux de simulation, dont les règles visent à
+   décrire de manière fine certaines situations et en particulier, les
+   jeux de rôle et les jeux de guerre et plus spécialement les jeux de
    figurines.
 
 Jeux solitaires[modifier | modifier le code]
 
-   Article dÃ©taillÃ© : Casse-tÃªte.
+   Article détaillé : Casse-tête.
 
-   Parmi les jeux qui se pratiquent seuls, on trouve tous les casse-tÃªte
+   Parmi les jeux qui se pratiquent seuls, on trouve tous les casse-tête
    comme le Cube de Rubik, le tangram ou le Puzzle multi-pyramidal.
-   Certains jeux ne demandent qu'un papier et un crayon comme les Ã©nigmes,
-   les mots croisÃ©s ou les sudokus que l'on trouve gÃ©nÃ©ralement dans des
+   Certains jeux ne demandent qu'un papier et un crayon comme les énigmes,
+   les mots croisés ou les sudokus que l'on trouve généralement dans des
    journaux.
 
-   Les jeux de cartes qui se pratiquent seuls sont appelÃ©s des patiences.
+   Les jeux de cartes qui se pratiquent seuls sont appelés des patiences.
 
-   Les puzzles sont en anglais tous les casse-tÃªte. En franÃ§ais, un puzzle
-   est une image Ã  reconstituer Ã  partir d'Ã©lÃ©ments dÃ©coupÃ©s. Le puzzle se
+   Les puzzles sont en anglais tous les casse-tête. En français, un puzzle
+   est une image à reconstituer à partir d'éléments découpés. Le puzzle se
    pratique en principe seul, mais il n'est pas rare que rapidement
-   plusieurs personnes s'adonnent ensemble Ã  ce plaisir et le puzzle
-   devient alors un vÃ©ritable jeu de coopÃ©ration.
+   plusieurs personnes s'adonnent ensemble à ce plaisir et le puzzle
+   devient alors un véritable jeu de coopération.
 
-Jeux mathÃ©matiques et mathÃ©matique des jeux[modifier | modifier le code]
+Jeux mathématiques et mathématique des jeux[modifier | modifier le code]
 
-   Articles dÃ©taillÃ©s : Jeu mathÃ©matique et ThÃ©orie des jeux.
-   Cette section est vide, insuffisamment dÃ©taillÃ©e ou incomplÃ¨te. Votre
+   Articles détaillés : Jeu mathématique et Théorie des jeux.
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
    aide est la bienvenue ! Comment faire ?
 
-Jeux vidÃ©o[modifier | modifier le code]
+Jeux vidéo[modifier | modifier le code]
 
-   Articles dÃ©taillÃ©s : Jeu vidÃ©o et gameplay.
+   Articles détaillés : Jeu vidéo et gameplay.
 
-   Les jeux vidÃ©o utilisent des moyens techniques spÃ©cifiques, soit des
-   consoles de jeu vidÃ©o, des bornes d'arcade, ou encore des ordinateurs.
-   D'invention assez rÃ©cente (dans les annÃ©es 1950), ils ont ouvert le
-   champ Ã  de nouvelles maniÃ¨res de jouer. Plusieurs genres de jeu vidÃ©o
+   Les jeux vidéo utilisent des moyens techniques spécifiques, soit des
+   consoles de jeu vidéo, des bornes d'arcade, ou encore des ordinateurs.
+   D'invention assez récente (dans les années 1950), ils ont ouvert le
+   champ à de nouvelles manières de jouer. Plusieurs genres de jeu vidéo
    ont vu le jour :
      * le jeu de simulation ;
      * le jeu de plates-formes ;
-     * le jeu de tir Ã  la premiÃ¨re personne (FPS pour First Person
+     * le jeu de tir à la première personne (FPS pour First Person
        Shooter) ;
      * le jeu d'aventure ;
-     * le jeu de stratÃ©gie en temps rÃ©el (RTS pour Real Time Strategy) ;
+     * le jeu de stratégie en temps réel (RTS pour Real Time Strategy) ;
      * le shoot them up ;
-     * le jeu de rÃ´le (RPG pour Role Playing Game) ;
-     * le jeu en rÃ©seau ;
+     * le jeu de rôle (RPG pour Role Playing Game) ;
+     * le jeu en réseau ;
      * le jeu en ligne massivement multijoueur (MMOG pour Massive
        Multiplayer Online Game) ;
      * le jeu sur internet (site jeu) ;
-     * le jeu vidÃ©o de gestion.
+     * le jeu vidéo de gestion.
 
-Jeux de stratÃ©gie[modifier | modifier le code]
+Jeux de stratégie[modifier | modifier le code]
 
-   Article dÃ©taillÃ© : Jeu de stratÃ©gie.
-   [220px-Norwegian_Dawn_4.JPG] Jeu d'Ã©checs gÃ©ant sur un paquebot.
+   Article détaillé : Jeu de stratégie.
+   [220px-Norwegian_Dawn_4.JPG] Jeu d'échecs géant sur un paquebot.
 
-   L'expression Â« jeu de stratÃ©gie Â» a de nombreuses et diverses
+   L'expression « jeu de stratégie » a de nombreuses et diverses
    significations. Pour les uns, il s'agit d'un jeu de guerre ou d'un jeu
-   de simulation, informatisÃ© ou non, comme le Monopoly^[52]. Ces jeux se
-   basent sur l'expÃ©rience sociale, plus que sur des rÃ¨gles, et font appel
+   de simulation, informatisé ou non, comme le Monopoly^[52]. Ces jeux se
+   basent sur l'expérience sociale, plus que sur des règles, et font appel
    au sort.
 
-   D'autres classent comme jeu de stratÃ©gie ceux dans lesquels le rÃ´le du
-   hasard est rÃ©duit au minimum^[53]. Dans les Ã©checs, les dames, le go,
-   seul le premier Ã  jouer peut Ãªtre tirÃ© au sort si une hiÃ©rarchie entre
-   les joueurs ne le dÃ©cide pas. Le jeu de stratÃ©gie s'oppose ainsi au jeu
+   D'autres classent comme jeu de stratégie ceux dans lesquels le rôle du
+   hasard est réduit au minimum^[53]. Dans les échecs, les dames, le go,
+   seul le premier à jouer peut être tiré au sort si une hiérarchie entre
+   les joueurs ne le décide pas. Le jeu de stratégie s'oppose ainsi au jeu
    de hasard.
 
 Jeux de plein air[modifier | modifier le code]
 
-   Article dÃ©taillÃ© : Jeu de plein air.
+   Article détaillé : Jeu de plein air.
 
 Jeux par correspondance[modifier | modifier le code]
 
-   Le jeu par correspondance a d'abord Ã©tÃ© pratiquÃ© par courrier postal.
+   Le jeu par correspondance a d'abord été pratiqué par courrier postal.
    Il conserve aujourd'hui de nombreux adeptes.
 
-   L'Ã©mergence d'Internet a profondÃ©ment bouleversÃ© les pratiques. Avec le
-   courriel Ã©lectronique ou le navigateur web, gratuit le plus souvent et
+   L'émergence d'Internet a profondément bouleversé les pratiques. Avec le
+   courriel électronique ou le navigateur web, gratuit le plus souvent et
    rapide, le jeu par correspondance a conquis de nouveaux adeptes. Cette
-   pratique est parfois dÃ©signÃ©e par l'abrÃ©viation anglaise PBeM (Play by
+   pratique est parfois désignée par l'abréviation anglaise PBeM (Play by
    e-mail).
 
-   Il peut Ãªtre sous plusieurs formes :
-     * la liste de diffusion, oÃ¹ chacun effectue son tour par l'envoi d'un
+   Il peut être sous plusieurs formes :
+     * la liste de diffusion, où chacun effectue son tour par l'envoi d'un
        courriel contenant les ordres de jeu ;
-     * le forum, oÃ¹ l'on pourra directement lire les actions entreprises
+     * le forum, où l'on pourra directement lire les actions entreprises
        par les autres joueurs, et passer les siennes ;
-     * le site spÃ©cialisÃ©, qui automatise un jeu et permet de constater
-       immÃ©diatement le rÃ©sultat de ses actions.
+     * le site spécialisé, qui automatise un jeu et permet de constater
+       immédiatement le résultat de ses actions.
 
-   Articles dÃ©taillÃ©s : Jeu par correspondance, Jeu par courriel et Jeu
+   Articles détaillés : Jeu par correspondance, Jeu par courriel et Jeu
    par forum.
 
 Livres-Jeux[modifier | modifier le code]
 
-   Les livres-jeux sont souvent aussi appelÃ©s Livres dont Vous Ãªtes le
-   HÃ©ros, du nom de la collection la plus cÃ©lÃ¨bre en France. Les Ã©ditions
-   Gallimard crÃ©ent, dans les annÃ©es 1990, la collection Un livre dont
-   vous Ãªtes le hÃ©ros; trÃ¨s populaires auprÃ¨s des adolescents, ces
-   livres-jeux sont actuellement rÃ©Ã©ditÃ©s^[54]. Ce sont des livres
-   interactifs dont le dÃ©roulement dÃ©pend des choix du lecteur^[54]. Les
-   actions y sont souvent rÃ©solues par des lancers de dÃ©s.
-   Article dÃ©taillÃ© : Livre-jeu.
+   Les livres-jeux sont souvent aussi appelés Livres dont Vous êtes le
+   Héros, du nom de la collection la plus célèbre en France. Les éditions
+   Gallimard créent, dans les années 1990, la collection Un livre dont
+   vous êtes le héros; très populaires auprès des adolescents, ces
+   livres-jeux sont actuellement réédités^[54]. Ce sont des livres
+   interactifs dont le déroulement dépend des choix du lecteur^[54]. Les
+   actions y sont souvent résolues par des lancers de dés.
+   Article détaillé : Livre-jeu.
 
-Jeux Ã  monnayeur[modifier | modifier le code]
+Jeux à monnayeur[modifier | modifier le code]
 
-   [220px-German_KISS_Pinball_machine_3.jpg] DÃ©tail d'un flipper consacrÃ©
+   [220px-German_KISS_Pinball_machine_3.jpg] Détail d'un flipper consacré
    au groupe Kiss.
 
-   On peut regrouper sous cette dÃ©nomination tous les jeux auxquels il est
-   possible de jouer dans un cafÃ© ou une salle de jeux. InsÃ©rer une piÃ¨ce
+   On peut regrouper sous cette dénomination tous les jeux auxquels il est
+   possible de jouer dans un café ou une salle de jeux. Insérer une pièce
    dans le monnayeur permet d'acheter une ou plusieurs parties.
 
-   Certains jeux ne sont apparus que sous la forme de jeux Ã  monnayeur,
+   Certains jeux ne sont apparus que sous la forme de jeux à monnayeur,
    comme le flipper, les jeux d'arcade et dans une certaine mesure le
-   baby-foot. Parfois, des jeux traditionnels sont adaptÃ©s. C'est par
-   exemple le cas du billard ou des flÃ©chettes.
+   baby-foot. Parfois, des jeux traditionnels sont adaptés. C'est par
+   exemple le cas du billard ou des fléchettes.
 
 Jeux d'adresse[modifier | modifier le code]
 
-   Ce sont des jeux liÃ©s Ã  la prÃ©cision du geste, comme les flÃ©chettes, le
+   Ce sont des jeux liés à la précision du geste, comme les fléchettes, le
    cerceau, le bilboquet, les osselets, les jeux de boules, de billes ou
-   de quilles. Des jouets comme la toupie demandent et dÃ©veloppent une
+   de quilles. Des jouets comme la toupie demandent et développent une
    forme d'adresse. Les sports comportent le plus souvent une part
    d'adresse ; les virtuoses de jeux d'adresse comme le jonglage en font
-   souvent un Ã©lÃ©ment de spectacle, ce qui les sort de la catÃ©gorie des
-   jeux Ã  proprement parler^[55]^,^[56].
+   souvent un élément de spectacle, ce qui les sort de la catégorie des
+   jeux à proprement parler^[55]^,^[56].
 
    Dans l'ethnographie des jeux, Marcel Mauss recommande de distinguer les
    jeux d'adresse manuelle des jeux d'adresse corporelle, qui engagent de
-   plus grands efforts. Le jeu manuel le plus rÃ©pandu (Ã  son Ã©poque) est
+   plus grands efforts. Le jeu manuel le plus répandu (à son époque) est
    le cat's cradle (berceau du chat). Le jeu de marelle, un des jeux
-   d'adresse corporelle les plus pratiquÃ©s, s'accompagne, comme souvent,
-   de Â« jeux oraux Â». Les adultes et adolescents pratiquent plus souvent
-   les jeux de balle^[57]. Les jeux peuvent impliquer de vÃ©ritables
-   compÃ©tences techniques, comme on le voit dans l'exemple des batailles
+   d'adresse corporelle les plus pratiqués, s'accompagne, comme souvent,
+   de « jeux oraux ». Les adultes et adolescents pratiquent plus souvent
+   les jeux de balle^[57]. Les jeux peuvent impliquer de véritables
+   compétences techniques, comme on le voit dans l'exemple des batailles
    de cerfs-volants^[58]^,^[57].
 
-Jeux d'acrobatie ou Ã  sensations[modifier | modifier le code]
+Jeux d'acrobatie ou à sensations[modifier | modifier le code]
 
    [220px-L%27Illustration_1862_gravure_Le_jeu_du_tourniquet.jpg] Le jeu
    du tourniquet, gravure, L'Illustration 1862.
 
    Bien qu'elles portent le substantif jeu dans leur nom, certaines
-   activitÃ©s ne rÃ©pondent pas Ã  la dÃ©finition : Â« activitÃ© de loisirs
-   d'ordre physique ou psychique, soumise Ã  des rÃ¨gles
-   conventionnelles^[rÃ©f. nÃ©cessaire] Â». Elles sont gÃ©nÃ©ralement Ã  classer
-   dans la rubrique des jouets ou des Ã©quipements de loisirs, dÃ¨s lors
-   qu'elles ne comportent pas de rÃ¨gles conventionnelles.
+   activités ne répondent pas à la définition : « activité de loisirs
+   d'ordre physique ou psychique, soumise à des règles
+   conventionnelles^[réf. nécessaire] ». Elles sont généralement à classer
+   dans la rubrique des jouets ou des équipements de loisirs, dès lors
+   qu'elles ne comportent pas de règles conventionnelles.
 
-   Les jeux d'extÃ©rieur, ou agrÃ¨s, comme le tourniquet, le tape-cul, le
-   toboggan, le bac Ã  sable ou la balanÃ§oire sont en fait des Ã©quipements
-   de loisir^[rÃ©f. nÃ©cessaire]. Il en est de mÃªme pour les jeux de bassin
-   comme la pataugeoire. Cependant, pour Roger Caillois, cette catÃ©gorie
-   est elle aussi une des variations du jeu, dans l'attirance de l'homme Ã 
-   trouver du plaisir de faÃ§on gratuite dans la poursuite du vertige
+   Les jeux d'extérieur, ou agrès, comme le tourniquet, le tape-cul, le
+   toboggan, le bac à sable ou la balançoire sont en fait des équipements
+   de loisir^[réf. nécessaire]. Il en est de même pour les jeux de bassin
+   comme la pataugeoire. Cependant, pour Roger Caillois, cette catégorie
+   est elle aussi une des variations du jeu, dans l'attirance de l'homme à
+   trouver du plaisir de façon gratuite dans la poursuite du vertige
    (ilinx).
 
-   Un jeu de construction n'est pas Ã  proprement parler un jeu mais un
-   jouet qui laisse libre cours Ã  l'imagination^[rÃ©f. nÃ©cessaire]. Une
-   boÃ®te de chimie initie l'enfant au monde de la chimie.
+   Un jeu de construction n'est pas à proprement parler un jeu mais un
+   jouet qui laisse libre cours à l'imagination^[réf. nécessaire]. Une
+   boîte de chimie initie l'enfant au monde de la chimie.
 
 Jeux de mots[modifier | modifier le code]
 
-   Article dÃ©taillÃ© : Jeu de lettres.
+   Article détaillé : Jeu de lettres.
 
-   Les jeux de mots sont une variÃ©tÃ© de jeux d'adresse, dans lesquels on
-   dÃ©ploie, sans autre objectif, ses compÃ©tences dans la maÃ®trise de la
+   Les jeux de mots sont une variété de jeux d'adresse, dans lesquels on
+   déploie, sans autre objectif, ses compétences dans la maîtrise de la
    langue et de la logique.
 
-   Dans l'enfance, les jeux de mots sont les Â« jeux oraux Â» : devinettes,
-   charades^[57]. Les jeux de mots poursuivent cette veine Ã  l'Ã¢ge adulte.
-   La psychanalyse et la linguistique s'intÃ©ressent Ã  ces plaisanteries,
-   qui mettent souvent en Å“uvre des symboles et des doubles ententes.
+   Dans l'enfance, les jeux de mots sont les « jeux oraux » : devinettes,
+   charades^[57]. Les jeux de mots poursuivent cette veine à l'âge adulte.
+   La psychanalyse et la linguistique s'intéressent à ces plaisanteries,
+   qui mettent souvent en oeuvre des symboles et des doubles ententes.
 
-   Les divertissements de l'Ã¢ge adulte peuvent se pratiquer par Ã©crit,
-   seul comme les mots croisÃ©s et leurs variantes, Ã  plusieurs quand il
+   Les divertissements de l'âge adulte peuvent se pratiquer par écrit,
+   seul comme les mots croisés et leurs variantes, à plusieurs quand il
    s'agit de jeux de lettres comme le scrabble. Les jeux linguistiques se
-   pratiquent parfois Ã  plusieurs, comme le cadavre exquis.
+   pratiquent parfois à plusieurs, comme le cadavre exquis.
 
 Annexes[modifier | modifier le code]
 
 Bibliographie[modifier | modifier le code]
 
-   Document utilisÃ© pour la rÃ©daction de lâ€™article  : document utilisÃ©
-   comme source pour la rÃ©daction de cet article.
+   Document utilisé pour la rédaction de l'article  : document utilisé
+   comme source pour la rédaction de cet article.
 
 Monographies[modifier | modifier le code]
 
-     * [Bateson 1977] Gregory Bateson, Â« Une thÃ©orie du jeu et du
-       fantasme Â», dans Vers une Ã©cologie de l'esprit, Seuil, 1977.
-     * Guillaume BelÃ¨ze, Jeux des adolescents, Paris, L. Hachette, 1856 â€”
+     * [Bateson 1977] Gregory Bateson, « Une théorie du jeu et du
+       fantasme », dans Vers une écologie de l'esprit, Seuil, 1977.
+     * Guillaume Belèze, Jeux des adolescents, Paris, L. Hachette, 1856 --
        sur Gallica
      * Claude Bensch, Jeux de velus : l'animal, le jeu et l'homme, Paris,
        Odile Jacob, 2000
-     * Eric Berne (trad. Leo DilÃ©), Des jeux et des hommes : Psychologie
-       des relations humaines [Â« Games people play Â»], Paris, Stock, 1967
-       (1^re Ã©d. 1964)
-     * Gilles BrougÃ¨re, Jeu et Ã‰ducation, Paris, L'Harmattan, 1995
-       (Â« Compte-rendu Â», sur persee.fr par Georges Vigarello)
-     * Gilles BrougÃ¨re, Jouer / Apprendre, Paris, Economica, 2005 Document
-       utilisÃ© pour la rÃ©daction de lâ€™article (Â« Compte-rendu Â», sur
+     * Eric Berne (trad. Leo Dilé), Des jeux et des hommes : Psychologie
+       des relations humaines [« Games people play »], Paris, Stock, 1967
+       (1^re éd. 1964)
+     * Gilles Brougère, Jeu et Éducation, Paris, L'Harmattan, 1995
+       (« Compte-rendu », sur persee.fr par Georges Vigarello)
+     * Gilles Brougère, Jouer / Apprendre, Paris, Economica, 2005 Document
+       utilisé pour la rédaction de l'article (« Compte-rendu », sur
        osp.revues.org par Christine Delory-Momberger)
      * Julie Delalande (dir.), Des enfants entre eux. Des jeux, des
-       rÃ¨gles, des secrets, Paris, Autrement, 2009 (lire en ligne).
+       règles, des secrets, Paris, Autrement, 2009 (lire en ligne).
      * Roger Caillois, Les jeux et les hommes : Le masque et le vertige,
-       Paris, Gallimard, 1967 (1^re Ã©d. 1958) (ISBN 2-07-032672-1)
-       Document utilisÃ© pour la rÃ©daction de lâ€™article
-     * [CaÃ¯ra 2007] Olivier CaÃ¯ra, Jeu de rÃ´le : les forges de la fiction,
-       CNRS, 2007, 312 p. (ISBN 978-2-271-06497-4) Document utilisÃ© pour
-       la rÃ©daction de lâ€™article .
+       Paris, Gallimard, 1967 (1^re éd. 1958) (ISBN 2-07-032672-1)
+       Document utilisé pour la rédaction de l'article
+     * [Caïra 2007] Olivier Caïra, Jeu de rôle : les forges de la fiction,
+       CNRS, 2007, 312 p. (ISBN 978-2-271-06497-4) Document utilisé pour
+       la rédaction de l'article .
      * Denise Garon, avec la collaboration de Filion Rolande. et Chiasson,
-       Robert. Le SystÃ¨me ESARâ€‰: guide dâ€™analyse, de classification et
-       dâ€™organisation dâ€™une collection de jeux et jouets. â€“ MontrÃ©al :
-       Ã‰ditions ASTED ; Paris : Ã‰ditions du Cercle de la librairie. 2002
-     * Rolande Filion Le SystÃ¨me ESAR. Pour analyser, classifier des jeux
-       et amÃ©nager des espaces. Revu et augmentÃ©. QuÃ©bec : Ã‰ditions Ã€ la
+       Robert. Le Système ESAR : guide d'analyse, de classification et
+       d'organisation d'une collection de jeux et jouets. - Montréal :
+       Éditions ASTED ; Paris : Éditions du Cercle de la librairie. 2002
+     * Rolande Filion Le Système ESAR. Pour analyser, classifier des jeux
+       et aménager des espaces. Revu et augmenté. Québec : Éditions À la
        page. 2015-2017
      * Eugen Fink (trad. Hans Hildenbrand, Alex Lindenberg), Le jeu comme
-       symbole du monde, Paris, Les Ã‰ditions de Minuit,
-       coll. Â« Arguments Â», 1966, 248 pages (ISBN 2-7073-0130-2,
-       prÃ©sentation en ligne)
-     * [Goffman 1974] Erving Goffman, Les Rites d'interaction, Ã‰ditions de
+       symbole du monde, Paris, Les Éditions de Minuit,
+       coll. « Arguments », 1966, 248 pages (ISBN 2-7073-0130-2,
+       présentation en ligne)
+     * [Goffman 1974] Erving Goffman, Les Rites d'interaction, Éditions de
        Minuit, 1974.
-     * [Goffman 1997] Erving Goffman, FaÃ§ons de parler, Ã‰ditions de
+     * [Goffman 1997] Erving Goffman, Façons de parler, Éditions de
        Minuit, 1987.
-     * [Goffman 1991] Erving Goffman, Les Cadres de l'expÃ©rience, Ã‰ditions
+     * [Goffman 1991] Erving Goffman, Les Cadres de l'expérience, Éditions
        de Minuit, 1991.
-     * Jacques Henriot, Le jeu, Paris, PUF, 1976 (1^re Ã©d. 1969)
+     * Jacques Henriot, Le jeu, Paris, PUF, 1976 (1^re éd. 1969)
      * Johan Huizinga, Homo ludens : essai sur la fonction sociale du jeu
-       [Â« Homo ludens, proeve eener bepaling van het spel-element der
-       cultuur Â»], Paris, Gallimard, 1951 (1^re Ã©d. 1938) Document utilisÃ©
-       pour la rÃ©daction de lâ€™article . Â« Homo Ludens. texte
-       nÃ©erlandais Â».
+       [« Homo ludens, proeve eener bepaling van het spel-element der
+       cultuur »], Paris, Gallimard, 1951 (1^re éd. 1938) Document utilisé
+       pour la rédaction de l'article . « Homo Ludens. texte
+       néerlandais ».
      * Jean Piaget, La formation du symbole chez l'enfant : imitation, jeu
-       et rÃªve, image et reprÃ©sentation, Lausanne ; Paris, Delachaux et
-       NiestlÃ©, 1994, 8^e Ã©d. (1^re Ã©d. 1945) (prÃ©sentation en ligne)
-       Document utilisÃ© pour la rÃ©daction de lâ€™article .
+       et rêve, image et représentation, Lausanne ; Paris, Delachaux et
+       Niestlé, 1994, 8^e éd. (1^re éd. 1945) (présentation en ligne)
+       Document utilisé pour la rédaction de l'article .
      * (en) Lev Vygotsky, Play and its role in the mental development of
        the child., New York, Basic Book, 1976.
-     * Donald W. Winnicott, Jeu et rÃ©alitÃ© : l'espace potentiel [Â« Playing
-       and Reality Â»], Paris, Gallimard, 1975 (1^re Ã©d. 1971)
+     * Donald W. Winnicott, Jeu et réalité : l'espace potentiel [« Playing
+       and Reality »], Paris, Gallimard, 1975 (1^re éd. 1971)
 
 Articles[modifier | modifier le code]
 
-     * Gilbert Boss, Â« Jeu et philosophie Â», Revue de MÃ©taphysique et de
+     * Gilbert Boss, « Jeu et philosophie », Revue de Métaphysique et de
        Morale, Paris, 1979, n^o 4. (p. 493-520)
-     * Laurent Di Filippo, Â« Contextualiser les thÃ©ories du jeu de Johan
-       Huizinga et Roger Caillois Â», Questions de communication, n^o 25,â€Ž
+     * Laurent Di Filippo, « Contextualiser les théories du jeu de Johan
+       Huizinga et Roger Caillois », Questions de communication, n^o 25,
        2014, p. 281-308 (lire en ligne).
 
 Articles connexes[modifier | modifier le code]
 
-     * Jeu de rÃ´le (activitÃ© ludique)
+     * Jeu de rôle (activité ludique)
      * Jeux d'enfants
-     * Ã‰ducation par le jeu
+     * Éducation par le jeu
      * Apprentissage par le jeu
-     * Utilitarisme et anti-utilitarisme, convivialitÃ©, convivialisme
-     * Ã‰conomie de don, Essai sur le don (1923-1924), Alain CaillÃ©
+     * Utilitarisme et anti-utilitarisme, convivialité, convivialisme
+     * Économie de don, Essai sur le don (1923-1924), Alain Caillé
        (sociologue)
      * Sport
 
@@ -1471,245 +1578,245 @@ Liens externes[modifier | modifier le code]
      * Jeu, sur Wikiquote
 
      *
-     * Ressource relative Ã  la littÃ©rature Voir et modifier les donnÃ©es
+     * Ressource relative à la littérature Voir et modifier les données
        sur Wikidata  :
           + The Encyclopedia of Science Fiction
-     * Ressource relative Ã  la santÃ© Voir et modifier les donnÃ©es sur
+     * Ressource relative à la santé Voir et modifier les données sur
        Wikidata  :
           + Medical Subject Headings
-     * Notices dans des dictionnaires ou encyclopÃ©dies gÃ©nÃ©ralistes Voir
-       et modifier les donnÃ©es sur Wikidata  :
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
           + Britannica
           + Dictionnaire historique de la Suisse
-          + L'EncyclopÃ©die canadienne
+          + L'Encyclopédie canadienne
           + Nationalencyklopedin
-     * Notices d'autoritÃ© Voir et modifier les donnÃ©es sur Wikidata  :
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
           + GND
           + Japon
-          + TchÃ©quie
+          + Tchéquie
           + Lettonie
 
-Notes et rÃ©fÃ©rences[modifier | modifier le code]
+Notes et références[modifier | modifier le code]
 
-    1. â†‘ Les variantes concernent surtout les rÃ¨gles, y compris
-       l'existence d'un espace et d'une durÃ©e limitÃ©es pour le jeu.
+    1. ^| Les variantes concernent surtout les règles, y compris
+       l'existence d'un espace et d'une durée limitées pour le jeu.
 
-    1. â†‘ Centre national de ressources textuelles et lexicales,
-       Â« DÃ©finition : Jeu Â».
-    2. â†‘ Â« Jeu Â», sur TrÃ©sor de la langue franÃ§aise informatisÃ©.
-    3. â†‘ Huizinga 1951, p. 15.
-    4. â†‘ Caillois 1967, p. 24.
-    5. â†‘ Jacques Henriot, Sous couleur de jouer : la mÃ©taphore ludique,
-       Paris, JosÃ© Corti, 1989.
-    6. â†‘ Goffman 1974, p. 126-127, 131, 149, 170, 219 ; Goffman 1987,
+    1. ^| Centre national de ressources textuelles et lexicales,
+       « Définition : Jeu ».
+    2. ^| « Jeu », sur Trésor de la langue française informatisé.
+    3. ^| Huizinga 1951, p. 15.
+    4. ^| Caillois 1967, p. 24.
+    5. ^| Jacques Henriot, Sous couleur de jouer : la métaphore ludique,
+       Paris, José Corti, 1989.
+    6. ^| Goffman 1974, p. 126-127, 131, 149, 170, 219 ; Goffman 1987,
        p. 220-223 ; Goffman 1991, p. 448-449.
-    7. â†‘ Bateson 1977, p. 211.
-    8. â†‘ CaÃ¯ra 2007, p. 214-216
-    9. â†‘ Caillois 1967, p. 32 citant Huizinga 1951, p. 35.
-   10. â†‘ Colas Duflo, Jouer et philosopher, Paris, Presses universitaires
+    7. ^| Bateson 1977, p. 211.
+    8. ^| Caïra 2007, p. 214-216
+    9. ^| Caillois 1967, p. 32 citant Huizinga 1951, p. 35.
+   10. ^| Colas Duflo, Jouer et philosopher, Paris, Presses universitaires
        de France, 1997.
-   11. â†‘ Â« Qu'est-ce que le PCI ? Â», sur ministÃ¨re de la Culture (France),
-       13 juin 2016 (consultÃ© le 10 juillet 2017)
-   12. â†‘ Termes de la Convention de Faro sur la valeur du patrimoine
-       culturel pour la sociÃ©tÃ© du 27 octobre 2005, voir Patrimoine
+   11. ^| « Qu'est-ce que le PCI ? », sur ministère de la Culture
+       (France), 13 juin 2016 (consulté le 10 juillet 2017)
+   12. ^| Termes de la Convention de Faro sur la valeur du patrimoine
+       culturel pour la société du 27 octobre 2005, voir Patrimoine
        culturel > En Europe
-   13. â†‘ Â« Fiches de l'inventaire du patrimoine culturel immatÃ©riel
-       (6/7) : jeux Â», sur ministÃ¨re de la Culture (France), 20 avril 2012
-       (consultÃ© le 10 juillet 2017)
-   14. â†‘ ^a b c et d Dalila Bovet, Â« Comportement animal - DÃ©veloppement
-       du comportement Â», sur EncyclopÃ¦dia Universalis (consultÃ© le 30
+   13. ^| « Fiches de l'inventaire du patrimoine culturel immatériel
+       (6/7) : jeux », sur ministère de la Culture (France), 20 avril 2012
+       (consulté le 10 juillet 2017)
+   14. ^| ^a b c et d Dalila Bovet, « Comportement animal - Développement
+       du comportement », sur Encyclopædia Universalis (consulté le 30
        juin 2023)
-   15. â†‘ Â« Classification des jeux de Roger Caillois Â», sur Revue
-       Ã©lectronique des Ã©coles doctorales ED LISIT et ED LETS (Maison des
-       sciences de l'homme de Dijon) (consultÃ© le 2 octobre 2017)
-   16. â†‘ CaÃ¯ra 2007, p. 210-211.
-   17. â†‘ Â« ESAR, une classification des jeux et des jouets Â» (consultÃ© le
+   15. ^| « Classification des jeux de Roger Caillois », sur Revue
+       électronique des écoles doctorales ED LISIT et ED LETS (Maison des
+       sciences de l'homme de Dijon) (consulté le 2 octobre 2017)
+   16. ^| Caïra 2007, p. 210-211.
+   17. ^| « ESAR, une classification des jeux et des jouets » (consulté le
        30 juin 2022).
-   18. â†‘ Mildred Masheder et Axelle Sassoye, Jeux coopÃ©ratifs pour bÃ¢tir
+   18. ^| Mildred Masheder et Axelle Sassoye, Jeux coopératifs pour bâtir
        la paix, Lyon, Chronique sociale, 2016, 277 p.
        (ISBN 978-2-85008-530-7, OCLC 1015206067, lire en ligne).
-   19. â†‘ A. Van Gennep, Â« Sur l'usage des Cupules Â», Bulletin de la
-       SociÃ©tÃ© prÃ©historique de France, vol. 21, n^o 5,â€Ž 1924, p. 154-156
-   20. â†‘ (en) Harold James Ruthven Murray, A History of Chess, Clarendon
+   19. ^| A. Van Gennep, « Sur l'usage des Cupules », Bulletin de la
+       Société préhistorique de France, vol. 21, n^o 5, 1924, p. 154-156
+   20. ^| (en) Harold James Ruthven Murray, A History of Chess, Clarendon
        Press, 1913 (lire en ligne)
-   21. â†‘ ^a et b Isabelle BardiÃ¨s-Front, Â« Art du jeu, jeu dans lâ€™Art. De
-       Babylone Ã  lâ€™occident mÃ©diÃ©val Â», MusÃ©e de Cluny, 28 novembre 2012
-       â€“ 4 mars 2013
-   22. â†‘ (it) Antonio Panaino, La novella degli Scacchi e della Tavola
-       Reale. Un'antica fonte orientale sui due giochi da tavoliere piÃ¹
+   21. ^| ^a et b Isabelle Bardiès-Front, « Art du jeu, jeu dans l'Art. De
+       Babylone à l'occident médiéval », Musée de Cluny, 28 novembre 2012
+       - 4 mars 2013
+   22. ^| (it) Antonio Panaino, La novella degli Scacchi e della Tavola
+       Reale. Un'antica fonte orientale sui due giochi da tavoliere più
        diffusi nel mondo eurasiatico tra Tardoantico e Medioevo e sulla
        loro simbologia militare e astrale, Mimesis, 1998, 268 p.
-   23. â†‘ Collectif, Jeux de hasard et dâ€™argent â€“ Contextes et addictions,
-       Ã©ditions INSERM, 2008, p. 3
-   24. â†‘ Voir pages 116-117 in The Genius of China - 3,000 years of
+   23. ^| Collectif, Jeux de hasard et d'argent - Contextes et addictions,
+       éditions INSERM, 2008, p. 3
+   24. ^| Voir pages 116-117 in The Genius of China - 3,000 years of
        science, discovery and invention, Prion Books, 1983
-   25. â†‘ Jean-Louis Cazaux, Â« Les jeux dâ€™Ã©checs du Moyen Ã‚ge ou la quÃªte
-       du jeu parfait Â», Histoire et Images MÃ©diÃ©vales thÃ©matique,
-       n^o 28,â€Ž 2012, p. 59
-   26. â†‘ Roger Goossens, Â« L'invention des jeux (CratÃ¨s, fr. 24 kock) Â»,
-       Revue belge de philologie et d'histoire, t. 30,â€Ž 1952, p. 146-156
+   25. ^| Jean-Louis Cazaux, « Les jeux d'échecs du Moyen Âge ou la quête
+       du jeu parfait », Histoire et Images Médiévales thématique, n^o 28,
+       2012, p. 59
+   26. ^| Roger Goossens, « L'invention des jeux (Cratès, fr. 24 kock) »,
+       Revue belge de philologie et d'histoire, t. 30, 1952, p. 146-156
        (DOI 10.3406/rbph.1952.2131)
-   27. â†‘ Â« Origines lÃ©gendaires du jeu dâ€™Ã©checs Â», dossier pÃ©dagogique de
-       la BibliothÃ¨que nationale de France.
-   28. â†‘ Â« PalamÃ¨de, chevalier Ã©chiquetÃ© du Roman de Tristan Â», dossier
-       pÃ©dagogique de la BibliothÃ¨que nationale de France.
-   29. â†‘ (en) Michael John Kooy, Coleridge, Schiller and Aesthetic
+   27. ^| « Origines légendaires du jeu d'échecs », dossier pédagogique de
+       la Bibliothèque nationale de France.
+   28. ^| « Palamède, chevalier échiqueté du Roman de Tristan », dossier
+       pédagogique de la Bibliothèque nationale de France.
+   29. ^| (en) Michael John Kooy, Coleridge, Schiller and Aesthetic
        Education, New York, Palgrave, 2002, xii, 241
        (ISBN 978-0-333-74936-4, OCLC 243508204, lire en ligne), p. 89.
-   30. â†‘ BÃ©atrice Galinon-MÃ©lÃ©nec, "Homme-trace" et "signes-traces". Deux
-       nouveaux paradigmes Ã  l'Ã©preuve des faits., Rouen, Klog Ã©ditions,
+   30. ^| Béatrice Galinon-Mélénec, "Homme-trace" et "signes-traces". Deux
+       nouveaux paradigmes à l'épreuve des faits., Rouen, Klog éditions,
        2012, 115 p. (ISBN 978-2-9539459-7-3, lire en ligne), pp. 71-94
-   31. â†‘ L'enquÃªte, I.93 et I.156.
-   32. â†‘ Ã‰tienne de La BoÃ©tie, Å’uvres complÃ¨tes, 1846 (lire en ligne),
+   31. ^| L'enquête, I.93 et I.156.
+   32. ^| Étienne de La Boétie, OEuvres complètes, 1846 (lire en ligne),
        p. 51.
-   33. â†‘ (en) Mary E. Ragland et Ellie Ragland-Sullivan, Rabelais and
+   33. ^| (en) Mary E. Ragland et Ellie Ragland-Sullivan, Rabelais and
        Panurge : A Psychological Approach to Literary Character,
        Amsterdam, Rodopi, 1976, 165 p. (OCLC 472807380, lire en ligne),
        p. 96.
-   34. â†‘ (en) Fergus P. Hughes, Children, Play, and Development, Los
+   34. ^| (en) Fergus P. Hughes, Children, Play, and Development, Los
        Angeles, SAGE, 2009, xxiv, 359, 24 cm (ISBN 978-1-4129-6769-3,
        OCLC 943108417, lire en ligne), p. 23.
-   35. â†‘ (en) R C Lodge, Platoâ€™s Theory of Education, Paris, Routledge,
+   35. ^| (en) R C Lodge, Plato's Theory of Education, Paris, Routledge,
        2014, 332 p. (ISBN 978-1-317-83027-6, lire en ligne), p. 133.
-   36. â†‘ (en) John William Adamson (dir.), The Educational Writings of
-       John Locke, E. Arnold, coll. Â« Educational classics Â», 1912, 272 p.
+   36. ^| (en) John William Adamson (dir.), The Educational Writings of
+       John Locke, E. Arnold, coll. « Educational classics », 1912, 272 p.
        (lire en ligne), p. 117.
-   37. â†‘ (en) K. Stagnitti et C. Unsworth, Â« The Importance of Pretend
-       Play in Child Development: An Occupational Therapy Perspective Â»,
-       The British Journal of Occupational Therapy, vol. 63, n^o 3,â€Ž 2000,
+   37. ^| (en) K. Stagnitti et C. Unsworth, « The Importance of Pretend
+       Play in Child Development: An Occupational Therapy Perspective »,
+       The British Journal of Occupational Therapy, vol. 63, n^o 3, 2000,
        p. 121-127
-   38. â†‘ AOTA, 2002.
-   39. â†‘ Knox, 2005.
-   40. â†‘ (en) K. J. Couch, J. C. Deitz et E. M. Kanny, Â« The Role of Play
-       in Pediatric Occupational Therapy Â», The American Journal of
-       Occupational Therapy, vol. 52, n^o 2,â€Ž 1998, p. 111-117.
-   41. â†‘ ^a b c et d F. Ferland, Et si on jouait ? Le jeu durant l'enfance
-       et pour toute la vie (Ã‰dition revue et augmentÃ©e), MontrÃ©al,
-       HÃ´pital Ste-Justine (CHU mÃ¨re-enfant), 2005.
-   42. â†‘ (en) A. Pellegrini, The role of play in human development, New
+   38. ^| AOTA, 2002.
+   39. ^| Knox, 2005.
+   40. ^| (en) K. J. Couch, J. C. Deitz et E. M. Kanny, « The Role of Play
+       in Pediatric Occupational Therapy », The American Journal of
+       Occupational Therapy, vol. 52, n^o 2, 1998, p. 111-117.
+   41. ^| ^a b c et d F. Ferland, Et si on jouait ? Le jeu durant
+       l'enfance et pour toute la vie (Édition revue et augmentée),
+       Montréal, Hôpital Ste-Justine (CHU mère-enfant), 2005.
+   42. ^| (en) A. Pellegrini, The role of play in human development, New
        York, Osford publicity press inc, 2009 ; Piaget,
        1968^[source insuffisante].
-   43. â†‘ (en) A. Slade et D. Parmer Wolf, Children at play : clinical and
+   43. ^| (en) A. Slade et D. Parmer Wolf, Children at play : clinical and
        developmental approaches to meaning and representation, New York,
        Oxford university press, 1999 ;
-       A. B. Doyle, DiffÃ©rence dans le jeu symbolique et social selon
-       l'Ã¢ge et la classe sociale : relation avec la motivation et le
-       dÃ©veloppement cognitif, Conseil quÃ©bÃ©cois pour la recherche
+       A. B. Doyle, Différence dans le jeu symbolique et social selon
+       l'âge et la classe sociale : relation avec la motivation et le
+       développement cognitif, Conseil québécois pour la recherche
        sociale, 1988.
-   44. â†‘ (Doyle 1988).
-   45. â†‘ Piaget, 1968.
-   46. â†‘ Piaget, Ã‰cole pratique des hautes Ã©tudes, Enfance, Paris, Presses
-       universitaires de France, 1998 (lire en ligne), p. 141.
-   47. â†‘ R. Droz et M. Rahmy, Lire Piaget, Mardaga, 1997, p. 77.
-   48. â†‘ Vygotsky 1976.
-   49. â†‘ Slade et Parmer Wolf 1999.
-   50. â†‘ (en) L. A. Primeau, Â« AOTAâ€™s Societal Statement on Play Â», The
-       American Journal of Occupational Therapy, vol. 62, n^o 6,â€Ž 2008,
+   44. ^| (Doyle 1988).
+   45. ^| Piaget, 1968.
+   46. ^| Piaget, École pratique des hautes études, Enfance, Paris,
+       Presses universitaires de France, 1998 (lire en ligne), p. 141.
+   47. ^| R. Droz et M. Rahmy, Lire Piaget, Mardaga, 1997, p. 77.
+   48. ^| Vygotsky 1976.
+   49. ^| Slade et Parmer Wolf 1999.
+   50. ^| (en) L. A. Primeau, « AOTA's Societal Statement on Play », The
+       American Journal of Occupational Therapy, vol. 62, n^o 6, 2008,
        p. 707-708.
-   51. â†‘ (Stagnitti et Unsworth 2000).
-   52. â†‘ HaydÃ©e Silva, Â« Les jeux de sociÃ©tÃ© : adaptations et
-       dÃ©tournements Â», Cahiers de l'APLIUT, vol. 19, n^o 3,â€Ž 2000,
+   51. ^| (Stagnitti et Unsworth 2000).
+   52. ^| Haydée Silva, « Les jeux de société : adaptations et
+       détournements », Cahiers de l'APLIUT, vol. 19, n^o 3, 2000,
        p. 14-27 (lire en ligne).
-   53. â†‘ Jean Meynaud, Â« Les mathÃ©maticiens et le pouvoir Â», Revue
-       franÃ§aise de science politique, n^o 2,â€Ž 1959, p. 340-367 (lire en
+   53. ^| Jean Meynaud, « Les mathématiciens et le pouvoir », Revue
+       française de science politique, n^o 2, 1959, p. 340-367 (lire en
        ligne).
-   54. â†‘ ^a et b Julien Devriendt (dir.), Jouer en bibliothÃ¨que,
+   54. ^| ^a et b Julien Devriendt (dir.), Jouer en bibliothèque,
        Villeurbanne, Presses de l'enssib, 2015, 169 p.
        (ISBN 978-2-375-46071-9, lire en ligne), p.16-25, p.159-166
-   55. â†‘ Gilbert Jacqueton, Â« H.-R. d'Allemagne. Sports et jeux d'adresse
-       (compte-rendu) Â», BibliothÃ¨que de l'Ã‰cole des chartes,â€Ž 1904,
+   55. ^| Gilbert Jacqueton, « H.-R. d'Allemagne. Sports et jeux d'adresse
+       (compte-rendu) », Bibliothèque de l'École des chartes, 1904,
        p. 219-221 (lire en ligne).
-   56. â†‘ Henri-RenÃ© d'Allemagne, Sports et jeux d'adresse, 1907 (lire en
+   56. ^| Henri-René d'Allemagne, Sports et jeux d'adresse, 1907 (lire en
        ligne).
-   57. â†‘ ^a b et c Marcel Mauss, Manuel d'ethnographie, 1926 (lire en
+   57. ^| ^a b et c Marcel Mauss, Manuel d'ethnographie, 1926 (lire en
        ligne).
-   58. â†‘ d'Allemagne 1907.
+   58. ^| d'Allemagne 1907.
 
-   v Â· m
+   v · m
    Psychologie de l'enfant et de l'adolescent
      * Psychologie de l'enfant
      * Psychologie de l'adolescent
-     * Psychologie du dÃ©veloppement
-     * Psychologie interculturelle du dÃ©veloppement
-     * Psychologie de l'Ã©ducation
-     * Sciences de l'Ã©ducation
+     * Psychologie du développement
+     * Psychologie interculturelle du développement
+     * Psychologie de l'éducation
+     * Sciences de l'éducation
      * Psychologie scolaire
 
-   Ã‰tapes
+   Étapes
      * Embryon
-     * FÅ“tus
+     * Foetus
      * Naissance
-     * PÃ©rinatalitÃ©
+     * Périnatalité
      * Nourrisson
      * Petite enfance
      * Enfant
      * Adolescence
      * Fin de vie
 
-   Lettre psy stylisÃ©e
-   Psycho-motricitÃ©
-     * EmbryogenÃ¨se
-     * DÃ©veloppement psychomoteur
-     * NeurodÃ©veloppement
-     * RÃ©flexes archaÃ¯ques
+   Lettre psy stylisée
+   Psycho-motricité
+     * Embryogenèse
+     * Développement psychomoteur
+     * Neurodéveloppement
+     * Réflexes archaïques
 
    Cognition et apprentissages
      * Acquisition du langage
      * Apprentissage de la lecture
      * Conduites alimentaires chez l'enfant et l'adolescent
      * Construction du nombre chez l'enfant
-     * DÃ©crochage scolaire
-     * Ã‰chec scolaire
+     * Décrochage scolaire
+     * Échec scolaire
      * Intelligence humaine
      * Langage enfantin
 
-   Ã‰motions et relations sociales
+   Émotions et relations sociales
      * Attention conjointe
      * Ami imaginaire
      * Deuil chez l'enfant et l'adolescent
-     * DÃ©veloppement psychosexuel
-     * Intelligence Ã©motionnelle
+     * Développement psychosexuel
+     * Intelligence émotionnelle
      * Intelligence sociale
      * Jeu
      * Jeu enfantin
-     * SexualitÃ© infantile (psychanalyse)
+     * Sexualité infantile (psychanalyse)
      * Style parental
 
-   IdentitÃ©, conscience et reprÃ©sentation de soi
+   Identité, conscience et représentation de soi
      * Enfant transgenre
      * Dysphorie de genre chez les enfants
-     * ThÃ©orie de l'esprit
+     * Théorie de l'esprit
 
-   Psychopathologie, conduites Ã  risque et Ã©vÃ©nements de vie
+   Psychopathologie, conduites à risque et événements de vie
      * Abus sexuel sur mineur
-     * DÃ©linquance juvÃ©nile
-     * DÃ©pression chez l'enfant et l'adolescent
+     * Délinquance juvénile
+     * Dépression chez l'enfant et l'adolescent
      * Dys- (pathologie)
      * Handicap mental
      * Hospitalisme
      * Maltraitance sur mineur
-     * DÃ©veloppement psychomoteur
+     * Développement psychomoteur
      * Trouble d'apprentissage
      * Trouble de la communication
      * Trouble de la parole
      * Trouble des conduites
-     * Trouble du dÃ©ficit de l'attention avec ou sans hyperactivitÃ©
-     * Trouble du dÃ©veloppement
-     * Trouble du dÃ©veloppement de la personnalitÃ©
+     * Trouble du déficit de l'attention avec ou sans hyperactivité
+     * Trouble du développement
+     * Trouble du développement de la personnalité
      * Trouble du langage
-     * Trouble envahissant du dÃ©veloppement
+     * Trouble envahissant du développement
      * Trouble oppositionnel avec provocation
-     * Trouble rÃ©actionnel de l'attachement de l'enfance
+     * Trouble réactionnel de l'attachement de l'enfance
      * Trouble du spectre de l'autisme
-     * Violences Ã©ducatives ordinaires
+     * Violences éducatives ordinaires
      * Violence familiale
 
-   PsychothÃ©rapie, applications et prÃ©vention
-     * Psycho-oncologie pÃ©diatrique
+   Psychothérapie, applications et prévention
+     * Psycho-oncologie pédiatrique
      * Psychanalyse de l'enfance
-     * PrÃ©vention du suicide
-     * ThÃ©rapie cognitivo-comportementale
-     * ThÃ©rapie familiale
+     * Prévention du suicide
+     * Thérapie cognitivo-comportementale
+     * Thérapie familiale
 
    Pionniers
      * Albert Bandura
@@ -1724,70 +1831,70 @@ Notes et rÃ©fÃ©rences[modifier | modifier le code]
      * Robert Woodworth
      * Lev Vygotski
 
-   MÃ©thodes de recherche
+   Méthodes de recherche
      * Habituation
-     * Ã‰tude longitudinale
+     * Étude longitudinale
 
    Tests
      * Test psychologique pour enfant
-     * Ã‰chelles mÃ©triques de l'intelligence : Binet-Simon, NEMI-I et
+     * Échelles métriques de l'intelligence : Binet-Simon, NEMI-I et
        NEMI-II
-     * Ã‰chelle d'intelligence Stanford-Binet
+     * Échelle d'intelligence Stanford-Binet
      * Test des cubes de Kohs
-     * Ã‰chelles de Wechsler WPPSI, WISC et WAIS
+     * Échelles de Wechsler WPPSI, WISC et WAIS
      * Matrices Progressive (MP) de Raven
      * K-ABC et KABC-II
 
-   ThÃ©ories
-     * Complexe d'Å’dipe
+   Théories
+     * Complexe d'OEdipe
      * Paliers d'acquisition (Piaget)
-     * PÃ©riode critique
+     * Période critique
      * Stade du miroir
      * Stade sensori-moteur
-     * ThÃ©orie de l'attachement
-     * ThÃ©orie de l'apprentissage social
-     * ThÃ©orie du dÃ©veloppement moral de Kohlberg
-     * Zone proximale de dÃ©veloppement
+     * Théorie de l'attachement
+     * Théorie de l'apprentissage social
+     * Théorie du développement moral de Kohlberg
+     * Zone proximale de développement
 
-   Liste des sociÃ©tÃ©s et revues spÃ©cialisÃ©es
+   Liste des sociétés et revues spécialisées
      * Clinical Practice in Pediatric Psychology
      * Journal of Pediatric Psychology
      * Society for Research in Child Development
 
      * Psychologue scolaire
      * Conseiller en orientation
-     * Code de dÃ©ontologie des psychologues
+     * Code de déontologie des psychologues
 
-   v Â· m
+   v · m
    Types de jeux
      * Classification des jeux
-     * ThÃ©orie des jeux
+     * Théorie des jeux
      * Liste des types de jeux
-     * Genre de jeu vidÃ©o
+     * Genre de jeu vidéo
 
    Principaux types
      * Jeu d'ambiance
      * Jeu d'argent
      * Connaissances
-     * CoopÃ©ration
+     * Coopération
      * Hasard
-     * Jeu de sociÃ©tÃ©
-     * StratÃ©gie
-     * VidÃ©o
+     * Jeu de société
+     * Stratégie
+     * Vidéo
 
-   Jeux de rÃ©flexion
-     * Casse-tÃªte
+   Jeux de réflexion
+     * Casse-tête
      * Jeu combinatoire abstrait
-     * DÃ©duction
+     * Déduction
      * Devinettes
-     * Ã‰nigme
-     * Jeu mathÃ©matique
-     * NumÃ©riques et logiques
+     * Énigme
+     * Jeu mathématique
+     * Numériques et logiques
 
-   Par matÃ©riel
+   Par matériel
      * Cartes
      * Chiffres
-     * DÃ©s
+     * Dés
      * Dominos
      * Figurines
      * Lettres
@@ -1800,88 +1907,88 @@ Notes et rÃ©fÃ©rences[modifier | modifier le code]
      * Entreprise
      * Gestion
      * Guerre
-     * NÃ©gociation
-     * Jeu de rÃ´le
+     * Négociation
+     * Jeu de rôle
      * Simulation
 
    Pour enfants
      * Jeu de construction
-     * Ã‰ducatif
+     * Éducatif
      * Jeu enfantin
      * Jouet
-     * PÃ©dagogique
+     * Pédagogique
 
    Par lieu
-     * CafÃ©
+     * Café
      * Par correspondance
      * Plage
      * Plein air
      * Radiophonique
      * Rue (en)
      * Salon
-     * TÃ©lÃ©visÃ©
+     * Télévisé
 
-   DextÃ©ritÃ© physique
+   Dextérité physique
      * Jeu d'adresse
      * Sport
      * Jeu sportif
 
-     * icÃ´ne dÃ©corative Portail des jeux
-     * icÃ´ne dÃ©corative Portail de la psychologie
+     * icône décorative Portail des jeux
+     * icône décorative Portail de la psychologie
 
    Ce document provient de
-   Â« https://fr.wikipedia.org/w/index.php?title=Jeu&oldid=209893609 Â».
-   CatÃ©gorieâ€¯:
+   « https://fr.wikipedia.org/w/index.php?title=Jeu&oldid=209893609 ».
+   Catégorie:
      * Jeu
 
-   CatÃ©gories cachÃ©esâ€¯:
-     * Article Ã  rÃ©fÃ©rence insuffisante
-     * Article manquant de rÃ©fÃ©rences depuis janvier 2016
-     * Article manquant de rÃ©fÃ©rences/Liste complÃ¨te
-     * Article Ã  rÃ©fÃ©rence souhaitÃ©e
-     * Article Ã  rÃ©fÃ©rence nÃ©cessaire
-     * Article avec une section vide ou incomplÃ¨te
-     * CatÃ©gorie Commons avec lien local identique sur Wikidata
+   Catégories cachées:
+     * Article à référence insuffisante
+     * Article manquant de références depuis janvier 2016
+     * Article manquant de références/Liste complète
+     * Article à référence souhaitée
+     * Article à référence nécessaire
+     * Article avec une section vide ou incomplète
+     * Catégorie Commons avec lien local identique sur Wikidata
      * Page utilisant P5357
      * Page pointant vers des bases externes
-     * Page pointant vers des bases relatives Ã  la littÃ©rature
+     * Page pointant vers des bases relatives à la littérature
      * Page utilisant P486
-     * Page pointant vers des bases relatives Ã  la santÃ©
+     * Page pointant vers des bases relatives à la santé
      * Page utilisant P1417
      * Page utilisant P902
      * Page utilisant P5395
      * Page utilisant P3222
-     * Page pointant vers des dictionnaires ou encyclopÃ©dies gÃ©nÃ©ralistes
-     * Article de WikipÃ©dia avec notice d'autoritÃ©
-     * Article contenant un appel Ã  traduction en anglais
-     * Portail:Jeux/Articles liÃ©s
-     * Portail:Loisirs et divertissements/Articles liÃ©s
-     * Portail:Psychologie/Articles liÃ©s
-     * Portail:Sciences humaines et sociales/Articles liÃ©s
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Article contenant un appel à traduction en anglais
+     * Portail:Jeux/Articles liés
+     * Portail:Loisirs et divertissements/Articles liés
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
 
-     * La derniÃ¨re modification de cette page a Ã©tÃ© faite le 22 novembre
-       2023 Ã  14:11.
+     * La dernière modification de cette page a été faite le 22 novembre
+       2023 à 14:11.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mÃªmes conditions ; dâ€™autres
-       conditions peuvent sâ€™appliquer. Voyez les conditions dâ€™utilisation
-       pour plus de dÃ©tails, ainsi que les crÃ©dits graphiques. En cas de
-       rÃ©utilisation des textes de cette page, voyez comment citer les
+       Commons attribution, partage dans les mêmes conditions ; d'autres
+       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
-       WikipediaÂ® est une marque dÃ©posÃ©e de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance rÃ©gie par le paragraphe 501(c)(3) du
-       code fiscal des Ã‰tats-Unis.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
 
-     * Politique de confidentialitÃ©
-     * Ã€ propos de WikipÃ©dia
+     * Politique de confidentialité
+     * À propos de Wikipédia
      * Avertissements
      * Contact
      * Code de conduite
-     * DÃ©veloppeurs
+     * Développeurs
      * Statistiques
-     * DÃ©claration sur les tÃ©moins (cookies)
+     * Déclaration sur les témoins (cookies)
      * Version mobile
 
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Activer ou dÃ©sactiver la limitation de largeur du contenu
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu

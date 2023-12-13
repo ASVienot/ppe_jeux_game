@@ -179,7 +179,7 @@ It's in the Cards
    Rules, rules, rules! A game is only as good as its rules, and how well
    we play the game is defined by how well we follow the rules. What is so
    fascinating about many of the games we play today is that there are
-   often no instruction books included—yet we somehow know how to play
+   often no instruction books included--yet we somehow know how to play
    them anyway. We learn from family, friends, teachers, and coaches.
 
    In this article, we will take a look at why rules are important and how
@@ -194,13 +194,13 @@ It's in the Cards
 Setting the Rules
 
    When I was a kid, we used to play a schoolyard game called
-   Champ—otherwise known as Four Square. It was played in one large
+   Champ--otherwise known as Four Square. It was played in one large
    square, which was painted on the ground in our schoolyard. This square
    was divided into four smaller squares, with one square dedicated to the
-   “Champ.” Because our square was a permanent one, all we needed to bring
+   "Champ." Because our square was a permanent one, all we needed to bring
    along was a very bouncy rubber ball.
 
-   One person is the “Champ” and stands in the Champ's square. How you
+   One person is the "Champ" and stands in the Champ's square. How you
    determine who becomes the Champ for the first game is up to the
    players. Here's some ideas for choosing a champ: You can flip a coin,
    pull straws, pick a number from one to ten and have the players guess
@@ -217,11 +217,11 @@ Setting the Rules
    all its privileges and advantages.
 
    The most interesting thing that I remember about this game is that
-   there was always at least one kid who knew the rules—and we made up
+   there was always at least one kid who knew the rules--and we made up
    many new rules as we went along. Sometimes the new rules stuck, and
    were passed on to the next group of kids. The rules were always
    announced at the beginning of recess and the game went on through
-   recess. Sometimes we'd pick up where we left off the day before—we'd
+   recess. Sometimes we'd pick up where we left off the day before--we'd
    even mark our places in the waiting line. There was always a line;
    after all, only four people can play at a time.
 
@@ -268,13 +268,13 @@ Let's Work Together!
 What's hot
 
      * mom giving kids valentines day gifts Entertainment and Activities6
-       Last-Minute Valentine'…
+       Last-Minute Valentine'...
      * 14 Fun Activities for Winter Break Entertainment and Activities14
-       Fun Activities for Winter…
+       Fun Activities for Winter...
      * Valentine's Games_Featured Entertainment and Activities14
-       Valentine's Day Games…
+       Valentine's Day Games...
      * 15 Fun Water Games Entertainment and Activities20 Fun Water Games
-       to Play…
+       to Play...
 
    NewslettersNewsletters
 
@@ -320,5 +320,5 @@ FE Footer
    factmonster logo infoplease logo TeacherVision logo
 
    sandbbox logo
-   ©2022 Sandbox Networks Inc. All rights reserved. Sandbox Learning is
+   �2022 Sandbox Networks Inc. All rights reserved. Sandbox Learning is
    part of Sandbox & Co., a digital learning company.

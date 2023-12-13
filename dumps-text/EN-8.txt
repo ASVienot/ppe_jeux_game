@@ -31,20 +31,20 @@
    UPDATED BY
    Brennan Whitfield | Nov 20, 2023
 
-   In the letter to shareholders heard ‘round the entertainment world,
-   Netflix famously admitted that it competes with — and loses to — the
+   In the letter to shareholders heard `round the entertainment world,
+   Netflix famously admitted that it competes with -- and loses to -- the
    popular video game Fortnite more than HBO. And while the gargantuan
    success of that Epic Games blockbuster surely remains an outlier, the
    subtext is unmistakable: In the knock-down, drag-out competition for
-   users’ screen time, the video gaming industry is booming where
-   yesterday’s entertainment forerunners are lagging, if not outright
+   users' screen time, the video gaming industry is booming where
+   yesterday's entertainment forerunners are lagging, if not outright
    busting.
 
    The global video game market is projected to see more than $365 billion
    in revenue for 2023, which is up from almost $320 billion in 2022,
    according to data from Statista. The gaming industry owes some of that
    success to its adaptation of tech breakthroughs and its discovery of
-   new business strategies — both of which are also generated internally.
+   new business strategies -- both of which are also generated internally.
 
 Top Video Game Companies
 
@@ -55,7 +55,7 @@ Top Video Game Companies
      * Microsoft
      * Sony Interactive Entertainment
 
-   To get an idea of who’s doing what in an industry that seems to be in
+   To get an idea of who's doing what in an industry that seems to be in
    perpetual flux, check out these gaming industry innovators.
 
 
@@ -80,8 +80,8 @@ Sandbox VR
    Sandbox VR is a tech and gaming company that specializes in bringing
    consumers immersive experiences. It operates retail stores where
    customers can test out full-body motion tracking gear, use motion
-   capture cameras and play in “holodecks,” which put groups of users
-   together into immersive social experiences. For example, Sandbox VR’s
+   capture cameras and play in "holodecks," which put groups of users
+   together into immersive social experiences. For example, Sandbox VR's
    Squid Game Virtuals experience lets customers compete in games inspired
    by the popular Netflix series.
    They're Hiring | View 0 JobsSandbox VR is Hiring | View 0 Jobs
@@ -97,7 +97,7 @@ Sandbox VR
    2K makes interactive games for mobile, computer and console play. Its
    2K Sports division includes titles like the NBA 2K series, while its 2K
    Play division releases titles like Lego 2K Drive. The company operates
-   a testing lab where users known as “playtesters” can play new and
+   a testing lab where users known as "playtesters" can play new and
    existing games and offer feedback to the development teams.
    They're Hiring | View 4 Jobs2K is Hiring | View 4 Jobs
 
@@ -112,7 +112,7 @@ Intercept Games
    Intercept Games is a gaming development studio that leans toward space,
    simulation and strategy-based games. Its current major project is the
    Kerbal Space Program 2 video game, which uses immersive audio content
-   to simulate a rocket launch — and it’s so realistic that some NASA
+   to simulate a rocket launch -- and it's so realistic that some NASA
    staff have used the program to run experiments.
    They're Hiring | View 6 JobsIntercept Games is Hiring | View 6 Jobs
 
@@ -124,7 +124,7 @@ Iron Galaxy Studios
 
    Location: Chicago, Illinois
 
-   Iron Galaxy Studios’ portfolio of video games includes more than 60
+   Iron Galaxy Studios' portfolio of video games includes more than 60
    different titles, with projects that have been available to play on
    platforms including PlayStation, Xbox, Oculus and Nintendo Switch. In
    addition to developing its own titles, like Rumbleverse, The company
@@ -145,8 +145,8 @@ Epic Games
    As the monoculture continues to fragment, we may never see another
    Pac-Man-style capital-P phenomenon, but the long-tail success of
    Fortnite has come awfully close. Separate from that mammoth success,
-   Epic Games — which dates back well beyond the internet era — is looking
-   toward the future with projects like Unreal Engine, a product
+   Epic Games -- which dates back well beyond the internet era -- is
+   looking toward the future with projects like Unreal Engine, a product
    development suite that includes hyper-realistic design renderings that
    also have automotive applications.
    They're Hiring | View 76 JobsEpic Games is Hiring | View 76 Jobs
@@ -163,7 +163,7 @@ PointsBet
    place wagers on an intricate array of options in sports, including
    professional basketball, football and baseball. It offers all standard
    betting options, but its signature proprietary option is
-   “pointsbetting,” a volatile point spread wager that pays out according
+   "pointsbetting," a volatile point spread wager that pays out according
    to the margin of victory or loss. That means the size of the win
    determines the size of the payout and vice versa.
    They're Hiring | View 0 JobsPointsBet is Hiring | View 0 Jobs
@@ -194,7 +194,7 @@ Exploding Kittens
 
    Not quite a video game company, but a gaming company nonetheless,
    Exploding Kittens is the maker of the card game with which it shares a
-   name and describes as a “kitty powered version of Russian Roulette.”
+   name and describes as a "kitty powered version of Russian Roulette."
    More than 11 million Exploding Kittens games have been sold, and other
    popular products from the company include the pinball-esque A Game of
    Cat & Mouth, the word-guessing game Poetry for Neanderthals and the
@@ -242,10 +242,10 @@ Ubisoft
    Location: San Francisco, California
 
    Founded in the 1980s, Ubisoft is the company behind popular gaming
-   franchises like Assassin’s Creed, Far Cry, Rabbids and Just Dance.
-   Ubisoft is one of the world’s largest independent video game
+   franchises like Assassin's Creed, Far Cry, Rabbids and Just Dance.
+   Ubisoft is one of the world's largest independent video game
    publishers, and many of its games are available across platforms
-   including PlayStation, Xbox, PC and Nintendo Switch. The company’s
+   including PlayStation, Xbox, PC and Nintendo Switch. The company's
    areas of technological expertise include artificial intelligence and
    cloud gaming.
    They're Hiring | View 12 JobsUbisoft is Hiring | View 12 Jobs
@@ -272,7 +272,7 @@ Twitch
 
    Location: San Francisco, California
 
-   It’s not a gaming company per se, but few outfits are as inextricable
+   It's not a gaming company per se, but few outfits are as inextricable
    from the gaming landscape as streaming platform Twitch. The go-to
    broadcasting choice for the e-sports community and other gamers, the
    video platform-meets-social community was acquired by Amazon in 2014
@@ -304,7 +304,7 @@ MobilityWare
    Location: Irvine, California
 
    MobilityWare specializes in developing tremendously replayable games
-   for mobile devices and Facebook. The company’s impressive roster of
+   for mobile devices and Facebook. The company's impressive roster of
    games includes Solitaire, Spider Solitaire, Jigsaw Puzzle and Video
    Poker, providing users with hours of entertainment without any learning
    curve.
@@ -319,10 +319,10 @@ Take-Two Interactive Software
    Location: New York, New York
 
    This veteran gaming company is one of the most recognizable names in
-   the industry. Take-Two Interactive Software’s two divisions, Rockstar
+   the industry. Take-Two Interactive Software's two divisions, Rockstar
    Games and 2K, are responsible for some certified cultural phenomena,
-   including the former’s infamous Grand Theft Auto and the latter’s NBA
-   2K. Blockbuster Red Dead Redemption 2 is emblematic of the company’s
+   including the former's infamous Grand Theft Auto and the latter's NBA
+   2K. Blockbuster Red Dead Redemption 2 is emblematic of the company's
    rigorous attention to graphic and motion detail.
    They're Hiring | View 24 JobsTake-Two Interactive Software is Hiring |
    View 24 Jobs
@@ -340,7 +340,7 @@ Bungie
    1991, Bungie was acquired by Microsoft in 2000 and blazed new trails
    for console-based first-person shooters with Halo: Combat Evolved.
    Bungie spun out of Microsoft in 2007 but continued work on the Halo
-   franchise up to the launch of 2010’s Halo: Reach. The company launched
+   franchise up to the launch of 2010's Halo: Reach. The company launched
    the first game in its current flagship franchise, Destiny, in 2014.
    Bungie was acquired by Sony Interactive Entertainment in 2022.
    They're Hiring | View 9 JobsBungie is Hiring | View 9 Jobs
@@ -371,8 +371,8 @@ DoubleDown Interactive LLC
 
    Location: Seattle, Washington
 
-   DoubleDown Interactive makes social versions of classic casino games —
-   everything from blackjack and slots to poker and roulette — for social
+   DoubleDown Interactive makes social versions of classic casino games --
+   everything from blackjack and slots to poker and roulette -- for social
    and mobile platforms. The company started out with the launch of a
    social casino game on Facebook in 2010, and by 2015, was among the
    top-performing games in the Apple App Store.
@@ -387,10 +387,10 @@ Electronic Arts (EA)
 
    Location: Redwood City, California
 
-   One of the industry’s true powerhouses, EA is proof that quality and
+   One of the industry's true powerhouses, EA is proof that quality and
    quantity need not be mutually exclusive. The EA Sports division is
    responsible for some of the most iconic sports-games franchises,
-   including FIFA, Madden NFL and NBA Live. EA’s classic non-sports series
+   including FIFA, Madden NFL and NBA Live. EA's classic non-sports series
    range from The Sims to Medal of Honor, and its Mobile subsidiary does a
    reliably good job of putting those hits in your pocket.
    They're Hiring | View 61 JobsElectronic Arts (EA) is Hiring | View 61
@@ -407,8 +407,8 @@ Jam City
    Jam City has produced game adaptations of massively popular tentpole
    franchises, including Harry Potter and Marvel Avengers titles. They
    also inked a multi-year deal with Disney to develop games. The
-   developer — which counts the creators of MySpace and a former 20th
-   Century Fox executive among its co-founders — has proven to be a major
+   developer -- which counts the creators of MySpace and a former 20th
+   Century Fox executive among its co-founders -- has proven to be a major
    leader, particularly in the free-to-play social and mobile categories.
    They're Hiring | View 9 JobsJam City is Hiring | View 9 Jobs
 
@@ -454,7 +454,7 @@ PlayQ
 
    Play Q is an on-the-rise mobile gaming developer. The company
    rioritizes easy-to-grasp gameplay, colorful graphics, fit-for-all-ages
-   narratives and just-so degrees of familiarity — think puzzles and
+   narratives and just-so degrees of familiarity -- think puzzles and
    platforms.
    They're Hiring | View 1 JobsPlayQ is Hiring | View 1 Jobs
 
@@ -486,7 +486,7 @@ Insomniac Games
    Games earned its name on PlayStation exclusives like Ratchet & Clank
    and Spyro the Dragon. Acquired by Sony Interactive Entertainment in
    2019, the studio is currently working on another comic book title:
-   Marvel’s Wolverine.
+   Marvel's Wolverine.
    They're Hiring | View 0 JobsInsomniac Games is Hiring | View 0 Jobs
 
 
@@ -499,7 +499,7 @@ Nexon
 
    Nexon has been in the gaming industry for more than 20 years and has
    produced dozens of massively multiplayer online role-playing games that
-   are available to users in more than 190 countries. The company’s games
+   are available to users in more than 190 countries. The company's games
    can be played on Windows, Xbox, PlayStation and mobile.
    They're Hiring | View 8 JobsNexon is Hiring | View 8 Jobs
 
@@ -512,12 +512,13 @@ Obsidian Entertainment
    Location: Irvine, California
 
    The age of sequels surely extends to the gaming world, and these RPG
-   specialists—launched in 2003 by a team of ex-Black Isle employees—built
-   their name on a couple of better-than-the-original follow-ups: Star
-   Wars: Knights of the Old Republic II: The Sith Lords and Neverwinter
-   Nights 2. Meanwhile, the well-known crowdfunding success for Pillars of
-   Eternity revealed that Obsidian is adept at maneuvering the long falls
-   that can be endemic to the quicksilver gaming industry.
+   specialists--launched in 2003 by a team of ex-Black Isle
+   employees--built their name on a couple of better-than-the-original
+   follow-ups: Star Wars: Knights of the Old Republic II: The Sith Lords
+   and Neverwinter Nights 2. Meanwhile, the well-known crowdfunding
+   success for Pillars of Eternity revealed that Obsidian is adept at
+   maneuvering the long falls that can be endemic to the quicksilver
+   gaming industry.
    They're Hiring | View 7 JobsObsidian Entertainment is Hiring | View 7
    Jobs
 
@@ -533,27 +534,27 @@ Deck Nine Games
 
    Deck Nine Games is an independent video game development company that
    focuses on creating games that feature narrative storytelling. The
-   company’s titles include graphic adventures Life Is Strange: Before the
+   company's titles include graphic adventures Life Is Strange: Before the
    Storm and Life Is Strange: True Colors.
    They're Hiring | View 0 JobsDeck Nine Games is Hiring | View 0 Jobs
 
 
-The Pokémon Company International
+The Pok�mon Company International
 
    View Profile
    Follow
 
    Location: Bellevue, Washington
 
-   The Pokémon Company International, a subsidiary of The Pokémon Company
+   The Pok�mon Company International, a subsidiary of The Pok�mon Company
    based in Japan, is primarily responsible for managing aspects of the
-   Pokémon brand, its licensing and its marketing in regions outside of
+   Pok�mon brand, its licensing and its marketing in regions outside of
    Asia. That includes news, updates and additional information for the
-   brand’s many video games, from Pokemon GO on mobile to Pokemon Snap for
-   Nintendo Switch. The company also handles all aspects of the Pokémon
-   Trading Card Game, the brand’s animated television series, its website
+   brand's many video games, from Pokemon GO on mobile to Pokemon Snap for
+   Nintendo Switch. The company also handles all aspects of the Pok�mon
+   Trading Card Game, the brand's animated television series, its website
    and more.
-   They're Hiring | View 0 JobsThe Pokémon Company International is Hiring
+   They're Hiring | View 0 JobsThe Pok�mon Company International is Hiring
    | View 0 Jobs
 
 
@@ -579,9 +580,9 @@ Raven Software
 
    Location: Madison, Wisconsin
 
-   According to its website, Raven Software’s decision to stay rooted in
-   Wisconsin, which isn’t particularly known for its gaming industry, was
-   a conscious choice — one that comes with notable cost-of-living and
+   According to its website, Raven Software's decision to stay rooted in
+   Wisconsin, which isn't particularly known for its gaming industry, was
+   a conscious choice -- one that comes with notable cost-of-living and
    community perks. As for its game portfolio, highlights include
    Heretic/Hexen and Soldier of Fortune. It has also notably lent
    assistance to fellow Activision partners Treyarch and Infinity Ward on
@@ -596,7 +597,7 @@ Geocaching
 
    Location: Seattle, Washington
 
-   Years before the great Pokémon GO scare of 2016, this spatial computing
+   Years before the great Pok�mon GO scare of 2016, this spatial computing
    pioneer was already getting gamers outside and GPS-scavenging for
    treasure. Geocaching has also nurtured a robust network of forums,
    events and even environmental outreach, encouraging responsible play
@@ -613,7 +614,7 @@ Naughty Dog
    Naughty Dog started in a garage in the late 1980s and eventually grew
    to become one of the premier American gaming companies, thanks to
    watershed series like Crash Bandicoot, Jak and Daxter and Uncharted.
-   One of the company’s flagship franchises, The Last of Us, was turned
+   One of the company's flagship franchises, The Last of Us, was turned
    into a prestige drama by HBO.
    They're Hiring | View 0 JobsNaughty Dog is Hiring | View 0 Jobs
 
@@ -627,7 +628,7 @@ Zynga
 
    Zynga has produced many of the most popular social mobile games of all
    time, with titles including Words With Friends, Farmville and Tiny
-   Royale. The company’s games have been played by over 1 billion users,
+   Royale. The company's games have been played by over 1 billion users,
    leading to offices opening throughout the United States, Canada, the
    United Kingdom and India.
    They're Hiring | View 0 JobsZynga is Hiring | View 0 Jobs
@@ -641,7 +642,7 @@ PopCap Games
    Location: Seattle, Washington
 
    Famous in the casual games market, PopCap made its mark with the
-   once-ubiquitous tile-matching Bejeweled series — which, according to
+   once-ubiquitous tile-matching Bejeweled series -- which, according to
    its makers, once racked up a sale every 4.3 seconds and has sold in
    excess of 50 million units. After a post-Plants vs. Zombies acquisition
    by EA, the developer (which began inside a modest Seattle
@@ -659,7 +660,7 @@ Bethesda Softworks
    This three-decade-plus-old powerhouse became a household name on the
    strength of pioneering RPG series The Elder Scrolls, which boasts
    worlds so intricate that they necessitated the creation of a
-   “loremaster” job role. Bethesda Softworks has expanded into just about
+   "loremaster" job role. Bethesda Softworks has expanded into just about
    every other genre since then, including sports games, strategy games,
    shooters and beyond.
    They're Hiring | View 0 JobsBethesda Softworks is Hiring | View 0 Jobs
@@ -675,10 +676,10 @@ Valve Corporation
    Founded more than 20 years ago by a pair of former Microsoft employees,
    Valve catapulted to acclaim and popularity with its very first title,
    the first-person shooter turning point Half-Life. The company also runs
-   Steam — one of the largest game stores for PC and Mac — and has
+   Steam -- one of the largest game stores for PC and Mac -- and has
    launched several hardware products including the Valve Index VR
    platform and Steam Deck, a popular Linux-based gaming handheld. The
-   team’s early VR breakthroughs infamously helped prompt Mark Zuckerberg
+   team's early VR breakthroughs infamously helped prompt Mark Zuckerberg
    to buy into the VR game
    They're Hiring | View 0 JobsValve Corporation is Hiring | View 0 Jobs
 
@@ -694,7 +695,7 @@ id Software
 
    Even the most casual gamers are likely familiar with legacy id titles
    like Wolfenstein 3D (perhaps the ne plus ultra of RPG), DOOM (which
-   helped usher in the modern multiplayer model) and QUAKE—all of which
+   helped usher in the modern multiplayer model) and QUAKE--all of which
    revolutionized what a PC game could be. The company also pioneered the
    shareware distribution model.
    They're Hiring | View 0 Jobsid Software is Hiring | View 0 Jobs
@@ -738,9 +739,9 @@ Devolver Digital
 
    Devolver Digital seeks out and shines a light on games from all over
    the planet, usually ones with a firmly offbeat sensibility. Examples
-   range from a Swedish-made “violent ballet about friendship,
-   imagination, and one man’s struggle to obliterate anyone in his path at
-   the behest of a sentient banana,” to a turn-based adventure from a
+   range from a Swedish-made "violent ballet about friendship,
+   imagination, and one man's struggle to obliterate anyone in his path at
+   the behest of a sentient banana," to a turn-based adventure from a
    scrappy Polish indie about growing and selling weed.
    They're Hiring | View 0 JobsDevolver Digital is Hiring | View 0 Jobs
 
@@ -752,8 +753,8 @@ thatgamecompany
 
    Location: Santa Monica, California
 
-   Thatgamecompany’s video game offerings — Sky, Journey, Flower and Flow
-   — focus on “meaningful emotional impact” and “human connection.” Over
+   Thatgamecompany's video game offerings -- Sky, Journey, Flower and Flow
+   -- focus on "meaningful emotional impact" and "human connection." Over
    the years, its games have been featured in exhibits at the Smithsonian
    American Art Museum and MoMA.
    They're Hiring | View 0 Jobsthatgamecompany is Hiring | View 0 Jobs
@@ -802,7 +803,7 @@ Great Companies Need Great People. That's Where We Come In.
      * Built In Seattle
      * See All Tech Hubs
 
-   © Built In 2023
+   � Built In 2023
      * Learning Lab User Agreement
      * Accessibility Statement
      * Copyright Policy

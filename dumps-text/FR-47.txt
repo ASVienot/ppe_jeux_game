@@ -4,89 +4,89 @@
 
    Pourquoi voyez-vous ce message ?
 
-   Vous avez choisi de refuser le dÃ©pÃ´t de cookies, vous pouvez Ã  tout
+   Vous avez choisi de refuser le dépôt de cookies, vous pouvez à tout
    moment modifier votre choix, ici.
 
    Le contenu de ce site est le fruit du travail de journalistes qui vous
-   apportent chaque jour une information locale de qualitÃ©, fiable,
-   complÃ¨te, et des services en ligne innovants. Ce travail sâ€™appuie sur
-   les revenus complÃ©mentaires de la publicitÃ© et de lâ€™abonnement.
+   apportent chaque jour une information locale de qualité, fiable,
+   complète, et des services en ligne innovants. Ce travail s'appuie sur
+   les revenus complémentaires de la publicité et de l'abonnement.
    Je m'abonne
 
-   DÃ©jÃ  abonnÃ© ?
+   Déjà abonné ?
    Connectez-vous
 
-   Connectez-vous ou crÃ©ez un compte
+   Connectez-vous ou créez un compte
 
-   Pour pouvoir enregistrer un article, un compte est nÃ©cessaire.
-   Se connecter ou crÃ©er un compte
+   Pour pouvoir enregistrer un article, un compte est nécessaire.
+   Se connecter ou créer un compte
 
-   DÃ©finir votre page d'accueil
+   Définir votre page d'accueil
      * Autun
      * Bresse
-     * Chalon-sur-SaÃ´ne
+     * Chalon-sur-Saône
      * Charolais - Brionnais
      * Le Creusot
-     * MÃ¢con
+     * Mâcon
      * Montceau-les-Mines
 
-     * VidÃ©os
+     * Vidéos
      * Newsletters
-     * MÃ©tÃ©o
+     * Météo
      * Boutique
      * LeCLUB
-     * Mon SÃ©jour en montagne
+     * Mon Séjour en montagne
 
-   Journal en numÃ©rique
-   Chalon Sur SaÃ´ne
+   Journal en numérique
+   Chalon Sur Saône
 
-   Chalon Sur SaÃ´ne
+   Chalon Sur Saône
 
    dim. 03/12/2023
    Lire le journal
-   Le Journal de SaÃ´ne et Loire
-   S'abonner Se connecter Me connecter/ Mâ€™inscrire
-   CrÃ©ation de compte
-     * Activer JavaScript dans votre navigateur pour accÃ©der Ã 
+   Le Journal de Saône et Loire
+   S'abonner Se connecter Me connecter/ M'inscrire
+   Création de compte
+     * Activer JavaScript dans votre navigateur pour accéder à
        l'inscription sur notre site
 
-   CivilitÃ©
-   (*) Madame ( ) Monsieur ( ) SociÃ©tÃ©
+   Civilité
+   (*) Madame ( ) Monsieur ( ) Société
    Siret ____________________
    Nom ____________________
-   PrÃ©nom ____________________
+   Prénom ____________________
    Adresse e-mail ____________________
    Mot de passe ____________________
-   [ ] Je souhaite recevoir les communications et les exclusivitÃ©s du
+   [ ] Je souhaite recevoir les communications et les exclusivités du
    Groupe EBRA
    [ ] Je souhaite recevoir les communications des partenaires du Groupe
    EBRA
-   [ ] J'ai lu et acceptÃ© les Conditions gÃ©nÃ©rales d'utilisation
+   [ ] J'ai lu et accepté les Conditions générales d'utilisation
 
    Si vous voyez ce champ, ne le remplissez pas ____________________
    ____________________
    Je m'inscris
 
-   Le Journal de SaÃ´ne et Loire, en tant que responsable de traitement,
-   recueille dans ce formulaire des informations qui sont enregistrÃ©es
-   dans un fichier informatisÃ© par son Service Relations Clients, la
-   finalitÃ© Ã©tant dâ€™assurer la crÃ©ation et la gestion de votre compte,
+   Le Journal de Saône et Loire, en tant que responsable de traitement,
+   recueille dans ce formulaire des informations qui sont enregistrées
+   dans un fichier informatisé par son Service Relations Clients, la
+   finalité étant d'assurer la création et la gestion de votre compte,
    ainsi que des abonnements et autres services souscrits. Si vous y avez
-   consenti, ces donnÃ©es peuvent Ã©galement Ãªtre utilisÃ©es pour lâ€™envoi de
-   newsletters et/ou dâ€™offres promotionnelles par Le Journal de SaÃ´ne et
-   Loire, les sociÃ©tÃ©s qui lui sont affiliÃ©es et/ou ses partenaires
-   commerciaux. Vous pouvez exercer en permanence vos droits dâ€™accÃ¨s,
+   consenti, ces données peuvent également être utilisées pour l'envoi de
+   newsletters et/ou d'offres promotionnelles par Le Journal de Saône et
+   Loire, les sociétés qui lui sont affiliées et/ou ses partenaires
+   commerciaux. Vous pouvez exercer en permanence vos droits d'accès,
    rectification, effacement, limitation, opposition, retirer votre
    consentement et/ou pour toute question relative au traitement de vos
-   donnÃ©es Ã  caractÃ¨re personnel en contactant jslventesweb@lejsl.com ou
-   consulter les liens suivants : Protection des donnÃ©es, CGU du site et
-   Contact. Le DÃ©lÃ©guÃ© Ã  la Protection des DonnÃ©es personnelles
-   (dpo@ebra.fr) est en copie de toute demande relative Ã  vos informations
+   données à caractère personnel en contactant jslventesweb@lejsl.com ou
+   consulter les liens suivants : Protection des données, CGU du site et
+   Contact. Le Délégué à la Protection des Données personnelles
+   (dpo@ebra.fr) est en copie de toute demande relative à vos informations
    personnelles.
-   Vous Ãªtes dÃ©jÃ  inscrit ? Connectez-vous
-   Le Journal de SaÃ´ne et Loire
-     * ActualitÃ©
-     * En SaÃ´ne-et-Loire
+   Vous êtes déjà inscrit ? Connectez-vous
+   Le Journal de Saône et Loire
+     * Actualité
+     * En Saône-et-Loire
      * Sport
      * Long Format
      * Culture - Loisirs
@@ -95,7 +95,7 @@
      *
 
      * A la Une
-          + Guerre IsraÃ«l-Hamas
+          + Guerre Israël-Hamas
      * France - Monde
      * Faits divers
      * Politique
@@ -107,19 +107,19 @@
      * Fil info
      * Le Journal des Enfants
 
-     * L'actualitÃ© en SaÃ´ne-et-Loire
-     * Nos Ã©ditions locales
-          + Chalon-sur-SaÃ´ne
+     * L'actualité en Saône-et-Loire
+     * Nos éditions locales
+          + Chalon-sur-Saône
           + Bresse
-          + MÃ¢con
+          + Mâcon
           + Charolais - Brionnais
           + Montceau-les-Mines
           + Le Creusot
           + Autun
 
-   Je choisis mon Ã©dition favorite
-     * Toute l'actualitÃ© sportive
-     * RÃ©sultats et classements
+   Je choisis mon édition favorite
+     * Toute l'actualité sportive
+     * Résultats et classements
      * Football
           + Mercato
           + Louhans-Cuiseaux FC
@@ -127,59 +127,59 @@
           + FC Gueugnon
      * Basket
           + Elan Chalon Basket
-          + PrissÃ©-MÃ¢con Basket (ESPM)
+          + Prissé-Mâcon Basket (ESPM)
           + Charnay Basket Bourgogne Sud (CBBS)
      * Rugby
           + Tournoi des 6 Nations
-          + AS MÃ¢con rugby
+          + AS Mâcon rugby
           + CO Creusot
           + Racing Tango Chalonnais
      * Handball
-          + Association handball club Chalon-sur-SaÃ´ne (ASHBCC)
+          + Association handball club Chalon-sur-Saône (ASHBCC)
      * Volley
      * Cyclisme
      * Tennis
-     * AthlÃ©tisme
+     * Athlétisme
      * Gymnastique
      * Sports nautiques
      * Auto-moto
      * Sports de combat
-     * PÃ©tanque et sport boules
+     * Pétanque et sport boules
      * Jeux olympiques
 
      * Longs formats
-          + La SaÃ´ne-et-Loire face au dÃ©rÃ¨glement climatique
+          + La Saône-et-Loire face au dérèglement climatique
           + Le destin tragique de Marwan Berreni
-          + Histoires dâ€˜eau
-          + Les cold cases de SaÃ´ne-et-Loire
+          + Histoires d`eau
+          + Les cold cases de Saône-et-Loire
           + Les violences conjugales
-          + Samantha Avril, le parcours dâ€™une usurpatrice
+          + Samantha Avril, le parcours d'une usurpatrice
           + > TOUS LES LONGS FORMATS
      * Podcasts
           + Les 20 ans de la mort de Bernard Loiseau
-          + Claudie HaignerÃ© salue la nouvelle spationaute franÃ§aise
+          + Claudie Haigneré salue la nouvelle spationaute française
             Sophie Adnot
           + Thibaut Pinot et Christophe Riblon racontent leurs souvenirs
-            de la montÃ©e de lâ€™Alpe dâ€™Huez
-          + Les scientifiques vous rÃ©pondent
+            de la montée de l'Alpe d'Huez
+          + Les scientifiques vous répondent
           + > TOUS LES PODCASTS
 
-     * Toute l'actualitÃ© culturelle
-     * En SaÃ´ne-et-Loire
-     * CinÃ©ma
-     * TÃ©lÃ©vision - SÃ©ries - Streaming
+     * Toute l'actualité culturelle
+     * En Saône-et-Loire
+     * Cinéma
+     * Télévision - Séries - Streaming
      * Diverto.tv
      * Programme TV
-     * Programme cinÃ©
+     * Programme ciné
      * Livres / BD
      * Jardinage
      * Cuisine et vins
-     * PÃªche
+     * Pêche
      * Chasse
      * Pour Sortir, l'agenda des sorties
 
      * Tous nos magazines
-          + SantÃ©
+          + Santé
           + Lifestyle
           + Immobilier
           + Automobile
@@ -189,20 +189,20 @@
      * Le Journal des Enfants
 
      * Boutique
-     * Libra MÃ©moria
-          + Tous les avis de dÃ©cÃ¨s
+     * Libra Mémoria
+          + Tous les avis de décès
      * Annonces
           + Immobilier
           + Automobiles
-     * Annonces judiciaires et lÃ©gales
-     * Vie des sociÃ©tÃ©s
-     * MarchÃ©s publics
-     * France MarchÃ©s, portail d'appels offres
+     * Annonces judiciaires et légales
+     * Vie des sociétés
+     * Marchés publics
+     * France Marchés, portail d'appels offres
      * Paroles de partenaires
           + Articles partenaires
      * Le groupe EBRA
-          + PrÃ©sentation du groupe
-          + EBRA MÃ©dias
+          + Présentation du groupe
+          + EBRA Médias
           + EBRA Events
 
    Rechercher
@@ -212,11 +212,11 @@
    ____________________ Ok
    ____________________ Ok
 
-   L'Ã©dition du soir en numÃ©rique dÃ¨s 21h30 Le journal en numÃ©rique dÃ¨s 5h
-   AccÃ©dez Ã  tous les contenus en illimitÃ©
+   L'édition du soir en numérique dès 21h30 Le journal en numérique dès 5h
+   Accédez à tous les contenus en illimité
    S'abonner
-     * ActualitÃ©
-     * En SaÃ´ne-et-Loire
+     * Actualité
+     * En Saône-et-Loire
      * Sport
      * Long Format
      * Culture - Loisirs
@@ -224,7 +224,7 @@
      * Services
 
      * A la Une
-          + Guerre IsraÃ«l-Hamas
+          + Guerre Israël-Hamas
      * France - Monde
      * Faits divers
      * Politique
@@ -236,19 +236,19 @@
      * Fil info
      * Le Journal des Enfants
 
-     * L'actualitÃ© en SaÃ´ne-et-Loire
-     * Nos Ã©ditions locales
-          + Chalon-sur-SaÃ´ne
+     * L'actualité en Saône-et-Loire
+     * Nos éditions locales
+          + Chalon-sur-Saône
           + Bresse
-          + MÃ¢con
+          + Mâcon
           + Charolais - Brionnais
           + Montceau-les-Mines
           + Le Creusot
           + Autun
 
-   Je choisis mon ï¿½dition favorite
-     * Toute l'actualitÃ© sportive
-     * RÃ©sultats et classements
+   Je choisis mon ½dition favorite
+     * Toute l'actualité sportive
+     * Résultats et classements
      * Football
           + Mercato
           + Louhans-Cuiseaux FC
@@ -256,62 +256,62 @@
           + FC Gueugnon
      * Basket
           + Elan Chalon Basket
-          + PrissÃ©-MÃ¢con Basket (ESPM)
+          + Prissé-Mâcon Basket (ESPM)
           + Charnay Basket Bourgogne Sud (CBBS)
      * Rugby
           + Tournoi des 6 Nations
-          + AS MÃ¢con rugby
+          + AS Mâcon rugby
           + CO Creusot
           + Racing Tango Chalonnais
      * Handball
-          + Association handball club Chalon-sur-SaÃ´ne (ASHBCC)
+          + Association handball club Chalon-sur-Saône (ASHBCC)
      * Volley
      * Cyclisme
      * Tennis
-     * AthlÃ©tisme
+     * Athlétisme
      * Gymnastique
      * Sports nautiques
      * Auto-moto
      * Sports de combat
-     * PÃ©tanque et sport boules
+     * Pétanque et sport boules
      * Jeux olympiques
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Longs formats
-          + La SaÃ´ne-et-Loire face au dÃ©rÃ¨glement climatique
+          + La Saône-et-Loire face au dérèglement climatique
           + Le destin tragique de Marwan Berreni
-          + Histoires dâ€˜eau
-          + Les cold cases de SaÃ´ne-et-Loire
+          + Histoires d`eau
+          + Les cold cases de Saône-et-Loire
           + Les violences conjugales
-          + Samantha Avril, le parcours dâ€™une usurpatrice
+          + Samantha Avril, le parcours d'une usurpatrice
           + > TOUS LES LONGS FORMATS
      * Podcasts
           + Les 20 ans de la mort de Bernard Loiseau
-          + Claudie HaignerÃ© salue la nouvelle spationaute franÃ§aise
+          + Claudie Haigneré salue la nouvelle spationaute française
             Sophie Adnot
           + Thibaut Pinot et Christophe Riblon racontent leurs souvenirs
-            de la montÃ©e de lâ€™Alpe dâ€™Huez
-          + Les scientifiques vous rÃ©pondent
+            de la montée de l'Alpe d'Huez
+          + Les scientifiques vous répondent
           + > TOUS LES PODCASTS
 
-   Je choisis mon ï¿½dition favorite
-     * Toute l'actualitÃ© culturelle
-     * En SaÃ´ne-et-Loire
-     * CinÃ©ma
-     * TÃ©lÃ©vision - SÃ©ries - Streaming
+   Je choisis mon ½dition favorite
+     * Toute l'actualité culturelle
+     * En Saône-et-Loire
+     * Cinéma
+     * Télévision - Séries - Streaming
      * Diverto.tv
      * Programme TV
-     * Programme cinÃ©
+     * Programme ciné
      * Livres / BD
      * Jardinage
      * Cuisine et vins
-     * PÃªche
+     * Pêche
      * Chasse
      * Pour Sortir, l'agenda des sorties
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Tous nos magazines
-          + SantÃ©
+          + Santé
           + Lifestyle
           + Immobilier
           + Automobile
@@ -320,43 +320,43 @@
           + Tourisme et patrimoine
      * Le Journal des Enfants
 
-   Je choisis mon ï¿½dition favorite
+   Je choisis mon ½dition favorite
      * Boutique
-     * Libra MÃ©moria
-          + Tous les avis de dÃ©cÃ¨s
+     * Libra Mémoria
+          + Tous les avis de décès
      * Annonces
           + Immobilier
           + Automobiles
-     * Annonces judiciaires et lÃ©gales
-     * Vie des sociÃ©tÃ©s
-     * MarchÃ©s publics
-     * France MarchÃ©s, portail d'appels offres
+     * Annonces judiciaires et légales
+     * Vie des sociétés
+     * Marchés publics
+     * France Marchés, portail d'appels offres
      * Paroles de partenaires
           + Articles partenaires
      * Le groupe EBRA
-          + PrÃ©sentation du groupe
-          + EBRA MÃ©dias
+          + Présentation du groupe
+          + EBRA Médias
           + EBRA Events
 
-   Je choisis mon ï¿½dition favorite
-   Journal en numÃ©rique
-   Chalon Sur SaÃ´ne
+   Je choisis mon ½dition favorite
+   Journal en numérique
+   Chalon Sur Saône
 
-   Chalon Sur SaÃ´ne
+   Chalon Sur Saône
 
    dim. 03/12/2023
    Lire le journal
-     * VidÃ©os
+     * Vidéos
      * Newsletters
-     * MÃ©tÃ©o
+     * Météo
      * Boutique
      * LeCLUB
-     * Mon SÃ©jour en montagne
+     * Mon Séjour en montagne
 
    Icone de l'application mobile
 
-   Retrouvez tous nos contenus et notre journal en numÃ©rique
-   TÃ©lÃ©chargez gratuitement l'app
+   Retrouvez tous nos contenus et notre journal en numérique
+   Téléchargez gratuitement l'app
    Suivez-nous
      * Facebook
      * Twitter
@@ -367,87 +367,87 @@
      * Contact
      * FAQ
      * CGU du site
-     * Informations lÃ©gales
-     * Droit Ã  l'oubli
-     * Protection des donnÃ©es
+     * Informations légales
+     * Droit à l'oubli
+     * Protection des données
 
      *
-     * SociÃ©tÃ©
-     * AprÃ¨s leur repas, les aÃ®nÃ©s se sont retrouvÃ©s autour de cartes et
-       de jeux de sociÃ©tÃ©
+     * Société
+     * Après leur repas, les aînés se sont retrouvés autour de cartes et
+       de jeux de société
 
-Saint-Maurice-des-Champs AprÃ¨s leur repas, les aÃ®nÃ©s se sont retrouvÃ©s autour
-de cartes et de jeux de sociÃ©tÃ©
+Saint-Maurice-des-Champs Après leur repas, les aînés se sont retrouvés autour
+de cartes et de jeux de société
 
-   Le Journal de SaÃ´ne et Loire - 19 nov. 2023 Ã  14:00 - Temps de lecture
+   Le Journal de Saône et Loire - 19 nov. 2023 à 14:00 - Temps de lecture
    :
     |
-   21 convives Ã©taient rÃ©unis pour le banquet annuel des aÃ®nÃ©s.
-   Photo ThÃ©rÃ¨se Roberjot 21 convives Ã©taient rÃ©unis pour le banquet
-   annuel des aÃ®nÃ©s.  Photo ThÃ©rÃ¨se Roberjot
+   21 convives étaient réunis pour le banquet annuel des aînés.
+   Photo Thérèse Roberjot 21 convives étaient réunis pour le banquet
+   annuel des aînés.  Photo Thérèse Roberjot
 
-   21 Campimauriciens de 65 ans et plus, accompagnÃ©s du maire Michel
-   Voisin et des membres du conseil municipal, Ã©taient rÃ©unis au...
+   21 Campimauriciens de 65 ans et plus, accompagnés du maire Michel
+   Voisin et des membres du conseil municipal, étaient réunis au...
 
-   ...pour lire la suite, rejoignez notre communautÃ© d'abonnÃ©s
+   ...pour lire la suite, rejoignez notre communauté d'abonnés
 
-   et accÃ©dez Ã  l'intÃ©gralitÃ© de nos articles sur le site et l'application
+   et accédez à l'intégralité de nos articles sur le site et l'application
    mobile
-   (BUTTON) Je dÃ©couvre
+   (BUTTON) Je découvre
 
-   Ã  partir de 1 â‚¬ le 1er mois, sans engagement de durÃ©e
+   à partir de 1 EUR le 1er mois, sans engagement de durée
 
    {'skus': ['jslswgpremium5']}
 
    Google : -50% les 6 premiers mois
-   DÃ©jÃ  abonnÃ© ? Je me connecte
+   Déjà abonné ? Je me connecte
    Pour lire la suite, abonnez-vous :
-   DÃ©couvrez nos offres
+   Découvrez nos offres
    ou
    Je me connecte
-     * SociÃ©tÃ©
+     * Société
      * Saint-Maurice-des-Champs
      * Buxy-bassin
-     * Edition Chalon-sur-SaÃ´ne
+     * Edition Chalon-sur-Saône
      * Fil Info
      *
 
 En vente dans la boutique
 
      * [dubouillon-n-30-(2023)-1700639545.jpg]
-     * DÃ©couvrez la rÃ©trospective de 2023 par Alain Dubouillon
+     * Découvrez la rétrospective de 2023 par Alain Dubouillon
        J'en profite
 
      * Les sites du groupe EBRA
           + L'Alsace
-          + Les DerniÃ¨res Nouvelles d'Alsace
-          + Le RÃ©publicain Lorrain
-          + L'Est RÃ©publicain
+          + Les Dernières Nouvelles d'Alsace
+          + Le Républicain Lorrain
+          + L'Est Républicain
           + Vosges Matin
-          + Le ProgrÃ¨s
+          + Le Progrès
           + Le Bien Public
-          + Le DauphinÃ© LibÃ©rÃ©
+          + Le Dauphiné Libéré
           + Le JDE
           + Le groupe EBRA
-     * Nos thÃ©matiques
+     * Nos thématiques
           + Sport
           + Faits divers
           + Politique
-          + Ã‰conomie
+          + Économie
           + Environnement
           + Culture - Loisirs
           + Lifestyle
-          + SantÃ©
+          + Santé
           + Immobilier
           + Automobile
           + Cuisine et Vins
-          + Nos chartes Ã©ditoriales
+          + Nos chartes éditoriales
           + Revue de presse
      * Nos services
           + Diverto.TV
-          + MÃ©tÃ©o
-          + Avis de dÃ©cÃ¨s
-          + Annonces immobiliÃ¨res
+          + Météo
+          + Avis de décès
+          + Annonces immobilières
           + Annonces automobile
           + Boutique
           + Pour sortir
@@ -456,7 +456,7 @@ En vente dans la boutique
           + Nos partenaires
           + Devenir correspondant
           + Devenir porteur de journaux
-          + PublicitÃ© Communiquez sur nos supports
+          + Publicité Communiquez sur nos supports
 
    Suivez-nous
      * Facebook
@@ -468,23 +468,23 @@ En vente dans la boutique
      * Contact
      * FAQ
      * CGU du site
-     * Informations lÃ©gales
-     * Droit Ã  l'oubli
-     * Protection des donnÃ©es
+     * Informations légales
+     * Droit à l'oubli
+     * Protection des données
 
    OJD Digital Ad Trust Display
 
      * A la une
      * Fil Info
-     * SaÃ´ne et Loire
-     * VidÃ©o
+     * Saône et Loire
+     * Vidéo
      * Rechercher
 
-   SaÃ´ne et Loire
-     * SaÃ´ne-et-Loire
-          + Chalon-sur-SaÃ´ne
+   Saône et Loire
+     * Saône-et-Loire
+          + Chalon-sur-Saône
           + Bresse
-          + MÃ¢con
+          + Mâcon
           + Charolais - Brionnais
           + Montceau-les-Mines
           + Le Creusot

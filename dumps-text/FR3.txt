@@ -1,8 +1,8 @@
     #Page d'accueil Page d'accueil Page d'accueil Recherche
 
-     * Aller directement Ã  la navigation
+     * Aller directement à la navigation
      * Aller directement au contenu
-     * Aller directement Ã  la recherche
+     * Aller directement à la recherche
 
    (BUTTON) MENU
      *
@@ -22,72 +22,72 @@
      * AR
      * ZH
 
-   MinistÃ¨re de la culture
-     * (BUTTON) ActualitÃ©s
+   Ministère de la culture
+     * (BUTTON) Actualités
           + (BUTTON) fermer le menu
-            ActualitÃ©s (BUTTON) Retour
-               o ActualitÃ©s
-               o Ã€ la Une
+            Actualités (BUTTON) Retour
+               o Actualités
+               o À la Une
                o (BUTTON) Dossiers
                  Dossiers
-                    # Le budget du ministÃ¨re de la Culture
-                    # Ma bibliothÃ¨que : le monde Ã  portÃ©e de main
+                    # Le budget du ministère de la Culture
+                    # Ma bibliothèque : le monde à portée de main
                     # Olympiade Culturelle
-                    # Soutien Culture Ukraine: le ministÃ¨re de la Culture
+                    # Soutien Culture Ukraine: le ministère de la Culture
                       se mobilise
                     # 264 projets pour des Mondes nouveaux
-                    # StratÃ©gie dâ€™accÃ©lÃ©ration des industries culturelles
-                      et crÃ©atives
-                    # France Relance : Redynamiser notre modÃ¨le culturel
-                    # Ã‰tats gÃ©nÃ©raux des festivals : un modÃ¨le Ã 
-                      rÃ©inventer
-               o Ã‰vÃ©nements nationaux
-     * (BUTTON) Nous connaÃ®tre
+                    # Stratégie d'accélération des industries culturelles
+                      et créatives
+                    # France Relance : Redynamiser notre modèle culturel
+                    # États généraux des festivals : un modèle à
+                      réinventer
+               o Événements nationaux
+     * (BUTTON) Nous connaître
           + (BUTTON) fermer le menu
-            Nous connaÃ®tre (BUTTON) Retour
-               o Nous connaÃ®tre
+            Nous connaître (BUTTON) Retour
+               o Nous connaître
                o Rima Abdul Malak, ministre de la Culture
                o Le cabinet de la Ministre
-               o (BUTTON) DÃ©couvrir le ministÃ¨re
-                 DÃ©couvrir le ministÃ¨re
-                    # Organisation du ministÃ¨re
-                    # Histoire du ministÃ¨re
-                    # Ã‰vÃ©nements nationaux
+               o (BUTTON) Découvrir le ministère
+                 Découvrir le ministère
+                    # Organisation du ministère
+                    # Histoire du ministère
+                    # Événements nationaux
                     # Protections, labels et appellations
-                    # Le budget du ministÃ¨re de la Culture
+                    # Le budget du ministère de la Culture
                o (BUTTON) Emploi et formation
                  Emploi et formation
                     # Emploi - Apprentissage
                     # Concours et examens professionnels
-                    # Le rÃ©pertoire des mÃ©tiers
-                    # Les agents tÃ©moignent
+                    # Le répertoire des métiers
+                    # Les agents témoignent
                     # Service civique
                     # Formations professionnelles
-     * (BUTTON) Aides & dÃ©marches
+     * (BUTTON) Aides & démarches
           + (BUTTON) fermer le menu
-            Aides & dÃ©marches (BUTTON) Retour
-               o Aides & dÃ©marches
-               o Aides, dÃ©marches et subventions
-               o (BUTTON) Appels Ã  projets et Ã  candidatures
-                 Appels Ã  projets et Ã  candidatures
-                    # Appels Ã  projets du ministÃ¨re de la Culture
-                    # Appels Ã  projets des partenaires (opÃ©rateurs,
-                      organismes labellisÃ©s ou subventionnÃ©s)
-               o MarchÃ©s publics
+            Aides & démarches (BUTTON) Retour
+               o Aides & démarches
+               o Aides, démarches et subventions
+               o (BUTTON) Appels à projets et à candidatures
+                 Appels à projets et à candidatures
+                    # Appels à projets du ministère de la Culture
+                    # Appels à projets des partenaires (opérateurs,
+                      organismes labellisés ou subventionnés)
+               o Marchés publics
                o Protections, labels et appellations
      * (BUTTON) Documentation
           + (BUTTON) fermer le menu
             Documentation (BUTTON) Retour
                o Documentation
                o Rechercher une publication
-               o Bases de donnÃ©es
-               o Sites internet et multimÃ©dias
-               o RÃ©pertoire des ressources documentaires
-     * (BUTTON) RÃ©gions
+               o Bases de données
+               o Sites internet et multimédias
+               o Répertoire des ressources documentaires
+     * (BUTTON) Régions
           + (BUTTON) fermer le menu
-            (BUTTON) RÃ©gions
-               o Drac Auvergne - RhÃ´ne-Alpes
-               o Drac Bourgogne-Franche-ComtÃ©
+            (BUTTON) Régions
+               o Drac Auvergne - Rhône-Alpes
+               o Drac Bourgogne-Franche-Comté
                o Drac Bretagne
                o Drac Centre-Val de Loire
                o Drac Corse
@@ -95,59 +95,59 @@
                o Dac Guadeloupe
                o DCJS Guyane
                o Drac Hauts-de-France
-               o Drac Ãle-de-France
+               o Drac Île-de-France
                o DAC Martinique
                o DAC Mayotte
                o Drac Normandie
                o DRAC Nouvelle-Aquitaine
-               o Mission aux affaires culturelles de Nouvelle-CalÃ©donie
+               o Mission aux affaires culturelles de Nouvelle-Calédonie
                o Drac Occitanie
-               o Dac de La RÃ©union
+               o Dac de La Réunion
                o Drac Pays de la Loire
-               o Mission aux affaires culturelles de PolynÃ©sie FranÃ§aise
-               o Drac Provence-Alpes-CÃ´te d'Azur
+               o Mission aux affaires culturelles de Polynésie Française
+               o Drac Provence-Alpes-Côte d'Azur
                o Mission aux Affaires Culturelles de
                  Saint-Pierre-et-Miquelon
-     * (BUTTON) ThÃ©matiques
+     * (BUTTON) Thématiques
           + (BUTTON) fermer le menu
-            (BUTTON) ThÃ©matiques
-               o (BUTTON) Secteurs & mÃ©tiers
+            (BUTTON) Thématiques
+               o (BUTTON) Secteurs & métiers
                     # Architecture
                     # Archives
-                    # ArchÃ©ologie
+                    # Archéologie
                     # Arts plastiques
                     # Audiovisuel
-                    # CinÃ©ma
+                    # Cinéma
                     # Danse
                     # Design
-                    # Industries culturelles et crÃ©atives
+                    # Industries culturelles et créatives
                     # Livre et lecture
                     # Mode
                     # Monuments & Sites
                     # Musique
-                    # MusÃ©es
-                    # MÃ©tiers d'art
+                    # Musées
+                    # Métiers d'art
                     # Photographie
-                    # Presse Ã©crite
-                    # ThÃ©Ã¢tre, spectacles
+                    # Presse écrite
+                    # Théâtre, spectacles
                o (BUTTON) Politiques publiques
                     # Circulation des biens culturels
                     # Conservation-restauration
                     # Culture et territoires
-                    # DÃ©veloppement culturel
+                    # Développement culturel
                     # Education artistique et culturelle
-                    # Education aux mÃ©dias et Ã  l'information
-                    # EgalitÃ© et diversitÃ©
-                    # Enseignement supÃ©rieur et Recherche
+                    # Education aux médias et à l'information
+                    # Egalité et diversité
+                    # Enseignement supérieur et Recherche
                     # Ethnologie de la France
                     # Etudes et statistiques
                     # Europe et international
-                    # Innovation numÃ©rique
-                    # Langue franÃ§aise et langues de France
-                    # MÃ©cÃ©nat
-                    # Patrimoine culturel immatÃ©riel
+                    # Innovation numérique
+                    # Langue française et langues de France
+                    # Mécénat
+                    # Patrimoine culturel immatériel
                     # Sciences du patrimoine
-                    # SÃ©curitÃ© - SÃ»retÃ©
+                    # Sécurité - Sûreté
      *
           + Facebook
           + X
@@ -155,86 +155,86 @@
           + Youtube
           + Soundcloud
           + Linkedin
-          + Flux de dÃ©pÃªches
+          + Flux de dépêches
 
-     * (BUTTON) RÃ©gions
+     * (BUTTON) Régions
           + (BUTTON) fermer le menu
-               o Drac Auvergne - RhÃ´ne-Alpes
+               o Drac Auvergne - Rhône-Alpes
                o Drac Centre-Val de Loire
                o Dac Guadeloupe
-               o Drac Ãle-de-France
+               o Drac Île-de-France
                o Drac Normandie
                o Drac Occitanie
-               o Mission aux affaires culturelles de PolynÃ©sie FranÃ§aise
-               o Drac Bourgogne-Franche-ComtÃ©
+               o Mission aux affaires culturelles de Polynésie Française
+               o Drac Bourgogne-Franche-Comté
                o Drac Corse
                o DCJS Guyane
                o DAC Martinique
                o DRAC Nouvelle-Aquitaine
-               o Dac de La RÃ©union
-               o Drac Provence-Alpes-CÃ´te d'Azur
+               o Dac de La Réunion
+               o Drac Provence-Alpes-Côte d'Azur
                o Drac Bretagne
                o Drac Grand Est
                o Drac Hauts-de-France
                o DAC Mayotte
-               o Mission aux affaires culturelles de Nouvelle-CalÃ©donie
+               o Mission aux affaires culturelles de Nouvelle-Calédonie
                o Drac Pays de la Loire
                o Mission aux Affaires Culturelles de
                  Saint-Pierre-et-Miquelon
-     * (BUTTON) ThÃ©matiques
+     * (BUTTON) Thématiques
           + (BUTTON) fermer le menu
-               o (BUTTON) Secteurs & mÃ©tiers
+               o (BUTTON) Secteurs & métiers
                o (BUTTON) Politiques publiques
                o Architecture
                o Archives
-               o ArchÃ©ologie
+               o Archéologie
                o Arts plastiques
                o Audiovisuel
-               o CinÃ©ma
+               o Cinéma
                o Danse
                o Design
-               o Industries culturelles et crÃ©atives
+               o Industries culturelles et créatives
                o Livre et lecture
                o Mode
                o Monuments & Sites
                o Musique
-               o MusÃ©es
-               o MÃ©tiers d'art
+               o Musées
+               o Métiers d'art
                o Photographie
-               o Presse Ã©crite
-               o ThÃ©Ã¢tre, spectacles
+               o Presse écrite
+               o Théâtre, spectacles
             (BUTTON) Voir plus
                o Circulation des biens culturels
                o Conservation-restauration
                o Culture et territoires
-               o DÃ©veloppement culturel
+               o Développement culturel
                o Education artistique et culturelle
-               o Education aux mÃ©dias et Ã  l'information
-               o EgalitÃ© et diversitÃ©
-               o Enseignement supÃ©rieur et Recherche
+               o Education aux médias et à l'information
+               o Egalité et diversité
+               o Enseignement supérieur et Recherche
                o Ethnologie de la France
                o Etudes et statistiques
                o Europe et international
-               o Innovation numÃ©rique
-               o Langue franÃ§aise et langues de France
-               o MÃ©cÃ©nat
-               o Patrimoine culturel immatÃ©riel
+               o Innovation numérique
+               o Langue française et langues de France
+               o Mécénat
+               o Patrimoine culturel immatériel
                o Sciences du patrimoine
-               o SÃ©curitÃ© - SÃ»retÃ©
+               o Sécurité - Sûreté
             (BUTTON) Voir plus
 
    Chargement
 
    Retour
-   thÃ¨mes
+   thèmes
 
-Jeux-vidÃ©o
+Jeux-vidéo
 
-    1. Accueil MinistÃ¨re
+    1. Accueil Ministère
 
-     thÃ¨mes
+     thèmes
 
-     Jeux-vidÃ©o
+     Jeux-vidéo
 
    (BUTTON) Partager
      * Partager sur Facebook
@@ -242,137 +242,137 @@ Jeux-vidÃ©o
      * Partager sur Linkedin
      * Plus...
 
-   Ã‰couter
+   Écouter
 
      * (BUTTON)
 
-Joueur, formations, chiffres, Ã  quoi ressemble le milieu des jeux-vidÃ©o en
+Joueur, formations, chiffres, à quoi ressemble le milieu des jeux-vidéo en
 France ?
 
-   En 1952 est crÃ©e le premier jeu-vidÃ©o de l'histoire, OXO, un jeu de
-   morpion pensÃ© par un universitaire. Ce jeu lÃ  ne sera pas distribuÃ© au
-   grand public mais restera le dÃ©clenchement de l'histoire du
-   jeu-vidÃ©o. En 1972, sortira le premier jeu-vidÃ©o grand public PONG. Un
-   jeu d'arcade dont le succÃ¨s fut total. Et depuis, l'Ã©volution du
-   jeu-vidÃ©o a pris une allure folle. Jusqu'Ã  devenir un vÃ©ritable art et
-   crÃ©er sa propre culture.
+   En 1952 est crée le premier jeu-vidéo de l'histoire, OXO, un jeu de
+   morpion pensé par un universitaire. Ce jeu là ne sera pas distribué au
+   grand public mais restera le déclenchement de l'histoire du
+   jeu-vidéo. En 1972, sortira le premier jeu-vidéo grand public PONG. Un
+   jeu d'arcade dont le succès fut total. Et depuis, l'évolution du
+   jeu-vidéo a pris une allure folle. Jusqu'à devenir un véritable art et
+   créer sa propre culture.
 
-Le jeu-vidÃ©o un secteur en trÃ¨s bonne santÃ© sur PC, console ou mobile.
+Le jeu-vidéo un secteur en très bonne santé sur PC, console ou mobile.
 
-   Le domaine culturel du jeu-vidÃ©o est en quasi constante expansion.
-   MalgrÃ© une lÃ©gÃ¨re baisse de 2% en 2019, son chiffre d'affaires ne cesse
+   Le domaine culturel du jeu-vidéo est en quasi constante expansion.
+   Malgré une légère baisse de 2% en 2019, son chiffre d'affaires ne cesse
    d'augmenter depuis 2013, atteignant des records en 2020 avec un
    chiffre d'affaires de 5,3 milliards d'euros, en croissance de 11,3% par
-   rapport Ã  2019. Une somme divisÃ©e entre trois supports :
+   rapport à 2019. Une somme divisée entre trois supports :
 
-   - 2,7 milliards liÃ©s aux consoles de jeu
-   - 1,4 milliard liÃ© au jeux mobiles
-   - 1,2 milliard liÃ©s aux jeux PC
+   - 2,7 milliards liés aux consoles de jeu
+   - 1,4 milliard lié au jeux mobiles
+   - 1,2 milliard liés aux jeux PC
 
    Comme en atteste le Syndicat des Editeurs de Logiciels de Loisirs
-   (SELL) dans une Ã©tude de 2020 sur le marchÃ© des jeux vidÃ©o, le secteur
-   est l'un des rares Ã  avoir Ã©tÃ© dynamisÃ© par l'Ã©pidÃ©mie du Covid-19.
+   (SELL) dans une étude de 2020 sur le marché des jeux vidéo, le secteur
+   est l'un des rares à avoir été dynamisé par l'épidémie du Covid-19.
 
-Des gamers de tout Ã¢ge passionnÃ©s par la culture du jeu-vidÃ©o
+Des gamers de tout âge passionnés par la culture du jeu-vidéo
 
-   Le jeu-vidÃ©o qu'il soit sur PC, console ou smartphone est un vÃ©ritable
-   phÃ©nomÃ¨ne.
+   Le jeu-vidéo qu'il soit sur PC, console ou smartphone est un véritable
+   phénomène.
 
-   Depuis le dÃ©but de l'histoire des jeux-vidÃ©o avec l'apparition des
+   Depuis le début de l'histoire des jeux-vidéo avec l'apparition des
    premiers jeux sur Atari, la discipline a conquis des milliards de
-   joueurs partout dans le monde. Il existe une rÃ©elle culture jeux-vidÃ©o.
-   Nombre de ces adeptes sont des passionnÃ©s qui ne ratent actualitÃ©
-   jeu-vidÃ©o comme on peut en voir dans le spectacle vivant, l'industrie
+   joueurs partout dans le monde. Il existe une réelle culture jeux-vidéo.
+   Nombre de ces adeptes sont des passionnés qui ne ratent actualité
+   jeu-vidéo comme on peut en voir dans le spectacle vivant, l'industrie
    musicale ou l'art contemporain.
 
-   Sites de jeux-vidÃ©o, blogs, youtubeurs, influenceurs, collectionneurs,
-   les contenus liÃ©s au jeu-vidÃ©o sont partout et sont vus et lus par des
+   Sites de jeux-vidéo, blogs, youtubeurs, influenceurs, collectionneurs,
+   les contenus liés au jeu-vidéo sont partout et sont vus et lus par des
    millions de personnes en France comme partout ailleurs.
-   MalgrÃ© les idÃ©es reÃ§ues c'est une culture qui intÃ©resse tous les genres
-   et tous les Ã¢ges. Selon une Ã©tude du SELL, l'Ã¢ge moyen des joueurs de
-   jeux-vidÃ©o rÃ©gulier est de 39 ans. Toutes plateformes confondues.
-   Ces joueurs rÃ©guliers, sont pour beaucoup des joueuses, 47% de femmes
+   Malgré les idées reçues c'est une culture qui intéresse tous les genres
+   et tous les âges. Selon une étude du SELL, l'âge moyen des joueurs de
+   jeux-vidéo régulier est de 39 ans. Toutes plateformes confondues.
+   Ces joueurs réguliers, sont pour beaucoup des joueuses, 47% de femmes
    gameuses contre 52% de joueurs masculins.
-   Parmi l'ensemble des joueurs franÃ§ais (rÃ©guliers et occasionnels), on
-   compte Ã©galement 19% de retraitÃ©s.
+   Parmi l'ensemble des joueurs français (réguliers et occasionnels), on
+   compte également 19% de retraités.
 
-Travailler et se former au mÃ©tier du jeu-vidÃ©o en France
+Travailler et se former au métier du jeu-vidéo en France
 
-   Les entreprises franÃ§aises ne sont pas en marge dans la crÃ©ation de
-   jeu-vidÃ©o, bien au contraire. Certaines d'entres elles sont de
-   vÃ©ritables leaders du marchÃ© qui Ã©ditent de grand succÃ¨s. Le jeu-vidÃ©o
-   est un domaine qui renferme de nombreux mÃ©tiers dont on retrouve la
-   liste sur le site SNJV (Syndicat National du Jeu-VidÃ©o).
-   Il y a donc plusieurs sortes d'entreprises liÃ©es Ã  cet univers allant
-   de l'Ã©diteur de jeux-vidÃ©o au service de crÃ©ation en passant par les
-   agences de dÃ©veloppement. Sur le site de l'Agence FranÃ§aise du Jeu
-   VidÃ©o, 630 entreprises sont rÃ©pertoriÃ©es et classÃ©es par discipline.
+   Les entreprises françaises ne sont pas en marge dans la création de
+   jeu-vidéo, bien au contraire. Certaines d'entres elles sont de
+   véritables leaders du marché qui éditent de grand succès. Le jeu-vidéo
+   est un domaine qui renferme de nombreux métiers dont on retrouve la
+   liste sur le site SNJV (Syndicat National du Jeu-Vidéo).
+   Il y a donc plusieurs sortes d'entreprises liées à cet univers allant
+   de l'éditeur de jeux-vidéo au service de création en passant par les
+   agences de développement. Sur le site de l'Agence Française du Jeu
+   Vidéo, 630 entreprises sont répertoriées et classées par discipline.
 
-   Question formation, il existe en France, une Ã©cole publique pour se
-   former aux mÃ©tiers du jeu-vidÃ©o l'ENJMIN (Ecole Nationale du Jeu et des
-   MÃ©dias Interactifs NumÃ©rique). Cet Ã©tablissement est considÃ©rÃ© comme la
-   meilleure formation pour se former aux mÃ©tiers des jeux-vidÃ©o par le
-   SNJV (Syndicat National des Jeux-VidÃ©o).
-   Il est Ã©galement possible de s'orienter vers des BTS, des BUT, des
-   Ã©coles privÃ©s ou encore des spÃ©cialisations au sein d'Ã©cole d'art ou
+   Question formation, il existe en France, une école publique pour se
+   former aux métiers du jeu-vidéo l'ENJMIN (Ecole Nationale du Jeu et des
+   Médias Interactifs Numérique). Cet établissement est considéré comme la
+   meilleure formation pour se former aux métiers des jeux-vidéo par le
+   SNJV (Syndicat National des Jeux-Vidéo).
+   Il est également possible de s'orienter vers des BTS, des BUT, des
+   écoles privés ou encore des spécialisations au sein d'école d'art ou
    d'informatique.
 
-Des mesures nationales pour accentuer la crÃ©ation de jeux-vidÃ©o en France
+Des mesures nationales pour accentuer la création de jeux-vidéo en France
 
-   Parce qu'il reprÃ©sente un fleuron franÃ§ais et qu'il est le centre de
-   passion de millions de franÃ§ais et de franÃ§aises, le ministÃ¨re de la
+   Parce qu'il représente un fleuron français et qu'il est le centre de
+   passion de millions de français et de françaises, le ministère de la
    Culture par le biais du CNC apporte son soutien aux entreprises du
-   jeu-vidÃ©o.
+   jeu-vidéo.
 
-Le CNC, interlocuteur privilÃ©giÃ© pour obtenir des aides et dÃ©velopper un
-nouveau jeu-vidÃ©o
+Le CNC, interlocuteur privilégié pour obtenir des aides et développer un
+nouveau jeu-vidéo
 
-   Selon le SNJV, 49,9% des entreprises dÃ©clarent avoir recouru Ã  des
+   Selon le SNJV, 49,9% des entreprises déclarent avoir recouru à des
    aides publiques pour financer leurs entreprises. Se lancer dans la
-   crÃ©ation d'un logiciel de loisirs est un grand dÃ©fi, tant professionnel
-   que financier. Certains jeux ont coÃ»tÃ© plusieurs millions d'euros Ã 
-   leurs crÃ©ateurs et parfois sans l'assurance de succÃ¨s Ã  la sortie.
+   création d'un logiciel de loisirs est un grand défi, tant professionnel
+   que financier. Certains jeux ont coûté plusieurs millions d'euros à
+   leurs créateurs et parfois sans l'assurance de succès à la sortie.
    D'autant plus que dans le milieu concurrentiel qu'est celui du
-   jeu-vidÃ©o. En 2019, par exemple, 1200 jeux Ã©taient en cours de
-   production selon le baromÃ¨tre annuel du SNJV.
+   jeu-vidéo. En 2019, par exemple, 1200 jeux étaient en cours de
+   production selon le baromètre annuel du SNJV.
 
-   Le CNC (Centre National du CinÃ©ma et de l'image animÃ©e) et propose
-   quelques aides pour les entreprises du jeu-vidÃ©o :
+   Le CNC (Centre National du Cinéma et de l'image animée) et propose
+   quelques aides pour les entreprises du jeu-vidéo :
 
-   - Le crÃ©dit d'ImpÃ´ts jeu-vidÃ©o :"qui permet aux entreprises de crÃ©ation
-   de dÃ©duire de leurs impÃ´ts une part des dÃ©penses de production d'un
+   - Le crédit d'Impôts jeu-vidéo :"qui permet aux entreprises de création
+   de déduire de leurs impôts une part des dépenses de production d'un
    jeu."
 
-   - Les Fonds d'Aide au Jeu VidÃ©o (FAJV) (aide Ã  l'Ã©criture, aide Ã  la
-   prÃ©-production, aide Ã  la production, aide aux opÃ©rations Ã  caractÃ¨re
+   - Les Fonds d'Aide au Jeu Vidéo (FAJV) (aide à l'écriture, aide à la
+   pré-production, aide à la production, aide aux opérations à caractère
    collectif
 
-   Il est Ã©galement conseillÃ© de se rapprocher de ses institutions locales
-   et en particulier de sa rÃ©gion. Des fonds y sont souvent rÃ©servÃ©s afin
+   Il est également conseillé de se rapprocher de ses institutions locales
+   et en particulier de sa région. Des fonds y sont souvent réservés afin
    d'aider les projets culturels.
 
-TÃ©lÃ©charger des jeux-vidÃ©o avec le Pass Culture
+Télécharger des jeux-vidéo avec le Pass Culture
 
    Depuis 2019, les jeunes ont le droit au pass culture. Le Pass, c'est un
-   budget de 300 euros offert Ã  ces jeunes afin de favoriser l'accÃ¨s Ã  la
-   culture Ã  cet Ã¢ge charniÃ¨re entre la vie scolaire et la vie Ã©tudiante.
-   Cette somme peut Ãªtre dÃ©pensÃ©e dans l'achat de jeux-vidÃ©o sur la
-   plateforme Ã  condition que :
+   budget de 300 euros offert à ces jeunes afin de favoriser l'accès à la
+   culture à cet âge charnière entre la vie scolaire et la vie étudiante.
+   Cette somme peut être dépensée dans l'achat de jeux-vidéo sur la
+   plateforme à condition que :
 
-   - Son Ã©diteur soit FranÃ§ais
-   - Le jeu ne reprÃ©sente aucune scÃ¨ne de violence ou Ã  caractÃ¨re
+   - Son éditeur soit Français
+   - Le jeu ne représente aucune scène de violence ou à caractère
    pornographique
-   Une initiative qui consacre bel et bien le jeu-vidÃ©o comme vecteur de
+   Une initiative qui consacre bel et bien le jeu-vidéo comme vecteur de
    culture.
 
 Ce qu'il faut retenir
 
-   - L'univers du jeu-vidÃ©o reprÃ©sente 5,3 milliards d'euros de chiffre
+   - L'univers du jeu-vidéo représente 5,3 milliards d'euros de chiffre
    d'affaires en 2020
 
-   - L'Ã¢ge moyen des joueurs rÃ©guliers est de 39 ans
+   - L'âge moyen des joueurs réguliers est de 39 ans
 
-   - Il est possible de tÃ©lÃ©charger des jeux-vidÃ©o sur la plateforme pass
+   - Il est possible de télécharger des jeux-vidéo sur la plateforme pass
    culture
 
 
@@ -390,21 +390,21 @@ Ce qu'il faut retenir
      * Youtube
      * Soundcloud
      * Linkedin
-     * Flux de dÃ©pÃªches
+     * Flux de dépêches
 
-   S'inscrire Ã  nos Infolettres
+   S'inscrire à nos Infolettres
 
 Contact
 
-   Acceo, accessibilitÃ© tÃ©lÃ©phonique aux personnes sourdes et
+   Acceo, accessibilité téléphonique aux personnes sourdes et
    malentendantes
-   MinistÃ¨re de la Culture
+   Ministère de la Culture
 
 
-    182 rue Saint-HonorÃ© 75001 Paris
+    182 rue Saint-Honoré 75001 Paris
 
    T. 01 40 15 80 00
-   Acceo, accessibilitÃ© tÃ©lÃ©phonique aux personnes sourdes et
+   Acceo, accessibilité téléphonique aux personnes sourdes et
    malentendantes
      * Contact
      * Foire aux questions
@@ -417,34 +417,34 @@ Contact
      * Youtube
      * Soundcloud
      * Linkedin
-     * Flux de dÃ©pÃªches
+     * Flux de dépêches
 
-ActualitÃ©s
+Actualités
 
-     * Ã€ la Une
+     * À la Une
      * Dossiers
-     * Ã‰vÃ©nements nationaux
+     * Événements nationaux
 
-Aides & dÃ©marches
+Aides & démarches
 
-     * Aides, dÃ©marches et subventions
-     * Appels Ã  projets et Ã  candidatures
-     * MarchÃ©s publics
+     * Aides, démarches et subventions
+     * Appels à projets et à candidatures
+     * Marchés publics
      * Protections, labels et appellations
 
-Nous connaÃ®tre
+Nous connaître
 
      * Rima Abdul Malak, ministre de la Culture
      * Le cabinet de la Ministre
-     * DÃ©couvrir le ministÃ¨re
+     * Découvrir le ministère
      * Emploi et formation
 
 Documentation
 
      * Rechercher une publication
-     * Bases de donnÃ©es
-     * Sites internet et multimÃ©dias
-     * RÃ©pertoire des ressources documentaires
+     * Bases de données
+     * Sites internet et multimédias
+     * Répertoire des ressources documentaires
 
      * data.gouv.fr
      * legifrance.gouv.fr
@@ -455,8 +455,8 @@ Documentation
 
    (BUTTON) Liens utiles
      * Contact
-     * Mentions lÃ©gales
-     * AccessibilitÃ© : partiellement conforme
-     * DonnÃ©es personnelles et cookies
+     * Mentions légales
+     * Accessibilité : partiellement conforme
+     * Données personnelles et cookies
      * Plan du site
-     * Â© MinistÃ¨re de la Culture
+     * © Ministère de la Culture

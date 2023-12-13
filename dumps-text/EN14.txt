@@ -1,4 +1,4 @@
-   #INTENTA » Feed INTENTA » Comments Feed alternate alternate alternate
+   #INTENTA � Feed INTENTA � Comments Feed alternate alternate alternate
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WZJKBQH
 
@@ -29,7 +29,7 @@
      * Terms & Conditions
 
    MEMBER LOGIN
-   ✕ ____________________ Submit
+   x ____________________ Submit
 
 Toxicity, Hate and Harassment in Gaming
 
@@ -50,7 +50,7 @@ How to identify gaming disorder
      * increasing priority given to gaming over other interests and daily
        activities, and
      * continuation or escalation of gaming despite the occurrence of
-       negative consequences – personal, family, social, educational,
+       negative consequences - personal, family, social, educational,
        occupational or other important areas of functioning.
 
    The WHO states that this pattern of behavior would normally occur over
@@ -75,8 +75,8 @@ How to identify gaming disorder
 
 Toxicity in gaming statistics
 
-   Although there are many positive aspects of video games – such as
-   increased psychological well-being and enhanced cognitive skills – hate
+   Although there are many positive aspects of video games - such as
+   increased psychological well-being and enhanced cognitive skills - hate
    and harassment are regular occurrences. A 2020 nationally
    representative survey^1 of US gamers aged 18-45 found that:
      * 81% of people who played online multiplayer games experienced some
@@ -134,7 +134,7 @@ Swatting
 
 Doxing
 
-   Doxing is the act of publicizing a person’s private personal
+   Doxing is the act of publicizing a person's private personal
    information online. It sometimes involves posting their IP address on a
    public forum so that other people who engage in trolling can help to
    crash it.
@@ -154,7 +154,7 @@ Griefing
 
 Botting
 
-   Botting involves sending robots to spam another player’s chat stream
+   Botting involves sending robots to spam another player's chat stream
    and filling it with hate messages.
 
 Hate raids
@@ -180,11 +180,11 @@ What can players do about online toxicity?
 
    There are several measures that players can take to avoid online
    toxicity, hate and harassment. These include:
-     * Blocking and muting – Players can turn off or mute their in-game
+     * Blocking and muting - Players can turn off or mute their in-game
        chat and decide if they want to continue with the game.
-     * Reporting abuse – Most video games and gaming platforms have abuse
+     * Reporting abuse - Most video games and gaming platforms have abuse
        reporting procedures.
-     * Standing up against toxicity – Family, educators and friends should
+     * Standing up against toxicity - Family, educators and friends should
        encourage gamers to stand up against online toxicity instead of
        fuelling a bystander culture where in-game hate and harassment is
        ignored and normalized.
@@ -261,7 +261,7 @@ Subscribe to Trends & Insights
      * facebook
      * instagram
 
-   © Intenta Digital, 2021
+   � Intenta Digital, 2021
 
 INTENTA
 

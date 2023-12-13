@@ -45,89 +45,160 @@ Contents
      * (Top)
      * 1By continent and region
        (BUTTON) Toggle By continent and region subsection
-          + 1.1Africa
-               o 1.1.1South Africa
-          + 1.2Oceania
-               o 1.2.1Australia
-               o 1.2.2New Zealand
-          + 1.3North America
-               o 1.3.1Canada and the United States
-                    # 1.3.1.1Reptiles and amphibians
-                    # 1.3.1.2Birds (predator)
-                    # 1.3.1.3Birds (upland game birds)
-                    # 1.3.1.4Birds (waterfowl)
-                    # 1.3.1.5Birds (shorebirds)
-                    # 1.3.1.6Ungulates
-                    # 1.3.1.7Carnivores
-                    # 1.3.1.8Rodents
-                    # 1.3.1.9Misc. mammals
-          + 1.4Asia
-               o 1.4.1People's Republic of China
-               o 1.4.2Russia
-          + 1.5Europe
-               o 1.5.1United Kingdom
-               o 1.5.2Iceland
-               o 1.5.3Nordic countries
-               o 1.5.4Poland
-     * 2Preparation
-     * 3Cooking
-     * 4Safety
-     * 5See also
-     * 6References
-     * 7External links
+
+     * 1.1Africa
+
+     * 1.1.1South Africa
+
+     1.2Oceania
+     * 1.2.1Australia
+
+     1.2.2New Zealand
+
+
+
+   1.3North America
+
+     * 1.3.1Canada and the United States
+
+     * 1.3.1.1Reptiles and amphibians
+
+
+
+   1.3.1.2Birds (predator)
+
+
+
+   1.3.1.3Birds (upland game birds)
+
+
+
+   1.3.1.4Birds (waterfowl)
+
+
+
+   1.3.1.5Birds (shorebirds)
+
+
+
+   1.3.1.6Ungulates
+
+
+
+   1.3.1.7Carnivores
+
+
+
+   1.3.1.8Rodents
+
+
+
+   1.3.1.9Misc. mammals
+
+
+
+   1.4Asia
+
+     * 1.4.1People's Republic of China
+
+
+
+   1.4.2Russia
+
+
+
+   1.5Europe
+
+     * 1.5.1United Kingdom
+
+
+
+   1.5.2Iceland
+
+
+
+   1.5.3Nordic countries
+
+
+
+   1.5.4Poland
+
+
+
+   2Preparation
+
+
+
+   3Cooking
+
+
+
+   4Safety
+
+
+
+   5See also
+
+
+
+   6References
+
+
+
+   7External links
 
    [ ] Toggle the table of contents
 
 Game (hunting)
 
    [ ] 47 languages
-     * العربية
-     * বাংলা
-     * Башҡортса
-     * Беларуская
-     * Беларуская (тарашкевіца)
-     * Български
+     * a+l+e+r+b+y+tm
+     * ����
+     * Bash�ortsa
+     * Belaruskaya
+     * Belaruskaya (tarashkeviica)
+     * B"lgarski
      * Bosanski
-     * Čeština
+     * Cestina
      * Deutsch
      * Eesti
-     * Español
+     * Espa�ol
      * Esperanto
-     * فارسی
-     * Français
-     * 한국어
-     * Հայերեն
-     * हिन्दी
+     * f+a+r+s+
+     * Fran�ais
+     * ��
+     * �����
+     * ����
      * Hrvatski
      * Ido
      * Italiano
      * Jawa
-     * Lietuvių
+     * Lietuviu
      * Magyar
-     * Македонски
+     * Makedonski
      * Bahasa Melayu
-     * Монгол
+     * Mongol
      * Nederlands
-     * 日本語
+     * ��
      * Polski
-     * Português
-     * Română
-     * Русский
+     * Portugu�s
+     * Rom�na
+     * Russkij
      * Seediq
      * Simple English
-     * Slovenčina
-     * Slovenščina
-     * کوردی
+     * Slovencina
+     * Slovenscina
+     * �w+r+d+
      * Suomi
      * Svenska
      * Tetun
-     * Türkçe
-     * Українська
-     * Tiếng Việt
+     * T�rk�e
+     * Ukrayins'ka
+     * Tie>'ng Vie>-.t
      * Walon
-     * 粵語
-     * Žemaitėška
-     * 中文
+     * �
+     * Zemaiteska
+     * �
 
    Edit links
 
@@ -175,7 +246,7 @@ Game (hunting)
    This article needs additional citations for verification. Please help
    improve this article by adding citations to reliable sources. Unsourced
    material may be challenged and removed.
-   Find sources: "Game" hunting – news · newspapers · books · scholar ·
+   Find sources: "Game" hunting - news � newspapers � books � scholar �
    JSTOR (July 2007) (Learn how and when to remove this template message)
    [40px-Crystal_Clear_app_kedit.svg.png]
    This article may need to be rewritten to comply with Wikipedia's
@@ -304,6 +375,7 @@ Oceania[edit]
 Australia[edit]
 
    In Australia, game includes:
+
      * Deer and sambar
      * Duck
      * Magpie geese
@@ -326,7 +398,7 @@ Australia[edit]
      * Feral donkey
      * Feral dog
 
-New Zealand[edit]
+    New Zealand[edit]
 
    Main article: Hunting in New Zealand
 
@@ -337,9 +409,9 @@ New Zealand[edit]
      * Tahr
      * Duck, multiple species
 
-North America[edit]
+  North America[edit]
 
-Canada and the United States[edit]
+    Canada and the United States[edit]
 
    Big-game hunting
 
@@ -672,11 +744,11 @@ References[edit]
        www.britannica.com. Retrieved 2023-09-14.
     2. ^ The Game Act Archived 2004-06-18 at the Wayback Machine Swaziland
        Legislation
-    3. ^ "Rozporządzenie Ministra Środowiska z dnia 11 marca 2005 r. w
-       sprawie ustalenia listy gatunków zwierząt łownych" [Regulation of
+    3. ^ "Rozporzadzenie Ministra Srodowiska z dnia 11 marca 2005 r. w
+       sprawie ustalenia listy gatunk�w zwierzat l/ownych" [Regulation of
        the Minister of Environment of 11 March 2005 regarding specifying
        list of game species]. Regulation of 11 March 2005 (PDF) (in
-       Polish). 2005-03-22. Retrieved 2022-07-27 – via Sejm
+       Polish). 2005-03-22. Retrieved 2022-07-27 - via Sejm
        (isap.sejm.gov.pl).
     4. ^ Oxford English Dictionary, 3rd edition, s.v. high adj. A.II.12d,
        gamey 1a
@@ -684,7 +756,7 @@ References[edit]
     6. ^ "About Game Meat". 2007-05-19. Archived from the original on
        2007-05-19. Retrieved 2011-10-17.
     7. ^ Venison Direct to Your Door Highland Game
-    8. ^ "Mattilsynet: – Barn kan få lavere IQ av storvilt" (in
+    8. ^ "Mattilsynet: - Barn kan f� lavere IQ av storvilt" (in
        Norwegian). NRK.no. 29 August 2013. Retrieved August 30, 2013.
 
 External links[edit]
@@ -735,7 +807,7 @@ External links[edit]
      * Sago palm
           + queen
      * Sassafras
-          + filé powder
+          + fil� powder
           + root beer
      * Saw palmetto
      * Wild ginseng
@@ -943,7 +1015,7 @@ External links[edit]
      * This page was last edited on 1 November 2023, at 11:12 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

@@ -44,7 +44,7 @@ SHARE ON
 
 Edited by
 
-Francesco Paolo Busardò
+Francesco Paolo Busard�
 
    Marche Polytechnic University, Italy
 
@@ -97,11 +97,11 @@ ORIGINAL RESEARCH article
    Sec. Addictive Disorders
    Volume 13 - 2022 | https://doi.org/10.3389/fpsyt.2022.791254
 
-Game Addiction Scale for Adolescents—Psychometric Analyses of Gaming
+Game Addiction Scale for Adolescents--Psychometric Analyses of Gaming
 Behavior, Gender Differences and ADHD
 
-   [24] Frida André^1 [24] Ingrid Munck^2
-   [newprofile_default_profileimage_new.jpg] Anders Håkansson^3,4 [24]
+   [24] Frida Andr�^1 [24] Ingrid Munck^2
+   [newprofile_default_profileimage_new.jpg] Anders H�kansson^3,4 [24]
    Emma Claesdotter-Knutsson^3,5^*
      * ^1Department of Clinical Sciences Lund, Faculty of Medicine, Lund
        University, Lund, Sweden
@@ -109,16 +109,16 @@ Behavior, Gender Differences and ADHD
        Gothenburg, Gothenburg, Sweden
      * ^3Department of Clinical Sciences Lund, Psychiatry, Faculty of
        Medicine, Lund University, Lund, Sweden
-     * ^4Gambling Disorder Unit, Malmö Addiction Centre, Malmö, Sweden
+     * ^4Gambling Disorder Unit, Malm� Addiction Centre, Malm�, Sweden
      * ^5Child and Adolescent Psychiatry, Regional Out-Patient Care, Lund
-       University Hospital, Region Skåne, Lund, Sweden
+       University Hospital, Region Sk�ne, Lund, Sweden
 
    Background: Internet gaming disorder (IGD) was recently added in the
-   Diagnostic and Statistical Manual of Mental Disorder as a “condition
-   for further studies.” There is no consensus regarding which rating
+   Diagnostic and Statistical Manual of Mental Disorder as a "condition
+   for further studies." There is no consensus regarding which rating
    scales should be used but many scholars suggest the GASA (Game
-   Addiction Scale for Adolescents) and a ranking of the criteria, “the
-   core approach” to avoid over-diagnosing of disordered gaming. Male
+   Addiction Scale for Adolescents) and a ranking of the criteria, "the
+   core approach" to avoid over-diagnosing of disordered gaming. Male
    gender and ADHD are commonly listed as risk factors for disordered
    gaming but little is known about sex differences in gaming and gender
    specific health correlates.
@@ -128,7 +128,7 @@ Behavior, Gender Differences and ADHD
    perspective and explore the gender differences in a clinical setting,
    focusing on ADHD.
 
-   Patients and Methods: Children and adolescents aged 8–18 years (n =
+   Patients and Methods: Children and adolescents aged 8-18 years (n =
    144) from Child and adolescent psychiatry (CAP) in Skane were assessed
    with the GASA. Psychometric analyses including confirmatory factor
    analyses (CFA) and structural equation modeling (SEM) were used to
@@ -157,7 +157,7 @@ Introduction
 
    In the Diagnostic and Statistical Manual of Mental Disorders (DSM-5)
    the American Psychiatry Association (APA) identified Internet Gaming
-   Disorder as a tentative diagnose; a “condition for further studies”
+   Disorder as a tentative diagnose; a "condition for further studies"
    (1). Nine criteria for IGD has been proposed: preoccupation,
    preoccupation with gaming; withdrawal, experience of unpleasant
    symptoms when gaming is taken away; tolerance, the need to spend
@@ -189,11 +189,11 @@ Introduction
    research and in clinical practice. Most studies have used the criteria
    for pathological gambling to define the pathological gaming (3, 4).
    Different researchers have used different cutoffs of the criteria to
-   establish a diagnosis (5–8), others have focused strictly on online
+   establish a diagnosis (5-8), others have focused strictly on online
    games (9), and some researchers have adopted their own criteria for
    disordered gaming (10, 11). One of the most frequently used
    questionnaires for disordered gaming in adolescents is the GASA (Game
-   Addiction Scale for Adolescents) (12–16). GASA was developed
+   Addiction Scale for Adolescents) (12-16). GASA was developed
    specifically for adolescents. The items in the GASA relate to homework
    and relationship to parents, designed to correspond to the
    developmental stage of an adolescent (15). The adult version of the
@@ -203,14 +203,14 @@ Introduction
    scales that provided the best clinical information for the diagnosis of
    disordered gaming (16). King et al. reviewed 32 different scales and
    found that GAS was one out of five tools that had greater evidential
-   support regarding psychometric properties (16). Finserås et al.
+   support regarding psychometric properties (16). Finser�s et al.
    verified this finding in their evaluation of the adolescent version of
    the scale (GASA) in relationship to the nine criteria for disordered
    gaming suggested by the APA (17). In 2019 Donati et al. developed and
-   evaluated a Video-Gaming-Scale—For Children (VGS-C), aiming to assess
+   evaluated a Video-Gaming-Scale--For Children (VGS-C), aiming to assess
    pathological gaming behavior in children specifically (18). The GASA
    has the advantage of being a well-established and well-proven
-   assessment of disordered gaming (12–17). However, the scale has to our
+   assessment of disordered gaming (12-17). However, the scale has to our
    knowledge not yet been evaluated in a child and adolescent sample.
 
    GASA was theoretically based on seven of the DSM-5 criteria for
@@ -219,13 +219,13 @@ Introduction
    conflicts, and problems (15). When diagnosing pathological gamblers,
    the DSM-5 requires at least half of their criteria to be met while
    scholars in the gaming research field prefer a ranking of the criteria,
-   which they call “the core approach” (1, 5, 12–14, 19). These scholars
+   which they call "the core approach" (1, 5, 12-14, 19). These scholars
    believe that the criteria for tolerance, mood modification and
    cognitive salience are associated with engagement and not necessarily
    with addiction while the contrary is true for the criteria for
    withdrawal, relapse, conflicts and problems (5, 13, 14). The core
    approach thus distinguishes engaged gamers from problem- and addicted
-   gamers by emphasizing the “core criteria” namely, withdrawal, relapse,
+   gamers by emphasizing the "core criteria" namely, withdrawal, relapse,
    conflict and problems in order to yield a more precise and relevant
    estimate of prevalence whereby a diagnosis of game addiction should be
    related to comorbidity and interference rather than high engagement
@@ -238,8 +238,8 @@ Introduction
    using a confirmatory factor analysis showing that a two-factor
    structure (peripheral criteria separated from core criteria) fitted
    their data better than the original one-factor structure. The same
-   applied for groups of men and women, both aged 16–33 years and for
-   those aged 34–74 years (13). However, when Brunborg et al. evaluated
+   applied for groups of men and women, both aged 16-33 years and for
+   those aged 34-74 years (13). However, when Brunborg et al. evaluated
    the two-factor solution no evidence was found for metric invariance,
    implicating that comparison between different subpopulations should be
    done with caution (13). Charlton and Danford contributed with an
@@ -277,7 +277,7 @@ Introduction
    compulsion, psychiatric and physical symptoms and impaired school
    performance as components of the disorder (27, 28). Most research on
    disordered gaming reports that males are more likely than females to
-   experience disordered gaming (25, 27, 29–31) and the prevalence rates
+   experience disordered gaming (25, 27, 29-31) and the prevalence rates
    are commonly higher in adolescent samples (24, 25). Several previous
    studies report on the association between ADHD and disordered gaming
    (29, 32, 33) and DSM-5 lists ADHD as a comorbidity of IGD (1).
@@ -325,7 +325,7 @@ Participants
    treat addiction problems. In the present study, patients coming to the
    Child and Adolescent Psychiatry clinic (in- and out-patient
    departments, respectively) in Skane during the study period of 4 months
-   (Feb–May) during 2020 were asked to participate. Clinicians
+   (Feb-May) during 2020 were asked to participate. Clinicians
    (psychologists, psychiatrists) were systematically provided with
    questionnaires and were asked to distribute these to their patients.
    The study was approved by the Ethics committee (Dnr: 2019-02967).
@@ -355,7 +355,7 @@ Participants
    Table 1. Descriptive statistics for CAP sample, n = 137.
 
    Concerning sample size for the GASA analyses, the Price guidelines are
-   for a minimum sample size equal to 105 (7 items × 15 patients) (34).
+   for a minimum sample size equal to 105 (7 items � 15 patients) (34).
    The CAP sample includes n = 137 observations and accordingly fulfills
    the requirements according to guidelines (34).
 
@@ -363,7 +363,7 @@ Measures
 
    One of the most used questionnaires for disordered gaming in
    adolescents is GASA (Game Addiction Scale for Adolescents), constructed
-   by Lemmens et al. (13–17). The seven-item GASA applies to gaming
+   by Lemmens et al. (13-17). The seven-item GASA applies to gaming
    behavior in the last 6 months, see Table 2. Each item concerns one
    criterion, answered on a five-point scale: 1 = never, 2 = rarely, 3 =
    sometimes, 4 = often, 5 = very often and should be considered endorsed
@@ -375,7 +375,7 @@ Measures
    respectively.
 
    With support from previous research, empirical data and theoretical
-   reasoning (5, 13–15, 19, 23, 35, 36) the GASA items were associated
+   reasoning (5, 13-15, 19, 23, 35, 36) the GASA items were associated
    with the different factors in a psycho-social conceptual model to
    enable testing of a two-factor approach (core approach) and a
    three-factor approach, in which the peripheral items/negative
@@ -484,7 +484,7 @@ The Psychometric Model for the Core Approach
    FIGURE 1
    www.frontiersin.org
 
-   Figure 1. Model 2.1—GASA CFA 2 all. Two-factor Core approach model,
+   Figure 1. Model 2.1--GASA CFA 2 all. Two-factor Core approach model,
    OC/Peripheral and NC/Core. OC, over consumption; NC, negative
    consequences.
 
@@ -497,7 +497,7 @@ The Psychometric Model for the Core Approach
    FIGURE 2
    www.frontiersin.org
 
-   Figure 2. Model 2.1 gc—GASA MGCFA 2 by gender configural. Two-group
+   Figure 2. Model 2.1 gc--GASA MGCFA 2 by gender configural. Two-group
    two-factor Core approach model, OC/Peripheral and NC/Core. With
    correlated errors between NC item #5 Withdrawal and #7 Neglect duties.
 
@@ -512,7 +512,7 @@ The Three-Factor Model
    FIGURE 3
    www.frontiersin.org
 
-   Figure 3. Model 3.1 gm—GASA MGCFA 3 by gender, metric. Two-group
+   Figure 3. Model 3.1 gm--GASA MGCFA 3 by gender, metric. Two-group
    three-factor model by gender with core items divided into NC social and
    emotional with equality constraints across gender groups for
    corresponding measurement models. Residual correlations NC social with
@@ -521,9 +521,9 @@ The Three-Factor Model
 
    Residual correlations of NC social with NC emotional (not represented
    in the path diagram) for males was 0.40 and for females 0.87. When the
-   path coefficient for OC → NC was differentiated into a social and
+   path coefficient for OC -> NC was differentiated into a social and
    emotional path coefficient, the strongest relationship for boys
-   appeared as OC → NC social equal to 0.89 and for girls OC → NC
+   appeared as OC -> NC social equal to 0.89 and for girls OC -> NC
    emotional equal to 0.95.
 
 Gender Differences in the Three-Factor Model With Covariate ADHD
@@ -536,7 +536,7 @@ Gender Differences in the Three-Factor Model With Covariate ADHD
    FIGURE 4
    www.frontiersin.org
 
-   Figure 4. Model 3.2 g.dia—GASA MGCFA 3 by gender, metric with
+   Figure 4. Model 3.2 g.dia--GASA MGCFA 3 by gender, metric with
    covariate. The two-group three-factor model with equality constraints
    across gender for corresponding measurement models and with covariate
    ADHD ever. Dotted line is non-significant path. OC, over consumption;
@@ -627,8 +627,8 @@ Discussion
    disordered gaming. In the 15-item gambling Gam Test the emotional
    factor was measured with 5 items, including aspects such as; feeling
    bad when thinking about gambling, gambling resulting in feelings of
-   irritation and “I do not want to tell other people about how much time
-   and money I spend on my gambling” (23). Similar items, adapted to
+   irritation and "I do not want to tell other people about how much time
+   and money I spend on my gambling" (23). Similar items, adapted to
    gaming and to young individuals, could theoretically be added to the
    GASA to strengthen the factors of both the emotional and social
    dimensions.
@@ -638,7 +638,7 @@ Discussion
    42). It is a heterogeneous condition with persistent symptoms of
    hyperactivity, inattention and impulsiveness that impair functioning in
    multiple settings (1). Researchers have found that ADHD is a particular
-   risk factor for disordered gaming (32, 33, 43–46). In the current CAP
+   risk factor for disordered gaming (32, 33, 43-46). In the current CAP
    sample, ADHD was significantly associated with over consumption of
    video games and the negative consequences thereof for girls, an
    association that was not seen among the male participants. Possibly,
@@ -787,8 +787,8 @@ Supplementary Material
 
 References
 
-   1. Diagnostic and Statistical Manual of Mental Disorders: DSM-5™. 5th
-   ed. Washington, DC: American Psychiatric Publishing, a division of
+   1. Diagnostic and Statistical Manual of Mental Disorders: DSM-5(TM).
+   5th ed. Washington, DC: American Psychiatric Publishing, a division of
    American Psychiatric Association (2013).
 
    Google Scholar
@@ -799,32 +799,32 @@ References
    February 11, 2022).
 
    3. Choo H, Gentile D, Sim T, Li D, Khoo A, Liau A. Pathological
-   video-Gaming among Singaporean Youth. Ann Acad Med. (2010) 39:822–9.
+   video-Gaming among Singaporean Youth. Ann Acad Med. (2010) 39:822-9.
    Available online at: http://hdl.handle.net/10497/16240
 
    PubMed Abstract | Google Scholar
 
    4. Gentile D. Pathological video-game use among youth ages 8 to 18: a
-   national study. Psychol Sci. (2009) 20:594–602. doi:
+   national study. Psychol Sci. (2009) 20:594-602. doi:
    10.1111/j.1467-9280.2009.02340.x
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    5. Charlton JP, Danforth IDW. Distinguishing addiction and high
    engagement in the context of online game playing. Comp Human Behav.
-   (2007) 23:1531–48. doi: 10.1016/j.chb.2005.07.002
+   (2007) 23:1531-48. doi: 10.1016/j.chb.2005.07.002
 
    CrossRef Full Text | Google Scholar
 
    6. Chou TJ, Ting CC. The role of flow experience in cyber-game
-   addiction. Cyberpsychol Behav. (2003) 6:663–75. doi:
+   addiction. Cyberpsychol Behav. (2003) 6:663-75. doi:
    10.1089/109493103322725469
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    7. Griffiths M, Hunt N. Computer game playing in adolescence:
    prevalence and demographic indicators. J Commun Appl Soc Psychol.
-   (1995) 5:189–93. doi: 10.1002/casp.2450050307
+   (1995) 5:189-93. doi: 10.1002/casp.2450050307
 
    CrossRef Full Text | Google Scholar
 
@@ -834,33 +834,33 @@ References
 
    Google Scholar
 
-   9. Young K. Internet addiction. Am Behav Sci. (2004) 48:402–15. doi:
+   9. Young K. Internet addiction. Am Behav Sci. (2004) 48:402-15. doi:
    10.1177/0002764204270278
 
    CrossRef Full Text | Google Scholar
 
    10. Wan CS, Chiou WB. Why are adolescents addicted to online gaming? An
-   interview study in Taiwan. Cyberpsychol Behav. (2006) 9:762–6. doi:
+   interview study in Taiwan. Cyberpsychol Behav. (2006) 9:762-6. doi:
    10.1089/cpb.2006.9.762
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    11. Chiu SI, Lee JZ, Huang DH. Video game addiction in children and
-   teenagers in Taiwan. Cyberpsychol Behav. (2004) 7:571–81. doi:
+   teenagers in Taiwan. Cyberpsychol Behav. (2004) 7:571-81. doi:
    10.1089/cpb.2004.7.571
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
-   12. Brunborg GS, Mentzoni RA, Frøyland LR. Is video gaming, or video
+   12. Brunborg GS, Mentzoni RA, Fr�yland LR. Is video gaming, or video
    game addiction, associated with depression, academic achievement, heavy
-   episodic drinking, or conduct problems? J Behav Addict. (2014) 3:27–32.
+   episodic drinking, or conduct problems? J Behav Addict. (2014) 3:27-32.
    doi: 10.1556/JBA.3.2014.002
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    13. Brunborg GS, Hanss D, Mentzoni RA, Pallesen S. Core and peripheral
    criteria of video game addiction in the game addiction scale for
-   adolescents. Cyberpsychol Behav Soc Netw. (2015) 18:280–5. doi:
+   adolescents. Cyberpsychol Behav Soc Netw. (2015) 18:280-5. doi:
    10.1089/cyber.2014.0509
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -868,12 +868,12 @@ References
    14. Brunborg GS, Mentzoni RA, Melkevik OR, Torsheim T, Samdal O,
    Hetland J, et al. Gaming addiction, gaming engagement, and
    psychological health complaints among norwegian adolescents. Med
-   Psychol. (2013) 16:115–28. doi: 10.1080/15213269.2012.756374
+   Psychol. (2013) 16:115-28. doi: 10.1080/15213269.2012.756374
 
    CrossRef Full Text | Google Scholar
 
    15. Lemmens JS, Valkenburg PM, Peter J. Development and validation of a
-   game addiction scale for adolescents. Med Psychol. (2009) 12:77–95.
+   game addiction scale for adolescents. Med Psychol. (2009) 12:77-95.
    doi: 10.1080/15213260802669458
 
    CrossRef Full Text | Google Scholar
@@ -893,20 +893,21 @@ References
 
    18. Donati MA, Sanson F, Mazzarese M, Primi C. Assessing video game
    habits and pathological behaviour in children through a new scale:
-   psychometric properties of the video-gaming scale—for children (VGS-C).
-   Psychology. (2019) 10:2190–208. doi: 10.4236/psych.2019.1016139
+   psychometric properties of the video-gaming scale--for children
+   (VGS-C). Psychology. (2019) 10:2190-208. doi:
+   10.4236/psych.2019.1016139
 
    CrossRef Full Text | Google Scholar
 
    19. Charlton JP. A factor-analytic investigation of computer
-   'addiction' and engagement. Br J Psychol. (2002) 93:329–44. doi:
+   'addiction' and engagement. Br J Psychol. (2002) 93:329-44. doi:
    10.1348/000712602760146242
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    20. Ferguson CJ, Coulson M, Barnett J. A meta-analysis of pathological
    gaming prevalence and comorbidity with mental health, academic and
-   social problems. J Psychiatr Res. (2011) 45:1573–8. doi:
+   social problems. J Psychiatr Res. (2011) 45:1573-8. doi:
    10.1016/j.jpsychires.2011.09.005
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -918,22 +919,22 @@ References
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
-   22. Lin C-Y, Imani V, Broström A, Årestedt K, Pakpour AH, Griffiths MD.
+   22. Lin C-Y, Imani V, Brostr�m A, �restedt K, Pakpour AH, Griffiths MD.
    Evaluating the psychometric properties of the 7-item persian game
-   addiction scale for iranian adolescents. Front Psychol. (2019) 10:1–13.
+   addiction scale for iranian adolescents. Front Psychol. (2019) 10:1-13.
    doi: 10.3389/fpsyg.2019.00149
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    23. Jonsson J, Munck I, Volberg R, Carlbring P. GamTest: psychometric
    evaluation and the role of emotions in an online self-test for gambling
-   behavior. J Gambl Stud. (2017) 33:505–23. doi:
+   behavior. J Gambl Stud. (2017) 33:505-23. doi:
    10.1007/s10899-017-9676-4
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    24. Fam JY. Prevalence of internet gaming disorder in adolescents: a
-   meta-analysis across three decades. Scand J Psychol. (2018) 59:524–31.
+   meta-analysis across three decades. Scand J Psychol. (2018) 59:524-31.
    doi: 10.1111/sjop.12459
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -946,17 +947,17 @@ References
 
    26. Kuss DJ, Griffiths MD. Internet gaming addiction: a systematic
    review of empirical research. Int J Mental Health Addict. (2012)
-   10:278–96. doi: 10.1007/s11469-011-9318-5
+   10:278-96. doi: 10.1007/s11469-011-9318-5
 
    CrossRef Full Text | Google Scholar
 
    27. Paulus FW, Ohmann S, von Gontard A, Popow C. Internet gaming
    disorder in children and adolescents: a systematic review. Dev Med
-   Child Neurol. (2018) 60:645–59. doi: 10.1111/dmcn.13754
+   Child Neurol. (2018) 60:645-59. doi: 10.1111/dmcn.13754
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
-   28. Vadlin S, Åslund C, Nilsson KW. A longitudinal study of the
+   28. Vadlin S, �slund C, Nilsson KW. A longitudinal study of the
    individual- and group-level problematic gaming and associations with
    problem gambling among Swedish adolescents. Brain Behav. (2018)
    8:e00949. doi: 10.1002/brb3.949
@@ -973,14 +974,14 @@ References
 
    30. Desai RA, Krishnan-Sarin S, Cavallo D, Potenza MN. Video-gaming
    among high school students: health correlates, gender differences, and
-   problematic gaming. Pediatrics. (2010) 126:e1414–24. doi:
+   problematic gaming. Pediatrics. (2010) 126:e1414-24. doi:
    10.1542/peds.2009-2706
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    31. Bonnaire C, Baptista D. Internet gaming disorder in male and female
    young adults: the role of alexithymia, depression, anxiety and gaming
-   type. Psychiatry Res. (2019) 272:521–30. doi:
+   type. Psychiatry Res. (2019) 272:521-30. doi:
    10.1016/j.psychres.2018.12.158
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -988,12 +989,12 @@ References
    32. Yen JY, Liu TL, Wang PW, Chen CS, Yen CF, Ko CH. Association
    between internet gaming disorder and adult attention deficit and
    hyperactivity disorder and their correlates: impulsivity and hostility.
-   Addict Behav. (2017) 64:308–13. doi: 10.1016/j.addbeh.2016.04.024
+   Addict Behav. (2017) 64:308-13. doi: 10.1016/j.addbeh.2016.04.024
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    33. Weiss MD, Baer S, Allan BA, Saran K, Schibuk H. The screens
-   culture: impact on ADHD. Atten Defic Hyperact Disord. (2011) 3:327–34.
+   culture: impact on ADHD. Atten Defic Hyperact Disord. (2011) 3:327-34.
    doi: 10.1007/s12402-011-0065-z
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -1005,7 +1006,7 @@ References
 
    35. Charlton JP, Danforth IDW. Validating the distinction between
    computer addiction and engagement: online game playing and personality.
-   Behav Inform Technol. (2010) 29:601–13. doi: 10.1080/01449290903401978
+   Behav Inform Technol. (2010) 29:601-13. doi: 10.1080/01449290903401978
 
    CrossRef Full Text | Google Scholar
 
@@ -1017,24 +1018,24 @@ References
 
    37. Hu Lt, Bentler PM. Cutoff criteria for fit indexes in covariance
    structure analysis: conventional criteria versus new alternatives.
-   Struct Equat Mod. (1999) 6:1–55. doi: 10.1080/10705519909540118
+   Struct Equat Mod. (1999) 6:1-55. doi: 10.1080/10705519909540118
 
    CrossRef Full Text | Google Scholar
 
-   38. Schermelleh-Engel K, Moosbrugger H, Müller H. Evaluating the fit of
+   38. Schermelleh-Engel K, Moosbrugger H, M�ller H. Evaluating the fit of
    structural equation models: tests of significance and descriptive
-   goodness-of-fit measures. Methods Psychol Res Online. (2003) 8:23–74.
+   goodness-of-fit measures. Methods Psychol Res Online. (2003) 8:23-74.
 
    Google Scholar
 
-   39. Asparouhov T, Muthén B. Multiple-group factor analysis alignment.
-   Struct Equat Mod. (2014) 21:495–508. doi: 10.1080/10705511.2014.919210
+   39. Asparouhov T, Muth�n B. Multiple-group factor analysis alignment.
+   Struct Equat Mod. (2014) 21:495-508. doi: 10.1080/10705511.2014.919210
 
    CrossRef Full Text | Google Scholar
 
    40. Rho MJ, Lee H, Lee TH, Cho H, Jung DJ, Kim DJ, et al. Risk factors
    for internet gaming disorder: psychological factors and internet gaming
-   characteristics. Int J Environ Res Public Health. (2017) 15:1–11. doi:
+   characteristics. Int J Environ Res Public Health. (2017) 15:1-11. doi:
    10.3390/ijerph15010040
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -1042,63 +1043,63 @@ References
    41. Nuyens F, Deleuze J, Maurage P, Griffiths MD, Kuss DJ, Billieux J.
    Impulsivity in multiplayer online battle arena gamers: preliminary
    results on experimental and self-report measures. J Behav Addict.
-   (2016) 5:351–6. doi: 10.1556/2006.5.2016.028
+   (2016) 5:351-6. doi: 10.1556/2006.5.2016.028
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
-   42. Reebye P. Attention–deficit hyperactivity disorder: a handbook for
+   42. Reebye P. Attention-deficit hyperactivity disorder: a handbook for
    diagnosis and treatment, third edition. J Can Acad Child Adolesc
-   Psychiatry. (2008) 17:31–3.
+   Psychiatry. (2008) 17:31-3.
 
    Google Scholar
 
-   43. Frölich J, Lehmkuhl G, Döpfner M. [Computer games in childhood and
+   43. Fr�lich J, Lehmkuhl G, D�pfner M. [Computer games in childhood and
    adolescence: relations to addictive behavior, ADHD, and aggression]. Z
-   Kinder Jugendpsychiatr Psychother. (2009) 37:393–402; quiz 3–4. doi:
+   Kinder Jugendpsychiatr Psychother. (2009) 37:393-402; quiz 3-4. doi:
    10.1024/1422-4917.37.5.393
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    44. Durkin K. Videogames and young people with developmental disorders.
-   Rev General Psychol. (2010) 14:122–40. doi: 10.1037/a0019438
+   Rev General Psychol. (2010) 14:122-40. doi: 10.1037/a0019438
 
    CrossRef Full Text | Google Scholar
 
    45. Carli V, Durkee T, Wasserman D, Hadlaczky G, Despalins R, Kramarz
    E, et al. The association between pathological internet use and
    comorbid psychopathology: a systematic review. Psychopathology. (2013)
-   46:1–13. doi: 10.1159/000337971
+   46:1-13. doi: 10.1159/000337971
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    46. Han DH, Yoo M, Renshaw PF, Petry NM. A cohort study of patients
    seeking internet gaming disorder treatment. J Behav Addict. (2018)
-   7:930–8. doi: 10.1556/2006.7.2018.102
+   7:930-8. doi: 10.1556/2006.7.2018.102
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    47. Vally Z. Symptoms of internet gaming disorder, inattention, and
    impulsivity: a cross-sectional study conducted in the United Arab
-   Emirates. Psychiatric Quart. (2021) 92:301–10. doi:
+   Emirates. Psychiatric Quart. (2021) 92:301-10. doi:
    10.1007/s11126-020-09799-2
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
    48. Martins SS, Storr CL, Ialongo NS, Chilcoat HD. Gender differences
    in mental health characteristics and gambling among African-American
-   adolescent gamblers. Am J Addict. (2008) 17:126–34. doi:
+   adolescent gamblers. Am J Addict. (2008) 17:126-34. doi:
    10.1080/10550490701861227
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
 
-   49. Ünlü A, Kiefer TA, Rupp A, Templin JL, Enson H. Diagnostic
+   49. �nl� A, Kiefer TA, Rupp A, Templin JL, Enson H. Diagnostic
    measurement: theory, methods, and applications. Psychometrika. (2011)
-   76:715–6. doi: 10.1007/s11336-011-9228-2
+   76:715-6. doi: 10.1007/s11336-011-9228-2
 
    CrossRef Full Text | Google Scholar
 
    50. Rattray J, Jones MC. Essential elements of questionnaire design and
-   development. J Clin Nurs. (2007) 16:234–43. doi:
+   development. J Clin Nurs. (2007) 16:234-43. doi:
    10.1111/j.1365-2702.2006.01573.x
 
    PubMed Abstract | CrossRef Full Text | Google Scholar
@@ -1106,8 +1107,8 @@ References
    Keywords: internet gaming disorder GASA, core approach, gender
    differences, psycho-social model, aligned factor scores
 
-   Citation: André F, Munck I, Håkansson A and Claesdotter-Knutsson E
-   (2022) Game Addiction Scale for Adolescents—Psychometric Analyses of
+   Citation: Andr� F, Munck I, H�kansson A and Claesdotter-Knutsson E
+   (2022) Game Addiction Scale for Adolescents--Psychometric Analyses of
    Gaming Behavior, Gender Differences and ADHD. Front. Psychiatry
    13:791254. doi: 10.3389/fpsyt.2022.791254
 
@@ -1115,14 +1116,14 @@ References
    Published: 09 March 2022.
 
    Edited by:
-   Francesco Paolo Busardò, Marche Polytechnic University, Italy
+   Francesco Paolo Busard�, Marche Polytechnic University, Italy
 
    Reviewed by:
    Caterina Primi, University of Florence, Italy
    Wan-Sen Yan, Guizhou Medical University, China
    Carlo Antonio Bertelloni, University of Pisa, Italy
 
-   Copyright © 2022 André, Munck, Håkansson and Claesdotter-Knutsson. This
+   Copyright � 2022 Andr�, Munck, H�kansson and Claesdotter-Knutsson. This
    is an open-access article distributed under the terms of the Creative
    Commons Attribution License (CC BY). The use, distribution or
    reproduction in other forums is permitted, provided the original

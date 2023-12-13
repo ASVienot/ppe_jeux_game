@@ -1,30 +1,40 @@
-    #Michigan Youth Violence Prevention Center » Feed Michigan Youth
-   Violence Prevention Center » Comments Feed Michigan Youth Violence
-   Prevention Center » Do Video Games Influence Violent Behavior? Comments
+    #Michigan Youth Violence Prevention Center � Feed Michigan Youth
+   Violence Prevention Center � Comments Feed Michigan Youth Violence
+   Prevention Center � Do Video Games Influence Violent Behavior? Comments
    Feed alternate alternate alternate
 
    MI-YVPC Logo
      * About Us
-          + What We Do
-          + Where We Work
-          + Our Team
-          + Contact Us
-     * Projects
-     * Training
-     * Publications
-     * Resources
-          + Blog
-          + Story Maps
-          + Toolkits & Guides
-          + Curricula
-          + Data Collection Tools
-          + Fact Sheets
-          + Reports
-          + All Resources
+
+     * What We Do
+     * Where We Work
+     * Our Team
+     * Contact Us
+
+     Projects
+
+     Training
+
+
+
+   Publications
+
+
+
+   Resources
+
+     * Blog
+     * Story Maps
+     * Toolkits & Guides
+     * Curricula
+     * Data Collection Tools
+     * Fact Sheets
+     * Reports
+     * All Resources
 
 Do Video Games Influence Violent Behavior?
 
-   Featured image for “Do Video Games Influence Violent Behavior?”
+   Featured image for "Do Video Games Influence Violent Behavior?"
 
     1. Home
 
@@ -35,7 +45,7 @@ Do Video Games Influence Violent Behavior?
    By:  Roanna Cooper, MA and Marc Zimmerman, PhD, MI-YVPC Director
 
    An op-ed article appeared recently in the The New York Times
-   discussing the Supreme Court’s decision to strike down California’s law
+   discussing the Supreme Court's decision to strike down California's law
    barring the sale or rental of violent video games to people under 18.
    The author, Dr. Cheryl Olson,   describes how the proposed law was
    based on the erroneous assumption that such games influence violent
@@ -51,9 +61,9 @@ Do Video Games Influence Violent Behavior?
    video game playing has increased significantly during the same period.
 
    This analysis ignores the fact that such variation may be explained by
-   factors other than the link between the two. A spurious variable–a
+   factors other than the link between the two. A spurious variable-a
    third variable that explains the relationship between two other
-   variables—may explain the negative correlation of video game playing
+   variables--may explain the negative correlation of video game playing
    and violent behavior. As one example, socioeconomic status may explain
    both a decline in violent behavior and an increase in video game
    playing. More affluent youth have the means and time to buy and play
@@ -98,7 +108,7 @@ Studies support a link between violent video games and aggressive behavior
             computer game in which they set punishment levels to be
             delivered to another person participating in the study (they
             were not actually administered).  Information was also
-            gathered on each participant’s recent history of violent
+            gathered on each participant's recent history of violent
             behavior; habitual video game, television, and move habits,
             and several other control variables.  The authors reported
             three main findings: 1) participants who played one of violent
@@ -151,7 +161,7 @@ Studies support a link between violent video games and aggressive behavior
        aggressive behavior.  Although the correlations were not high
        (r=0.17-0.20), they are typical for psychological studies in
        general and comparable with other risk factors for youth violence
-       suggested in the 2001 Surgeon General’s Report on youth violence.
+       suggested in the 2001 Surgeon General's Report on youth violence.
 
 Violent video games may increase precursors to violent behavior, such as
 bullying
@@ -257,29 +267,43 @@ Share this:
    Sign Up
    University of Michigan School of Public Health (SPH) logo.
    Institue for Firearm Injury Prevention (IFIP) logo
-   © 2023 Regents of the University of Michigan.
+   � 2023 Regents of the University of Michigan.
 
    (BUTTON)
    Search ____________________ (BUTTON) Submit (BUTTON) Clear
      __________________________________________________________________
 
      * About Us
-          + What We Do
-          + Where We Work
-          + Our Team
-          + Contact Us
-     * Projects
-     * Training
-     * Publications
-     * Resources
-          + Blog
-          + Story Maps
-          + Toolkits & Guides
-          + Curricula
-          + Data Collection Tools
-          + Fact Sheets
-          + Reports
-          + All Resources
+
+     * What We Do
+     * Where We Work
+     * Our Team
+     * Contact Us
+
+
+
+   Projects
+
+
+
+   Training
+
+
+
+   Publications
+
+
+
+   Resources
+
+     * Blog
+     * Story Maps
+     * Toolkits & Guides
+     * Curricula
+     * Data Collection Tools
+     * Fact Sheets
+     * Reports
+     * All Resources
 
    (BUTTON)
    Search ____________________ (BUTTON) Submit (BUTTON) Clear
