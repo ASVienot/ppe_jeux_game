@@ -183,7 +183,8 @@ Dans le tableau
 -  running 
 - Siman n'apparait pas en tant que collaboratrice mais est dans les commit 
 problème de l'année dernière envoyer un mail au prof 
-
+- on a mis les créer les fichier pour itrameur 
+- sur itrameur le cadre de CH ne marche pas  
 
 
 
