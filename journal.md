@@ -180,7 +180,9 @@ si le git est archiver le 8 c'est pas grave mais si c'est le 15 pas ouf
 - Si lien ne marche pas 0 à cette partie 
 Dans le tableau 
 - attention aux 0 / ne pas faire un fichier pour les liens qui ne marchent pas 
--  
+-  running 
+- Siman n'apparait pas en tant que collaboratrice mais est dans les commit 
+problème de l'année dernière envoyer un mail au prof 
 
 
 
@@ -218,4 +220,5 @@ accent considéré comme _ avec \-Wsegmentation
 
 - [ ] vérifier que chaque lien marche 
 - [ ] chacun doit avoir commit au minimum une fois 
-- [ ] 
+- [ ] mail au prof pour que Siman soit collaboratrice (pb d'identification) // mettre capture d'écran des commits 
+

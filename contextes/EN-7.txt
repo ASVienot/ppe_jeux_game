@@ -1,1 +1,696 @@
+       University, Singapore, Singapore
 
+   Due to the popularity and advancement of 4G/5G networks, mobile games
+   have already currently become profitable tools for major internet
+   platforms. These games are even refined to cover almost all age groups
+   of the population rather than the young people. Yet in the perception
+   of the public, mobile games have always seemed to be associated with
+   various derogatory terms such as interfering with learning, addiction,
+   and violence. K12 students usually have less self-control capability,
+   and they are undoubtedly the biggest advocates of mobile games. This
+   paper summarizes the technological development of mobile games from the
+   aspects of hardware and software in chronological order. The
+   psychological and social problems that mobile games have brought to K12
+   students are analyzed from a neutral perspective. At the end of the
+   paper, the future development of educational games and current
+   limitations of mobile games are also given for the explorations of
+   future trends of game-based education. This position paper aims to
+   provide the insight of what psychosocial impacts that the current
+   mobile games have on the student, and it may also serve as a reference
+   for the how the game-based education has been developing according to
+   the mobile technology wise.
+
+--
+
+   Due to the popularity of smart terminals and the advancement of 5G
+   networks, mobile games are currently the most popular type of games, as
+   well as profitable tools for major internet platforms. Mobile games can
+   be combined from different levels and content categories, covering
+   different, personalities and preferences (Martin et al., 2020). As a
+   result mobile games are now refined to cover almost all age groups of
+   the population, not just young people. Yet in the perception of the
+   public, mobile games have always seemed to be associated with various
+   derogatory terms such as interfering with learning, addiction and
+   violence.
+--
+   old) (Kurt et al., 2022). Students in this age group usually have less
+   self-control capability, and they are undoubtedly the biggest advocates
+   of mobile game. When they play certain games for long periods of time
+   their behavior and psychological state will be changed in a subtle way.
+   The main issue is that mobile games may contain unhealthy contents such
+   as pornography, violence, ignorance, superstition, etc. which
+   implicitly affect the formation of the correct value system and the
+   healthy development of their body and mind for these K12 students
+   (Destyanto et al., 2017). In addition, some young people indulge in
+   mobile games due to lack of self-control, which not only result in
+   harmful influence on their studies but also induces a series of
+   negative social activities and social relationship (Kurt et al., 2022).
+--
+   The pioneers of communication science, Lazarsfeld and Merton, argued
+   that modern mass media have a clear negative function of
+   "psychoanesthesia." Some violent mobile games reveal the nature of the
+   "psychoanesthesia" function in another textual dimension: they create
+   illusions through inexpensive and negative entertainment, thus eating
+   away at the social mobility of those young people in an implicit
+   cultural way (Kurt et al., 2022). Craig Anderson found that the
+   "psychoanesthetic" mechanism of violent mobile games increases the
+   physiological arousal of aggressive behavior, cognition, emotions, and
+   violent impulses, and reduces pro-social behavior in adolescents
+   (Elsherbiny and Al Maamari, 2021; Kurt et al., 2022). Accordingly,
+   violent behavior has become the main "product component" of mobile
+   games "inflicted" on adolescents. Moreover, its basic social
+   manifestations can be summarized in four points: firstly, it creates
+   and activates networks of thinking related to violent aggression;
+   secondly, it weakens the inhibition process of violence; thirdly, the
+   game's violent reward rules allow aggressive behavior to be imitated
+   and reinforced in the "mimetic environment;" and fourthly, the binary
+   values of right and wrong in games can reduce young people's empathy
+   (Elsherbiny and Al Maamari, 2021).
+
+   Mobile games do not only imply a behavior, but also contain a value,
+   which might be sometimes anti-social in nature. Violent mobile games on
+   the Internet may portray the grandeur, hooliganism, and banditry of
+   triad bosses and gangsters, contributing to the psychology of
+   adolescent violence. In particular, the propaganda of "materialism" in
+   violent online games can easily lead young people to abandon their
+   original morals and values, so that the "money first" mentality
+   gradually seeps into their minds and leads to a distorted way of
+--
+
+   This position paper therefore infer the future development of
+   educational games from existing mobile games, and shares some insights
+   into the current limitations, and critically analyses the above issues
+   from a neutral perspective, discusses the psychological impacts and
+   social problems that mobile games may cause for K12 students (Arteaga
+   et al., 2012). It also offers the future development of mobile games
+   and the limitations of current educational games in order to explore
+   future trends in gamified education. This paper can also be considered
+   as a reference on how gamified education is evolving in light of mobile
+--
+
+   Nowadays, almost everyone who owns a smartphone has been exposed to
+   mobile games at one time or another. It may be a mini-game embedded in
+   a web page or app, or a large 3D online game like "Arena of Alor" or
+   "Player Unknown's Battlegrounds" (De Gloria et al., 2014). These games
+   have a huge update from the mobile games of over a decade ago, both in
+   scale and in audio and video experience. And most mobile phones now
+   have larger screens and touch screens have become the main way to use
+   mobile phones, which did not exist on the same level mobile phones in
+   10 years ago, which has promoted the development of mobile games
+   (Rubino et al., 2015).
+
+   The continuous evolution of cell phone hardware has brought about a
+   constant change in the needs of gamers. There was a time when the only
+   requirement for gamers was that their phones could run a particular
+   game, but now gamers want smoother games, no lag when playing online,
+   and even want their phones to be able to turn on the highest picture
+   quality of the game (Ma et al., 2019). This means that the hardware
+   that provides key performance in the phone and the network environment
+   that the phone relies on also needs to evolve to meet the increasingly
+   diverse needs of gamers (Wang et al., 2020). Gradually, mobile phones
+   and mobile games have worked together to promote growth and form the
+   industry shape we see today. In addition to entertainment, mobile games
+   also carry part of people's social needs in their daily lives (Yang and
+   Gong, 2021).
+--
+   al., 2019). At the time, most phones only had a black and white screen
+   of about 1 inch, and due to system and network capacity limitations,
+   only the games built into the phone could be played, such as Snake,
+   Tetris, etc (Figure 1). These were indeed interesting, but they were
+   just ordinary games to kill the time.
+   FIGURE 1
+   www.frontiersin.org
+
+   Figure 1. Representative mobile games from 1994 to 2019.
+
+   After 2003, color screen cell phones and PDAs began to occupy the
+   consumers' vision, the hardware performance of cell phones began to
+   improve, the software and system functions were gradually enriched. At
+   the same time, electronic games began to appear on cell phones in
+   various forms (Syahrivar et al., 2022). Since Symbian had strict limits
+   on the resolution and number of threads for software development, and
+   J2ME development had a maximum memory limit, the vast majority of
+   mobile games did not exceed 1 MB in size until the new Symbian system
+   appeared in 2006, when these restrictions were lifted one by one (de
+   Byl, 2014).
+
+   The popularity of color-screened phones allowed game developers to see
+   the opportunity, and some very well-known games such as Need for Speed,
+   Call of Duty, Command and Conquer, and many others launched dedicated
+   mobile versions (Berlo et al., 2020). Many small development teams and
+   enthusiasts also developed board games such as chess, Texas hold'em
+   into mobile versions. A variety of mobile phone native games began to
+   appear at this time, such as "Tower Bloxx" and "Galaxy on Fire" in 2005
+   were enjoyable for handheld gamers at the time (Haney, 2017). Around
+   2005, when client-side mobile games were just exploding, there were
+   already many specialized game makers developing mobile games for
+   non-smartphones, but limited by the speed and stability of cell phone
+   networks, and they were eagerly anticipating the popularity of 3G and
+--
+
+   In 2008, with the birth of iOS and Android, Apple successfully
+   pioneered the touch screen cell phone, after the mobile game from the
+   constraints of the physical keyboard, such as "Angry Birds," "Plants
+   vs. Zombies," "Fruit Ninja," "Temple Run" and a series of new hand
+   quickly occupied the market share in 1 year (Vaiopoulou et al., 2021).
+   The introduction of Angry Birds made the public realize for the first
+   time that the era of mobile games may be coming (Kalogiannakis et al.,
+   2022).
+
+   "Angry Birds", developed by Rovio and launched in 2009, is another
+   phenomenal product. Throughout the game, gamers only need to do one
+   action, which is to press and hold the bird on the slingshot in the
+   screen to drag and release (Villasana et al., 2020). Such a simple
+   operation overturned the public's inherent impression of how mobile
+   games are presented, so Fruit Ninja and Cut the Rope, launched a year
+   later, both became star products at the time for their sophisticated
+   gameplay design and simple sliding operation (Thomas et al., 2019). Few
+   people may know that the first release of the game Doodle Jump in 2009
+   was developed for touchscreen phones, and only a year later came a
+   version that supported physical button phones. That's because around
+   2010, the popularity of large-screen touch phones with smart systems
+   made a radical change in the way mobile games were operated (Thomas et
+   al., 2019).
+
+   The birth of the iPhone and the resulting trend in the use of touch
+   screen created not only revolutionized the user's experience of
+   operating cell phones, but also made hand games free from the
+   limitations of the physical keyboard, with new operation ways of
+--
+
+   Take iOS as an example, App Store is the only (or the main) channel
+   value, hand game developers still have the leisure of "slow work, fine
+   work," but by the limitation of iPhone ownership, the income of
+   developers at this time is much shabbier compared with today (Bagaa et
+   al., 2018). For example, in 2011, the highest-grossing handheld game in
+   China was "World War II Storm," and its monthly flow was only $800,000
+   (Paseka and Schwab, 2020).
+--
+   Information Technology in 2013, domestic cell phone users officially
+   ushered in the 4G era (Karabiyik et al., 2020). In 2014, the real-time
+   competitive MOBA hand game "Vainglory" was launched, emphasizing the
+   real-time nature of network online, while "Magic Spirit Summoning,"
+   "Tower Legend" and other nurturing RPG games, although the gameplay is
+   focused on the standalone part, the official will regularly update a
+   large amount of game content to keep the game fresh and the passion of
+   gamers, so an efficient network becomes very important (Wang et al.,
+   2015).
+
+--
+   in the 3.5 GHz range, which can theoretically reach a wireless data
+   rate of 1 Gbps, greatly increasing wireless data bandwidth and enabling
+   mobile games with less hourly delay and faster rate, giving gamers a
+   better and faster gaming experience (Zappone et al., 2016). Mobile
+   games are a cross-regional, cross-cultural, cross-racial, and
+   cross-religious entertainment. It allows gamers to realize the ability
+   to be entertained at home, on the subway, and outdoors with gamers
+   around the world at any time. These demands reflect the advantages of
+   4G LTE and later 4G LTE-A networks, which can provide bandwidth based
+--
+   demands and transferring data to multiple devices at the same time,
+   thus making the mobile network a stronger experience. Whether it's skin
+   updates for MOBAs or massive updates for nurturing games, which can be
+   downloaded to gamers' phones faster (Buzzi et al., 2012).
+   FIGURE 2
+   www.frontiersin.org
+--
+
+   In 2015, "Arena of Alor" was publicly tested together with "We MOBA"
+   and other multiplayer online battle arena (MOBA) games, and most
+   handheld gamers were brought into the tide of MOBA games (Buzzi et al.,
+   2016). These games are not only fast to get started, but also have
+   compact gameplay and gorgeous graphics effects, which not only require
+   excellent performance of network environment where the handheld gamers
+   are located, but also challenge the hardware performance of cell phones
+   (Zhang et al., 2017). The complex lighting and particle effects in the
+   game make the CPU and GPU in the SoC take a lot of pressure; at this
+   time, the modem in the phone can't be idle and needs to coordinate the
+   network to cope with transferring the various data that occur in the
+   game. Such comprehensive needs have led more cell phone manufacturers
+   to start launching products that emphasize cell phone performance and
+   networking capabilities (Chiang et al., 2021).
+
+   This trend has prompted more developers to bring a wider variety of
+   games with richer titles to the mobile platform. Almost every year,
+   several topical titles emerge, such as "Crackdown 3" in 2016, "Monument
+   Valley 2" in 2017, and "World in Pictures" and "Florence" in 2018,
+   which expose more smartphone users to the "video game" entertainment
+   genre (Guo et al., 2019). For most gamers, the connected competitive
+   games like 2018's Peaceful Elite handheld, Wild Ride 9: Racing Legends
+   and the new Call of Duty Mobile in 2019 are their best choices (Guo et
+   al., 2019).
+--
+   From black and white screen feature phones to large screen touch
+   smartphones, not only cell phones have changed over the past 10 years,
+   but the way we work, live and play games has changed dramatically. As
+   5G technology gets closer to us, mobile games will take on a more
+   diverse look with new technology and new hardware, such as 5G cloud
+   games will also bring richer game products to more gamers, using 5G's
+   high speed and low latency advantages, host and PC games will also
+   become possible to load in real time on the mobile side (Habiba and
+   Hossain, 2018). This will also bring a different game experience for
+   handheld gamers.
+
+   The 4G era has brought about the rise of handheld gaming, which has now
+   became an important part of the global gaming landscape, with countless
+   numbers of handheld gamers, and the demand for mobile gaming
+   performance continues to increase. The advent of the 5G era will change
+   the game experience for gamers at this stage, which is limited by
+   equipment and network latency (Akbar et al., 2021). Although 5G is
+   still in its infancy, it will definitely have a significant impact on
+--
+   for cloud gaming. Due to the advancement in the network, major mobile
+   manufacturers are now launching 5G gaming phones to cater to the market
+   and provide a better gaming experience to the gamers. Therefore gaming
+   phones have also become one of the selling points for cell phone
+   manufacturers.
+--
+Public Awareness--Negative Content of Mobile Game
+
+   Many elementary school students are addicted to mobile games and cannot
+   extricate themselves from games, some of them even steal their parents'
+   money to recharge for playing games and play truant. They only think
+   about the mobile games all day and all night, and think of all the ways
+   to play games, so they are not interested in studying at all and their
+   academic performance is in a mess. It seems obvious that the more time
+   you spend playing games, the worse your academic performance, and there
+   are studies that have found a correlation between time spent on video
+   games and students' academic performance (Padilla-Walker et al., 2009).
+   But is poor academic performance really the fault of gaming? It is
+   important to note that "correlation" does not mean "causation": for
+--
+   A student who is repeatedly frustrated with his grades, expects
+   appreciation and has high expectations of himself, has no outlet for
+   his pent-up emotions. But in mobile games he can not only vent his
+   stress but also receive a quick reward (Chafouleas et al., 2021). The
+   situation of students who are already not excelling in their academic
+   performance will get worse because playing games will waste time in
+   learning, thus creating a vicious circle (Laws and Millward, 2001),
+   i.e., although playing games takes away from our studies, playing games
+   may only be one point in the chain, and the reasons that lead us to
+   play games are actually more complex.
+
+Why Are Games Addictive but Learning Is Usually NOT?
+
+   Compared with learning, mobile games have distinct advantages that
+   games tend to have some measure the progress of participants to some
+   extent, meaning that their effort is visible and obvious, whereas
+   learning does not (Luder et al., 2020). There is progress in learning,
+--
+   that "hard work doesn't always lead to progress" (Chen and Gregory,
+   2009). The game makes this process visible, turning a large amount into
+   many tiny amounts, and it is important to feel that you are improving.
+
+Long-Term and Short-Term Goals
+
+   The tasks set in the game are mostly achievable goals, not too easy and
+   not too hard. There is a lot of data analysis behind this degree of
+   accuracy (Wang et al., 2020). Increasing participation in games is
+   linked to their benefits and results. Not so with learning. The average
+   person does not have this analysis; you put a 500-page book in front of
+--
+Rewards
+
+   The game does such a good job of this. It is clear on the game that for
+   everything you achieve, you will be rewarded accordingly and your
+   efforts will be recognized. On the other hand, learning, has a great
+--
+   a novel. But when listening to a lesson, this is simply not possible.
+   If we could figure out how humans learn and what motivates people to
+   act from the development of games, then apply it beyond games, the
+   value it could create is immeasurable, and it would be a
+   ground-breaking thing.
+--
+The Psychosocial Impact of Mobile Games
+
+   In fact, the psychosocial mechanisms behind playing games deserve more
+   attention than academic performance. Often the decline in academic
+   performance is the most easily observed, but the relationship between
+   playing video games and soft aspects such as feelings of loneliness,
+   loss, self-esteem, social anxiety and social skills is often
+   overlooked. These commonly overlooked factors largely contribute to
+   negative events that influence our perceptions of mobile games (Han et
+   al., 2009).
+
+--
+   2015) have found that people who have low self-esteem in real life, are
+   lonely, lack social skills, and are less successful in real life tend
+   to spend more time in video games (Winter et al., 2016). In turn,
+   playing video games further exacerbates gamers' feelings of loneliness
+   and increased dissatisfaction with life (Kowert et al., 2015).
+   FIGURE 3
+--
+   Figure 3. Maslow's Hierarchy of Needs theory.
+
+   A successful mobile game is inevitably appealing because of the high
+   sense of achievement that teenagers can feel in the game again. Imagine
+   that people who are not respected in real life can be admired for their
+   virtual achievements in the game, either through kryptonite (spending
+   money to increase combat power) or through their skill in playing the
+   game. Even if you don't make it to the top of the leader boards, you
+   can still find a presence in a variety of ways. Moreover, in online
+   games, without the constraints of real identities and conditions,
+   gamers can communicate more flexibly and with less embarrassment of
+   being rejected due to real conditions, communication between people is
+   easier and gamers can easily build closer relationships through various
+   tasks (Caplan et al., 2009).
+
+   These people who are dissatisfied with their real lives can find a
+   sense of presence in the game in a variety of ways to escape their
+   real-life dissatisfaction (Figure 4). However, after being satisfied in
+   the virtual world, when they return to their real life, the gap will be
+--
+   www.frontiersin.org
+
+   Figure 4. Addiction progress of mobile games and its different stages.
+
+Anti-social Behavior Caused by Mobile Games
+
+   The content of many mobile games is full of fighting and killing,
+   gunfire, wild and weird characters, mechanical and rough movements,
+   absurd plot and fast rhythm, which have a serious negative impact on
+   students' moral and psychological health. Those students who are
+   addicted to games are often not calm enough, restless, impulsive,
+   indifferent to others, and more violent, bringing certain destabilizing
+   factors to the campus, family and society. They are in reality, but
+   their minds are in the online world, and they are prone to
+   schizophrenia symptoms, and few children who are addicted to mobile
+   games are psychologically healthy. Nowadays, anti-social behavior also
+   brings much attention to mobile game study. Although video games have
+   been designed and developed to entertain (or educate), it has to be
+   admitted that many of them contain violent content. According to data
+   from Children Now 2001, a non-profit organization concerned with
+   children's learning and development, as early as 15 years ago, 89% of
+   all games contained violent content, and nearly half of them contained
+   severe violence (Bulduklu, 2017).
+
+   Researchers have found that excessive immersion in games with
+   antisocial content (violence) can easily lead to addiction and that
+   such games have a subtle effect on gamers: they lack empathy and are
+   prone to destructive behavior in real life. In fact, for gamers, the
+   violent stimuli provided by virtual worlds such as combat are not only
+   a stress relief, but also a training exercise that allows them to
+   become accustomed to such aggressive emotions and destructive behavior
+   in games, which they gradually carry over into real life (Huizenga et
+   al., 2009).
+
+   In a study conducted in 2011, Anderson and Bushman surveyed over 4,000
+   gamers and found that violent games increased aggressive emotions and
+   decreased pro-social behaviour. Both children and adults, men and women
+   were deeply affected by this (Foerster et al., 2019). This is not to
+   say that violent play necessarily leads to violent behavior. However,
+   when we are constantly trained to think about our enemies in games and
+   reinforced to react quickly and aggressively to each other's actions,
+   we constantly rehearse this script in our minds and feel threatened all
+--
+   "hostile attribution bias."
+
+   It must be clear here that it is not the video game that causes the
+   gamer's antisocial behavior, but the violent content of the video game.
+   It is pointless and even counterproductive to make a blanket statement.
+   We should advocate for the regulation of the video game market and the
+   development of sensible game content, rather than a blanket ban on all
+   video games.
+
+Further Actions May Take for Correct Guidance
+--
+
+   Most scholars are studying how to make learning more interesting, so
+   that students can learn by doing as what the mobile game does. This is
+   the dream of our educational researchers, and Dewey's emphasis on
+   "learning by doing" does not seem to be working particularly well. In
+--
+   emotional and attitudinal values (Villasana et al., 2020). This is why
+   educational scholars are proposing to implement gamified learning,
+   using educational games to achieve gamified learning. Gamified learning
+   in a narrow sense generally refers to pure video games, while gamified
+   learning in a broad sense includes game mechanics, game element design
+   concepts, etc.
+
+   The core educational values of games are mainly acting on the aspects
+   of psychology, socialization, and culture. With its effect on play
+   motivation, playful thinking, and playfulness (Figure 5), a good mobile
+   game does need multiple aspects of knowledge, ability, emotions,
+   attitudes and values (Schwab, 2018). Play motivation is the most
+   fundamental and operational value, emphasizing the use of play to
+   motivate learning. Playful thinking suggests going beyond playful forms
+   and emphasizes the design of non-playful learning activities as
+   "games." Playfulness is the most meaningful value emphasizing that
+   learners approach the process and outcomes of learning with the same
+   spirit and attitude as play. The core link between the three aspects is
+--
+   www.frontiersin.org
+
+   Figure 5. Core educational value of mobile games.
+
+Gamification of Education/Educational Mobile Games
+--
+   an important issues: distinguishing the age group of the user.
+   Gamification of education is more suitable for the K12 age group and
+   should generally be in the form of simple games, with the degree of
+   gamification decreasing with the age of the user increasing; there will
+   be some adults over 18 who prefer educational products in the form of
+   large-scale games such as online games, but this may be a niche market
+   (Abeele et al., 2017). A light game should be a balance between
+   learning and gameplay, it is like a layer of ketchup in the middle of a
+   hamburger, it can be a little less, but too much is definitely not. If
+   the game is too complex, it will take away from the main focus, the
+   child will appear to be learning but spend more time playing, and the
+   level of emotional arousal will be too high, which is not the desired
+--
+   parts of the product and need to be developed into an actionable
+   solution, not optional. Otherwise, even the best design will be
+   short-lived and will end up like a normal game after its life cycle.
+   So, as well as the product team, the operations team is equally
+   important (Cha and Seo, 2018). While designing the gamification, don't
+--
+   with brain science; with artificial intelligence and big data (Quelly
+   et al., 2016; Black et al., 2018). If the research is to solve
+   students' learning problems through mobile games, it is necessary to
+   combine various research results and educational results from game
+   design. Experimental research in this area has been conducted and found
+   it to be quite effective. Through this experiment, it is found that the
+   difficulty in developing this type of game is decided by how it can
+   really enhance their learning effectiveness (Calpbinici and Tas Arslan,
+   2019).
+
+   Still, games are games, and still there are four major limitation for
+   the current development of educational mobile games.:
+
+   o The first major limitation is portability, that is, how what is
+   learned in a mobile game transfers to the real world, which exposes the
+   Achilles heel of mobile games. The challenges in video games are often
+   fictional and have no connection to everyday life, but are rather a
+   fantasy. The knowledge and skills that K12 students acquire in games
+   such as battling dragons, racing jousts, and Tetris are not meaningful
+   to everyday life and therefore not directly transferable.
+
+   o The second major limitation is simplicity. Mobile games simplify
+   complex systems to their core and are procedural representations of the
+   real world. The world we live in is much more complex and often defies
+   the simple logic of the game. This results in learners often losing
+   touch with the systems modeled in the game.
+
+   o The third major limitation is that games lack real-life environments.
+   Mobile games are not designed to have an effect on the gamer after the
+   game is over. The K12 students are too different from the world they
+   live in, and the real world is too complex. Even those games that have
+   a realistic purpose, so-called serious games or educational games,
+   mostly fail in their transfer from the game to the real world. This is
+   good news for those who fear that violent games make people violent,
+   and bad news for those who think that smart games automatically make
+   people smart.
+
+   o The fourth major limitation relates to the above question about the
+   environment. K12 students are usually unable to spontaneously establish
+   a relationship between what they learn in mobile games and real life.
+   They can grasp a great deal of information in mobile games and remember
+   it over time, but are unable to recall the simplest historical data in
+   the classroom. The link between learning achievements in games and in
+   the real world is often overlooked by many K12 students and teachers.
+
+   Games open the door to the transfer of learning experiences, but K12
+   students must go through this door themselves. For that matter, the
+   role of teaching behavior in the use of mobile games is clearly
+   underestimated. Learners need constructive support to draw outcomes
+   relevant to their own learning from a rewarding play space. There may
+   not be a fundamental difference in the traditional sense of learning,
+   but there is a difference in the logical growth and understanding of
+   games (Rahim et al., 2020). Besides, the illusory nature of the mobile
+   gaming experience makes the transfer of results very difficult. In
+   response, external forces are needed to drive attention toward the
+--
+   content of the learning outcomes, the enhancement of skills and
+   knowledge, should be explored together with the K12 students. A bridge
+   between the virtual and real worlds is built when all these gamers take
+   note of the content and learning outcomes in question. The questions
+   that need to be answered on the teaching side are which real-world
+   environments can apply what is learned in the game and which aspects of
+   the game are worth learning from. And gamers, the K12 students, should
+   be motivated to notice this connection and to test what they have
+   learned in their everyday lives (Kyriakou and Glentis, 2021).
+--
+Conclusion
+
+   This paper summarizes the technological development of mobile games
+   from the aspects of hardware and software. A neutral perspective is
+   given to analyze the psychological and social problems that mobile
+   games have brought to K12 students. At the end of the paper, the
+   insights of the future development of educational games and current
+   limitations of mobile games are also addressed. The major task for the
+   development is to reflect on the content of the mobile game, which is
+   not directly accessible. It is difficult to examine what is learned
+   with a critical eye during play and must therefore be stimulated
+--
+
+   Mobile games and design requirements to increase teenagers' physical
+   activity. Pervasive Mob. Comput. 8, 900-908. doi:
+   10.1016/j.pmcj.2012.08.002
+--
+
+   Bagaa, M., Taleb, T., Laghrissi, A., Ksentini, A., and Flinck, H.
+   (2018). Coalitional game for the creation of efficient virtual core
+   network slices in 5g mobile systems. IEEE J. Sel. Areas Commun. 36,
+   469-484. doi: 10.1109/jsac.2018.2815398
+--
+
+   Bavelier, D., Green, C., Han, D., Renshaw, P., Merzenich, M., and
+   Gentile, D. (2011). Brains on video games. Nat. Rev. Neurosci. 12,
+   763-768. doi: 10.1038/nrn3135
+
+--
+   Berlo, Z., van Reijmersdal, E., and Rozendaal, E. (2020). Adolescents
+   and handheld advertising: the roles of brand familiarity and smartphone
+   attachment in the processing of mobile advergames. J. Cust. Behav. 19,
+   438-449. doi: 10.1002/cb.1822
+
+--
+   CrossRef Full Text | Google Scholar
+
+   Bulduklu, Y. (2017). Mobile games on the basis of uses and
+   gratifications approach: a comparison of the mobile game habits of
+   university and high school students. Convergence (London, England) 25,
+   901-917. doi: 10.1177/1354856517748159
+--
+
+   Buzzi, S., Colavolpe, G., Saturnino, D., and Zappone, A. (2012).
+   Potential games for energy-efficient power control and subcarrier
+   allocation in uplink multicell ofdma systems. IEEE J. Sel. Top. Signal
+   Process. 6, 89-103. doi: 10.1109/jstsp.2011.2177069
+--
+   Cha, S., and Seo, B. (2018). Smartphone use and smartphone addiction in
+   middle school students in Korea: prevalence, social networking service,
+   and game use. Health Psychol. Open 5:205510291875504. doi:
+   10.1177/2055102918755046
+
+--
+   CrossRef Full Text | Google Scholar
+
+   De Gloria, A., Bellotti, F., and Berta, R. (2014). Serious games for
+   education and training. Int. J. Serious Games 1. doi:
+   10.17083/ijsg.v1i1.11
+--
+
+   Destyanto, A., Putri, O., and Hidayatno, A. (2017). Serious simulation
+   game development for energy transition education using integrated
+   framework game design. IOP Conf. Ser. Earth Environ. Sci. 94:012157.
+   doi: 10.1088/1755-1315/94/1/012157
+
+--
+
+   Gentile, D., Lynch, P., Linder, J., and Walsh, D. (2004). The effects
+   of violent video game habits on adolescent hostility, aggressive
+   behaviors, and school performance. J. Adolesc. 27, 5-22. doi:
+   10.1016/j.adolescence.2003.10.002
+--
+
+   Ghosh, S., De, D., Deb, P., and Mukherjee, A. (2018). 5G-ZOOM-Game:
+   small cell zooming using weighted majority cooperative game for energy
+   efficient 5G mobile network. Wirel. Netw. 26, 349-372. doi:
+   10.1007/s11276-018-1818-9
+--
+   Guo, C., Gong, C., Guo, J., Xu, H., and Zhang, L. (2019).
+   TCQG--software-defined transmission control scheme in 5g networks from
+   queuing game perspective. Sensors 19:4170. doi: 10.3390/s19194170
+
+   PubMed Abstract | CrossRef Full Text | Google Scholar
+--
+
+   Han, D., Lee, Y., Na, C., Ahn, J., Chung, U., Daniels, M., et al.
+   (2009). The effect of methylphenidate on Internet video game play in
+   children with attention-deficit/hyperactivity disorder. Compr.
+   Psychiatry 50, 251-256. doi: 10.1016/j.comppsych.2008.08.011
+--
+
+   Huizenga, J., Admiraal, W., Akkerman, S., and Dam, G. (2009). Mobile
+   game-based learning in secondary education: engagement, motivation and
+   learning in a mobile city game. J. Comput. Assist. Learn. 25, 332-344.
+   doi: 10.1111/j.1365-2729.2009.00316.x
+
+--
+   Karabiyik, T., Jaiswal, A., Thomas, P., and Magana, J. (2020).
+   Understanding the interactions between the scrum master and the
+   development team: a game-theoretic approach. Mathematics 8:1553. doi:
+   10.3390/math8091553
+
+--
+
+   Kowert, R., Vogelgesang, J., Festl, R., and Quandt, T. (2015).
+   Psychosocial causes and consequences of online video game play. Comput.
+   Hum. Behav. 45, 51-58. doi: 10.1016/j.chb.2014.11.074
+
+--
+   CrossRef Full Text | Google Scholar
+
+   Kyriakou, G., and Glentis, A. (2021). Skin in the game:
+   video-game-related cutaneous pathologies in adolescents. Int. J.
+   Pediatr. Adolesc. Med. 8, 68-75. doi: 10.1016/j.ijpam.2019.09.002
+
+--
+
+   Padilla-Walker, L., Nelson, L., Carroll, J., and Jensen, A. (2009).
+   More than a just a game: video game and internet use during emerging
+   adulthood. J. Youth Adolesc. 39, 103-113. doi:
+   10.1007/s10964-008-9390-8
+--
+
+   Rubino, I., Barberis, C., Xhembulla, J., and Malnati, G. (2015).
+   Integrating a location-based mobile game in the museum visit. J.
+   Comput. Cult. Herit. 8, 1-18. doi: 10.1145/2724723
+
+--
+   Google Scholar
+
+   Seo, Y., Dolan, R., and Buchanan-Oliver, M. (2019). Playing games:
+   advancing research on online and mobile gaming consumption. Internet
+   Res. 29, 289-292. doi: 10.1108/intr-04-2019-542
+--
+
+   play in freemium mobile games: a compensatory mechanism. Int. J. Retail
+   Distrib. Manag. 50, 117-134. doi: 10.1108/ijrdm-09-2020-0358
+
+--
+   CrossRef Full Text | Google Scholar
+
+   Wang, L., Wang, Y., Ding, Z., and Wang, X. (2015). Cell selection game
+   for densely-deployed sensor and mobile devices in 5g networks
+   integrating heterogeneous cells and the internet of things. Sensors 15,
+--
+
+   Winter, J., Wentzel, M., and Ahluwalia, S. (2016). Chairs!: a mobile
+   game for organic chemistry students to learn the ring flip of
+   cyclohexane. J. Chem. Edu. 93, 1657-1659. doi:
+   10.1021/acs.jchemed.5b00872
+--
+
+   Yang, Q., and Gong, X. (2021). The engagement-addiction dilemma: an
+   empirical evaluation of mobile user interface and mobile game
+   affordance. Internet Res. 31, 1745-1768. doi: 10.1108/intr-11-2020-0622
+
+--
+   CrossRef Full Text | Google Scholar
+
+   Keywords: psychosocial impacts, mobile game, K12 student, future
+   development, educational mobile games
+
+   Citation: Li Y, Xu Z, Hao Y, Xiao P and Liu J (2022) Psychosocial
