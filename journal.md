@@ -171,6 +171,21 @@ correction des exos
 
 
 
+## S 12 
+alix 
+- archiver le dépot du git (attention à la date)
+	normalement n'affecte pas le site (envoyer mail objet au secours)
+- A RENDRE LE 7 JANVIER 
+si le git est archiver le 8 c'est pas grave mais si c'est le 15 pas ouf 
+- Si lien ne marche pas 0 à cette partie 
+Dans le tableau 
+- attention aux 0 / ne pas faire un fichier pour les liens qui ne marchent pas 
+-  
+
+
+
+
+
 
 ## TO DO
 - [X] script contexte par langue DONE 
@@ -201,4 +216,6 @@ accent considéré comme _ avec \-Wsegmentation
 - [ ] lynx - assume_charset pour iconv 
 - [ ] nuage de mot 
 
-
+- [ ] vérifier que chaque lien marche 
+- [ ] chacun doit avoir commit au minimum une fois 
+- [ ] 
