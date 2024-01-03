@@ -1,1 +1,1867 @@
-<!DOCTYPE html><html class=""><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="referrer" content="always"><title>游戏人工智能（概念的解释）_百度百科</title><meta name="description" content="游戏人工智能（Artificial Intelligence games），人工智能之父图灵相信如果模拟人类大脑的思维就可以做出一台可以思考的机器，他于1950写文章提出了著名的“图灵测试”。"><meta name="keywords" content="游戏人工智能, 游戏人工智能历史背景, 游戏人工智能空间法, 游戏人工智能棋类游戏算法, 游戏人工智能遗传算法, 游戏人工智能语意网络模型, 游戏人工智能总结"><meta itemprop="dateUpdate" content="2023-12-09 10:59:07"><link rel="alternate" hreflang="x-default" href="https://baike.baidu.com/item/%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/10055153"><link rel="alternate" hreflang="zh" href="https://baike.baidu.com/item/%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/10055153"><link rel="alternate" hreflang="zh-Hans" href="https://baike.baidu.com/item/%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/10055153"><link rel="alternate" hreflang="zh-Hant" href="https://baike.baidu.hk/item/%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/10055153"><link rel="canonical" href="https://baike.baidu.com/item/%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/10055153"><meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png"><meta property="og:title" content="游戏人工智能"><meta property="og:description" content="游戏人工智能（Artificial Intelligence games），人工智能之父图灵相信如果模拟人类大脑的思维就可以做出一台可以思考的机器，他于1950写文章提出了著名的“图灵测试”。"><meta property="og:image" content="https://bkssl.bdimg.com/cms/static/baike.png"><meta property="og:url" content="https://baike.baidu.hk/item/%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/10055153"><meta property="og:site_name" content="百度百科"><meta property="og:type" content="website"><link rel="shortcut icon" href="//baikebcs.bdimg.com/baike-react/common/favicon-baidu.ico" type="image/x-icon"><link rel="icon" sizes="any" mask="true" href="//baikebcs.bdimg.com/cms/static/baike-icon.svg"> <style id=f3d7f4f0-40fc-5c4b-8ffa-fed75b8098db type="text/css">.rc-dialog{margin:10px;position:relative;width:auto}.rc-dialog-wrap{-webkit-overflow-scrolling:touch;bottom:0;left:0;outline:0;overflow:auto;position:fixed;right:0;top:0;z-index:1050}.rc-dialog-title{font-size:14px;font-weight:700;line-height:21px;margin:0}.rc-dialog-content{background-clip:padding-box;background-color:#fff;border:none;border-radius:6px 6px;position:relative}.rc-dialog-close{background:transparent;border:0;color:#000;cursor:pointer;filter:alpha(opacity=20);font-size:21px;font-weight:700;line-height:1;opacity:.2;position:absolute;right:20px;-webkit-text-decoration:none;text-decoration:none;text-shadow:0 1px 0 #fff;top:12px}.rc-dialog-close-x:after{content:"×"}.rc-dialog-close:hover{filter:alpha(opacity=100);opacity:1;-webkit-text-decoration:none;text-decoration:none}.rc-dialog-header{background:#fff;border-bottom:1px solid #e9e9e9;border-radius:5px 5px 0 0;color:#666;padding:13px 20px 14px}.rc-dialog-body{padding:20px}.rc-dialog-footer{border-radius:0 0 5px 5px;border-top:1px solid #e9e9e9;padding:10px 20px;text-align:right}.rc-dialog-zoom-appear,.rc-dialog-zoom-enter{animation-duration:.3s;animation-fill-mode:both;animation-play-state:paused;animation-timing-function:cubic-bezier(.08,.82,.17,1);opacity:0}.rc-dialog-zoom-leave{animation-duration:.3s;animation-fill-mode:both;animation-play-state:paused;animation-timing-function:cubic-bezier(.6,.04,.98,.34)}.rc-dialog-zoom-appear.rc-dialog-zoom-appear-active,.rc-dialog-zoom-enter.rc-dialog-zoom-enter-active{animation-name:rcDialogZoomIn;animation-play-state:running}.rc-dialog-zoom-leave.rc-dialog-zoom-leave-active{animation-name:rcDialogZoomOut;animation-play-state:running}@keyframes rcDialogZoomIn{0%{opacity:0;transform:scale(0)}to{opacity:1;transform:scale(1)}}@keyframes rcDialogZoomOut{0%{transform:scale(1)}to{opacity:0;transform:scale(0)}}@media (min-width:768px){.rc-dialog{margin:30px auto;width:600px}}.rc-dialog-mask{background-color:#373737;background-color:rgba(55,55,55,.6);bottom:0;filter:alpha(opacity=50);height:100%;left:0;position:fixed;right:0;top:0;z-index:1050}.rc-dialog-mask-hidden{display:none}.rc-dialog-fade-appear,.rc-dialog-fade-enter{opacity:0}.rc-dialog-fade-appear,.rc-dialog-fade-enter,.rc-dialog-fade-leave{animation-duration:.3s;animation-fill-mode:both;animation-play-state:paused;animation-timing-function:cubic-bezier(.55,0,.55,.2)}.rc-dialog-fade-appear.rc-dialog-fade-appear-active,.rc-dialog-fade-enter.rc-dialog-fade-enter-active{animation-name:rcDialogFadeIn;animation-play-state:running}.rc-dialog-fade-leave.rc-dialog-fade-leave-active{animation-name:rcDialogFadeOut;animation-play-state:running}@keyframes rcDialogFadeIn{0%{opacity:0}to{opacity:1}}@keyframes rcDialogFadeOut{0%{opacity:1}to{opacity:0}}.bk-dialog{left:50%;margin:0!important;position:absolute!important;top:50%;transform:translate(-50%,-50%)}.bk-dialog .rc-dialog-content{background:#fff;border:1px solid #bbb;border-radius:0}.bk-dialog .rc-dialog-header{background:#fafbfc;border-bottom:1px solid #e5e5e5;padding:10px 20px 9px}.bk-dialog .rc-dialog-title{color:#666;font-size:16px;font-weight:400}.bk-dialog .rc-dialog-close{color:#cbcbcb;font-size:18px;opacity:1}.bk-dialog .rc-dialog-body{padding:26px 50px 35px;text-align:center}.bk-dialog .dialog-title{color:#333;font-size:20px;font-weight:700;line-height:26px;margin-bottom:20px}.bk-dialog .dialog-content{color:#ccc;font-size:16px;line-height:26px}.bk-dialog .dialog-content .alert-content{align-items:center;display:flex;justify-content:center;padding-top:44px;width:378px}.bk-dialog .dialog-content .alert-content.no-icon .msg{max-width:378px}.bk-dialog .dialog-content .alert-content.no-sub-msg .msg h1{line-height:58px}.bk-dialog .dialog-content .alert-content .msg{flex:none;max-width:302px;text-align:center}.bk-dialog .dialog-content .alert-content .msg h1{color:#333;font-size:20px;line-height:32px;text-align:left}.bk-dialog .dialog-content .alert-content .msg pre{color:#888;font-family:arial,tahoma,Microsoft Yahei,"\5b8b\4f53",sans-serif,font-extend;font-size:14px;line-height:22px;text-align:left}.bk-dialog .dialog-content .alert-content .msg .ext-info{color:#888;font-size:12px;margin-top:14px;text-align:left}.bk-dialog .dialog-content .alert-content .msg .ext-info i{color:#52a3f5}.bk-dialog .dialog-content .alert-content .alert-icon{align-items:center;border:2px solid #b4d6f9;border-radius:56px;color:#52a3f5;display:flex;flex:none;height:56px;justify-content:center;margin-right:12px;width:56px}.bk-dialog .dialog-content .alert-content .alert-icon.error-icon{border-color:#fbddd6;color:#f18167}.bk-dialog .dialog-content .alert-content .alert-icon .icon{font-size:30px;line-height:0}.bk-dialog .btn-list{margin-top:35px}.bk-dialog .btn-list .btn-item{background:#52a3f5;border:1px solid #52a3f5;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.05);color:#fff;cursor:pointer;display:inline-block;font-size:16px;line-height:1;margin-right:10px;padding:8px 24px;text-align:center}.bk-dialog .btn-list .btn-item:last-child{margin-right:0}</style><style id=99d2ba84-28cc-5c59-83bf-4fc064d5b617 type="text/css">.popup-content{background:#fff;border:1px solid #d7d7d7;margin:auto;padding:5px;width:50%}[role=tooltip].popup-content{border-radius:5px;box-shadow:0 0 3px rgba(0,0,0,.16);width:200px}.popup-overlay{background:rgba(0,0,0,.5)}[data-popup=tooltip].popup-overlay{background:transparent}.popup-arrow{stroke-width:2px;stroke:#d7d7d7;stroke-dasharray:30px;stroke-dashoffset:-54px;bottom:0;color:#fff;filter:drop-shadow(0 -3px 3px rgba(0,0,0,.16));left:0;right:0;top:0}</style><style id=116fa488-8322-5b02-a80c-36f1131ed2ce type="text/css">.bubble-box{background:#fff;border:1px solid #dfdfdf;border-radius:3px;box-shadow:0 4px 6px -4px rgba(0,0,0,.2);z-index:2000}.bubble-box,.bubble-box .bubble-arrow-place{position:absolute}.bubble-box .bubble-arrow{background:#fff;border:1px solid #dfdfdf;box-shadow:0 4px 6px -4px rgba(0,0,0,.2);height:10px;overflow:hidden;position:absolute;transform:rotate(45deg);width:10px;z-index:1}.bubble-box.top-left{bottom:100%;left:0;margin-bottom:6px}.bubble-box.top-left .bubble-arrow-place{bottom:-8px;height:8px;left:0;width:100%}.bubble-box.top-left .bubble-arrow{left:3px;margin-top:-6px;top:100%}.bubble-box.top-right{bottom:100%;margin-bottom:6px;right:0}.bubble-box.top-right .bubble-arrow-place{bottom:-8px;height:8px;left:0;width:100%}.bubble-box.top-right .bubble-arrow{margin-top:-6px;right:3px;top:100%}.bubble-box.top-center{bottom:100%;left:50%;margin-bottom:6px;transform:translateX(-50%)}.bubble-box.top-center .bubble-arrow-place{bottom:-8px;height:8px;left:0;width:100%}.bubble-box.top-center .bubble-arrow{left:50%;margin-left:-6px;margin-top:-6px;top:100%}.bubble-box.bottom-left{left:0;margin-top:6px;top:100%}.bubble-box.bottom-left .bubble-arrow-place{height:8px;left:0;top:-8px;width:100%}.bubble-box.bottom-left .bubble-arrow{bottom:100%;left:3px;margin-bottom:-6px}.bubble-box.bottom-right{margin-top:6px;right:0;top:100%}.bubble-box.bottom-right .bubble-arrow-place{height:8px;left:0;top:-8px;width:100%}.bubble-box.bottom-right .bubble-arrow{bottom:100%;margin-bottom:-6px;right:3px}.bubble-box.bottom-center{left:50%;margin-top:6px;top:100%;transform:translateX(-50%)}.bubble-box.bottom-center .bubble-arrow-place{height:8px;left:0;top:-8px;width:100%}.bubble-box.bottom-center .bubble-arrow{bottom:100%;left:50%;margin-bottom:-6px;margin-left:-6px}.bubble-box.left-top{margin-right:8px;right:100%;top:0}.bubble-box.left-top .bubble-arrow-place{height:100%;right:-8px;top:0;width:8px}.bubble-box.left-top .bubble-arrow{left:100%;margin-left:-6px;top:3px}.bubble-box.left-bottom{bottom:0;margin-right:8px;right:100%}.bubble-box.left-bottom .bubble-arrow-place{height:100%;right:-8px;top:0;width:8px}.bubble-box.left-bottom .bubble-arrow{bottom:3px;left:100%;margin-left:-6px}.bubble-box.left-center{margin-right:8px;right:100%;top:50%;transform:translateY(-50%)}.bubble-box.left-center .bubble-arrow-place{height:100%;right:-8px;top:0;width:8px}.bubble-box.left-center .bubble-arrow{left:100%;margin-left:-6px;margin-top:-6px;top:50%}.bubble-box.right-top{left:100%;margin-left:8px;top:0}.bubble-box.right-top .bubble-arrow-place{height:100%;left:-8px;top:0;width:8px}.bubble-box.right-top .bubble-arrow{margin-right:-6px;right:100%;top:3px}.bubble-box.right-bottom{bottom:0;left:100%;margin-left:8px}.bubble-box.right-bottom .bubble-arrow-place{height:100%;left:-8px;top:0;width:8px}.bubble-box.right-bottom .bubble-arrow{bottom:3px;margin-right:-6px;right:100%}.bubble-box.right-center{left:100%;margin-left:8px;top:50%;transform:translateY(-50%)}.bubble-box.right-center .bubble-arrow-place{height:100%;left:-8px;top:0;width:8px}.bubble-box.right-center .bubble-arrow{margin-right:-6px;margin-top:-6px;right:100%;top:50%}.bubble-box .bubble-content{background:#fff;border-radius:3px;overflow:hidden;position:relative;z-index:2}</style><style id=489a1e7a-34e5-5c78-bd07-8a6d4f7b173a type="text/css">.user-bar{color:#333;display:flex;font-size:13px}.user-bar .user-bar-item{flex:none;padding:0 11px;position:relative}.user-bar .user-bar-item>a{color:#333;cursor:pointer;-webkit-text-decoration:none;text-decoration:none}.user-bar .user-bar-item>a:hover{-webkit-text-decoration:underline;text-decoration:underline}.user-bar .user-bar-item>a svg{fill:#c1c1c1;font-size:14px;margin:0 5px 0 3px;vertical-align:-2px}.user-bar .user-bar-item.message{margin-left:11px;margin-right:11px}.user-bar .user-bar-item .menu-item{font-size:12px;white-space:nowrap}.user-bar .user-bar-item .menu-item a{color:#333;cursor:pointer;display:block;height:24px;line-height:24px;padding:0 11px}.user-bar .user-bar-item .menu-item a:hover{background:#38f;color:#fff}.user-bar .user-bar-item .menu-item .msg-num{color:#338de6;font-weight:700;margin-left:3px}.user-bar .user-bar-item .lemma-msg-bubble{background:#ffffda;border-radius:3px;font-size:12px;padding:10px 5px;position:relative;width:260px}.user-bar .user-bar-item .lemma-msg-bubble .lemma-msg-item a{color:#2b66b4;height:24px;line-height:24px;outline:0;padding:0 10px;-webkit-text-decoration:none;text-decoration:none}.user-bar .user-bar-item .lemma-msg-bubble .cancel-alarm{margin-top:10px}.user-bar .user-bar-item .lemma-msg-bubble .close-icon{color:#b0b0b0;cursor:pointer;font-size:12px;position:absolute;right:6px;top:6px}.user-bar.user-login .user-bar-item:last-child{margin-right:9px}.user-bar .triangle-down{border:4px solid transparent;border-top-color:#8b8c8c;position:absolute;right:0;top:7px}</style><style id=4a1d8c91-8d26-533a-927b-88a34b3457b9 type="text/css">.index-module_topbar__aBAV7{border-bottom:1px solid #ebebeb;display:flex;height:32px;justify-content:flex-end;position:relative;z-index:6}.index-module_topbar__aBAV7 .index-module_websiteList__WqwA2{border-bottom:1px solid #f1f1f1;flex:none;font-family:arial;font-size:0;height:32px;line-height:32px}.index-module_topbar__aBAV7 .index-module_websiteList__WqwA2 .index-module_tabItem__Qrt8o{color:#333;display:inline-block;font-size:13px;font-weight:700;margin-left:22px;outline:0;text-align:center;-webkit-text-decoration:underline;text-decoration:underline}.index-module_topbar__aBAV7 .index-module_websiteList__WqwA2 .index-module_baike__8Pm5c{color:#666;-webkit-text-decoration:none;text-decoration:none}.index-module_topbar__aBAV7 .index-module_separator__gx7UX{border-right:1px solid #ebebeb;height:12px;margin:10px 13px 10px 25px}.index-module_topbar__aBAV7 .index-module_userBarBox__nGfXC{margin-top:6px}</style><style id=b0154329-68c7-542c-b2dd-d9e059b7e0fe type="text/css">.index-module_clearfix__meUwC{*zoom:1}.index-module_clearfix__meUwC:after,.index-module_clearfix__meUwC:before{content:" ";display:table}.index-module_clearfix__meUwC:after{clear:both}.index-module_ellipsis__FpkhD{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-module_z-index-content__oCcGK{z-index:1}.index-module_z-index-fixed-content__Q3GsA{z-index:100}.index-module_z-index-modal-mask__AaEdd{z-index:1000}.index-module_z-index-modal-content__lcuyl{z-index:1100}.index-module_z-index-popup__WcfoL{z-index:2000}.index-module_z-index-toast__e9Fil{z-index:3000}.index-module_gray__wuVYb{filter:grayscale(100%);-moz-filter:grayscale(100%);-ms-filter:grayscale(100%);-o-filter:grayscale(100%);filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);-webkit-filter:grayscale(1)}.index-module_lemmaSearchBarWrapper__xuxzH{margin:0 auto;position:relative;width:1139px}.index-module_lemmaSearchBar__5xejA{box-sizing:border-box;height:104px;margin:auto;padding-top:25px;width:808px}@media screen and (min-width:1441px){.index-module_lemmaSearchBar__5xejA{width:903px}}.index-module_fixedWrapper__spyoB{background-color:#fff;border-bottom:1px solid #ebebeb;box-shadow:0 0 5px #888;box-sizing:border-box;height:66px;left:0;margin:auto;min-width:1140px;opacity:0;position:fixed;top:0;transition:opacity .3s;width:100%;z-index:100}.index-module_fixedWrapper__spyoB *{box-sizing:border-box}.index-module_fixedWrapper__spyoB .index-module_fixedBg__dbiH9{height:66px;margin:auto;padding-top:12px;width:1140px}.index-module_fixedWrapper__spyoB.index-module_fadeIn__cy5Bo{opacity:1}.index-module_fixedWrapper__spyoB.index-module_fadeOut__Ev-oH{opacity:0}.index-module_fixedWrapper__spyoB.index-module_show__fU37W{z-index:100}.index-module_fixedWrapper__spyoB.index-module_hide__um-r3{z-index:-10}.index-module_searchBar__L5IRU{box-sizing:border-box;height:47px;margin:auto}.index-module_searchBar__L5IRU *{box-sizing:border-box}.index-module_searchBar__L5IRU .index-module_logoWrapper__wf9x-{display:inline-block;float:left;height:100%;width:154px}.index-module_searchBar__L5IRU .index-module_logoWrapper__wf9x- .index-module_logo__RhNmA{cursor:pointer;height:44px}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG{display:inline-block;float:left;height:100%;padding-top:7px;position:relative}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE{display:inline-block;float:left;height:40px;position:relative}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_placeholder__ytR2a{align-items:center;bottom:0;color:#999;display:flex;font-size:14px;font-weight:400;left:0;opacity:0;overflow:hidden;padding-left:10px;pointer-events:none;position:absolute;text-overflow:ellipsis;top:0;transition:.5s ease-out;transition-property:opacity;white-space:nowrap;width:440px;z-index:1000}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_placeholder__ytR2a.index-module_showIn__wOvRb{opacity:1;transition:.5s ease-in}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_searchInput__Q0ER3{border:1px solid #ccc;border-right:0;display:inline-block;font-size:16px;height:40px;line-height:28px;padding:6px 36px 4px 8px;-webkit-user-select:text;width:440px}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_searchInput__Q0ER3::-webkit-input-placeholder{animation:index-module_zoomIn__Njdkt 1s ease-in-out;color:#999;font-size:14px;font-weight:400;opacity:var(--placeholder-color);overflow:hidden;text-overflow:ellipsis;-webkit-transition-property:opacity;transition-property:opacity;-webkit-transition:2s ease-out;transition:2s ease-out;white-space:nowrap}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_searchInput__Q0ER3:hover{border-color:#999}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_searchInput__Q0ER3:focus{border-color:#4791ff}@media screen and (min-width:1441px){.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_searchInput__Q0ER3{width:535px}}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_closeIcon__GEqjQ{color:#9195a3;cursor:pointer;display:grid;font-size:16px;position:absolute;right:10px;top:12px}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_resultWrapper__MQWYr{background:#fff;box-shadow:none;box-sizing:content-box;left:0;position:absolute;top:39px;width:440px;z-index:100}@media screen and (min-width:1441px){.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_resultWrapper__MQWYr{width:535px}}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_lemmaBtn__uEM7b{-webkit-appearance:none;background:#38f;border:1px solid;border-color:#38f #38f #2d78f4;border-radius:0;color:#fff;cursor:pointer;display:inline-block;float:left;font-family:arial;font-size:16px;height:40px;letter-spacing:1px;outline:medium;width:104px}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_lemmaBtn__uEM7b:hover{background:#317ef3;border-color:#317ef3}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_siteBtn__MOmdq{-webkit-appearance:none;background-color:#fff;border:1px solid #2e82ff;border-radius:0;color:#38f;cursor:pointer;display:inline-block;float:left;font-family:arial;font-size:16px;height:40px;letter-spacing:1px;margin-left:4px;outline:medium;width:104px}.index-module_searchBar__L5IRU .index-module_rightWrapper__gKXFG .index-module_helpBtn__PMdFs{color:#333;display:inline-block;float:right;font-size:13px;margin-left:14px;margin-top:17px;position:absolute;-webkit-text-decoration:underline;text-decoration:underline;width:26px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv{height:38px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_logoWrapper__wf9x-{margin-right:10px;width:100px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_logoWrapper__wf9x- .index-module_logo__RhNmA{height:33px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG{padding-top:4px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE{height:34px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_searchInput__Q0ER3{font-size:16px;height:34px;line-height:22px;padding:6px 36px 4px 8px;width:400px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_resultWrapper__MQWYr{background:#fff;box-shadow:none;position:absolute;top:33px;width:400px;z-index:100}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG .index-module_inputWrapper__d-MvE .index-module_closeIcon__GEqjQ{top:10px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG .index-module_lemmaBtn__uEM7b{font-size:14px;height:34px;width:100px}.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG .index-module_helpBtn__PMdFs,.index-module_searchBar__L5IRU.index-module_top-search__blbxv .index-module_rightWrapper__gKXFG .index-module_siteBtn__MOmdq{display:none}.index-module_searchBar__L5IRU .index-module_splitLine__Kd0kH{background-color:#f5f5f5;height:1px;margin:13px 16px 16px;padding:0 8px}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4{border:1px solid #ccc;border-top:none;cursor:default;font-size:14px;font-weight:400;line-height:22px;padding:0 15px 16px}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB{display:flex}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB>div{width:calc(50% - 10px)}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotLeftList__AMXKI{margin:7px 10px 0 0}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotRightList__rr1t2{margin-top:7px}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh{border:1px solid transparent;border-radius:6px;cursor:pointer;display:flex;margin-top:5px;overflow:hidden;padding:4px 7px}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh:hover{border-color:#e0e0e0}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh:hover .index-module_hotDesc__Syfla,.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh:hover .index-module_hotTitle__6hbog{color:#38e!important}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh .index-module_hotIdx__CL8DG,.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh img{background:#f5f5f6;border-radius:4px;color:#5b5d66;flex:none;font-size:11px;font-weight:600;line-height:16px;margin-right:4px;position:relative;text-align:center;top:1px}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh .index-module_hotIdx__CL8DG{height:16px;width:16px}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh .index-module_hotContent__V74FJ{line-height:1;overflow:hidden}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh .index-module_hotContent__V74FJ .index-module_hotTitle__6hbog{color:#222;font-size:14px;font-weight:500;line-height:20px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;word-break:keep-all}.index-module_searchBar__L5IRU .index-module_hotBox__s4XU4 .index-module_hotList__UNnIB .index-module_hotItem__nrMnh .index-module_hotContent__V74FJ .index-module_hotDesc__Syfla{color:#666;font-size:12px;line-height:1.5;margin-top:1.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;word-break:keep-all}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv{border:1px solid #ccc;cursor:default;font-size:14px;font-weight:400;line-height:22px;padding:16px 15px 24px}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyTitle__5Dwjx img{display:inline-block}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyTitle__5Dwjx .index-module_delAllBtn__KDzx-{color:#9195a3;cursor:pointer;float:right;font-size:12px;font-weight:400;line-height:1}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyList__9Ckzn{cursor:default;font-size:14px;font-weight:400;line-height:0;margin-top:2px}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyList__9Ckzn .index-module_historyItem__eFYK7{background:#f5f5f6;border:1px solid #f5f5f6;border-radius:6px;box-sizing:border-box;cursor:pointer;display:inline-block;line-height:20px;margin-right:10px;margin-top:10px;max-width:calc(50% - 10px);padding:4px 7px;position:relative}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyList__9Ckzn .index-module_historyItem__eFYK7.index-module_active__QYImH{background:0 0;border-color:#e0e0e0;color:#38f}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyList__9Ckzn .index-module_historyItem__eFYK7 .index-module_historyContent__ed676{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;word-break:keep-all}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyList__9Ckzn .index-module_historyItem__eFYK7 .index-module_delItemBtn__VUEX5{background:#ccc;border-radius:50%;box-sizing:content-box;font-size:12px;font-weight:bolder;height:12px;line-height:14px;padding:1px 0;position:absolute;right:-6px;text-align:center;top:-6px;width:14px}.index-module_searchBar__L5IRU .index-module_historyBox__YEpjv .index-module_historyList__9Ckzn .index-module_historyItem__eFYK7 .index-module_delItemBtn__VUEX5 svg{color:#fff;transform:scale(.66667)}.index-module_searchBar__L5IRU .index-module_sugWrapper__FvsbJ{border:1px solid #ccc}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe{height:auto;margin:8px 0;padding:0}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultItem__yzIQW{align-items:center;color:#222;cursor:pointer;display:flex;overflow:hidden;padding:8px 16px}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultItem__yzIQW.index-module_active__QYImH{background:#f9f9f9;color:#38f}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultItem__yzIQW .index-module_resultPic__JQOdO{flex:none;margin-right:8px}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultItem__yzIQW .index-module_resultPic__JQOdO img{border:1px solid #f5f5f5;border-radius:6px}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultItem__yzIQW .index-module_resultContent__npHet{font-size:14px;line-height:20px;overflow:hidden}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultItem__yzIQW .index-module_resultContent__npHet .index-module_resultTitle__095gI{margin-bottom:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultItem__yzIQW .index-module_resultContent__npHet .index-module_resultDesc__1IHLL{line-height:1.5;margin-bottom:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultFooter__Cpx28{color:#999;cursor:pointer;font-size:12px;line-height:1.5;margin:5px 16px}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultFooter__Cpx28 span{color:#38f}.index-module_searchBar__L5IRU .index-module_resultBox__NhLfe .index-module_resultFooter__Cpx28 svg{vertical-align:-1px}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp{color:#222;line-height:30px;padding:0 0 16px}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugList__weC5-{list-style:none}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugList__weC5- svg{color:#9195a3;font-size:18px;margin-right:2px;vertical-align:6px}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugList__weC5- li:first-child{color:#222;cursor:default;font-size:14px;font-weight:500;line-height:1;margin:16px 16px 6px}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugList__weC5- li:first-child svg{vertical-align:-4px}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugList__weC5- li:not(:first-child){color:#222;cursor:pointer;font-size:14px;height:25px;line-height:30px;list-style:none;padding:0 16px}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugList__weC5- li .index-module_sugListItem__ic2vA{word-wrap:normal;display:inline-block;max-width:80%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugList__weC5- li.index-module_active__QYImH{background:#f9f9f9;color:#38f}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugFooter__XubIk{background-color:#fafafa;color:#666;font-size:12px;font-weight:400;height:26px;line-height:26px;padding:0 10px;text-align:right}.index-module_searchBar__L5IRU .index-module_sugListWrapper__6jBWp .index-module_sugFooter__XubIk .index-module_sugFooterClose__4Ijye{cursor:pointer;display:inline;-webkit-text-decoration:underline;text-decoration:underline}</style><style id=0eb099c9-e806-565c-a04a-38cbef0bf4d5 type="text/css">.index-module_navBarWrapper__X0DND{background:#459df5;height:45px;overflow:hidden;position:relative;z-index:5}.index-module_navBarWrapper__X0DND a{-webkit-text-decoration:none;text-decoration:none}.index-module_navBarWrapper__X0DND.index-module_hover__Gsl-V{overflow:visible}.index-module_navBarWrapper__X0DND.index-module_hover__Gsl-V .index-module_navBarBg__jLfYB{background:rgba(36,97,158,.95)}.index-module_navBarWrapper__X0DND.index-module_hover__Gsl-V dd{opacity:1}.index-module_navBarWrapper__X0DND .index-module_navBar__fLItn{background:#459df5;height:45px;min-width:900px;position:relative;z-index:2}.index-module_navBarWrapper__X0DND .index-module_navBarBg__jLfYB{height:276px;left:0;position:absolute;top:0;transition:.3s;width:100%;z-index:1}.index-module_navBarWrapper__X0DND .index-module_navBarList__iL2jR{background:#459df5;border-bottom:1px solid #3b92e9;border-top:1px solid #5895d5;display:flex;height:43px;margin:0 auto;position:relative;width:1140px}.index-module_navBarWrapper__X0DND dl{position:relative}.index-module_navBarWrapper__X0DND dl.index-module_cooperation__ZISm7,.index-module_navBarWrapper__X0DND dl.index-module_guidance__XWoyq,.index-module_navBarWrapper__X0DND dl.index-module_second-know__o9jR2,.index-module_navBarWrapper__X0DND dl.index-module_special__j8K7K,.index-module_navBarWrapper__X0DND dl.index-module_team__Heqwh{width:126px}.index-module_navBarWrapper__X0DND dl.index-module_cooperation__ZISm7 dt,.index-module_navBarWrapper__X0DND dl.index-module_guidance__XWoyq dt,.index-module_navBarWrapper__X0DND dl.index-module_second-know__o9jR2 dt,.index-module_navBarWrapper__X0DND dl.index-module_special__j8K7K dt,.index-module_navBarWrapper__X0DND dl.index-module_team__Heqwh dt{width:124px}.index-module_navBarWrapper__X0DND dl.index-module_cooperation__ZISm7 dd,.index-module_navBarWrapper__X0DND dl.index-module_guidance__XWoyq dd,.index-module_navBarWrapper__X0DND dl.index-module_second-know__o9jR2 dd,.index-module_navBarWrapper__X0DND dl.index-module_special__j8K7K dd,.index-module_navBarWrapper__X0DND dl.index-module_team__Heqwh dd{width:125px}.index-module_navBarWrapper__X0DND dl.index-module_index__Kc2gf,.index-module_navBarWrapper__X0DND dl.index-module_user__Kc93c{width:94px}.index-module_navBarWrapper__X0DND dl.index-module_index__Kc2gf dt,.index-module_navBarWrapper__X0DND dl.index-module_user__Kc93c dt{width:92px}.index-module_navBarWrapper__X0DND dl.index-module_index__Kc2gf dd,.index-module_navBarWrapper__X0DND dl.index-module_user__Kc93c dd{width:93px}.index-module_navBarWrapper__X0DND dl.index-module_knowledge__9fisv dd,.index-module_navBarWrapper__X0DND dl.index-module_knowledge__9fisv dt{width:140px}.index-module_navBarWrapper__X0DND dl:hover dt{background:#338ce6}.index-module_navBarWrapper__X0DND dl:hover dd{background:#19508b;border-color:#184f8b}.index-module_navBarWrapper__X0DND dl:hover+dl dd{border-color:transparent!important;border-color:#184f8b}.index-module_navBarWrapper__X0DND dt{border-left:1px solid transparent!important;border-right:1px solid transparent!important;border:1px solid #59a1e9;border-bottom:0;border-top:0;color:#f5f5f5;cursor:pointer;font-size:16px;height:44px;line-height:44px;text-align:center;transition:background .3s}.index-module_navBarWrapper__X0DND dt a{color:#f5f5f5}.index-module_navBarWrapper__X0DND dd{border-left:1px solid #3a6fa2;height:210px;opacity:0;padding:11px 0 10px;transition:.3s}.index-module_navBarWrapper__X0DND dd .index-module_navBarItem__m7wZ4{font-size:14px;height:30px;line-height:30px;text-align:center}.index-module_navBarWrapper__X0DND dd .index-module_navBarItem__m7wZ4 a{color:#a2c9f0;padding-bottom:3px}.index-module_navBarWrapper__X0DND dd .index-module_navBarItem__m7wZ4 a:hover{border-bottom:2px solid #fff;color:#fff}.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ{align-items:center;display:flex;font-size:16px;height:24px;line-height:24px;margin:10px 0;position:absolute;right:0}.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_appDownload__Bx1Uj,.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_usercenter__brbF2{font-size:16px;height:16px;line-height:1;padding:0 15px}.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_appDownload__Bx1Uj a,.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_usercenter__brbF2 a{color:#fff}.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_appDownload__Bx1Uj path,.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_appDownload__Bx1Uj svg,.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_usercenter__brbF2 path,.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_usercenter__brbF2 svg{fill:#fff}.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_appDownload__Bx1Uj svg{animation:index-module_phone__w9Py1 2s;-webkit-animation:index-module_phone__w9Py1 2s infinite;font-size:18px;margin-right:3px;transform:rotate(0);transform-origin:center;vertical-align:-3px}.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_usercenter__brbF2{border-left:1px solid #3982c8}.index-module_navBarWrapper__X0DND .index-module_rightList__RchPZ .index-module_usercenter__brbF2 svg{font-size:14px;margin-right:6px;vertical-align:-1px}@keyframes index-module_phone__w9Py1{0%{transform:rotate(0)}10%{transform:rotate(-15deg)}20%{transform:rotate(15deg)}30%{transform:rotate(-15deg)}40%{transform:rotate(15deg)}50%{transform:rotate(0)}to{transform:rotate(0)}}</style><style id=2b9857cd-80da-5aaa-87ee-a4b681a8122a type="text/css">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type="text/css">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;padding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><style id=40bd6f5e-a1de-5197-9f33-f71a1b7570eb type="text/css">.page-footer-content{font-size:12px;width:100%}.page-footer-content .block-item{box-sizing:content-box;float:left;width:210px}.page-footer-content .block-item.fresh-block{padding:0 35px 0 5px}.page-footer-content .block-item.question-block{padding:0 35px}.page-footer-content .block-item.suggestion-block{padding:0 5px 20px 35px}.page-footer-content .block-item .block-title{color:#333;font-size:20px;line-height:1.5}.page-footer-content .block-item .block-title svg{color:#aaa;margin-right:10px}.page-footer-content .block-item .block-content{padding:5px 0 0 30px;width:210px}.page-footer-content .block-item .block-content>a{color:#666;cursor:pointer;float:left;margin-bottom:5px;position:relative;-webkit-text-decoration:none;text-decoration:none;width:90px}.page-footer-content .block-item .block-content>a:hover{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.page-footer-content .block-item .block-content .block-content-new-icon{height:7px;left:52px;position:absolute;top:3px}</style><script defer="defer" src="https://bkssl.bdimg.com/resource/lemma/lemma_e0ae0f76.js"></script><link href="https://bkssl.bdimg.com/resource/lemma/lemma_2291e346.css" rel="stylesheet"></head><body><div id="root"><div class="pageWrapper_Y4X5A" data-type="normal" data-category="normal"><div class="index-module_pageHeader__jSG5w"><div id="J-vars" style="display:none" data-lemmaid="10055153" data-lemmatitle="游戏人工智能" data-lemmacategory="normal"></div><div class="index-module_topbar__aBAV7"><div class="index-module_websiteList__WqwA2"><a class="index-module_tabItem__Qrt8o" href="https://www.baidu.com/s?ie=utf-8&amp;fr=bks0000&amp;wd=游戏人工智能">网页</a><a class="index-module_tabItem__Qrt8o" href="http://news.baidu.com/ns?tn=news&amp;cl=2&amp;rn=20&amp;ct=1&amp;fr=bks0000&amp;ie=utf-8&amp;word=游戏人工智能">新闻</a><a class="index-module_tabItem__Qrt8o" href="https://tieba.baidu.com/f?ie=utf-8&amp;fr=bks0000&amp;kw=游戏人工智能">贴吧</a><a class="index-module_tabItem__Qrt8o" href="https://zhidao.baidu.com/search?pn=0&amp;&amp;rn=10&amp;lm=0&amp;fr=bks0000&amp;word=游戏人工智能">知道</a><a class="index-module_tabItem__Qrt8o" href="https://pan.baidu.com/disk/home#/search?from=1027327l&amp;key=游戏人工智能">网盘</a><a class="index-module_tabItem__Qrt8o" href="http://image.baidu.com/search/index?tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;nc=1&amp;ie=utf-8&amp;word=游戏人工智能">图片</a><a class="index-module_tabItem__Qrt8o" href="https://www.baidu.com/sf/vsearch?pd=video&amp;tn=vsearch&amp;ie=utf-8&amp;rsv_spt=17&amp;wd=游戏人工智能">视频</a><a class="index-module_tabItem__Qrt8o" href="http://map.baidu.com/m?ie=utf-8&amp;fr=bks0000&amp;word=游戏人工智能">地图</a><a class="index-module_tabItem__Qrt8o" href="https://wenku.baidu.com/search?lm=0&amp;od=0&amp;ie=utf-8&amp;fr=bks0000&amp;word=游戏人工智能">文库</a><a class="index-module_tabItem__Qrt8o index-module_baike__8Pm5c">百科</a></div><div class="index-module_separator__gx7UX"></div><div class="index-module_userBarBox__nGfXC"><div class="user-bar "><div class="user-bar-item"><a href="http://www.baidu.com" target="_blank" rel="noreferrer">百度首页</a></div></div></div></div><div class="index-module_lemmaSearchBarWrapper__xuxzH"><div class="index-module_lemmaSearchBar__5xejA"><div class="index-module_searchBar__L5IRU clearfix"><a class="index-module_logoWrapper__wf9x-" href="/#home"><img class="index-module_logo__RhNmA" src="https://baikebcs.bdimg.com/baike-react/common/logo-baike.svg" alt="百度百科"/></a><div class="index-module_rightWrapper__gKXFG"><div class="index-module_inputWrapper__d-MvE"><input class="index-module_searchInput__Q0ER3" autoComplete="off" autoCorrect="off" value="游戏人工智能"/><span class="index-module_placeholder__ytR2a index-module_showIn__wOvRb"></span><span class="index-module_closeIcon__GEqjQ"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 1024 1024"><path d="m566.4 512 318.4-318.4c16-16 16-38.4 0-54.4s-38.4-16-54.4 0L512 457.6 192 140.8c-14.4-16-38.4-16-52.8 0s-16 38.4 0 54.4L457.6 512 139.2 830.4c-16 16-16 38.4 0 54.4 8 6.4 16 11.2 27.2 11.2s19.2-3.2 27.2-11.2l320-318.4 320 316.8c8 6.4 19.2 11.2 27.2 11.2s19.2-3.2 27.2-11.2c16-16 16-38.4 0-54.4z"></path></svg></span></div><button class="index-module_lemmaBtn__uEM7b">进入词条</button><button class="index-module_siteBtn__MOmdq">全站搜索</button><a href="/help" target="_blank" class="index-module_helpBtn__PMdFs">帮助</a></div></div></div></div><div class="index-module_navBarWrapper__X0DND "><div class="index-module_navBar__fLItn"><div class="index-module_navBarList__iL2jR"><dl class="index-module_index__Kc2gf"><dt><a href="/">首页</a></dt><dd></dd></dl><dl class="index-module_second-know__o9jR2"><dt><a href="#">秒懂百科</a></dt><dd></dd></dl><dl class="index-module_special__j8K7K"><dt><a href="#">特色百科</a></dt><dd></dd></dl><dl class="index-module_knowledge__9fisv"><dt><a href="#">知识专题</a></dt><dd></dd></dl><dl class="index-module_guidance__XWoyq"><dt><a href="#">加入百科</a></dt><dd></dd></dl><dl class="index-module_team__Heqwh"><dt><a href="#">百科团队</a></dt><dd></dd></dl><dl class="index-module_cooperation__ZISm7"><dt><a href="#">权威合作</a></dt><dd></dd></dl><div class="index-module_rightList__RchPZ"><div class="index-module_appDownload__Bx1Uj"><a href="/wapui/subpage/baikeappdownload" rel="noreferrer" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 20"><path fill="#459DF5" fill-rule="nonzero" d="M2 14h12V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2zM4 0h8a4 4 0 0 1 4 4v12a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4m4 18.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path></svg>下载百科APP</a></div><div class="index-module_usercenter__brbF2"><a href="/usercenter" rel="noreferrer" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 1024 1024"><path d="M726.44 587.028c26.042-40.064 41.464-87.632 41.464-139.04v-191.97C767.906 114.626 653.354 0 511.936 0 370.568 0 255.99 114.626 255.99 256.018v191.97c0 51.406 15.424 98.974 41.462 139.04C148.028 621.784 32.248 743.064 6.412 896.002L0 959.996C0 995.352 28.644 1024 63.996 1024H959.9c35.352 0 63.996-28.646 63.996-64.002l-6.412-63.992C991.748 743.064 875.87 621.784 726.44 587.028M346.73 256.016c0-70.682 79.674-168.934 165.206-168.934 89.334 0 168.958 98.248 168.958 168.934v191.97c0 70.734-83.376 150.356-168.958 150.356-89.29 0-165.206-79.622-165.206-150.356zM119.884 936.962c10.114-122.586 103.258-255.29 250.334-255.29h282.786c151.058 0 242.3 130.698 250.314 255.29z"></path></svg>个人中心</a></div></div></div></div><div class="index-module_navBarBg__jLfYB"></div></div></div><div class="lemmaWrapper_bmgUY" id="J-lemma-main-wrapper"><div><div class="polysemantContainer_IXwcC polysemantContainerNormal_t6JP6"><div class="headerWrapper_U5N3O"><div class="headerTitle_Z88I7"><b>游戏人工智能</b><span>是一个</span><a href="/item/百度百科：多义词" target="_blank">多义词</a><span>，请在下列</span><a href="/item/义项" target="_blank">义项</a><span>上选择浏览（</span><a target="_blank" href="/item/游戏人工智能/22147007">共2个义项</a><span>）</span><span class="separator_ImSeh"></span><div class="add_DX53S"><span>添加义项</span><svg viewBox="0 0 12 12" fill="currentColor" width="1em" height="1em" class="icon_x8WLp"><path d="M9.1 5.5H6.5V2.9c0-.2-.2-.4-.5-.4s-.5.2-.5.4v2.6H2.9c-.2 0-.4.2-.4.5s.2.5.4.5h2.6v2.6c0 .2.2.4.5.4s.5-.2.5-.4V6.5h2.6c.2 0 .4-.2.4-.5s-.2-.5-.4-.5z"></path></svg></div></div></div></div></div><div class="contentWrapper_QUhT8"><div class="contentBox_ph7D_"><div class="mainContent_ofh6B"><div class="contentTab_Uyum6 curTab_wUqcp" type="defaultTab"><div class="topToolsWrap_ndlU1"><div class="topToolsBox_z5GtT"><div class="topCollect_aDudM topToolsBox__item_YhDe_"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16" xml:space="preserve" width="1em" height="1em" class="topToolsBox__icon_kuAM9"><path d="M8.5 1.1c.2.1.4.3.5.5l1.6 3.2 3.5.5c.6.1 1 .6.9 1.2 0 .2-.1.5-.3.6l-2.6 2.5.6 3.5c.1.6-.3 1.2-.9 1.3-.2 0-.5 0-.7-.1L8 12.6l-3.1 1.7c-.5.3-1.2.1-1.5-.4-.1-.2-.2-.5-.1-.7l.6-3.5-2.6-2.5c-.4-.4-.4-1.1 0-1.5.2-.2.4-.3.6-.3l3.5-.5L7 1.6c.3-.5.9-.8 1.5-.5zm-.6.9L6.4 5.2l-.3.5-.5.1-3.5.5H2v.1l2.6 2.5.4.4-.1.5-.6 3.5v.1s.1.1.1 0l3.1-1.7.5-.2.5.2 3.1 1.7h.1l.1-.1-.6-3.5-.2-.5.4-.4L14 6.4s0-.1-.1-.1l-3.5-.5-.5-.1-.3-.5L8.1 2h-.2z" style="fill:#459df5"></path></svg><span>收藏</span><div class="collectTip_IYB7v">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div></div><div class="topVote_Yg1aV topToolsBox__item_YhDe_"><span class="voteCount_qEVZ7"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16" xml:space="preserve" width="1em" height="1em" class="topToolsBox__icon_kuAM9"><path d="M7.2 1.6c1.5-.4 2.8.8 2.3 3.1 0 .2-.1.4-.1.7v.2h2.9c.5 0 .8.1 1.1.3l.1.1c1.6 1.6.3 7.8-1.9 8.3H3.5c-1 0-1.7-.8-1.7-1.7v-5c0-1 .8-1.7 1.7-1.7h.4c.5 0 .8-.2 1.1-.6.4-.5.5-.8.8-1.6.2-.2.2-.2.3-.7.3-.8.5-1.2 1.1-1.4zm1.4 2.9c.3-1.5-.4-2.1-1.1-1.9-.2 0-.3.1-.4.6-.2.6-.2.6-.2.8 0 0-.1.2-.1.3-.1.2-.2.3-.2.4-.2.4-.4.8-.7 1.2-.2.2-.3.4-.5.5l-.1.1v6.7h6.3c1.3-.5 2.3-5.3 1.4-6.4l-.1-.1c-.1-.1-.3-.2-.5-.2H8.7c-.3 0-.6-.3-.5-.6.1-.3.3-1.1.4-1.4zm-4.4 8.7V6.9H3.5c-.4 0-.7.3-.7.7v4.8c0 .4.3.7.7.7l.7.1z" style="fill:#459df5"></path></svg><span class="count_jIQzv">0</span></span><span class="voteTip_fM_3T">有用+1</span></div><div class="topShare_WcKYe topToolsBox__item_YhDe_"><div class="shareBubbleBox_NtGDZ fromTopTools_W2WaN"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16" xml:space="preserve" width="1em" height="1em" class="shareIcon_H_shv"><path d="M8.9 1.6c.3 0 .7.1.9.3l4.8 4.2c.9.8 1 2.3.2 3.2l-.2.2-4.8 4.2c-.6.5-1.4.4-1.9-.1-.2-.3-.3-.6-.3-.9v-1.6h-.3c-2.1.3-4 1.2-5.6 2.4l-.3.3c-.3.3-.8 0-.8-.4.2-4.1 3-7.6 6.9-8.5h.1V3c0-.7.5-1.3 1.2-1.4h.1zm0 1c-.2 0-.4.2-.4.4v2.3c0 .2-.2.5-.4.5-3.3.5-5.8 3.1-6.5 6.4v.2l.1-.1c1.8-1.2 3.8-1.9 5.9-2.2L8 10c.3 0 .5.2.5.5v2.2c0 .1 0 .2.1.3.2 0 .4 0 .6-.1L14 8.7l.1-.1c.5-.5.4-1.3-.1-1.8L9.2 2.6h-.3z" style="fill:#459df5"></path></svg>0<div class="shareBubble_lBVzR"><div class="triangle_gTtpm"></div><div class="iconBox_wcW26"><svg fill="currentColor" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="weChat_pxJSY"><path d="M693.12 347.264c11.776 0 23.36.896 35.008 2.176-31.36-146.048-187.456-254.528-365.696-254.528C163.2 94.912 0 230.656 0 403.136c0 99.52 54.272 181.248 145.024 244.736L108.8 756.864l126.72-63.488c45.312 8.896 81.664 18.112 126.912 18.112 11.392 0 22.656-.512 33.792-1.344-7.04-24.256-11.2-49.6-11.2-76.032.064-158.336 136-286.848 308.096-286.848zm-194.816-98.24c27.392 0 45.376 17.984 45.376 45.248 0 27.136-17.984 45.312-45.376 45.312-27.072 0-54.336-18.176-54.336-45.312 0-27.328 27.2-45.248 54.336-45.248zm-253.632 90.56c-27.2 0-54.592-18.176-54.592-45.312 0-27.264 27.392-45.248 54.592-45.248s45.248 17.92 45.248 45.248c0 27.136-18.048 45.312-45.248 45.312zM1024 629.76c0-144.896-145.024-262.976-307.904-262.976-172.48 0-308.224 118.144-308.224 262.976 0 145.28 135.808 262.976 308.224 262.976 36.096 0 72.512-9.024 108.736-18.112l99.392 54.528-27.264-90.624C969.728 783.872 1024 711.488 1024 629.76zm-407.872-45.376c-17.984 0-36.224-17.92-36.224-36.224 0-18.048 18.24-36.224 36.224-36.224 27.52 0 45.376 18.176 45.376 36.224 0 18.304-17.856 36.224-45.376 36.224zm199.36 0c-17.856 0-36.032-17.92-36.032-36.224 0-18.048 18.112-36.224 36.032-36.224 27.264 0 45.376 18.176 45.376 36.224 0 18.304-18.112 36.224-45.376 36.224z"></path></svg></div><div class="iconBox_wcW26"><svg fill="currentColor" viewBox="0 0 1025 1024" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="qZone_PmqxK"><path d="M1023.21 395.69c-2.005-6.08-7.38-10.41-13.78-10.943l-347.115-29.803-135.68-320.96c-2.518-5.888-8.235-9.728-14.635-9.728s-12.181 3.861-14.677 9.75L361.707 354.943 14.57 384.747C8.213 385.28 2.773 389.61.789 395.69c-1.941 6.101-.106 12.778 4.715 16.96l263.339 228.138-78.955 339.371c-1.43 6.208 1.003 12.757 6.123 16.512 5.205 3.733 12.117 4.01 17.642.683L512 817.45l298.283 179.946c2.581 1.558 5.418 2.347 8.32 2.347 3.221 0 6.528-1.003 9.344-3.008 5.162-3.84 7.594-10.368 6.122-16.576l-62.442-268.352c26.73-13.483 56.277-36.245 56.277-36.245s-116.864 57.066-536.341 29.205l304.064-220.33s-11.968-18.582-392.982-31.873c-25.408-.917 310.678-63.722 558.934-10.645l-305.28 218.987s122.453 18.197 307.328 16.085l-8.448-36.181 263.36-228.16c4.842-4.182 6.677-10.859 4.672-16.96z"></path></svg></div><div class="iconBox_wcW26"><svg fill="currentColor" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="qq_i8rwf"><path d="M866.991 707.772s-25.341 69.55-71.877 132.071c0 0 83.05 28.439 76.137 102.196 0 0 2.709 82.331-177.613 76.685 0 0-126.817-9.898-164.88-63.85h-33.53c-38.018 54.006-164.834 63.85-164.834 63.85-180.431 5.7-177.556-76.685-177.556-76.685-7.025-73.756 76.081-102.196 76.081-102.196-46.475-62.519-71.875-132.071-71.875-132.071C44.285 890.913 55.567 682.205 55.567 682.205 76.708 558.71 165.516 477.821 165.516 477.821c-12.677-112.157 33.805-132.078 33.805-132.078C209.001-1.236 505.794 4.856 511.996 5.021c6.249-.163 302.931-6.256 312.72 340.723 0 0 46.538 19.866 33.812 132.078 0 0 88.751 80.89 109.886 204.384.055-.001 11.285 208.707-101.421 25.566z"></path></svg></div><div class="iconBox_wcW26"><svg fill="currentColor" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="sina_uDgfc"><path d="M751.76 502.938c-38.8-7.542-19.953-28.34-19.953-28.34s37.95-62.515-7.537-108.006c-56.31-56.315-193.147 7.173-193.147 7.173-52.3 16.18-38.436-7.419-31.017-47.554 0-47.31-16.174-127.468-155.443-80.154-138.9 47.56-258.335 214.308-258.335 214.308C3.251 571.167 14.321 656.799 14.321 656.799c20.797 189.01 221.609 240.947 377.902 253.23C556.544 922.92 778.399 853.35 845.66 710.436c67.256-143.155-54.984-199.716-93.9-207.498zM404.377 856.76c-163.226 7.66-295.071-74.199-295.071-183.05 0-108.98 131.845-196.434 295.07-203.98 163.354-7.537 295.44 59.724 295.44 168.58-.123 108.739-132.214 211.026-295.44 218.45zm-32.594-315.264C207.703 560.706 226.683 714.45 226.683 714.45s-1.705 48.655 44.027 73.472c96.087 51.927 194.846 20.546 244.838-44.032 49.869-64.594 20.557-221.491-143.764-202.394zm-41.355 215.767c-30.648 3.65-55.347-13.987-55.347-39.649 0-25.549 21.898-52.3 52.552-55.465 35.149-3.277 58.138 16.911 58.138 42.568 0 25.42-24.812 49.019-55.348 52.546zm96.697-82.467c-10.343 7.787-23.112 6.691-28.585-2.55-5.714-9.124-3.528-23.598 6.932-31.258 12.165-9 24.812-6.451 30.29 2.673 5.468 9.247 1.454 23.111-8.637 31.135zm404.536-238.388c13.26 0 24.453-9.856 26.394-22.502.245-.973.368-1.828.368-2.8 20.07-180.378-147.66-149.361-147.66-149.361-14.843 0-26.88 12.042-26.88 27.125a26.808 26.808 0 0 0 26.88 26.88c120.412-26.639 93.9 93.901 93.9 93.901 0 14.833 12.037 26.757 26.998 26.757zm-19.579-314.537c-58.02-13.619-117.622-1.822-134.4 1.337-1.218.123-2.437 1.341-3.65 1.587-.615.118-.85.727-.85.727-16.42 4.623-28.585 19.947-28.585 37.95 0 21.529 17.392 39.162 39.045 39.162 0 0 21.16-2.795 35.39-8.397 14.233-5.713 134.282-4.25 193.996 95.97 32.604 73.098 14.234 121.994 12.042 129.904 0 0-7.782 18.97-7.782 37.704 0 21.525 17.393 35.149 39.045 35.149 17.997 0 33.203-2.432 37.58-32.963h.247c64.102-213.703-78.208-313.922-182.078-338.125z"></path></svg></div></div></div></div></div></div><div class="lemmaTitleWrap_xUUTG normal"><div class="lemmaTitleBox_IUW58"><h1 class="lemmaTitle_NPbJo J-lemma-title">游戏人工智能</h1><div class="btnList_mtLVG"><span><span data-tts-from="lemmaTitle" class="ttsBtn_NyBDu btnItem_l4GTX undefined"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M7.878 14.133c-.3 0-.7-.1-.9-.3l-2.8-2.5h-1.6c-.8 0-1.4-.7-1.4-1.4v-3.8c0-.8.6-1.4 1.4-1.4h1.6l2.7-2.4c.6-.5 1.4-.5 1.9.1.3.2.4.5.4.9v9.5c0 .7-.6 1.3-1.3 1.3zm-5.3-8.2c-.1 0-.2.1-.2.2v3.8c0 .1.1.2.2.2h1.4c.3 0 .6.1.9.3l2.8 2.5c.1.1.4 0 .4-.2v-9.4c0-.1 0-.1-.1-.2s-.2-.1-.3 0l-2.7 2.4c-.3.3-.6.4-.9.4h-1.5zm10.3 6.8c-.1 0-.3 0-.4-.2-.2-.2-.2-.6 0-.8.9-1 1.4-2.3 1.4-3.7 0-1.4-.5-2.7-1.4-3.7-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0 1.1 1.2 1.7 2.8 1.7 4.4s-.6 3.3-1.7 4.4c-.1.3-.2.4-.4.4z"></path><path d="M11.378 10.733c-.1 0-.2 0-.3-.1-.3-.2-.3-.6-.2-.8.4-.5.6-1.1.6-1.8s-.2-1.3-.6-1.8c-.1-.2-.1-.6.2-.8.2-.2.6-.1.8.2.5.7.8 1.5.8 2.4 0 .9-.3 1.7-.8 2.4-.1.2-.3.3-.5.3z"></path></svg><span>播报</span></span></span><a class="btnItem_l4GTX undefined" href="/planet/talk?lemmaId=10055153&amp;fromModule=lemma_right-issue-btn" target="_blank"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M2.52 14.62c-.4 0-.8-.3-1-.7-.1-.2-.1-.4 0-.6l.7-2.4c-1.1-2.5-.6-5.6 1.3-7.6 1.2-1.2 2.9-1.9 4.7-1.9s3.5.7 4.7 1.9c2.5 2.5 2.5 6.7 0 9.2-2 2-5.1 2.5-7.6 1.2l-2.5.8c-.1.1-.2.1-.3.1zm5.7-12.1c-1.5 0-2.9.6-3.9 1.6-1.6 1.7-2 4.3-.9 6.4.1.1.1.3 0 .4l-.7 2.4 2.4-.8c.1-.1.3 0 .5 0 2.1 1.1 4.8.8 6.5-.9 2.1-2.1 2.1-5.5 0-7.6-1.1-.9-2.5-1.5-3.9-1.5zm-4.3 1.2z"></path></svg>讨论</a><a class="btnItem_l4GTX undefined "><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M9.1 2.4c1.4 0 2.5 1.1 2.5 2.5l1.1-.8c.2-.2.5-.3.8-.3h.2c.8 0 1.4.6 1.5 1.4v6c0 .3-.1.7-.3 1-.5.6-1.3.8-2 .4l-.1-.1-1.1-.8v.1C11.6 13 10.5 14 9.1 14H3C1.6 14 .5 12.9.5 11.5V5c0-1.3 1-2.4 2.4-2.5h6.2zm0 1.2H2.9c-.8 0-1.3.6-1.3 1.4v6.5c0 .8.6 1.4 1.4 1.4h6.2c.8 0 1.4-.6 1.4-1.4V5c-.1-.8-.7-1.4-1.5-1.4zm4.6 1.3h-.2s-.1 0-.1.1l-1.8 1.4v3.8l1.7 1.4.1.1c.2.1.4.1.5-.1.1-.1.1-.2.1-.3v-6c.1-.3-.1-.4-.3-.4z"></path><path d="M4.5 6.4h1.7c.3 0 .6-.3.6-.6s-.3-.5-.6-.5H4.5c-.3 0-.5.3-.5.6s.2.5.5.5z"></path></svg>上传视频</a></div></div><div class="lemmaDesc_wNGCx">概念的解释</div></div><div class="editPrompt_RobqH"><img src="https://bkssl.bdimg.com/resource/lemma/images/5fd55c22db8790899b5d.png" width="15" height="15"/><span class="text_DzG61">本词条缺少<strong>概述图</strong>，补充相关内容使词条更完整，还能快速升级，赶紧来<span class="editBtn_Hook4">编辑</span>吧！</span></div><div class="lemmaSummary_qUNOJ J-summary"><a name="lemma-summary" class="lemmaSummaryAnchor_z4Yvo"></a><div class="para_gDmSY summary_TnAMX MARK_MODULE" data-tag="paragraph" data-uuid="gnvg6b58c7" data-idx=""><span class="text_CZF0O" data-text="true">游戏人工智能（Artificial Intelligence games），人工智能之父图灵相信如果模拟人类大脑的思维就可以做出一台可以思考的机器，他于1950写文章提出了著名的“</span><span class="text_CZF0O" data-text="true"><a class="innerLink_UUhOR" href="/item/图灵测试/1701255?fromModule=lemma_inlink" target="_blank">图灵测试</a></span><span class="text_CZF0O" data-text="true">”。</span></div></div><div class="skeletonWrap_dqbbG"><div class="skeletonContent_J3xJx"><div class="skeletonTitle_crlb3"></div><div class="skeletonList_iSUEV"><div class="skeletonItem_m78DG"><div class="skeletonItemCover_t2qY1"></div><div class="skeletonItemInfo_hOMlw"><div class="infoName_WqYsE"></div><div class="infoDesc_Lj5nA"></div></div></div><div class="skeletonItem_m78DG"><div class="skeletonItemCover_t2qY1"></div><div class="skeletonItemInfo_hOMlw"><div class="infoName_WqYsE"></div><div class="infoDesc_Lj5nA"></div></div></div><div class="skeletonItem_m78DG"><div class="skeletonItemCover_t2qY1"></div><div class="skeletonItemInfo_hOMlw"><div class="infoName_WqYsE"></div><div class="infoDesc_Lj5nA"></div></div></div><div class="skeletonItem_m78DG"><div class="skeletonItemCover_t2qY1"></div><div class="skeletonItemInfo_hOMlw"><div class="infoName_WqYsE"></div><div class="infoDesc_Lj5nA"></div></div></div></div></div><div class="skeletonContent_J3xJx"><div class="skeletonTitle_crlb3"></div><div class="skeletonList_iSUEV"><div class="skeletonItem_m78DG"><div class="skeletonItemCover_t2qY1"></div><div class="skeletonItemInfo_hOMlw"><div class="infoName_WqYsE"></div><div class="infoDesc_Lj5nA"></div></div></div><div class="skeletonItem_m78DG"><div class="skeletonItemCover_t2qY1"></div><div class="skeletonItemInfo_hOMlw"><div class="infoName_WqYsE"></div><div class="infoDesc_Lj5nA"></div></div></div><div class="skeletonItem_m78DG"><div class="skeletonItemCover_t2qY1"></div><div class="skeletonItemInfo_hOMlw"><div class="infoName_WqYsE"></div><div class="infoDesc_Lj5nA"></div></div></div></div></div></div><div class="basicInfo_mG_eM J-basic-info"><dl class="basicInfoBlock_S8CBR left"><div class="itemWrapper_ysOaF"><dt class="basicInfoItem_fKefc itemName_mt2ZJ">中文名</dt><dd class="basicInfoItem_fKefc itemValue_epZNl"><span class="text_CZF0O" data-text="true">游戏人工智能</span></dd></div><div class="itemWrapper_ysOaF"><dt class="basicInfoItem_fKefc itemName_mt2ZJ">外文名</dt><dd class="basicInfoItem_fKefc itemValue_epZNl"><span class="text_CZF0O" data-text="true">Artificial Intelligence games</span></dd></div></dl><dl class="basicInfoBlock_S8CBR right"><div class="itemWrapper_ysOaF"><dt class="basicInfoItem_fKefc itemName_mt2ZJ">人工智能之父</dt><dd class="basicInfoItem_fKefc itemValue_epZNl"><span class="text_CZF0O" data-text="true">图灵</span></dd></div><div class="itemWrapper_ysOaF"><dt class="basicInfoItem_fKefc itemName_mt2ZJ">人工智能慨述</dt><dd class="basicInfoItem_fKefc itemValue_epZNl"><span class="text_CZF0O" data-text="true">伟大的思想就源于这种简单的事物</span></dd></div><div class="itemWrapper_ysOaF"><dt class="basicInfoItem_fKefc itemName_mt2ZJ">状态空间法</dt><dd class="basicInfoItem_fKefc itemValue_epZNl"><span class="text_CZF0O" data-text="true">将问题转换到对应状态空间</span></dd></div></dl></div><div class="catalogWrapper_s424Q"><div class="catalog_utj1g"><h2 class="catalogTitle_Sqj1D">目录</h2><div class="catalogList_C98OX undefined"><ol><li class="level1_Ud0R1"><span class="catalogIndex_HJ8VH">1</span><span class="catalogText_h8mMS"><a href="#1">历史背景</a></span></li><li class="level1_Ud0R1"><span class="catalogIndex_HJ8VH">2</span><span class="catalogText_h8mMS"><a href="#2">空间法</a></span></li><li class="level1_Ud0R1"><span class="catalogIndex_HJ8VH">3</span><span class="catalogText_h8mMS"><a href="#3">棋类游戏算法</a></span></li></ol><ol><li class="level1_Ud0R1"><span class="catalogIndex_HJ8VH">4</span><span class="catalogText_h8mMS"><a href="#4">遗传算法</a></span></li><li class="level1_Ud0R1"><span class="catalogIndex_HJ8VH">5</span><span class="catalogText_h8mMS"><a href="#5">语意网络模型</a></span></li><li class="level1_Ud0R1"><span class="catalogIndex_HJ8VH">6</span><span class="catalogText_h8mMS"><a href="#6">总结</a></span></li></ol></div></div></div><div class="J-lemma-content"><div class="paraTitle_NLqN6 level-1_sjYXQ" data-index="1" data-tag="header" data-uuid="gnvg69y0uh" data-level="1"><div class="anchorList_fTbpO"><a name="历史背景"></a><a name="1"></a></div><h2 name="1">历史背景</h2><div class="titleLine_KhCAr"></div><span><span data-tts-catalog="1" data-tts-from="paragraph" class="ttsBtn_NyBDu paragraph_bQ_iy"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M7.878 14.133c-.3 0-.7-.1-.9-.3l-2.8-2.5h-1.6c-.8 0-1.4-.7-1.4-1.4v-3.8c0-.8.6-1.4 1.4-1.4h1.6l2.7-2.4c.6-.5 1.4-.5 1.9.1.3.2.4.5.4.9v9.5c0 .7-.6 1.3-1.3 1.3zm-5.3-8.2c-.1 0-.2.1-.2.2v3.8c0 .1.1.2.2.2h1.4c.3 0 .6.1.9.3l2.8 2.5c.1.1.4 0 .4-.2v-9.4c0-.1 0-.1-.1-.2s-.2-.1-.3 0l-2.7 2.4c-.3.3-.6.4-.9.4h-1.5zm10.3 6.8c-.1 0-.3 0-.4-.2-.2-.2-.2-.6 0-.8.9-1 1.4-2.3 1.4-3.7 0-1.4-.5-2.7-1.4-3.7-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0 1.1 1.2 1.7 2.8 1.7 4.4s-.6 3.3-1.7 4.4c-.1.3-.2.4-.4.4z"></path><path d="M11.378 10.733c-.1 0-.2 0-.3-.1-.3-.2-.3-.6-.2-.8.4-.5.6-1.1.6-1.8s-.2-1.3-.6-1.8c-.1-.2-.1-.6.2-.8.2-.2.6-.1.8.2.5.7.8 1.5.8 2.4 0 .9-.3 1.7-.8 2.4-.1.2-.3.3-.5.3z"></path></svg><span>播报</span></span></span><div class="editLemma_wG9hW"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="m14 3.8-1.9-1.9c-.3-.3-.7-.4-1.1-.4-.4 0-.8.2-1.1.4l-8.4 8.4c-.3.3-.4.7-.4 1.1v1.9c0 .8.7 1.5 1.5 1.5h1.9c.4 0 .8-.2 1.1-.4L14 5.9c.6-.6.6-1.6 0-2.1zm-9.1 9.7c-.1.1-.2.1-.3.1H2.7c-.2 0-.4-.2-.4-.4v-1.9c0-.1 0-.2.1-.3l6.1-6 2.4 2.4-6 6.1zm8.3-8.4-1.5 1.5-2.4-2.4 1.5-1.5c.1-.1.2-.1.3-.1s.2 0 .3.1l1.9 1.9c.1.1.1.3-.1.5z"></path></svg><span class="text_j3i1C">编辑</span></div></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y0w2" data-idx="0-1"><span class="text_CZF0O" data-text="true">提到人工智能，就不能不说说我非常景仰的人工智能之父图灵。他相信如果模拟人类大脑的思维就可以做出一台可以思考的机器，他于1950写文章提出了著名的“图灵测试”，测试是让人类考官通过键盘向一个人和一个机器发问，这个考官不知道他问的是人还是机器。如果在经过一定时间的提问以后，这位人类考官不能确定谁是人谁是机器，那这个机器就有智力了。这个测试在我们想起来十分简单，可是伟大的思想就源于这种简单的事物之中。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y0xn" data-idx="0-2"><span class="text_CZF0O" data-text="true">然而，图灵的测试也只说明了事物具有了智能的表象，何可谓智能的本质呢，可能当今世上谁也说不清楚。浩浩星空茫茫幻化演变，何可谓智，何可谓能，本就是空。只是以我们人类的认识和想象，无中生有罢了。所以我们谈的智能只能局限于我们人类的认知和想象，抛开了主观，也就只剩客观存在而已。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y0z8" data-idx="0-3"><span class="text_CZF0O" data-text="true">也正因为我上面的观点，在此我仅讲一些简单的实用的模型，使我们的程序具有一定的智能表象，但绝非智能的本质。希望大家能通过不断的实践进行学习，如果能对大家有些许帮助，就已心满意足。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y10t" data-idx="0-4"><span class="text_CZF0O" data-text="true">在这里先说一句非常重要的话，如果你无法用语言描述一个事物，那么你就很难更深入的研究它。在我们计算机程序中，如何为事物建立模型是非常非常重要的，好的模型一旦建立，就已成功一半了。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y12e" data-idx="0-5"><span class="text_CZF0O" data-text="true">在这里，我们逐步学习一些的算法模型，逐步建立更好的智能系统，希望大家能够喜欢。</span></div><div class="paraTitle_NLqN6 level-1_sjYXQ" data-index="2" data-tag="header" data-uuid="gnvg6d6v7g" data-level="1"><div class="anchorList_fTbpO"><a name="空间法"></a><a name="2"></a></div><h2 name="2">空间法</h2><div class="titleLine_KhCAr"></div><span><span data-tts-catalog="2" data-tts-from="paragraph" class="ttsBtn_NyBDu paragraph_bQ_iy"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M7.878 14.133c-.3 0-.7-.1-.9-.3l-2.8-2.5h-1.6c-.8 0-1.4-.7-1.4-1.4v-3.8c0-.8.6-1.4 1.4-1.4h1.6l2.7-2.4c.6-.5 1.4-.5 1.9.1.3.2.4.5.4.9v9.5c0 .7-.6 1.3-1.3 1.3zm-5.3-8.2c-.1 0-.2.1-.2.2v3.8c0 .1.1.2.2.2h1.4c.3 0 .6.1.9.3l2.8 2.5c.1.1.4 0 .4-.2v-9.4c0-.1 0-.1-.1-.2s-.2-.1-.3 0l-2.7 2.4c-.3.3-.6.4-.9.4h-1.5zm10.3 6.8c-.1 0-.3 0-.4-.2-.2-.2-.2-.6 0-.8.9-1 1.4-2.3 1.4-3.7 0-1.4-.5-2.7-1.4-3.7-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0 1.1 1.2 1.7 2.8 1.7 4.4s-.6 3.3-1.7 4.4c-.1.3-.2.4-.4.4z"></path><path d="M11.378 10.733c-.1 0-.2 0-.3-.1-.3-.2-.3-.6-.2-.8.4-.5.6-1.1.6-1.8s-.2-1.3-.6-1.8c-.1-.2-.1-.6.2-.8.2-.2.6-.1.8.2.5.7.8 1.5.8 2.4 0 .9-.3 1.7-.8 2.4-.1.2-.3.3-.5.3z"></path></svg><span>播报</span></span></span><div class="editLemma_wG9hW"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="m14 3.8-1.9-1.9c-.3-.3-.7-.4-1.1-.4-.4 0-.8.2-1.1.4l-8.4 8.4c-.3.3-.4.7-.4 1.1v1.9c0 .8.7 1.5 1.5 1.5h1.9c.4 0 .8-.2 1.1-.4L14 5.9c.6-.6.6-1.6 0-2.1zm-9.1 9.7c-.1.1-.2.1-.3.1H2.7c-.2 0-.4-.2-.4-.4v-1.9c0-.1 0-.2.1-.3l6.1-6 2.4 2.4-6 6.1zm8.3-8.4-1.5 1.5-2.4-2.4 1.5-1.5c.1-.1.2-.1.3-.1s.2 0 .3.1l1.9 1.9c.1.1.1.3-.1.5z"></path></svg><span class="text_j3i1C">编辑</span></div></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y15j" data-idx="1-1"><span class="text_CZF0O" data-text="true">将问题转换到对应状态空间，然后以状态空间的分析方法分析问题，是解决简单问题常用的有效方法。在一个大的游戏智能系统中，局部的智能表象模拟通常都是采用这种简单而行之有效的方法。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y175" data-idx="1-2"><span class="text_CZF0O" data-text="true">例1：4个人晚上过桥，一个手电筒，最多2人同过，单独过桥需要时间分别为10、5、2、1分钟，2人同过，按慢的人算时间，问最少多长时间？</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y18h" data-idx="1-3"><span class="text_CZF0O" data-text="true">首先，我们建立状态表示模型，状态转化模型，智能评估模型。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1a2" data-idx="1-4"><span class="text_CZF0O" data-text="true">状态表示模型即能表示任一时刻（或时段）的状态（最好和实际状态是一一映射方式）。状态通常由一些状态参数或规则表示。比如模型R ：</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1bn" data-idx="1-5"><span class="text_CZF0O" data-text="true">Time：已用时间</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1d8" data-idx="1-6"><span class="text_CZF0O" data-text="true">PersonState[4]：4个人的状态，0表示未过桥，1表示已过桥</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg6bwckc" data-idx="1-7"><span class="text_CZF0O" data-text="true">PersonWalkTime[4]：4个人的走路时间</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1fj" data-idx="1-8"><span class="text_CZF0O" data-text="true">LightState：手电筒状态，0表示未过桥，1表示已过桥</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1h4" data-idx="1-9"><span class="text_CZF0O" data-text="true">状态转化模型：由一状态如何转化到下一状态。比如模型T：加最简单限制，if(LightState==0) 可两人过桥，否则只许一人过桥，并且所有状态发生相应变化。采用广度搜索方式进行所有可能的状态转化。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1io" data-idx="1-10"><span class="text_CZF0O" data-text="true">智能评估模型：和智能表象相关的评估模型，可嵌套组合子模型。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1k9" data-idx="1-11"><span class="text_CZF0O" data-text="true">模型E：Time越小越优。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1lt" data-idx="1-12"><span class="text_CZF0O" data-text="true">在这个系统建立好后，我们很容易通过广度搜索来找到最佳过河方案。若是把相应数据输入电脑，而电脑可以得出过桥方式，那么我们就可认为在一定程度这个系统具有了智能的表象（想象着我们不知道其内部如果工作）。当然模型定义的越好，系统的性能也越好。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1nd" data-idx="1-13"><span class="text_CZF0O" data-text="true">因为上面算法使用的是广度搜索，为此我们可加入一些改进，使其速度更快。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1oy" data-idx="1-14"><span class="text_CZF0O" data-text="true">改进1：我们尽量使走的慢的人过桥次数少一些，因此我们在每次返回一携带手电筒的人时，都选择走的快的，这样的话，我们的搜索就显的更智能了一些，速度也会快很多了。这种算法也就是A算法（即每次搜索，选取最可能达到最优的情况搜索，这里就需要一个局部评估模块）。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1qj" data-idx="1-15"><span class="text_CZF0O" data-text="true">改进2：我们在开始阶段定义一个Time数值，若出现搜索过程中Time已超过此数值的，其下搜索不再进行。若出现搜索结果小于Time的，我们更新Time，并继续搜索。运用这种方法，我们将省去很多无用的搜索。这种方法称为alpha-beta剪枝技术。</span></div><div class="paraTitle_NLqN6 level-1_sjYXQ" data-index="3" data-tag="header" data-uuid="gnvg69y1s4" data-level="1"><div class="anchorList_fTbpO"><a name="棋类游戏算法"></a><a name="3"></a></div><h2 name="3">棋类游戏算法</h2><div class="titleLine_KhCAr"></div><span><span data-tts-catalog="3" data-tts-from="paragraph" class="ttsBtn_NyBDu paragraph_bQ_iy"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M7.878 14.133c-.3 0-.7-.1-.9-.3l-2.8-2.5h-1.6c-.8 0-1.4-.7-1.4-1.4v-3.8c0-.8.6-1.4 1.4-1.4h1.6l2.7-2.4c.6-.5 1.4-.5 1.9.1.3.2.4.5.4.9v9.5c0 .7-.6 1.3-1.3 1.3zm-5.3-8.2c-.1 0-.2.1-.2.2v3.8c0 .1.1.2.2.2h1.4c.3 0 .6.1.9.3l2.8 2.5c.1.1.4 0 .4-.2v-9.4c0-.1 0-.1-.1-.2s-.2-.1-.3 0l-2.7 2.4c-.3.3-.6.4-.9.4h-1.5zm10.3 6.8c-.1 0-.3 0-.4-.2-.2-.2-.2-.6 0-.8.9-1 1.4-2.3 1.4-3.7 0-1.4-.5-2.7-1.4-3.7-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0 1.1 1.2 1.7 2.8 1.7 4.4s-.6 3.3-1.7 4.4c-.1.3-.2.4-.4.4z"></path><path d="M11.378 10.733c-.1 0-.2 0-.3-.1-.3-.2-.3-.6-.2-.8.4-.5.6-1.1.6-1.8s-.2-1.3-.6-1.8c-.1-.2-.1-.6.2-.8.2-.2.6-.1.8.2.5.7.8 1.5.8 2.4 0 .9-.3 1.7-.8 2.4-.1.2-.3.3-.5.3z"></path></svg><span>播报</span></span></span><div class="editLemma_wG9hW"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="m14 3.8-1.9-1.9c-.3-.3-.7-.4-1.1-.4-.4 0-.8.2-1.1.4l-8.4 8.4c-.3.3-.4.7-.4 1.1v1.9c0 .8.7 1.5 1.5 1.5h1.9c.4 0 .8-.2 1.1-.4L14 5.9c.6-.6.6-1.6 0-2.1zm-9.1 9.7c-.1.1-.2.1-.3.1H2.7c-.2 0-.4-.2-.4-.4v-1.9c0-.1 0-.2.1-.3l6.1-6 2.4 2.4-6 6.1zm8.3-8.4-1.5 1.5-2.4-2.4 1.5-1.5c.1-.1.2-.1.3-.1s.2 0 .3.1l1.9 1.9c.1.1.1.3-.1.5z"></path></svg><span class="text_j3i1C">编辑</span></div></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1to" data-idx="2-1"><span class="text_CZF0O" data-text="true">由于棋类游戏就是一种智力游戏，被研究的也较为深入，所以在这里我们举一个简单的黑白棋的人工智能的实现（因为黑白棋比较简单，对初学者来说很容易上手，所以比较适宜做教材）。在这里仍然采用了</span><span class="text_CZF0O" data-text="true"><a class="innerLink_UUhOR" href="/item/状态空间法/2841466?fromModule=lemma_inlink" target="_blank">状态空间法</a></span><span class="text_CZF0O" data-text="true">。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1v9" data-idx="2-2"><span class="text_CZF0O" data-text="true">黑白棋的人工智能。黑白棋，又叫反棋、奥赛罗棋等，在西方很流行。黑白棋的棋盘是一个有8*8方格的棋盘。下棋时将棋下在空格中间，而不是像围棋一样下在交叉点上。开始时在棋盘正中有一白一黑四个棋子交叉放置，黑棋总是先下子。下子的方法是：把自己颜色的棋子放在棋盘的空格上，而当自己放下的棋子在横、竖、斜八个方向内有一个自己的棋子，则被夹在中间的全部会成为自己的棋子。并且，只有在可以翻转棋子的地方才可以下子。最后棋盘全部占满，子多者为胜。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y1zz" data-idx="2-3"><span class="text_CZF0O" data-text="true">下面建立模型。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y209" data-idx="2-4"><span class="text_CZF0O" data-text="true">状态表示模型：模型R：board[8][8]，=BLACK 表示黑棋，=WHITE 表示白棋，=EMPTY 表示空，turn=1 表示电脑走棋，turn=0 表示玩家走棋，mode=0 表示电脑走黑棋。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg6bwcmh" data-idx="2-5"><span class="text_CZF0O" data-text="true">状态转化模型T：即先判断可以落棋的地方（是否为空，并且可以翻转棋子），然后落棋后改变board[m][n]，turn。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y23e" data-idx="2-6"><span class="text_CZF0O" data-text="true">智能评估模型E：吃子越多越好。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y24z" data-idx="2-7"><span class="text_CZF0O" data-text="true">这样我们就建立了一个有低级智能表象的系统。为改进这个系统，我们来学习一些常用的技巧和算法。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y26k" data-idx="2-8"><span class="text_CZF0O" data-text="true">战略点权值表：经过多次下棋，我们就可以知道棋盘的四个角是永远不能被吃掉的，所以这四个点是战略要地。同样，我们可以得出另一些重要的战略点。我们把这些点赋一个较大的权重，这样，我们可得到一个权重表（对应棋盘）。当然这个表可使用一些参数，并且可随过程改变而改变，越灵活的格式（如果你能收的住）将产生越好的智能表象。局势评估模块：对敌我双方的总体或局部兵力分布得出一个较为合理的分析结果，有了这个模块，才能更好的把握战局。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y27c" data-idx="2-9"><span class="text_CZF0O" data-text="true">博弈树算法：也是一种状态搜索算法，但每个状态节点上都有一个评估。我们记敌我评估函数为 E(state)、M(state)：</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2c4" data-idx="2-10"><span class="text_CZF0O" data-text="true">在node0时候，电脑走棋有3种选择，在每种选择后，玩家又有三种选择。简单记评估值为 F(node)= M(node)-E(mode)。设 node20 评估值为F(node20) = M(node20) - E(node20)。node21 评估值为F(node21) = M(node21) - E(node21)。node22 评估值为F(node22) = M(node22) -E(node22) 。那么电脑在选择node10后，认为玩家会选择E(node)大而M(node)小的那个，所以电脑选择node10的所取得的优势应该是MIN( F(node2i) )。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2dp" data-idx="2-11"><span class="text_CZF0O" data-text="true">所以遍历 node10,node11,node12,电脑就可以得到其能获得的最大优势是MAX(MIN(F(node2i)))。当然此博弈树可以加大树的深度，并且可用A算法和alpha-beta算法改进。具体算法不再详述，有兴趣者可以自己研究。</span></div><div class="paraTitle_NLqN6 level-1_sjYXQ" data-index="4" data-tag="header" data-uuid="gnvg6f59ct" data-level="1"><div class="anchorList_fTbpO"><a name="遗传算法"></a><a name="4"></a></div><h2 name="4">遗传算法</h2><div class="titleLine_KhCAr"></div><span><span data-tts-catalog="4" data-tts-from="paragraph" class="ttsBtn_NyBDu paragraph_bQ_iy"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M7.878 14.133c-.3 0-.7-.1-.9-.3l-2.8-2.5h-1.6c-.8 0-1.4-.7-1.4-1.4v-3.8c0-.8.6-1.4 1.4-1.4h1.6l2.7-2.4c.6-.5 1.4-.5 1.9.1.3.2.4.5.4.9v9.5c0 .7-.6 1.3-1.3 1.3zm-5.3-8.2c-.1 0-.2.1-.2.2v3.8c0 .1.1.2.2.2h1.4c.3 0 .6.1.9.3l2.8 2.5c.1.1.4 0 .4-.2v-9.4c0-.1 0-.1-.1-.2s-.2-.1-.3 0l-2.7 2.4c-.3.3-.6.4-.9.4h-1.5zm10.3 6.8c-.1 0-.3 0-.4-.2-.2-.2-.2-.6 0-.8.9-1 1.4-2.3 1.4-3.7 0-1.4-.5-2.7-1.4-3.7-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0 1.1 1.2 1.7 2.8 1.7 4.4s-.6 3.3-1.7 4.4c-.1.3-.2.4-.4.4z"></path><path d="M11.378 10.733c-.1 0-.2 0-.3-.1-.3-.2-.3-.6-.2-.8.4-.5.6-1.1.6-1.8s-.2-1.3-.6-1.8c-.1-.2-.1-.6.2-.8.2-.2.6-.1.8.2.5.7.8 1.5.8 2.4 0 .9-.3 1.7-.8 2.4-.1.2-.3.3-.5.3z"></path></svg><span>播报</span></span></span><div class="editLemma_wG9hW"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="m14 3.8-1.9-1.9c-.3-.3-.7-.4-1.1-.4-.4 0-.8.2-1.1.4l-8.4 8.4c-.3.3-.4.7-.4 1.1v1.9c0 .8.7 1.5 1.5 1.5h1.9c.4 0 .8-.2 1.1-.4L14 5.9c.6-.6.6-1.6 0-2.1zm-9.1 9.7c-.1.1-.2.1-.3.1H2.7c-.2 0-.4-.2-.4-.4v-1.9c0-.1 0-.2.1-.3l6.1-6 2.4 2.4-6 6.1zm8.3-8.4-1.5 1.5-2.4-2.4 1.5-1.5c.1-.1.2-.1.3-.1s.2 0 .3.1l1.9 1.9c.1.1.1.3-.1.5z"></path></svg><span class="text_j3i1C">编辑</span></div></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2gv" data-idx="3-1"><span class="text_CZF0O" data-text="true">上述的几种算法虽然可以模拟出比较好的智能表象，但遗憾的是没有学习功能。而学习功能相对于智能生物是一个非常重要的功能。因此，我们简单介绍一下遗传算法，并举一个具体的例子。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2ig" data-idx="3-2"><span class="text_CZF0O" data-text="true">生物的进化是一个奇妙的优化过程，它通过选择淘汰，突然变异，基因遗传等规律产生适应环境变化的优良物种。遗传算法是根据生物进化思想而启发得出的一种全局优化算法。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2k0" data-idx="3-3"><span class="text_CZF0O" data-text="true">遗传算法简介：对问题产生一个描述，对待解决问题进行编码。随机初始化群体X(0)=(x1, x2, … xn)。对当前群体X(t)中每个个体xi计算其适应度F(xi)，适应度表示了该个体的性能好坏。应用选择算子产生优良种群goodX(t)。对goodX(t)应用遗传算子，产生新一代群体X(t+1)。t:=t+1；如果不满足终止条件继续(3)。选择算子：选择算子从群体中按某一概率成对选择个体，某个体xi被选择的概率Pi与其适应度值成正比。最通常的实现方法是轮盘赌模型。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2ll" data-idx="3-4"><span class="text_CZF0O" data-text="true">例3：同样看黑白棋，我们采用自学习的方法来模拟智能的实现。棋盘状态采用 敌方=-1、空=0、我方=1。棋盘大小为64，我们对每一个格子用5*5的局部棋子来评价其战略重要性。采用线性方式Important[node]=∑Wi*state[ i]。这样我们就得到一个W[64][25]的表，对于每一种棋盘局势它总能判断出战略重要性最大的点（姑且不论对与否）。这种编码方式考虑了棋盘全局位置特性与局部局势特性，大家可自行改进。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2n6" data-idx="3-5"><span class="text_CZF0O" data-text="true">选取种群大小为30，随机生成30个Wi[64][25]。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2or" data-idx="3-6"><span class="text_CZF0O" data-text="true">初始训练阶段：对每一个Wi[64][25]，让其判断一些特定的战略点，判断力好的适应度大。后期训练阶段：和人对下，赢的多的适应度大。选择适应度大的10个为产生优良种群goodX(t)。对goodX(t)应用遗传算子，产生新一代群体X(t+1)（30个个体）。交叉遗传，可选取father[0-32][25]和mother的[32-64][25]产生新的个体。变异遗传，对father[64][25]中的数值产生一些随机变化从而生成新个体。t=t+1；如果不满足终止条件继续(3)。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2qc" data-idx="3-7"><span class="text_CZF0O" data-text="true">采用这种方式，我们可以使程序自己学习，从而模拟智能。遗传算法的主体就是对问题编码，然后通过进化方式进化出优秀（相对于适应度）的种群，编码方式由具体问题决定，进化方式影响进化范围和速度。通过这种方式的学习，模型一般都能得到此编码方式下的最优编码，从而具有超越人为编码的性能。有兴趣的读者可以自行深入研究。</span></div><div class="paraTitle_NLqN6 level-1_sjYXQ" data-index="5" data-tag="header" data-uuid="gnvg6f59ep" data-level="1"><div class="anchorList_fTbpO"><a name="语意网络模型"></a><a name="5"></a></div><h2 name="5">语意网络模型</h2><div class="titleLine_KhCAr"></div><span><span data-tts-catalog="5" data-tts-from="paragraph" class="ttsBtn_NyBDu paragraph_bQ_iy"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M7.878 14.133c-.3 0-.7-.1-.9-.3l-2.8-2.5h-1.6c-.8 0-1.4-.7-1.4-1.4v-3.8c0-.8.6-1.4 1.4-1.4h1.6l2.7-2.4c.6-.5 1.4-.5 1.9.1.3.2.4.5.4.9v9.5c0 .7-.6 1.3-1.3 1.3zm-5.3-8.2c-.1 0-.2.1-.2.2v3.8c0 .1.1.2.2.2h1.4c.3 0 .6.1.9.3l2.8 2.5c.1.1.4 0 .4-.2v-9.4c0-.1 0-.1-.1-.2s-.2-.1-.3 0l-2.7 2.4c-.3.3-.6.4-.9.4h-1.5zm10.3 6.8c-.1 0-.3 0-.4-.2-.2-.2-.2-.6 0-.8.9-1 1.4-2.3 1.4-3.7 0-1.4-.5-2.7-1.4-3.7-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0 1.1 1.2 1.7 2.8 1.7 4.4s-.6 3.3-1.7 4.4c-.1.3-.2.4-.4.4z"></path><path d="M11.378 10.733c-.1 0-.2 0-.3-.1-.3-.2-.3-.6-.2-.8.4-.5.6-1.1.6-1.8s-.2-1.3-.6-1.8c-.1-.2-.1-.6.2-.8.2-.2.6-.1.8.2.5.7.8 1.5.8 2.4 0 .9-.3 1.7-.8 2.4-.1.2-.3.3-.5.3z"></path></svg><span>播报</span></span></span><div class="editLemma_wG9hW"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="m14 3.8-1.9-1.9c-.3-.3-.7-.4-1.1-.4-.4 0-.8.2-1.1.4l-8.4 8.4c-.3.3-.4.7-.4 1.1v1.9c0 .8.7 1.5 1.5 1.5h1.9c.4 0 .8-.2 1.1-.4L14 5.9c.6-.6.6-1.6 0-2.1zm-9.1 9.7c-.1.1-.2.1-.3.1H2.7c-.2 0-.4-.2-.4-.4v-1.9c0-.1 0-.2.1-.3l6.1-6 2.4 2.4-6 6.1zm8.3-8.4-1.5 1.5-2.4-2.4 1.5-1.5c.1-.1.2-.1.3-.1s.2 0 .3.1l1.9 1.9c.1.1.1.3-.1.5z"></path></svg><span class="text_j3i1C">编辑</span></div></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2tj" data-idx="4-1"><span class="text_CZF0O" data-text="true">学会了以上算法，但一般只能进行小规模模型的智能模拟。下面我再给出一个语意网络模型，用来构建整体的模型，结合上面的算法，就可以作出漂亮的中等规模的智能系统。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2v4" data-idx="4-2"><span class="text_CZF0O" data-text="true">例4：一个小型的带时限的语意网络模型。网络由节点及连接节点的线组成，为简单化，每个节点性质相同。节点：受到刺激后可被激活，激活后又可刺激邻接节点。激活度由一个刺激度的函数决定。节点有门限，只有刺激度超过此门限时节点才可被激活或抑制。节点有一个受激缓存，用来记录短期内受到的刺激。有一个激活缓存，用于控制激活时间段。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2wp" data-idx="4-3"><span class="text_CZF0O" data-text="true">门限：GateT（激活）、GateN（抑制）。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2y9" data-idx="4-4"><span class="text_CZF0O" data-text="true">受激缓存：FMemory记录受激大小，衰减度，受激时刻。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y2z5" data-idx="4-5"><span class="text_CZF0O" data-text="true">激活缓存：BMemory记录激活度大小，衰减度，激活时刻。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y30q" data-idx="4-6"><span class="text_CZF0O" data-text="true">激活函数：Active 计算激活度，可由节点自定义。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y32a" data-idx="4-7"><span class="text_CZF0O" data-text="true">连接节点的线：传递刺激并可调节刺激大小。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y33v" data-idx="4-8"><span class="text_CZF0O" data-text="true">Wi：权值，表示相应的支持度（＞0，越大表示越支持）或抑制度（D ），对应网络模型如下：</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y38o" data-idx="4-9"><span class="text_CZF0O" data-text="true">假设情景：A激活，1秒后B激活，2秒后C激活。A激活：D受激 Active(A) * W1 Gate(D)，被激活，记入激活缓存。这样就可以表示短时间内事物受A、B、C事件刺激，将产生D时间。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3a9" data-idx="4-10"><span class="text_CZF0O" data-text="true">如果 A^B-＞D成立, A^B^C-＞D不成立，D-＞H，A^B^C^E-＞D成立。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3bt" data-idx="4-11"><span class="text_CZF0O" data-text="true">A发生，Active(A)*WaGateT(D)，D激活 Active(D)*Wd＞GataT(H)，H激活。记入D和H的缓存。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3de" data-idx="4-12"><span class="text_CZF0O" data-text="true">C发生，Active(C)*Wc + NowActive(FMemory)吃食。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3ez" data-idx="4-13"><span class="text_CZF0O" data-text="true">特定奖励节点：吃食。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3gk" data-idx="4-14"><span class="text_CZF0O" data-text="true">随机动作： 叫、跑、打滚。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3i5" data-idx="4-15"><span class="text_CZF0O" data-text="true">那么当小狗肚子饿时，如果没有食物，它可以选随机动作，如果它选择了跑或打滚，没有食物。如果它选择了叫，而刚好主人在主人就喂食，那么触发规则1，触发奖励节点。此时小狗肚子饿事件和看见主人事件和叫事件处于激活状态，这些事件节点之间的联结将改变，以至于小狗能够在肚子饿时候没有食物时候看见主人时候叫。（当然这还需要改进上述系统，只要大家肯动脑，相信没什么大问题）。</span></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3jr" data-idx="4-16"><span class="text_CZF0O" data-text="true">在这里，每个节点都是一个抽象的概念，可以由任何模型组成，也就是说它可以由任意模型嵌套组合而成，这样就可以以最优的嵌套组合（模型本无定式，惟用而化）构成整个智能系统，从而模拟智能表象。</span></div><div class="paraTitle_NLqN6 level-1_sjYXQ" data-index="6" data-tag="header" data-uuid="gnvg6f59h2" data-level="1"><div class="anchorList_fTbpO"><a name="总结"></a><a name="6"></a></div><h2 name="6">总结</h2><div class="titleLine_KhCAr"></div><span><span data-tts-catalog="6" data-tts-from="paragraph" class="ttsBtn_NyBDu paragraph_bQ_iy"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="M7.878 14.133c-.3 0-.7-.1-.9-.3l-2.8-2.5h-1.6c-.8 0-1.4-.7-1.4-1.4v-3.8c0-.8.6-1.4 1.4-1.4h1.6l2.7-2.4c.6-.5 1.4-.5 1.9.1.3.2.4.5.4.9v9.5c0 .7-.6 1.3-1.3 1.3zm-5.3-8.2c-.1 0-.2.1-.2.2v3.8c0 .1.1.2.2.2h1.4c.3 0 .6.1.9.3l2.8 2.5c.1.1.4 0 .4-.2v-9.4c0-.1 0-.1-.1-.2s-.2-.1-.3 0l-2.7 2.4c-.3.3-.6.4-.9.4h-1.5zm10.3 6.8c-.1 0-.3 0-.4-.2-.2-.2-.2-.6 0-.8.9-1 1.4-2.3 1.4-3.7 0-1.4-.5-2.7-1.4-3.7-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0 1.1 1.2 1.7 2.8 1.7 4.4s-.6 3.3-1.7 4.4c-.1.3-.2.4-.4.4z"></path><path d="M11.378 10.733c-.1 0-.2 0-.3-.1-.3-.2-.3-.6-.2-.8.4-.5.6-1.1.6-1.8s-.2-1.3-.6-1.8c-.1-.2-.1-.6.2-.8.2-.2.6-.1.8.2.5.7.8 1.5.8 2.4 0 .9-.3 1.7-.8 2.4-.1.2-.3.3-.5.3z"></path></svg><span>播报</span></span></span><div class="editLemma_wG9hW"><svg viewBox="0 0 16 16" fill="currentColor" width="1em" height="1em"><path d="m14 3.8-1.9-1.9c-.3-.3-.7-.4-1.1-.4-.4 0-.8.2-1.1.4l-8.4 8.4c-.3.3-.4.7-.4 1.1v1.9c0 .8.7 1.5 1.5 1.5h1.9c.4 0 .8-.2 1.1-.4L14 5.9c.6-.6.6-1.6 0-2.1zm-9.1 9.7c-.1.1-.2.1-.3.1H2.7c-.2 0-.4-.2-.4-.4v-1.9c0-.1 0-.2.1-.3l6.1-6 2.4 2.4-6 6.1zm8.3-8.4-1.5 1.5-2.4-2.4 1.5-1.5c.1-.1.2-.1.3-.1s.2 0 .3.1l1.9 1.9c.1.1.1.3-.1.5z"></path></svg><span class="text_j3i1C">编辑</span></div></div><div class="para_gDmSY content_RIPY7 MARK_MODULE" data-tag="paragraph" data-uuid="gnvg69y3my" data-idx="5-1"><span class="text_CZF0O" data-text="true">因为游戏中智能模拟的重点就是建立相应的算法模型，并且想对深入研究游戏中的人工智能，就需要不断实践，所以在上面的文章中我用了几乎全部篇幅来讲解有关算法，就是希望大家能通过时间深入研究和学习。相信大家通过研究，也可建出漂亮的游戏智能系统。更复杂的人工智能系统需要建立如下几个重要部分，环境模型、事物模型、事物与环境的交互接口、（事物与事物交互接口、环境与环境交互接口）、智能决策模型、智能评估模型，智能学习模型。而这里的每一个部分都牵扯到非常广的领域，非一时所能叙述清楚，因此就不再细述。</span></div></div></div></div></div></div></div><div class="pageFooter_kpMG5"><div><div class="page-footer-content clearfix"><div class="fresh-block block-item"><div class="block-title"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 1024 1024"><path d="M512 32C247.04 32 32 247.04 32 512s215.04 480 480 480 480-215.04 480-480S776.96 32 512 32m0 853.12c-206.08 0-373.12-167.68-373.12-373.12S305.92 138.88 512 138.88a373.12 373.12 0 1 1 0 746.24"></path><path d="M518.4 260.48c-49.28 0-88.96 14.72-118.4 42.88-30.08 28.8-44.8 68.48-44.8 117.76 0 1.92 0 21.76 14.08 37.12 6.4 7.04 18.56 14.72 38.4 14.72 38.4 0 54.4-30.08 55.68-51.2 0-21.12 3.84-37.12 11.52-47.36 4.48-6.4 13.44-15.36 39.68-15.36 15.36 0 26.24 3.84 33.28 10.24 7.68 7.68 11.52 19.2 11.52 32.64 0 10.24-3.84 20.48-11.52 29.44l-5.12 6.4c-42.24 38.4-65.92 64.64-74.88 82.56-9.6 18.56-14.08 40.32-14.08 67.84v8.32c0 17.28 14.08 42.88 53.12 42.88 40.32 0 53.76-26.88 55.68-42.88v-8.32c0-10.88 1.92-20.48 7.04-30.08 4.48-8.96 10.88-16.64 19.2-23.68 26.88-23.68 46.08-40.96 54.4-50.56 17.28-23.04 26.24-51.84 26.24-85.76 0-42.24-14.08-76.16-42.24-101.12-28.16-23.68-64-36.48-108.8-36.48M453.12 711.68a55.68 55.68 0 1 0 111.36 0 55.68 55.68 0 1 0-111.36 0"></path></svg><span>新手上路</span></div><div class="block-content"><a target="_blank" href="/usercenter/tasks#guide">成长任务</a><a target="_blank" href="/help#main01">编辑入门</a><a target="_blank" href="/help#main06">编辑规则</a><a target="_blank" href="/item/百度百科：本人词条编辑服务/22442459?bk_fr=pcFooter">本人编辑<img class="block-content-new-icon" src="https://baikebcs.bdimg.com/baike-react/common/new.png" alt="new"/></a></div></div><div class="question-block block-item"><div class="block-title"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 1024 1024"><path d="M841.322 87.089h-3.9L541.113 167.9v-.031h-57.292L186.577 86.803h-3.898c-47.329 0-85.833 38.504-85.833 85.834v595.568c0 22.92 8.948 43.111 25.875 58.393 12.931 11.674 30.025 20.311 52.204 26.391 1.558.43 156.07 43.113 307.962 83.951l.956.258h55.15l2.121-.559c154.5-40.689 306.48-82.951 308.012-83.379l1.078-.322c21.422-6.861 37.787-15.387 50.029-26.064 17.613-15.363 26.922-35.551 26.922-58.381v-595.57c-.001-47.328-38.505-85.834-85.833-85.834M190.375 796.848c-35.303-9.676-35.303-22.967-35.303-28.643V172.637c0-14.134 10.678-25.822 24.39-27.421l303.424 82.752v648.673c-146.655-39.502-290.952-79.362-292.511-79.793m678.553-28.356c0 5.154 0 17.191-35.969 28.826-9.916 2.756-147.693 41.006-291.846 79.1V228.254l303.424-82.751c13.713 1.599 24.391 13.287 24.391 27.421z"></path></svg><span>我有疑问</span></div><div class="block-content"><a>内容质疑</a><a target="_blank" href="https://ufosdk.baidu.com/bailingPC/getEntryPath/aKo-PBP84zlnBbgvj2STxzZNwlrmWT8XVd-PzIQ3C-c=" rel="noreferrer">在线客服</a><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&amp;fr=bks0000&amp;kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91" rel="noreferrer">官方贴吧</a><a>意见反馈</a></div></div><div class="suggestion-block block-item"><div class="block-title"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 1024 1024"><path d="M874 80.5H150.7c-47.4 0-86 38.6-86 86v550c0 1.2.1 2.5.2 3.7l-.2 192.2c0 14.5 8.7 27.7 22.2 33.3 4.5 1.9 9.2 2.8 13.8 2.8 9.3 0 18.5-3.6 25.4-10.5l136.2-135.4H874c47.4 0 86-38.6 86-86v-550c0-47.5-38.6-86.1-86-86.1m14 636c0 7.7-6.3 14-14 14H249.5c-9.8-.5-19.8 2.9-27.4 10.4l-85.4 84.8.1-109.2c0-1.3-.1-2.5-.2-3.7V166.5c0-7.7 6.3-14 14-14H874c7.7 0 14 6.3 14 14z"></path><path d="M750.3 297h-476c-19.9 0-36 16.1-36 36s16.1 36 36 36h475.9c19.9 0 36-16.1 36-36s-16.1-36-35.9-36M505.5 513.4H274.3c-19.9 0-36 16.1-36 36s16.1 36 36 36h231.2c19.9 0 36-16.1 36-36s-16.1-36-36-36"></path></svg><span>投诉建议</span></div><div class="block-content"><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&amp;category=1" rel="noreferrer">举报不良信息</a><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&amp;category=2" rel="noreferrer">未通过词条申诉</a><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&amp;category=6" rel="noreferrer">投诉侵权信息</a><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&amp;category=5" rel="noreferrer">封禁查询与解封</a></div></div></div><div class="copyright"><p>©2024 Baidu <a href="http://www.baidu.com/duty/" target="_blank" rel="noreferrer">使用百度前必读</a> | <a href="http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637" target="_blank" rel="noreferrer">百科协议</a> | <a href="http://help.baidu.com/question?prod_id=10&amp;class=690&amp;id=1001779" target="_blank" rel="noreferrer">隐私政策</a> | <a href="/operation/cooperation" target="_blank">百度百科合作平台</a> | <span>京ICP证030173号 </span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"/></p><p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank" rel="noreferrer"><i class="icon-police"></i>京公网安备11000002000001号</a></p></div></div></div></div></div><script>window.PAGE_DATA= {"lemmaId":10055153,"lemmaTitle":"游戏人工智能","lemmaDesc":"概念的解释","lemmaType":0,"uid":103899780,"uname":"軍傮是也","createTime":1252035116,"updateTime":1702126631,"isDefault":0,"isDeleted":0,"rank":1,"extData":{"LemmaId":2778980,"discussion":{"relateInfo":[{"relateId":32990,"relateType":1}]},"isBaikeV6":1,"isFrontV6":1,"isSapp":0,"isWaitForPersonal":false,"is_locked":0,"kpdClassify":[{"id":337503,"name":"文化术语"}],"lemmaId":2778980,"lemma_id":2778980,"newEditor":1,"pass_count":19,"subLemmaId":2778980,"updateTime":1702126631,"wapEdit":0},"extFlag":0,"versionId":553791210,"versionUid":2397405195,"versionUname":"thereforenay","versionContributeFlag":{"flagId":1,"name":"百科蝌蚪团","url":"https://baike.baidu.com/kedou"},"versionCreateTime":1702090747,"catalog":[{"level":1,"title":"历史背景","index":"1","uuid":"gnvg69y0uh","height":28},{"level":1,"title":"空间法","index":"2","uuid":"gnvg6d6v7g","height":28},{"level":1,"title":"棋类游戏算法","index":"3","uuid":"gnvg69y1s4","height":28},{"level":1,"title":"遗传算法","index":"4","uuid":"gnvg6f59ct","height":28},{"level":1,"title":"语意网络模型","index":"5","uuid":"gnvg6f59ep","height":28},{"level":1,"title":"总结","index":"6","uuid":"gnvg6f59h2","height":28}],"abstract":[],"abstractAlbum":null,"reference":null,"modules":{"adManager":{"data":{"wapRelatedBusiness":1}},"discussion":{"showHelpEdit":1},"globalConfig":{"data":{"serviceAdLemmaCategory":[337597,337474]}},"paper":{"switch":false},"second":{"head":[{"secondId":45789454,"type":1,"form":2,"style":1,"source":100,"sourceId":"13057633835877487321","authorType":0,"platform":99,"lemma":{"relType":1,"relValue":[],"te":0,"ts":0,"tw":0,"type":3,"weight":0},"score":1,"createTime":1637342946,"publishTime":1637369016,"isPay":0,"collectionId":0}]},"pinzhuan":{}},"albums":null,"card":{"type":242,"left":[{"key":"name","title":"中文名","isArray":false,"delimiter":"","data":[{"dataType":"text","text":[{"tag":"text","text":"游戏人工智能"}]}]},{"key":"foreignName","title":"外文名","isArray":true,"delimiter":"","data":[{"dataType":"text","text":[{"tag":"text","text":"Artificial Intelligence games"}]}]}],"right":[{"key":"customDefault","title":"人工智能之父","isArray":false,"delimiter":"","data":[{"dataType":"text","text":[{"tag":"text","text":"图灵"}]}]},{"key":"customDefault","title":"人工智能慨述","isArray":false,"delimiter":"","data":[{"dataType":"text","text":[{"tag":"text","text":"伟大的思想就源于这种简单的事物"}]}]},{"key":"customDefault","title":"状态空间法","isArray":false,"delimiter":"","data":[{"dataType":"text","text":[{"tag":"text","text":"将问题转换到对应状态空间"}]}]}]},"lemmaCnt":2,"navigation":{"word":"游戏人工智能","disamLemma":{"lemmaId":22147007,"lemmaTitle":"游戏人工智能","lemmaDesc":"游戏人工智能","isRedirect":false,"redirectId":0,"redirectTitle":"","redirectDesc":""},"lemmas":[{"lemmaId":10055153,"lemmaTitle":"游戏人工智能","lemmaDesc":"概念的解释","isRedirect":false,"redirectId":0,"redirectTitle":"","redirectDesc":""},{"lemmaId":22147006,"lemmaTitle":"游戏人工智能","lemmaDesc":"2017年电子工业出版社出版的图书","isRedirect":false,"redirectId":0,"redirectTitle":"","redirectDesc":""}]},"tips":{"isPolyseme":1,"disamTip":{"link":"/item/%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD","title":"游戏人工智能"}},"encodeLemmaId":"8ebf3bd3f4771c9085e0dacb","versionUk":"hsHj5i8Wa2C7KbUvOHo7kg","description":"游戏人工智能（Artificial Intelligence games），人工智能之父图灵相信如果模拟人类大脑的思维就可以做出一台可以思考的机器，他于1950..."}</script><script>window.__abbaidu_2020_subidgetf||(window.__abbaidu_2020_subidgetf=function(){return"01000000"})</script><script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script></body></html>
+
+<!DOCTYPE html>
+<html lang="zh" dir="ltr" class="no-js">
+<head>
+<link href="/Content/responsive/VOA/zh-CN/VOA-zh-CN.css?&amp;av=0.1.0.0&amp;cb=272" rel="stylesheet"/>
+<script src="//tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js"></script> <script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
+<script type="text/javascript">
+//a general 'js' detection, must be on top level in <head>, due to CSS performance
+document.documentElement.className = "js";
+var cacheBuster = "272";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+var isLoggingEnabled = false;
+var isPreviewPage = false;
+var isLivePreviewPage = false;
+if (!isPreviewPage) {
+window.RFE = window.RFE || {};
+window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+window.history.replaceState(null, '', window.location.href.replace(new RegExp('[\&\?]nocache=1'), ''));
+}
+var pwaEnabled = false;
+var swCacheDisabled;
+</script>
+<meta charset="utf-8" />
+<title>路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职</title>
+<meta name="description" content="路透社援引五名知情人士的话独家报道说，中国解除了中共中央宣传部一名官员的职务，几天前，中国的游戏股受到拟议的限制网络游戏充值规则的打击。" />
+<meta name="keywords" content="经济·金融·贸易, 中国, 科技, 娱乐, 中国经济" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta property="fb:pages" content="79273905685" />
+<meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E" />
+<link href="https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html" rel="canonical" />
+<meta name="apple-mobile-web-app-title" content="美国之音" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//7422109.ltr" />
+<meta content="路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职" property="og:title" />
+<meta content="路透社援引五名知情人士的话独家报道说，中国解除了中共中央宣传部一名官员的职务，几天前，中国的游戏股受到拟议的限制网络游戏充值规则的打击。" property="og:description" />
+<meta content="article" property="og:type" />
+<meta content="https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html" property="og:url" />
+<meta content="美国之音" property="og:site_name" />
+<meta content="https://www.facebook.com/voachinese" property="article:publisher" />
+<meta content="https://gdb.voanews.com/D45EB7BE-2FCD-4D3B-9D62-31D7F7A5B82B.jpg" property="og:image" />
+<meta content="308" property="og:image:width" />
+<meta content="" property="og:image:height" />
+<meta content="373799889356691" property="fb:app_id" />
+<meta content="美国之音" name="Author" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="@voachinese" name="twitter:site" />
+<meta content="https://gdb.voanews.com/D45EB7BE-2FCD-4D3B-9D62-31D7F7A5B82B.jpg" name="twitter:image" />
+<meta content="路透社援引五名知情人士的话独家报道说，中国解除了中共中央宣传部一名官员的职务，几天前，中国的游戏股受到拟议的限制网络游戏充值规则的打击。" name="twitter:description" />
+<link rel="amphtml" href="https://www.voachinese.com/amp/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html" />
+<script type="application/ld+json">{"articleSection":"中国","headline":"路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职","inLanguage":"zh-CN","keywords":"经济·金融·贸易, 中国, 科技, 娱乐, 中国经济","author":{"@type":"Person","url":"https://www.voachinese.com/author/美国之音/kgmit","description":"","image":{"@type":"ImageObject"},"name":"美国之音"},"datePublished":"2024-01-02 23:01:05Z","dateModified":"2024-01-02 23:01:05Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.voachinese.com","sameAs":["https://www.facebook.com/voachinese","https://twitter.com/voachinese","https://www.youtube.com/voachinese","https://t.me/voachinese","https://www.instagram.com/voachinese/"],"name":"美国之音中文网","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html","url":"https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html","description":"路透社援引五名知情人士的话独家报道说，中国解除了中共中央宣传部一名官员的职务，几天前，中国的游戏股受到拟议的限制网络游戏充值规则的打击。","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/D45EB7BE-2FCD-4D3B-9D62-31D7F7A5B82B_w1080_h608.jpg"},"name":"路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职"}</script>
+<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=272"></script>
+<script src="/Scripts/responsive/loader.b?v=R3LR59bI_QYIvBT1Uo8ClLBpzI0pAdZYweFWJofnu6U1?&amp;av=0.1.0.0&amp;cb=272"></script>
+<link rel="icon" type="image/svg+xml" href="/Content/responsive/VOA/img/webApp/favicon.svg" />
+<link rel="alternate icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
+<link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/VOA/img/webApp/ico-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/VOA/img/webApp/ico-72x72.png" />
+<link rel="apple-touch-icon-precomposed" href="/Content/responsive/VOA/img/webApp/ico-57x57.png" />
+<link rel="icon" sizes="192x192" href="/Content/responsive/VOA/img/webApp/ico-192x192.png" />
+<link rel="icon" sizes="128x128" href="/Content/responsive/VOA/img/webApp/ico-128x128.png" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
+<link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/" />
+<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+</head>
+<body class=" nav-no-loaded can-ff cc_theme pg-article print-lay-article js-category-to-nav nojs-images date-time-enabled">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript" data-cookiecategory="analytics">
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
+}
+}
+</script>
+<!--Analytics tag js version start-->
+<script type="text/javascript" data-cookiecategory="analytics">
+var utag_data={entity:"VOA",pangea_version:"8.28.0.0.272",language:"Mandarin",language_service:"VOA Mandarin",short_language_service:"MAN",property_id:"521",platform:"responsive",platform_short:"R",runs_js:"Yes",page_title:"路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职",page_type:"article",page_name:"路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职",short_headline:"路透社：中国电子游戏新规引发市场动荡后，中宣部官...",long_headline:"路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职",headline:"路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html",domain:"www.voachinese.com",pub_year:"2024",pub_month:"01",pub_day:"02",pub_hour:"23",pub_minute:"01",pub_weekday:"Tuesday",dateline:"",byline:"美国之音",categories:"economics-trade,china,science-technology,entertainment,china-economy",tags:"",slug:"china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102",section:"中国",english_section:"china",article_uid:"7422109"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+if(window.top!== window.self&&utag_data.page_type==="snippet"){utag_data.page_type = 'iframe';}
+var isEmbededPlayerOnSameDomain = false;
+try {
+isEmbededPlayerOnSameDomain = window.top !== window.self && window.top.location.origin && window.location.href.includes("/embed/player/");
+} catch (e) {
+// Can't access cross-origin frame, but no need to throw error in this case
+}
+if (isEmbededPlayerOnSameDomain) {
+delete utag_data.affiliate_campaign;
+delete utag_data.affiliate_src;
+utag_data.platform = "responsive";
+utag_data.platform_short = "R";
+}
+(function(a,b,c,d){ a="https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script>
+<!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoamandarin-bbgprod-bbgentityvoa-bbgunitvoamandarin/1/G.4--NS/176239157?pageName=voa%3aman%3ar%3aarticle%3a%e8%b7%af%e9%80%8f%e7%a4%be%ef%bc%9a%e4%b8%ad%e5%9b%bd%e7%94%b5%e5%ad%90%e6%b8%b8%e6%88%8f%e6%96%b0%e8%a7%84%e5%bc%95%e5%8f%91%e5%b8%82%e5%9c%ba%e5%8a%a8%e8%8d%a1%e5%90%8e%ef%bc%8c%e4%b8%ad%e5%ae%a3%e9%83%a8%e5%ae%98%e5%91%98%e8%a2%ab%e5%85%8d%e8%81%8c&amp;c6=%e8%b7%af%e9%80%8f%e7%a4%be%ef%bc%9a%e4%b8%ad%e5%9b%bd%e7%94%b5%e5%ad%90%e6%b8%b8%e6%88%8f%e6%96%b0%e8%a7%84%e5%bc%95%e5%8f%91%e5%b8%82%e5%9c%ba%e5%8a%a8%e8%8d%a1%e5%90%8e%ef%bc%8c%e4%b8%ad%e5%ae%a3%e9%83%a8%e5%ae%98%e5%91%98%e8%a2%ab%e5%85%8d%e8%81%8c&amp;pangea_version=8.28.0.0.272&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voachinese.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=%e8%b7%af%e9%80%8f%e7%a4%be%ef%bc%9a%e4%b8%ad%e5%9b%bd%e7%94%b5%e5%ad%90%e6%b8%b8%e6%88%8f%e6%96%b0%e8%a7%84%e5%bc%95%e5%8f%91%e5%b8%82%e5%9c%ba%e5%8a%a8%e8%8d%a1%e5%90%8e%ef%bc%8c%e4%b8%ad%e5%ae%a3%e9%83%a8%e5%ae%98%e5%91%98%e8%a2%ab%e5%85%8d%e8%81%8c&amp;v7=D=c7&amp;c16=voa%20mandarin&amp;v16=D=c16&amp;c5=china&amp;v5=D=c5&amp;ch=mandarin&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=7422109&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+<!-- End of Analytics tag management NoScript -->
+<div class="google-translate-container">
+<div id="google_translate_element" data-page-language="zh-CN" data-included-languages="zh-CN,zh-TW"></div>
+</div>
+<!--*** Accessibility links - For ScreenReaders only ***-->
+<section>
+<div class="sr-only">
+<h2>无障碍链接</h2>
+<ul>
+<li><a href="#content" data-disable-smooth-scroll="1">跳转到内容</a></li>
+<li><a href="#navigation" data-disable-smooth-scroll="1">跳转到导航</a></li>
+<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">跳转到检索</a></li>
+</ul>
+</div>
+</section>
+<div dir="ltr">
+<div id="page">
+<aside>
+<div class="c-lightbox overlay-modal">
+<div class="c-lightbox__intro">
+<h2 class="c-lightbox__intro-title"></h2>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="下一页">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">下一页</span>
+</button>
+</div>
+<div class="c-lightbox__nav">
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="关闭">
+<span class="ico ico--rounded ico-close"></span>
+<span class="sr-only">关闭</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="上一页">
+<span class="ico ico--rounded ico-chevron-backward"></span>
+<span class="sr-only">上一页</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="下一页">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">下一页</span>
+</button>
+</div>
+<div class="c-lightbox__content-wrap">
+<figure class="c-lightbox__content">
+<span class="c-spinner c-spinner--lightbox">
+<img src="/Content/responsive/img/player-spinner.png"
+alt="请稍等"
+title="请稍等" />
+</span>
+<div class="c-lightbox__img">
+<div class="thumb">
+<img src="" alt="" />
+</div>
+</div>
+<figcaption>
+<div class="c-lightbox__info c-lightbox__info--foot">
+<span class="c-lightbox__counter"></span>
+<span class="caption c-lightbox__caption"></span>
+</div>
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="print-dialogue">
+<div class="container">
+<h3 class="print-dialogue__title section-head">Print Options:</h3>
+<div class="print-dialogue__opts">
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked" />
+<label for="checkboxImages" class="form__label m-t-md">图片</label>
+</li>
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked" />
+<label for="checkboxMultimedia" class="form__label m-t-md">Multimedia</label>
+</li>
+</ul>
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked" />
+<label for="checkboxEmbedded" class="form__label m-t-md">Embedded Content</label>
+</li>
+<li class="hidden">
+<input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox" />
+<label for="checkboxComments" class="form__label m-t-md">评论</label>
+</li>
+</ul>
+</div>
+<div class="print-dialogue__buttons">
+<button class="btn btn--secondary close-button" type="button" title="取消">
+<span class="btn__text ">取消</span>
+</button>
+<button class="btn btn-cust-print m-l-sm" type="button" title="打印">
+<span class="btn__text ">打印</span>
+</button>
+</div>
+</div>
+</div>
+<div class="ctc-message pos-fix">
+<div class="ctc-message__inner">Link has been copied to clipboard</div>
+</div>
+</aside>
+<div class="hdr-20 hdr-20--big">
+<div class="hdr-20__inner">
+<div class="hdr-20__max pos-rel">
+<div class="hdr-20__side hdr-20__side--primary d-flex">
+<input type="checkbox" id="main-menu-ctrl" class="hidden main-menu-switch">
+<label for="main-menu-ctrl" class="burger hdr-trigger pos-rel trans-trigger" data-trans-evt="click" data-trans-id="menu">
+<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close burger__ico burger__ico--close"></span>
+<span class="ico ico-menu hdr-trigger__ico hdr-trigger__ico--open burger__ico burger__ico--open"></span>
+</label>
+<div class="menu-pnl pos-fix trans-target" data-trans-id="menu">
+<div class="menu-pnl__inner">
+<nav class="main-nav menu-pnl__item menu-pnl__item--first">
+<ul class="main-nav__list accordeon" data-analytics-tales="false" data-promo-name="link" data-location-name="nav,secnav">
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/p/8924.html" title="主页" data-item-name="homepage_new" >主页</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/US" title="美国" data-item-name="USNews" >美国</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/China" title="中国" data-item-name="ChinaNews" >中国</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/Taiwan" title="台湾" data-item-name="TaiwanNews" >台湾</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/p/7681.html" title="港澳" data-item-name="HongKongMacau" >港澳</a>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-1772" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1772">
+国际
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6143.html" title="最新国际新闻" data-item-name="WorldNews" >最新国际新闻</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1745" title="印太" data-item-name="indo-pacific" >印太</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1759" title="中东" data-item-name="middle-east" >中东</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1753" title="欧洲" data-item-name="europe" >欧洲</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1741" title="非洲" data-item-name="africa" >非洲</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1742" title="美洲" data-item-name="latin-america" >美洲</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5374" title="全球议题" data-item-name="global-issues" >全球议题</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-1887" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1887">
+分类新闻
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1748" title="经济&#183;金融&#183;贸易" data-item-name="economics-trade" >经济&#183;金融&#183;贸易</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5120" title="人权&#183;法律&#183;宗教" data-item-name="rights-law-religions" >人权&#183;法律&#183;宗教</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5679" title="科教&#183;文娱&#183;体健" data-item-name="science-education-culture-entertainment-sports-health" >科教&#183;文娱&#183;体健</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1772" title="军事" data-item-name="military" >军事</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2191" title="劳工" data-item-name="labor" >劳工</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1752" title="环境" data-item-name="environment" >环境</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/p/5625.html" title="美中关系" data-item-name="USChinaRelations" >美中关系</a>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-1869" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1869">
+热点专题
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5625.html" title="美中关系" data-item-name="USChinaRelations" >美中关系</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5597" title="台湾选举" data-item-name="Taiwan-Elections" >台湾选举</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7712" title="白纸运动一周年" data-item-name="A4-movement-oneY" >白纸运动一周年</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/3874" title="年终报道" data-item-name="yearender" >年终报道</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6097.html" title="台海两岸关系" data-item-name="CrossStraitRelations" >台海两岸关系</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5626.html" title="南中国海争端" data-item-name="SouthChinaSeaDisputes" >南中国海争端</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2393" title="新疆西藏问题" data-item-name="xinjiang-tibet" >新疆西藏问题</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6107.html" title="国会报道" data-item-name="Capitol-Report-interviews-congress" >国会报道</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/UkraineCrisis" title="乌克兰局势" data-item-name="Ukraine-Crisis" >乌克兰局势</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/PressFreedom" title="新闻自由" data-item-name="PressFreedom" >新闻自由</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/3597" title="记者手记" data-item-name="reporters-notebook" >记者手记</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6138.html" title="美国之音专访" data-item-name="Interviews" >美国之音专访</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1917" title="世界媒体看中国" data-item-name="world-media-on-china" >世界媒体看中国</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5966.html" title="朝鲜半岛局势" data-item-name="NorthKoreaNuclearCrisis" >朝鲜半岛局势</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/Factcheck" title="揭谎频道" data-item-name="Polygraph" >揭谎频道</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/p/3854.html" title="VOA视频" data-item-name="VOAChineseVideos" >VOA视频</a>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-870" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-870">
+音频
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2372" title="时事经纬" data-item-name="WindowOnTheWorld" >时事经纬</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/3637" title="时事大家谈" data-item-name="IssuesAndOpinions-audio" >时事大家谈</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7701" title="纵深视角" data-item-name="one-on-one-audio" >纵深视角</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1738" title="新闻及采访音频" data-item-name="audio" >新闻及采访音频</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7483" title="越洋电话" data-item-name="MyVoice-OurStory" >越洋电话</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2370" title="英语教学" data-item-name="radio-5-6-pm" >英语教学</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/3514" title="学个词音频" data-item-name="English-Learning-audios" >学个词音频</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/p/4889.html" title="上网办法" data-item-name="Proxies" >上网办法</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="https://www.voachinese.com/p/program-schedule.html" title="节目表" target="_blank" rel="noopener">节目表</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="https://www.voachinese.com/live/video/" title="直播" >直播</a>
+</li>
+</ul>
+</nav>
+<div class="menu-pnl__item menu-pnl__item--social">
+<h5 class="menu-pnl__sub-head">关注我们</h5>
+<a href="https://www.facebook.com/voachinese" title="在脸书关注我们" data-analytics-text="follow_on_facebook" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-facebook" target="_blank" rel="noopener">
+<span class="ico ico-facebook-alt ico--rounded"></span>
+</a>
+<a href="https://twitter.com/voachinese" title="在推特上关注我们" data-analytics-text="follow_on_twitter" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-twitter" target="_blank" rel="noopener">
+<span class="ico ico-twitter ico--rounded"></span>
+</a>
+<a href="https://www.youtube.com/voachinese" title="在YouTube上关注我们" data-analytics-text="follow_on_youtube" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-youtube" target="_blank" rel="noopener">
+<span class="ico ico-youtube ico--rounded"></span>
+</a>
+<a href="https://t.me/voachinese" title="在Telegram上关注我们" data-analytics-text="follow_on_telegram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-telegram" target="_blank" rel="noopener">
+<span class="ico ico-telegram ico--rounded"></span>
+</a>
+<a href="https://www.instagram.com/voachinese/" title="在Instagram上关注我们" data-analytics-text="follow_on_instagram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-instagram" target="_blank" rel="noopener">
+<span class="ico ico-instagram ico--rounded"></span>
+</a>
+<a href="http://bit.ly/VOAgooglenews" title="欢迎通过&quot;谷歌新闻&quot;关注@美国之音中文网 - VOA Mandarin" data-analytics-text="follow_on_google_news" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-g-news" target="_blank" rel="noopener">
+<span class="ico ico-google-news ico--rounded"></span>
+</a>
+</div>
+<div class="menu-pnl__item">
+<a href="/navigation/allsites" class="menu-pnl__item-link">
+<span class="ico ico-languages "></span>
+其他语言网站
+</a>
+</div>
+</div>
+</div>
+<input type="checkbox" id="top-search-ctrl" class="hidden top-search-switch">
+<label for="top-search-ctrl" class="top-srch-trigger hdr-trigger">
+<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close top-srch-trigger__ico top-srch-trigger__ico--close"></span>
+<span class="ico ico-search hdr-trigger__ico hdr-trigger__ico--open top-srch-trigger__ico top-srch-trigger__ico--open"></span>
+</label>
+<div class="srch-top">
+<div class="container">
+<form action="/s" class="srch-top__form" id="form-topSearch" method="get" role="search"><label for="txtHeaderSearch" class="sr-only">检索</label>
+<input type="text" id="txtHeaderSearch" name="k" placeholder="检索" accesskey="s" value="" class="srch-top__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }" />
+<button title="检索" type="submit" class="btn btn--top-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
+<span class="ico ico-search"></span>
+</button></form>
+</div>
+</div>
+<a href="/" class="main-logo-link">
+<img src="/Content/responsive/VOA/zh-CN/img/logo-compact.svg" class="main-logo main-logo--comp" alt="site logo">
+<img src="/Content/responsive/VOA/zh-CN/img/logo.svg" class="main-logo main-logo--big" alt="site logo">
+</a>
+</div>
+<div class="hdr-20__side hdr-20__side--secondary d-flex">
+<a href="/p/3854.html" title="Video" class="hdr-20__secondary-item" data-item-name="video">
+<span class="ico ico-video hdr-20__secondary-icon"></span>
+</a>
+<a href="/z/2372" title="Audio" class="hdr-20__secondary-item" data-item-name="audio">
+<span class="ico ico-audio hdr-20__secondary-icon"></span>
+</a>
+<a class="hdr-20__secondary-item hdr-20__secondary-item--search" data-item-name="search">
+<span class="ico ico-search hdr-20__secondary-icon hdr-20__secondary-icon--search"></span>
+</a>
+<div class="hdr-20__secondary-item live-b-drop">
+<div class="live-b-drop__off">
+<a href="https://www.voachinese.com/live/audio/46" class="live-b-drop__link" title="直播" data-item-name="live">
+<span class="badge badge--live-btn badge--live">
+直播
+</span>
+</a>
+</div>
+<div class="live-b-drop__on hidden">
+<input type="checkbox" id="live-ctrl" class="hidden live-b-drop__switch" />
+<label for="live-ctrl" class="live-b-drop__label pos-rel">
+<span class="badge badge--live badge--live-btn">
+直播
+</span>
+<span class="ico ico-close live-b-drop__label-ico live-b-drop__label-ico--close"></span>
+</label>
+<div class="live-b-drop__panel" id="targetLivePanelDiv"></div>
+</div>
+</div>
+<div class="srch-bottom">
+<form action="/s" class="srch-bottom__form d-flex" id="form-bottomSearch" method="get" role="search"><label for="txtSearch" class="sr-only">检索</label>
+<input type="search" id="txtSearch" name="k" placeholder="检索" accesskey="s" value="" class="srch-bottom__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtSearch')[0].value) }" />
+<button title="检索" type="submit" class="btn btn--bottom-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtSearch')[0].value) ">
+<span class="ico ico-search"></span>
+</button></form>
+</div>
+</div>
+<img src="/Content/responsive/VOA/zh-CN/img/logo-print.gif" class="logo-print" alt="site logo">
+<img src="/Content/responsive/VOA/zh-CN/img/logo-print_color.png" class="logo-print logo-print--color" alt="site logo">
+</div>
+</div>
+</div>
+<script>
+var nav2In = document.querySelector('.hdr-20__inner');
+var nav2Sec = document.querySelector('.hdr-20__side--secondary')
+var secStyle = window.getComputedStyle(nav2Sec);
+if (nav2In
+&& window.pageYOffset < 150
+&& secStyle['position'] !== 'fixed'
+&& document.body.className.indexOf('pg-section') > -1) {
+nav2In.classList.add('hdr-20__inner--big')
+}
+</script>
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop">
+<div class="c-hlights__wrap container p-0">
+<div class="c-hlights__nav">
+<a role="button" href="#" title="上一页">
+<span class="ico ico-chevron-backward m-0"></span>
+<span class="sr-only">上一页</span>
+</a>
+<a role="button" href="#" title="下一页">
+<span class="ico ico-chevron-forward m-0"></span>
+<span class="sr-only">下一页</span>
+</a>
+</div>
+<input class="switcher-controller" id="more-less-1" type="checkbox">
+<span class="c-hlights__label">
+<span class="">VOA快讯</span>
+<span class="switcher-trigger">
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="更多内容">
+<span class="ico ico-chevron-down"></span>
+</label>
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="显示更少内容">
+<span class="ico ico-chevron-up"></span>
+</label>
+</span>
+</span>
+<ul class="c-hlights__items switcher-target">
+</ul>
+</div>
+</div> <div class="date-time-area ">
+<div class="container">
+<span class="date-time">
+中国时间 2:14 2024年1月4日 星期四
+</span>
+</div>
+</div>
+<div id="content">
+<div class="container">
+<div class="hdr-container">
+<div class="row">
+<div class="col-category col-xs-12 col-md-2 pull-left"> <div class="category js-category">
+<a class="" href="/z/1757">中国</a> </div>
+</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="title pg-title" >
+路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职
+</h1>
+</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details ">
+<div class="published">
+<span class="date" title="中国时间">
+<time pubdate="pubdate" datetime="2024-01-03T07:01:05+08:00">
+2024年1月3日 07:01
+</time>
+</span>
+</div>
+<div class="links">
+<ul class="links__list links__list--column">
+<li class="links__item">
+美国之音
+</li>
+</ul>
+</div>
+</div>
+</div><div class="col-lg-12 separator"> <div class="separator">
+<hr class="title-line" />
+</div>
+</div><div class="col-multimedia col-xs-12 col-md-10 pull-right"> <div class="cover-media">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb thumb16_9">
+<img src="https://gdb.voanews.com/01000000-0a00-0242-7520-08dc060f20b2_w250_r1_s.jpg" alt="资料照片：年轻人在北京的一个网吧里玩网游。（2021年9月10日）" />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
+</div>
+<figcaption>
+<span class="caption" data-cms-inline-wrap="caption" data-cms-inline-text="">资料照片：年轻人在北京的一个网吧里玩网游。（2021年9月10日）</span>
+</figcaption>
+</figure>
+</div>
+</div><div class="col-xs-12 col-md-2 pull-left article-share pos-rel"> <div class="share--box">
+<aside class="share flex-column js-share--apply-sticky js-share--expandable js-share--horizontal"
+>
+<span class="label label--share">分享</span>
+<ul class="share__list">
+<li class="share__item">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_facebook"
+title="分享到脸书" target="_blank"
+class="btn btn--rounded btn-facebook js-social-btn">
+<span class="ico ico--rounded ico-facebook ico--l"></span>
+</a>
+<span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html&amp;text=%e8%b7%af%e9%80%8f%e7%a4%be%ef%bc%9a%e4%b8%ad%e5%9b%bd%e7%94%b5%e5%ad%90%e6%b8%b8%e6%88%8f%e6%96%b0%e8%a7%84%e5%bc%95%e5%8f%91%e5%b8%82%e5%9c%ba%e5%8a%a8%e8%8d%a1%e5%90%8e%ef%bc%8c%e4%b8%ad%e5%ae%a3%e9%83%a8%e5%ae%98%e5%91%98%e8%a2%ab%e5%85%8d%e8%81%8c&amp;via=voachinese "
+data-analytics-text="share_on_twitter"
+title="分享到推特" target="_blank"
+class="btn btn--rounded btn-twitter js-social-btn">
+<span class="ico ico--rounded ico-twitter ico--l"></span>
+</a>
+<span class="share__count shares__twitter share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<span class="visible-xs-inline-block visible-sm-inline-block">
+<a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_whatsapp"
+title="分享到WhatsApp" target="_blank"
+class="btn btn--rounded btn-whatsapp js-social-btn">
+<span class="ico ico--rounded ico-whatsapp ico--l"></span>
+</a>
+<span class="share__count share__count--whatsapp share__count--empty">&nbsp;</span>
+</span>
+</li>
+<li class="share__item">
+<span class="visible-md-inline-block visible-lg-inline-block">
+<a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_whatsapp_desktop"
+title="分享到WhatsApp" target="_blank"
+class="btn btn--rounded btn-whatsapp js-social-btn">
+<span class="ico ico--rounded ico-whatsapp ico--l"></span>
+</a>
+<span class="share__count share__count--whatsapp share__count--empty">&nbsp;</span>
+</span>
+</li>
+<li class="share__item">
+<a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_telegram"
+title="分享到Telegram" target="_blank"
+class="btn btn--rounded btn-telegram js-social-btn">
+<span class="ico ico--rounded ico-telegram ico--l"></span>
+</a>
+<span class="share__count share__count--telegram share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html&amp;subject=路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职"
+title="电邮本文"
+class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--l"></span>
+</a>
+<span class="share__count share__count--email share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<span class="visible-xs-inline-block visible-sm-inline-block">
+<a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_line"
+title="分享到Line" target="_blank"
+class="btn btn--rounded btn-line js-social-btn">
+<span class="ico ico--rounded ico-line ico--l"></span>
+</a>
+</span>
+</li>
+<li class="share__item">
+<span class="visible-md-inline-block visible-lg-inline-block">
+<a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_line_desktop"
+title="分享到Line" target="_blank"
+class="btn btn--rounded btn-line js-social-btn">
+<span class="ico ico--rounded ico-line ico--l"></span>
+</a>
+</span>
+</li>
+<li class="share__item">
+<div class="ctc">
+<input type="text" class="ctc__input" readonly="readonly">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="复制链接" js-href="https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html" title="复制链接">
+<span class="ico ico-content-copy ico--rounded ico--l"></span>
+</button>
+</div>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--l"></span>
+</a>
+</li>
+</ul>
+</aside>
+<div class="sticky-share-container" style="display:none">
+<div class="container">
+<a href="https://www.voachinese.com" id="logo-sticky-share">&nbsp;</a>
+<div class="pg-title pg-title--sticky-share">
+路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职
+</div>
+<div class="sticked-nav-actions">
+<aside class="share share--sticky js-share--expandable">
+<span class="label label--share">分享到</span>
+<ul class="share__list">
+<li class="share__item share__item--horizontal">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_facebook"
+title="分享到脸书" target="_blank"
+class="btn btn--rounded btn-facebook js-social-btn">
+<span class="ico ico--rounded ico-facebook ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--horizontal">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html&amp;text=%e8%b7%af%e9%80%8f%e7%a4%be%ef%bc%9a%e4%b8%ad%e5%9b%bd%e7%94%b5%e5%ad%90%e6%b8%b8%e6%88%8f%e6%96%b0%e8%a7%84%e5%bc%95%e5%8f%91%e5%b8%82%e5%9c%ba%e5%8a%a8%e8%8d%a1%e5%90%8e%ef%bc%8c%e4%b8%ad%e5%ae%a3%e9%83%a8%e5%ae%98%e5%91%98%e8%a2%ab%e5%85%8d%e8%81%8c&amp;via=voachinese "
+data-analytics-text="share_on_twitter"
+title="分享到推特" target="_blank"
+class="btn btn--rounded btn-twitter js-social-btn">
+<span class="ico ico--rounded ico-twitter ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<span class="visible-xs-inline-block visible-sm-inline-block">
+<a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_whatsapp"
+title="分享到WhatsApp" target="_blank"
+class="btn btn--rounded btn-whatsapp js-social-btn">
+<span class="ico ico--rounded ico-whatsapp ico--s"></span>
+</a>
+</span>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<span class="visible-md-inline-block visible-lg-inline-block">
+<a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_whatsapp_desktop"
+title="分享到WhatsApp" target="_blank"
+class="btn btn--rounded btn-whatsapp js-social-btn">
+<span class="ico ico--rounded ico-whatsapp ico--s"></span>
+</a>
+</span>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_telegram"
+title="分享到Telegram" target="_blank"
+class="btn btn--rounded btn-telegram js-social-btn">
+<span class="ico ico--rounded ico-telegram ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html&amp;subject=路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职"
+title="电邮本文"
+class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<span class="visible-xs-inline-block visible-sm-inline-block">
+<a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_line"
+title="分享到Line" target="_blank"
+class="btn btn--rounded btn-line js-social-btn">
+<span class="ico ico--rounded ico-line ico--s"></span>
+</a>
+</span>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<span class="visible-md-inline-block visible-lg-inline-block">
+<a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-removes-official-after-video-games-rules-spark-turmoil-sources-20240102%2f7422109.html"
+data-analytics-text="share_on_line_desktop"
+title="分享到Line" target="_blank"
+class="btn btn--rounded btn-line js-social-btn">
+<span class="ico ico--rounded ico-line ico--s"></span>
+</a>
+</span>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<div class="ctc">
+<input type="text" class="ctc__input" readonly="readonly">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="复制链接" js-href="https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html" title="复制链接">
+<span class="ico ico-content-copy ico--rounded ico--s"></span>
+</button>
+</div>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--s"></span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+</div>
+</div>
+<div class="links">
+<p class="buttons link-comments p-0">
+<a href="#comments" class="btn btn--link p-t-0">
+<span class="ico ico-comment"></span><span class="btn__text">
+评论
+<span class="disqus-comment-count" data-disqus-identifier="7422109"></span>
+</span>
+</a>
+</p>
+<p class="link-print visible-md visible-lg buttons p-0">
+<button class="btn btn--link btn-print p-t-0" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="打印">
+<span class="ico ico-print"></span>
+<span class="btn__text">打印</span>
+</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="body-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
+<div id="article-content" class="content-floated-wrap fb-quotable">
+<div class="wsw">
+<p>路透社周二(1月2日)援引五名知情人士的话独家报道说，中国解除了中共中央宣传部一名官员的职务，几天前，中国的游戏股受到拟议的限制网络游戏充值规则的打击。<br />
+<br />
+消息人士称，冯士新上周被免去中宣部出版局负责人职务。该部门负责监督国家新闻出版署，而国家新闻出版署则负责监管中国庞大的电子游戏行业。<br />
+<br />
+代表中国政府处理媒体询问（包括人事问题）的中国国务院新闻办公室没有立即回应路透社的置评请求，路透社无法获得冯士新的联系方式来请他发表评论。<br />
+<br />
+五位消息人士称，冯士新被免职与国家新闻出版署上个月宣布的网络游戏管理办法草案有关，该规则导致全球最大的电子游戏行业——包括行业巨头腾讯——的股票暴跌。<br />
+<br />
+由于当局尚未正式宣布冯士新被免职，消息人士拒绝透露姓名。<br />
+<br />
+近年来，冯士新代表中国政府出席活动，讨论当局监管该行业的努力，包括游戏审批和对游戏玩家实名验证的要求。路透社无法确定他担任目前职务的时间。<br />
+<br />
+<br />
+国家新闻出版署提出的措施旨在限制游戏充值和鼓励玩游戏的奖励，这引发了人们的担忧，担心当局再次严厉打击该行业，并使中国两个最大游戏公司的市值蒸发近80亿美元。<br />
+<br />
+分析人士表示，在北京近来一直试图增加私营部门投资以刺激经济放缓之际，这些限制计划使潜在的监管变化风险重新成为投资者关注的焦点，损害了投资者的信心。<br />
+<br />
+规则公布五天后，国家新闻出版署缓和了态度，表示将通过“认真研究”公众意见来改进规则。<br />
+<br />
+2021年，北京对电子游戏行业进行了严厉打击，对18岁以下的青少年设定了严格的游戏时间限制，并以游戏成瘾问题为由暂停批准新游戏约八个月。<br />
+<br />
+此次打击行动是对包括科技和房地产在内的多个行业更广泛监管收紧的一部分，并导致2022年成为中国游戏行业有记录以来最困难的一年，总收入首次减少。<br />
+<br />
+根据行业协会中国音数协游戏工委的数据，中国电子游戏市场去年恢复增长，国内收入增长14%至3030亿元人民币（424.7亿美元）。<br />
+<br />
+<br />
+<em>（本文依据了路透社的报道。）</em></p>
+</div>
+<ul>
+</ul>
+<div id="comments" class="comments-parent">
+<div class="row">
+<div class="col-xs-12">
+<div class="comments comments--ext">
+<h3 class="section-head">评论区</h3>
+<div class="comments-form comments-external">
+<script id="dsq-count-scr" src="//voa-zh-cn-412.disqus.com/count.js" async></script>
+<div class="ext-comments" data-href="https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html" data-lang="en" data-mobile="true" data-disqus-identifier="7422109">
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://www.voachinese.com/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html';
+this.page.identifier = '7422109';
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://voa-zh-cn-412.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>
+Please enable JavaScript to view the
+<a href="https://disqus.com/?ref_noscript" rel="nofollow">
+comments powered by Disqus.
+</a>
+</noscript>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="media-block-wrap">
+<h2 class="section-head">相关内容</h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/china-plans-to-issue-new-rules-to-tighten-the-management-of-online-games-20231226/7412788.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国网游监管自相矛盾 分析：控制重于经济利益">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/01000000-0aff-0242-e3b1-08dc06084d6e_cx0_cy6_cw0_w100_r1.jpg" alt="中国网游监管自相矛盾 分析：控制重于经济利益" />
+</noscript>
+<img data-src="https://gdb.voanews.com/01000000-0aff-0242-e3b1-08dc06084d6e_cx0_cy6_cw0_w33_r1.jpg" src="" alt="中国网游监管自相矛盾 分析：控制重于经济利益" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/china-plans-to-issue-new-rules-to-tighten-the-management-of-online-games-20231226/7412788.html">
+<h4 class="media-block__title media-block__title--size-4" title="中国网游监管自相矛盾 分析：控制重于经济利益">
+中国网游监管自相矛盾 分析：控制重于经济利益
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/chinese-gaming-firms-unveil-share-buybacks-after-regulatory-move-20231226/7412738.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="在监管部门举措令投资者不安后，中国游戏公司宣布股票回购">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/35BE5C2E-227D-4E12-8F76-1BC2CE837BF3_w100_r1.jpg" alt="在监管部门举措令投资者不安后，中国游戏公司宣布股票回购" />
+</noscript>
+<img data-src="https://gdb.voanews.com/35BE5C2E-227D-4E12-8F76-1BC2CE837BF3_w33_r1.jpg" src="" alt="在监管部门举措令投资者不安后，中国游戏公司宣布股票回购" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/chinese-gaming-firms-unveil-share-buybacks-after-regulatory-move-20231226/7412738.html">
+<h4 class="media-block__title media-block__title--size-4" title="在监管部门举措令投资者不安后，中国游戏公司宣布股票回购">
+在监管部门举措令投资者不安后，中国游戏公司宣布股票回购
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/china-approves-105-online-games-after-draft-curbs-trigger-massive-losses-20231225/7412221.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="上周推出限制措施引发巨额损失后，中国批准了105款国产网游">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/01000000-0aff-0242-c73f-08dc059461eb_w100_r1.jpg" alt="上周推出限制措施引发巨额损失后，中国批准了105款国产网游" />
+</noscript>
+<img data-src="https://gdb.voanews.com/01000000-0aff-0242-c73f-08dc059461eb_w33_r1.jpg" src="" alt="上周推出限制措施引发巨额损失后，中国批准了105款国产网游" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/china-approves-105-online-games-after-draft-curbs-trigger-massive-losses-20231225/7412221.html">
+<h4 class="media-block__title media-block__title--size-4" title="上周推出限制措施引发巨额损失后，中国批准了105款国产网游">
+上周推出限制措施引发巨额损失后，中国批准了105款国产网游
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/china-says-may-revise-gaming-rules-after-tech-stocks-tumble-20231224/7410535.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国恐将修改网络游戏管理办法 导致科技股暴跌">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/22e8a53d-bc19-4933-a373-700f75244a97_w100_r1.jpg" alt="中国恐将修改网络游戏管理办法 导致科技股暴跌" />
+</noscript>
+<img data-src="https://gdb.voanews.com/22e8a53d-bc19-4933-a373-700f75244a97_w33_r1.jpg" src="" alt="中国恐将修改网络游戏管理办法 导致科技股暴跌" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/china-says-may-revise-gaming-rules-after-tech-stocks-tumble-20231224/7410535.html">
+<h4 class="media-block__title media-block__title--size-4" title="中国恐将修改网络游戏管理办法 导致科技股暴跌">
+中国恐将修改网络游戏管理办法 导致科技股暴跌
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/china-unveils-new-gaming-curbs-sending-tech-stocks-tumbling-20231222/7408496.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国推出新的网络游戏限制措施，导致科技股暴跌">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/25ab199f-7ae0-48ab-a82f-7a9ed538ffec_w100_r1.jpg" alt="中国推出新的网络游戏限制措施，导致科技股暴跌" />
+</noscript>
+<img data-src="https://gdb.voanews.com/25ab199f-7ae0-48ab-a82f-7a9ed538ffec_w33_r1.jpg" src="" alt="中国推出新的网络游戏限制措施，导致科技股暴跌" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/china-unveils-new-gaming-curbs-sending-tech-stocks-tumbling-20231222/7408496.html">
+<h4 class="media-block__title media-block__title--size-4" title="中国推出新的网络游戏限制措施，导致科技股暴跌">
+中国推出新的网络游戏限制措施，导致科技股暴跌
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="region">
+<div class="media-block-wrap js-widget-switcher hidden" id="wrowblock-25480_21" data-area-id=R1_1>
+<h2 class="section-head">
+<a href="/p/3854.html"><span class="ico ico-chevron-forward pull-right flip"></span>VOA卫视(直播)</a> </h2>
+<div class="media-block first-item size-2"
+data-widget-id="31004" data-widget-r-interval="60" data-widget-type="1">
+<div data-widget-role="primaryWidgetWrapper"
+data-player-hidden-by-default="true">
+<div class="media-pholder media-pholder--video ">
+<div class="c-sticky-container" data-poster="https://gdb.voanews.com/01000000-0aff-0242-c3b9-08dbd8f7db7c_w250_r1_s.png">
+<div class="c-sticky-element" data-sp_api="pangea-video" data-persistent data-persistent-browse-out data-ls-widget-autoplayed=true>
+<div class="c-mmp c-mmp--disabled c-mmp--loading c-mmp--video c-mmp--standard c-mmp--has-poster c-mmp--live c-mmp--cannot-play c-sticky-element__swipe-el"
+data-player_id="" data-title="" data-hide-title="False"
+data-breakpoint_s="320" data-breakpoint_m="640" data-breakpoint_l="992"
+data-hlsjs-src="/Scripts/responsive/hls.b"
+data-bypass-dash-for-vod="true"
+data-bypass-dash-for-live-video="true"
+data-bypass-dash-for-live-audio="false">
+<div class="c-mmp__poster js-poster c-mmp__poster--video">
+<img src="https://gdb.voanews.com/01000000-0aff-0242-c3b9-08dbd8f7db7c_w250_r1_s.png" />
+</div>
+<a class="c-mmp__fallback-link" href="javascript:void(0)">
+<span class="c-mmp__fallback-link-icon">
+<span class="ico ico-play"></span>
+</span>
+</a>
+<div class="c-spinner">
+<img src="/Content/responsive/img/player-spinner.png" alt="请稍等" title="请稍等" />
+</div>
+<span class="c-mmp__big_play_btn js-btn-play-big">
+<span class="ico ico-play"></span>
+</span>
+<div class="c-mmp__player">
+<video poster="https://gdb.voanews.com/01000000-0aff-0242-c3b9-08dbd8f7db7c_w250_r1_s.png" src="about:blank" data-fallbacksrc="" data-fallbacktype="" data-type="" data-info="" data-sources="" data-lt-on-play="0" data-lt-url="" data-autoplay data-muted webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%" title="" data-sdkadaptive="true" data-sdkamp="false" data-sdktitle="" data-sdkvideo="html5" data-sdkid="133" data-sdktype="Video Live Stream">
+</video>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
+<span class="c-mmp__overlay-actions c-mmp__overlay-actions-top js-overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">嵌入</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">分享</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close-sticky c-sticky-element__close-el" title="关闭">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-title js-overlay-title">
+<h5 class="c-mmp__overlay-media-title">
+<a class="js-media-title-link" href="/t/133.html" target="_blank" rel="noopener"></a>
+</h5>
+</div>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--sharing c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__sharing-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">嵌入</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">分享</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-tabs">
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.voachinese.com/embed/player/1/133.html?type=video" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
+代码已经复制到剪贴板。
+</div>
+<div class="c-mmp__form-group ta-c">
+<input type="text" name="embed_code" class="c-mmp__input-text js-embed-code" dir="ltr" value="" readonly />
+<span class="c-mmp__input-btn js-btn-copy-embed-code" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
+</div>
+<hr class="c-mmp__separator-line" />
+<div class="c-mmp__form-group ta-c">
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="宽度">宽度</span>
+<input type="text" title="宽度" value="640" data-default="640" dir="ltr" name="embed_width" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-width" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="高度">高度</span>
+<input type="text" title="高度" value="360" data-default="360" dir="ltr" name="embed_height" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-height" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+</div>
+</div>
+</div>
+</div>
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-forward js-tab-sharing-overlay" data-trigger="js-btn-sharing-overlay" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="not-apply-to-sticky audio-fl-bwd">
+<aside class="player-content-share share share--mmp"
+>
+<ul class="share__list">
+<li class="share__item">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2ft%2f133.html"
+data-analytics-text="share_on_facebook"
+title="分享到脸书" target="_blank"
+class="btn bg-transparent btn-facebook js-social-btn">
+<span class="ico fs-xl ico-facebook "></span>
+<span class="btn__text sr-only">分享到脸书</span>
+</a>
+<span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2ft%2f133.html&amp;text=&amp;via=voachinese "
+data-analytics-text="share_on_twitter"
+title="分享到推特" target="_blank"
+class="btn bg-transparent btn-twitter js-social-btn">
+<span class="ico fs-xl ico-twitter "></span>
+<span class="btn__text sr-only">分享到推特</span>
+</a>
+<span class="share__count shares__twitter share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn bg-transparent btn--show-more hidden">
+<span class="ico fs-xl ico-ellipsis "></span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a href="/t/133.html" title="分享" class="btn bg-transparent" target="_blank" rel="noopener">
+<span class="ico ico-ellipsis "></span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+<hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
+<div class="c-mmp__status-msg ta-c js-message-share-url-copied" role="tooltip">
+网址已复制到剪贴板
+</div>
+<div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
+<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.voachinese.com/t/133.html" dir="ltr" readonly />
+<span class="c-mmp__input-btn js-btn-copy-share-url" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--settings c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__settings-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column column--scrolling js-sources"></div>
+</div>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--disabled js-c-mmp__disabled-overlay">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<p class="ta-c"><span class="ico ico-clock"></span>没有现场直播</p>
+</div>
+</div>
+</div>
+<div class="c-mmp__cpanel-container js-cpanel-container">
+<div class="c-mmp__cpanel c-mmp__cpanel--hidden">
+<div class="c-mmp__cpanel-playback-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--play js-btn-play" title="播放">
+<span class="ico ico-play m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--pause js-btn-pause" title="暂停">
+<span class="ico ico-pause m-0"></span>
+</span>
+</div>
+<div class="c-mmp__cpanel-progress-controls">
+<span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">0:00</span>
+<span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
+<span class="c-mmp__indicator-lines js-progressbar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--tracked js-playback-tracked" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
+<span class="c-mmp__indicator-btn ta-c js-progressbar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+<span class="c-mmp__badge c-mmp__badge--tracked-time c-mmp__badge--hidden js-progressbar-indicator-badge" dir="ltr" style="left:0%">
+<span class="c-mmp__badge-text js-progressbar-indicator-badge-text">0:00</span>
+</span>
+</span>
+</span>
+<span class="c-mmp__badge c-mmp__badge--live">直播</span>
+</div>
+<div class="c-mmp__cpanel-additional-controls">
+<span class="c-mmp__cpanel-additional-controls-volume js-volume-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--volume js-btn-volume" title="音量">
+<span class="ico ico-volume-unmuted m-0"></span>
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--vertical js-volume-panel" dir="ltr">
+<span class="c-mmp__indicator-lines js-volumebar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-volume-range" style="height:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--volume js-volume-level" style="height:0%"></span>
+<span class="c-mmp__indicator-slider">
+<span class="c-mmp__indicator-btn ta-c c-mmp__indicator-btn--hidden js-volumebar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+</span>
+</span>
+</span>
+</span>
+<div class="c-mmp__cpanel-additional-controls-settings js-settings-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-overlay js-btn-settings-overlay" title="更换播放源">
+<span class="ico ico-settings m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-expand js-btn-settings-expand" title="更换播放源">
+<span class="ico ico-settings m-0"></span>
+</span>
+<div class="c-mmp__expander c-mmp__expander--sources js-c-mmp__expander--sources">
+<div class="c-mmp__expander-content js-sources"></div>
+</div>
+</div>
+<a href="/embed/player/Tube/133.html?type=video&amp;FullScreenMode=True" target="_blank" rel="noopener" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="全屏">
+<span class="ico ico-fullscreen m-0"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h4 class="media-block__title">
+<span class="badge badge--live">直播</span>
+<span class="title">10/30 【时事大家谈】李克强之死引爆舆情，会不会激起民变？反恐vs人道，该如何看以色列的加沙战争？</span>
+</h4>
+</div>
+</div><a class="link-more" href="https://www.youtube.com/voachina" onclick="window.open(&#39;https://www.youtube.com/voachina&#39;);return false;" target="_blank">欢迎在YouTube直播聊天室参与节目讨论</a>
+</div>
+<div class="media-block-wrap" id="wrowblock-23513_21" data-area-id=R2_1>
+<h2 class="section-head">
+<a href="/z/7483"><span class="ico ico-chevron-forward pull-right flip"></span>越洋电话：“抗争者”</a> </h2>
+<div class="podcast-wg">
+<div class="podcast-wg__mmp-player" data-src="/podcast/player/7417932/134217728/412/638395308000000000"></div>
+<div class="podcast-wg__player pos-rel podcast-wg__player--full">
+<div class="img-wrap podcast-wg__player-img-w">
+<div class="thumb thumb1_1">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/01000000-0aff-0242-c86a-08db523cfae2_w50_r5.jpg" alt="越洋电话" />
+</noscript>
+<img data-src="https://gdb.voanews.com/01000000-0aff-0242-c86a-08db523cfae2_w50_r5.jpg" src="" class="" alt="越洋电话" />
+</div>
+</div>
+<div class="podcast-wg__overlay-content pos-abs">
+<span class="ico ico-audio-rounded podcast-wg__player-ico podcast-wg__player-ico--play podcast-wg__player-ico--swirl-in"></span>
+<span class="ico ico-pause-rounded podcast-wg__player-ico podcast-wg__player-ico--pause podcast-wg__player-ico--swirl-out"></span>
+<span class="podcast-wg__player-ico podcast-wg__player-ico--load"></span>
+</div>
+</div>
+<div class="podcast-wg__label ta-c">最新节目</div>
+<a class="podcast-wg__link" href="/a/7417932.html" title="越洋电话：“少数派” - 三十周年国庆那天，我们在北京搞了场抗议游行">
+<div class="podcast-wg__title ta-c">越洋电话：“少数派” - 三十周年国庆那天，我们在北京搞了场抗议游行</div>
+</a>
+<a class="podcast-wg__link" href="/z/7483" title="越洋电话">
+<div class="podcast-wg__zone-title ta-c">越洋电话</div>
+</a>
+<div class="podcast-sub">
+<div class="podcast-sub__btn-outer podcast-sub__btn-outer--widget">
+<a class="btn podcast-sub__sub-btn--widget podcast-sub__sub-btn" href="/podcast/sublink/7483" rel="noopener" target="_blank" title="订阅">
+<span class="btn__text">
+订阅
+</span>
+</a>
+</div>
+<div class="podcast-sub__overlay">
+<div class="podcast-sub__modal-outer d-flex">
+<div class="podcast-sub__modal">
+<div class="podcast-sub__modal-top">
+<div class="img-wrap podcast-sub__modal-top-img-w">
+<div class="thumb thumb1_1">
+<img data-src="https://gdb.voanews.com/01000000-0aff-0242-c86a-08db523cfae2_w50_r5.jpg" alt="越洋电话" />
+</div>
+</div>
+<div class="podcast-sub__modal-top-ico">
+<span class="ico ico-close"></span>
+</div>
+<h3 class="title podcast-sub__modal-title">订阅</h3>
+</div>
+<a class="podcast-sub__modal-link podcast-sub__modal-link--apple" href="https://podcasts.apple.com/us/podcast/越洋电话-美国之音/id1687732813" target="_blank" rel="noopener">
+<span class="ico ico-apple-podcast"></span>
+Apple Podcasts
+</a>
+<a class="podcast-sub__modal-link podcast-sub__modal-link--google" href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudm9hY2hpbmVzZS5jb20vcG9kY2FzdC8_em9uZUlkPTc0ODM" target="_blank" rel="noopener">
+<span class="ico ico-google-podcast"></span>
+Google Podcasts
+</a>
+<a class="podcast-sub__modal-link podcast-sub__modal-link--spotify" href="https://open.spotify.com/show/04iflSSqnnyGtosXj9vh2P" target="_blank" rel="noopener">
+<span class="ico ico-spotify"></span>
+Spotify
+</a>
+<a class="podcast-sub__modal-link podcast-sub__modal-link--youtube" href="https://youtube.com/playlist?list=PL2CGrIfYxHqVDGHhJjJ87UxRTrd77aI1j" target="_blank" rel="noopener">
+<span class="ico ico-youtube"></span>
+YouTube
+</a>
+<a class="podcast-sub__modal-link podcast-sub__modal-link--rss" href="/podcast/?zoneId=7483" target="_blank" rel="noopener">
+<span class="ico ico-podcast"></span>
+订阅
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="media-block-wrap" id="wrowblock-3646_21" data-area-id=R5_1>
+<h2 class="section-head">
+最新报道 </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/china-conducts-patrols-in-south-china-sea-amid-ongoing-run-ins-20240103/7425200.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="南中国海紧张再度升温：美菲联合巡逻，中国海空兵“例行巡航”">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/0AD50FA7-9577-4883-977D-03BEE4112FF9_w100_r1.jpg" alt="南中国海诸岛位置示意图" />
+</noscript>
+<img data-src="https://gdb.voanews.com/0AD50FA7-9577-4883-977D-03BEE4112FF9_w33_r1.jpg" src="" alt="南中国海诸岛位置示意图" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/china-conducts-patrols-in-south-china-sea-amid-ongoing-run-ins-20240103/7425200.html">
+<h4 class="media-block__title media-block__title--size-4" title="南中国海紧张再度升温：美菲联合巡逻，中国海空兵“例行巡航”">
+南中国海紧张再度升温：美菲联合巡逻，中国海空兵“例行巡航”
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/killed-in-blasts-at-gravesite-of-iranian-general-killed-in-2020-us-drone-strike-20240103/7425179.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="被刺杀伊朗革命卫队前指挥官纪念仪式上发生爆炸，逾百人死亡">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/01000000-c0a8-0242-949d-08dc0c74a3a5_w100_r1.jpg" alt="伊朗革命卫队精锐圣城旅前指挥官卡西姆&#183;苏莱曼尼（Qassem Soleimani）墓地1月3日举行的周年纪念活动上发生炸弹爆炸，100多人死亡。" />
+</noscript>
+<img data-src="https://gdb.voanews.com/01000000-c0a8-0242-949d-08dc0c74a3a5_w33_r1.jpg" src="" alt="伊朗革命卫队精锐圣城旅前指挥官卡西姆&#183;苏莱曼尼（Qassem Soleimani）墓地1月3日举行的周年纪念活动上发生炸弹爆炸，100多人死亡。" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/killed-in-blasts-at-gravesite-of-iranian-general-killed-in-2020-us-drone-strike-20240103/7425179.html">
+<h4 class="media-block__title media-block__title--size-4" title="被刺杀伊朗革命卫队前指挥官纪念仪式上发生爆炸，逾百人死亡">
+被刺杀伊朗革命卫队前指挥官纪念仪式上发生爆炸，逾百人死亡
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/foreign-funds-accelerated-china-equity-sell-off-in-december-20240103/7425143.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="2023年底外国资本加速逃离中国，东南亚成为国际大投行新宠&#160;">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/01000000-0aff-0242-a036-08dc07a315c5_w100_r1.jpg" alt="北京一条商业街上的星巴克咖啡店（2023年12月23日）" />
+</noscript>
+<img data-src="https://gdb.voanews.com/01000000-0aff-0242-a036-08dc07a315c5_w33_r1.jpg" src="" alt="北京一条商业街上的星巴克咖啡店（2023年12月23日）" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/foreign-funds-accelerated-china-equity-sell-off-in-december-20240103/7425143.html">
+<h4 class="media-block__title media-block__title--size-4" title="2023年底外国资本加速逃离中国，东南亚成为国际大投行新宠&#160;">
+2023年底外国资本加速逃离中国，东南亚成为国际大投行新宠&#160;
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="media-block-wrap" id="wrowblock-10581_21" data-area-id=R6_1>
+<h2 class="section-head">
+<a href="https://www.youtube.com/user/voachina"><span class="ico ico-chevron-forward pull-right flip"></span>VOA卫视最新视频</a> </h2>
+<div class="media-block">
+<div class="media-pholder media-pholder--video ">
+<div class="c-sticky-container" data-poster="https://gdb.voanews.com/01000000-c0a8-0242-0340-08dc0c559eb7_w250_r1_s.png">
+<div class="c-sticky-element" data-sp_api="pangea-video" data-persistent data-persistent-browse-out >
+<div class="c-mmp c-mmp--enabled c-mmp--loading c-mmp--video c-mmp--standard c-mmp--has-poster c-sticky-element__swipe-el"
+data-player_id="" data-title="时事大家谈：台湾总统大选倒计时--军事篇" data-hide-title="False"
+data-breakpoint_s="320" data-breakpoint_m="640" data-breakpoint_l="992"
+data-hlsjs-src="/Scripts/responsive/hls.b"
+data-bypass-dash-for-vod="true"
+data-bypass-dash-for-live-video="true"
+data-bypass-dash-for-live-audio="false">
+<div class="c-mmp__poster js-poster c-mmp__poster--video">
+<img src="https://gdb.voanews.com/01000000-c0a8-0242-0340-08dc0c559eb7_w250_r1_s.png" alt="时事大家谈：台湾总统大选倒计时--军事篇" title="时事大家谈：台湾总统大选倒计时--军事篇" />
+</div>
+<a class="c-mmp__fallback-link" href="https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_240p.mp4">
+<span class="c-mmp__fallback-link-icon">
+<span class="ico ico-play"></span>
+</span>
+</a>
+<div class="c-spinner">
+<img src="/Content/responsive/img/player-spinner.png" alt="请稍等" title="请稍等" />
+</div>
+<span class="c-mmp__big_play_btn js-btn-play-big">
+<span class="ico ico-play"></span>
+</span>
+<div class="c-mmp__player">
+<video poster="https://gdb.voanews.com/01000000-c0a8-0242-0340-08dc0c559eb7_w250_r1_s.png" src="https://voa-video-hls-ns.akamaized.net/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_master.m3u8" data-fallbacksrc="https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c.mp4" data-fallbacktype="video/mp4" data-type="application/x-mpegURL" data-info="Auto" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_240p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_240p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;240p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;360p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_480p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_480p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;480p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_720p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_720p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;720p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_1080p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2024/01/3/31/31a55089-f018-43e4-9f11-450e0161110c_1080p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;1080p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="0" data-lt-url="" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%" title="时事大家谈：台湾总统大选倒计时--军事篇" data-sdkadaptive="true" data-sdkamp="false" data-sdktitle="时事大家谈：台湾总统大选倒计时--军事篇" data-sdkvideo="html5" data-sdkid="7424976" data-sdktype="Video ondemand">
+</video>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
+<span class="c-mmp__overlay-actions c-mmp__overlay-actions-top js-overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">嵌入</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">分享</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close-sticky c-sticky-element__close-el" title="关闭">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-title js-overlay-title">
+<h5 class="c-mmp__overlay-media-title">
+<a class="js-media-title-link" href="/a/7424976.html" target="_blank" rel="noopener" title="时事大家谈：台湾总统大选倒计时--军事篇">时事大家谈：台湾总统大选倒计时--军事篇</a>
+</h5>
+</div>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--sharing c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__sharing-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">嵌入</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">分享</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-tabs">
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.voachinese.com/embed/player/0/7424976.html?type=video" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
+代码已经复制到剪贴板。
+</div>
+<div class="c-mmp__form-group ta-c">
+<input type="text" name="embed_code" class="c-mmp__input-text js-embed-code" dir="ltr" value="" readonly />
+<span class="c-mmp__input-btn js-btn-copy-embed-code" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
+</div>
+<hr class="c-mmp__separator-line" />
+<div class="c-mmp__form-group ta-c">
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="宽度">宽度</span>
+<input type="text" title="宽度" value="640" data-default="640" dir="ltr" name="embed_width" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-width" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="高度">高度</span>
+<input type="text" title="高度" value="360" data-default="360" dir="ltr" name="embed_height" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-height" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+</div>
+</div>
+</div>
+</div>
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-forward js-tab-sharing-overlay" data-trigger="js-btn-sharing-overlay" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="not-apply-to-sticky audio-fl-bwd">
+<aside class="player-content-share share share--mmp"
+>
+<ul class="share__list">
+<li class="share__item">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2f7424976.html"
+data-analytics-text="share_on_facebook"
+title="分享到脸书" target="_blank"
+class="btn bg-transparent btn-facebook js-social-btn">
+<span class="ico fs-xl ico-facebook "></span>
+<span class="btn__text sr-only">分享到脸书</span>
+</a>
+<span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2f7424976.html&amp;text=%e6%97%b6%e4%ba%8b%e5%a4%a7%e5%ae%b6%e8%b0%88%ef%bc%9a%e5%8f%b0%e6%b9%be%e6%80%bb%e7%bb%9f%e5%a4%a7%e9%80%89%e5%80%92%e8%ae%a1%e6%97%b6--%e5%86%9b%e4%ba%8b%e7%af%87&amp;via=voachinese "
+data-analytics-text="share_on_twitter"
+title="分享到推特" target="_blank"
+class="btn bg-transparent btn-twitter js-social-btn">
+<span class="ico fs-xl ico-twitter "></span>
+<span class="btn__text sr-only">分享到推特</span>
+</a>
+<span class="share__count shares__twitter share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn bg-transparent btn--show-more hidden">
+<span class="ico fs-xl ico-ellipsis "></span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a href="/a/7424976.html" title="分享" class="btn bg-transparent" target="_blank" rel="noopener">
+<span class="ico ico-ellipsis "></span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+<hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
+<div class="c-mmp__status-msg ta-c js-message-share-url-copied" role="tooltip">
+网址已复制到剪贴板
+</div>
+<div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
+<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.voachinese.com/a/7424976.html" dir="ltr" readonly />
+<span class="c-mmp__input-btn js-btn-copy-share-url" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--settings c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__settings-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column column--scrolling js-sources"></div>
+</div>
+</div>
+<div class="c-mmp__overlay c-mmp__overlay--disabled js-c-mmp__disabled-overlay">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<p class="ta-c"><span class="ico ico-clock"></span>没有媒体可用资源</p>
+</div>
+</div>
+</div>
+<div class="c-mmp__cpanel-container js-cpanel-container">
+<div class="c-mmp__cpanel c-mmp__cpanel--hidden">
+<div class="c-mmp__cpanel-playback-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--play js-btn-play" title="播放">
+<span class="ico ico-play m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--pause js-btn-pause" title="暂停">
+<span class="ico ico-pause m-0"></span>
+</span>
+</div>
+<div class="c-mmp__cpanel-progress-controls">
+<span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">0:00</span>
+<span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
+0:20:29
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
+<span class="c-mmp__indicator-lines js-progressbar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--tracked js-playback-tracked" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
+<span class="c-mmp__indicator-btn ta-c js-progressbar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+<span class="c-mmp__badge c-mmp__badge--tracked-time c-mmp__badge--hidden js-progressbar-indicator-badge" dir="ltr" style="left:0%">
+<span class="c-mmp__badge-text js-progressbar-indicator-badge-text">0:00</span>
+</span>
+</span>
+</span>
+</div>
+<div class="c-mmp__cpanel-additional-controls">
+<span class="c-mmp__cpanel-additional-controls-volume js-volume-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--volume js-btn-volume" title="音量">
+<span class="ico ico-volume-unmuted m-0"></span>
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--vertical js-volume-panel" dir="ltr">
+<span class="c-mmp__indicator-lines js-volumebar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-volume-range" style="height:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--volume js-volume-level" style="height:0%"></span>
+<span class="c-mmp__indicator-slider">
+<span class="c-mmp__indicator-btn ta-c c-mmp__indicator-btn--hidden js-volumebar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+</span>
+</span>
+</span>
+</span>
+<div class="c-mmp__cpanel-additional-controls-settings js-settings-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-overlay js-btn-settings-overlay" title="更换播放源">
+<span class="ico ico-settings m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-expand js-btn-settings-expand" title="更换播放源">
+<span class="ico ico-settings m-0"></span>
+</span>
+<div class="c-mmp__expander c-mmp__expander--sources js-c-mmp__expander--sources">
+<div class="c-mmp__expander-content js-sources"></div>
+</div>
+</div>
+<a href="/embed/player/Article/7424976.html?type=video&amp;FullScreenMode=True" target="_blank" rel="noopener" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="全屏">
+<span class="ico ico-fullscreen m-0"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="media-block__content">
+<a href="/a/7424976.html" >
+<h4 class="media-block__title media-block__title--size-2">
+时事大家谈：台湾总统大选倒计时--军事篇 </h4>
+</a>
+</div>
+</div>
+</div>
+<div class="media-block-wrap" id="wrowblock-10229_21" data-area-id=R7_1>
+<h2 class="section-head">
+美国之音中文节目预告 </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<div class="media-block__content">
+<h4 class="media-block__title media-block__title--size-4" title="1/3【时事大家谈】台湾总统大选倒计时--两岸篇；台湾总统大选倒计时--军事篇 &#160;嘉宾：台湾中华亚太菁英交流协会王智盛;台湾国际法学会副秘书长林廷辉. 主持人：樊冬宁">
+1/3【时事大家谈】台湾总统大选倒计时--两岸篇；台湾总统大选倒计时--军事篇 &#160;嘉宾：台湾中华亚太菁英交流协会王智盛;台湾国际法学会副秘书长林廷辉. 主持人：樊冬宁
+</h4>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="media-block-wrap" id="wrowblock-3647_21" data-area-id=R8_1>
+<h2 class="section-head">
+七天以来最受关注内容 </h2>
+<div class="row trends-wg">
+<a href="/a/yearender-2023-xi-powerful-and-impotent-at-once-20231206/7387110.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<span class="trends-wg__item-inner">
+<span class="trends-wg__item-number">1</span>
+<h4 class="trends-wg__item-txt">
+2023，习近平展示有力和无能的一年
+</h4>
+</span>
+</a>
+<a href="/a/china-removes-official-after-video-games-rules-spark-turmoil-sources-20240102/7422109.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<span class="trends-wg__item-inner">
+<span class="trends-wg__item-number">2</span>
+<h4 class="trends-wg__item-txt">
+路透社：中国电子游戏新规引发市场动荡后，中宣部官员被免职
+</h4>
+</span>
+</a>
+<a href="/a/protests-rage-in-henan-against-death-of-14-year--old-student-123023/7418465.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<span class="trends-wg__item-inner">
+<span class="trends-wg__item-number">3</span>
+<h4 class="trends-wg__item-txt">
+河南中学生校内暴毙 民众质疑当局粗暴处理触发大规模示威
+</h4>
+</span>
+</a>
+<a href="/a/china-s-economic-downturn-personal-struggles-for-workers-and-businesses-20231229/7417575.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<span class="trends-wg__item-inner">
+<span class="trends-wg__item-number">4</span>
+<h4 class="trends-wg__item-txt">
+从农民工和牛肉面看中国经济的颓败
+</h4>
+</span>
+</a>
+<a href="/a/li-qiang-is-probably-the-most-powerless-premiere-in-chinese-history-so-far-20231222/7409249.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<span class="trends-wg__item-inner">
+<span class="trends-wg__item-number">5</span>
+<h4 class="trends-wg__item-txt">
+李强和李克强，哪个中国总理更弱？
+</h4>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="slide-in-wg suspended" data-cookie-id="wgt-32344-0">
+<div class="wg-hiding-area">
+<span class="ico ico-arrow-right"></span>
+<div class="media-block-wrap">
+<h2 class="section-head">推荐</h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/foreign-funds-accelerated-china-equity-sell-off-in-december-20240103/7425143.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="2023年底外国资本加速逃离中国，东南亚成为国际大投行新宠&#160;">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/01000000-0aff-0242-a036-08dc07a315c5_w100_r1.jpg" alt="北京一条商业街上的星巴克咖啡店（2023年12月23日）" />
+</noscript>
+<img data-src="https://gdb.voanews.com/01000000-0aff-0242-a036-08dc07a315c5_w33_r1.jpg" src="" alt="北京一条商业街上的星巴克咖啡店（2023年12月23日）" class=""/>
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/foreign-funds-accelerated-china-equity-sell-off-in-december-20240103/7425143.html">
+<h4 class="media-block__title media-block__title--size-4" title="2023年底外国资本加速逃离中国，东南亚成为国际大投行新宠&#160;">
+2023年底外国资本加速逃离中国，东南亚成为国际大投行新宠&#160;
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="btn pos-abs p-0 lazy-scroll-load" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#ymla-section" data-ajax-url="/part/section/5/8802" href="/p/8802.html" loadonce="true" title="更多报道">​</a> <div id="ymla-section" class="clear ymla-section"></div>
+</div>
+<div class="back-to-top-nav disabled visible-xs">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<a title="回页顶" class="back-to-top-link" href="#page">
+<span class="ico ico-chevron-up"></span>
+<span class="text">回页顶</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer role="contentinfo">
+<div id="foot" class="foot">
+<div class="container">
+<div class="foot-nav collapsed" id="foot-nav">
+<div class="menu">
+<ul class="items">
+<li class="socials block-socials">
+<span class="handler" id="socials-handler">
+关注我们
+</span>
+<div class="inner">
+<ul class="subitems follow">
+<li>
+<a href="https://www.facebook.com/voachinese" title="在脸书关注我们" data-analytics-text="follow_on_facebook" class="btn btn--rounded js-social-btn btn-facebook" target="_blank" rel="noopener">
+<span class="ico ico-facebook-alt ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/voachinese" title="在推特上关注我们" data-analytics-text="follow_on_twitter" class="btn btn--rounded js-social-btn btn-twitter" target="_blank" rel="noopener">
+<span class="ico ico-twitter ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/voachinese" title="在YouTube上关注我们" data-analytics-text="follow_on_youtube" class="btn btn--rounded js-social-btn btn-youtube" target="_blank" rel="noopener">
+<span class="ico ico-youtube ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://t.me/voachinese" title="在Telegram上关注我们" data-analytics-text="follow_on_telegram" class="btn btn--rounded js-social-btn btn-telegram" target="_blank" rel="noopener">
+<span class="ico ico-telegram ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/voachinese/" title="在Instagram上关注我们" data-analytics-text="follow_on_instagram" class="btn btn--rounded js-social-btn btn-instagram" target="_blank" rel="noopener">
+<span class="ico ico-instagram ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="http://bit.ly/VOAgooglenews" title="欢迎通过&quot;谷歌新闻&quot;关注@美国之音中文网 - VOA Mandarin" data-analytics-text="follow_on_google_news" class="btn btn--rounded js-social-btn btn-g-news" target="_blank" rel="noopener">
+<span class="ico ico-google-news ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/rssfeeds" title="聚合新闻" data-analytics-text="follow_on_rss" class="btn btn--rounded js-social-btn btn-rss" >
+<span class="ico ico-rss ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/podcasts" title="播客" data-analytics-text="follow_on_podcast" class="btn btn--rounded js-social-btn btn-podcast" >
+<span class="ico ico-podcast ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/subscribe.html" title="订阅电邮新闻、英语学习教材" data-analytics-text="follow_on_subscribe" class="btn btn--rounded js-social-btn btn-email" >
+<span class="ico ico-email ico--rounded"></span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+网上服务
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="添加" class="ico ico-plus"></span>
+<span title="清除" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="http://bit.ly/dianyou" title="订阅电邮新闻/英语教材" >订阅电邮新闻/英语教材</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.voachinese.com/p/5897.html" title="美国之音应用程序简介" >美国之音应用程序简介</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.voachinese.com/p/program-schedule.html" title="电视广播节目表和频率表" >电视广播节目表和频率表</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+卫星信息
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="添加" class="ico ico-plus"></span>
+<span title="清除" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5985.html" title="通过卫星收看VOA卫视" >通过卫星收看VOA卫视</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5869.html" title="如何收听VOA短波广播" >如何收听VOA短波广播</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-secondary collapsed collapsible item">
+<span class="handler">
+其他信息
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="添加" class="ico ico-plus"></span>
+<span title="清除" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/3862.html" title="关于美国之音" >关于美国之音</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/3848.html" title="联系我们" >联系我们</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.voachinese.com/p/7969.html" title="VOA+" target="_blank" rel="noopener">VOA+</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5946.html" title="美国之音宪章" >美国之音宪章</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/3874.html" title="条款及私隐政策" >条款及私隐政策</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.usagm.gov/" title="美国全球媒体总署" target="_blank" rel="noopener">美国全球媒体总署</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://editorials.voa.gov/p/7409.html" title="社论" target="_blank" rel="noopener">社论</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.voacantonese.com" title="美國之音粵語網" target="_blank" rel="noopener">美國之音粵語網</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.voanews.com" title="VOA English" >VOA English</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.voatibetan.com/" title="བོད་ཡིག" target="_blank" rel="noopener">བོད་ཡིག</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.insidevoa.com/" title="Media Relations" target="_blank" rel="noopener">Media Relations</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.voanews.com/section-508" title="Accessibility" target="_blank" rel="noopener">Accessibility</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://www.rfa.org" title="自由亚洲网站" target="_blank" rel="noopener">自由亚洲网站</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot__item foot__item--copyrights">
+<p class="copyright"></p>
+<p class="time-zone">中国时间</p>
+</div>
+</div>
+</div>
+</footer> </div>
+</div>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+var isPreview = (/[\&\?](previewId|design)=/).test(window.location.href);
+if(!isPreview) {
+var OneSignal = window.OneSignal || [];
+OneSignal.push(function() {
+OneSignal.init({
+appId: "e3128c24-329b-4e11-80d5-19975cb195d9",
+});
+});
+}
+</script> <script type="text/javascript">
+// register service worker if supported
+// Service-worker file needs to exist in root folder, because it defines its scope = it can intercept only requests below it in the tree structure
+var isPreview = (/[\&\?](previewId|design)=/).test(window.location.href);
+if (!isPreview) {
+window.addEventListener('load', function () {
+if ('serviceWorker' in navigator && (pwaEnabled || typeof OneSignal != 'undefined' || !swCacheDisabled)) {
+var sw = '/OneSignalSDKWorker.js';
+if (typeof OneSignal != 'undefined' && OneSignal.config) {
+sw = sw + '?appId=' + OneSignal.config.appId;
+}
+if (pwaEnabled) {
+sw = sw.indexOf('?') > -1 ? sw + '&pwa=true' : sw + '?pwa=true';
+}
+if (swCacheDisabled) {
+sw = sw.indexOf('?') > -1 ? sw + '&sw-cache-dis=true' : sw + '?sw-cache-dis=true';
+}
+navigator.serviceWorker.register(sw).then(function (registration) {
+console.log('ServiceWorker registration successful with scope: ', registration.scope);
+}, function (err) {
+console.log('ServiceWorker registration failed: ', err);
+});
+}
+});
+}
+</script>
+<script type="text/javascript">
+// opera mini - disable ico font
+if (navigator.userAgent.match(/Opera Mini/i)) {
+var bodyClass = document.getElementsByTagName("body")[0].className.replace("can-ff", "");
+document.getElementsByTagName("body")[0].className=bodyClass;
+}
+// mobile browsers test
+if (typeof RFE !== 'undefined') {
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
+}
+</script>
+<script src="/conf.js?x=272" type="text/javascript"></script>
+<div class="responsive-indicator">
+<div class="visible-xs-block">XS</div>
+<div class="visible-sm-block">SM</div>
+<div class="visible-md-block">MD</div>
+<div class="visible-lg-block">LG</div>
+</div>
+<script type="text/javascript">
+var bar_data = {
+"apiId": "7422109",
+"apiType": "1",
+"isEmbedded": "0",
+"culture": "zh-CN",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.voachinese.com"
+};
+</script>
+<div id="scriptLoaderTarget" style="display:none;contain:strict;"></div>
+</body>
+</html>
