@@ -192,8 +192,8 @@ problème de l'année dernière envoyer un mail au prof
 
 ## TO DO
 - [X] script contexte par langue DONE 
-- [ ] grep "jeux" 
-- [ ] prétraitement de jeux/jeu // game/games avec script des profs coocurents.py 
+- [X] grep "jeux" 
+- [X] prétraitement de jeux/jeu // game/games avec script des profs coocurents.py 
 - [X] rajouter boucle dans dump éviter erreurs 404 DONE
 test si $response == "200"
 ```
@@ -212,7 +212,8 @@ et peut mettre `$dump` et $nbroccurences à 0 pour que ce ne soit pas remplacer 
 - [X] grep -C suivi du nombre de ligne = contexte de l'occurence 
 - [ ] Concordancier à améliorer 
 accent considéré comme _ avec \-Wsegmentation
-- [ ] prétraitement (script dump) pour jeux
+- [X] prétraitement (script dump) pour jeux
+
 - [ ] hypothése choix de mot 
 - [ ] infirmer/affirmer not hypothèses dans pages résultats 
 - [ ] iconv en UTF-8 pour Fr et Ch 
@@ -220,6 +221,9 @@ accent considéré comme _ avec \-Wsegmentation
 - [ ] nuage de mot 
 
 - [ ] vérifier que chaque lien marche 
-- [ ] chacun doit avoir commit au minimum une fois 
-- [ ] mail au prof pour que Siman soit collaboratrice (pb d'identification) // mettre capture d'écran des commits 
+- [X] chacun doit avoir commit au minimum une fois 
+- [X] mail au prof pour que Siman soit collaboratrice (pb d'identification) // mettre capture d'écran des commits 
 
+- [ ] regarder coocurents /script des profs coocurences.sh/ et commandes dans programmes
+- [ ] bannières ou fond ? / mot dans la bannière ? 
+- [ ] 
