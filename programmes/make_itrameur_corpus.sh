@@ -27,12 +27,11 @@ do
 
 	if [[ $BASEF =~ $LANGUE\- ]]
 	then
-		contenu=$(cat $DOSSIER/$FICHIER | sed -e 's/&/&amp/g ; s/>/&gt/g ; s/</&lt/g')
+		contenu=$(cat $DOSSIER/$FICHIER | sed -e 's/&/&amp/g ; s/>/&gt/g ; s/</&lt/g ; s/jeu\b/JEU/gI ; s/jeux/JEU/gI ; s/JEU-/JEU /gI ; s/-JEU/ JEU/gI ; s/game\b/GAME/gI ; s/games/GAME/gI')
 		echo -e "\n<page=\"${LANGUE}-${lineno}\">\n<text>\n${contenu}\n</text>\n</page> §\n" >> "../itrameur/${BASED}-${LANGUE}.txt"
 
-	lineno=$(expr $lineno + 1)
+		lineno=$(expr $lineno + 1)
 	fi
-
 done
 
 echo -e "</lang>" >> "../itrameur/${BASED}-${LANGUE}.txt"
