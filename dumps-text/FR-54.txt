@@ -1,0 +1,254 @@
+
+   [logo-large.svg] [close.svg]
+   Politique arrow-down
+     * Sondage
+     * Assemblée nationale
+     * Réforme des retraites
+     * Emmanuel Macron
+     * Elections européennes 2024
+
+   France arrow-down
+     * Emploi
+     * JO Paris 2024
+     * Impôt
+     * Immobilier
+     * Faits divers
+     * Transport
+     * Économie
+     * Police
+     * Santé
+     * Justice
+     * Terrorisme
+
+   International arrow-down
+     * Etats-Unis
+     * Technologie
+     * Espace
+     * Guerre en Ukraine
+     * Asie
+     * Afrique
+     * Europe
+     * Science
+     * Covid-19
+     * Conflit israélo-palestinien
+
+   Environnement arrow-down
+     * Météo
+     * Énergies
+     * Changement climatique
+     * Ecologie
+     * Restriction d'eau
+     * Catastrophe naturelle
+     * Canicule
+     * Animaux
+
+   Life arrow-down
+     * Vie de couple
+     * LGBT+
+     * Psychologie
+     * Vie de bureau
+     * Bien-être
+     * Alimentation
+     * Femmes
+     * Parentalité
+     * Éducation
+     * Santé
+
+   Culture arrow-down
+     * Médias
+     * Mode
+     * Séries TV
+     * Musique
+     * Livre
+     * Cinéma
+     * Jeux vidéo
+
+   Divertissement arrow-down
+     * Sport
+     * NRJ Music Awards
+     * Réseaux sociaux
+     * People
+     * Télévision
+     * Insolite
+
+   Prise de parole arrow-down
+     * Témoignage
+     * Tribune
+
+   JO Paris 2024 arrow-down
+     * Flamme olympique
+     * Tony Estanguet
+     * Billets JO 2024
+     * Jeux Paralympiques 2024
+
+   Vidéos
+   Plus arrow-down
+     * En transit.ion
+     * Escapade en Valais
+     * La vie est belge
+
+   (BUTTON) [dropdown.svg] [logo-large.svg]
+   Politique France International Environnement Life Culture
+   Divertissement Prise de parole JO Paris 2024 Vidéos
+     * [dropdown.svg]
+     * [logo-large.svg] [logo-small.svg]
+
+   Politique France International Environnement Life Culture
+   Divertissement Prise de parole JO Paris 2024 Vidéos
+   Actualités 27/01/2016 19:05
+
+L'I.A. de Google a réussi à battre un champion de jeu de go (et c'est
+important)
+
+   Par Grégory Rozières
+     * [partage-facebook.svg]
+     * [partage-twitter.svg]
+     * [partage-pinterest.svg]
+     * [partage-linkedin.svg]
+     * [partage-email.svg]
+
+   Photo
+
+   TECHNO - Depuis 1997 et la victoire de Deep Blue, l'ordinateur d'IBM,
+   sur Garry Kasparov aux échecs, on pensait que l'ordinateur avait
+   définitivement défait l'homme dans les jeux de plateau. En réalité,
+   près de 20 ans après, il restait notamment un grand jeu, mondialement
+   célèbre, sur lequel l'humain était toujours meilleur que l'I.A
+   (intelligence artificielle).
+
+   Etait, car Google vient d'annoncer ce mercredi 27 janvier que sa
+   branche consacrée à l'I.A, DeepMind, a réussi à maîtriser le jeu de go.
+   Plus exactement, à battre Fan Hui, le joueur le plus fort d'Europe, 5 à
+   0. La création de ce programme fait également l'objet d'un article dans
+   Nature.
+   [logo-ads.png]
+
+   S'il est peut-être moins célèbre que les échecs en France, le jeu de go
+   reste l'un des jeux de stratégie les plus anciens et compliqués du
+   monde. Le magazine Wired consacrait justement un article au jeu de Go,
+   dernier grand mystère et défi de l'I.A.
+
+   Plus de possibilités que d'atomes dans l'univers
+
+   Les règles de ce jeu d'origine chinoise, que Confucius mentionnait il y
+   a 2500 ans, sont pourtant assez simples. Chaque joueur place des
+   jetons, noir ou blanc, sur les intersections d'un plateau constitué de
+   19 cases de haut et 19 de large. Pour gagner des points, il faut
+   encercler des pions adverses ou des espaces vides.
+
+   Mais malgré cette simplicité apparente, les positions possibles sont
+   incroyablement vastes. Il y en a
+   "1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,
+   000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000
+   ,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,00
+   0,000,000,000,000", selon Demis Hassabis, le fondateur de DeepMind, la
+   startup rachetée par Google en 2014.
+   [logo-ads.png]
+
+   Cela représente un 1 avec 170 zéros derrière. A titre de comparaison,
+   on estime que l'univers connu est composé de bien moins d'atomes
+   (seulement "80 zéros" derrière le 1). Et les échecs? Ici, le nombre de
+   positions possibles serait d'un 1 suivi de 47 zéros.
+
+   L'I.A. de Google bat à plate couture les autres programmes
+
+   Au vu du challenge, Google n'est évidemment pas le seul à chercher à
+   maîtriser le jeu de go. D'ailleurs, quelques heures avant l'annonce,
+   Mark Zuckerberg évoquait lui la publication d'un article par l'équipe
+   en charge de l'I.A. chez Facebook. Le programme du réseau social arrive
+   à jouer chaque coup en 0,1 seconde tout en étant aussi efficace que les
+   programmes déjà existants (mais sans être spécialement meilleur).
+   Vous ne pouvez pas visionner ce contenu car :
+     * Vous avez refusé les cookies associés aux contenus issus de tiers
+       en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont
+       besoin de cookies tiers pour fonctionner.
+     * Vous utilisez un bloqueur de publicité. Nous vous conseillons de le
+       désactiver afin d’accéder à nos vidéos.
+
+   Si vous n'êtes dans aucun de ces deux cas, contactez-nous à
+   aide@huffingtonpost.fr.
+
+   La différence, c'est qu'AlphaGo, le logiciel créé par Google, s'est lui
+   aussi mesuré aux programmes existants pour le jeu de go. Et le résultat
+   est sans appel: sur près de 500 parties, AlphaGo s'est imposé dans
+   99,8% des cas. Même contre Zen ou Crazy Stone, les programmes les plus
+   élaborés, ayant réussi à s'imposer contre des joueurs professionnels
+   (mais avec un avantage, ou sur un plateau plus petit).
+   [logo-ads.png]
+
+   12 "réseaux de neurones"
+
+   Comment AlphaGo a réussi là où les autres ont échoué? Plutôt que de
+   calculer chaque possibilité pour chaque coup, DeepMind a utilisé un
+   réseau de neurones artificiels (sa spécialité). Pour faire simple, ce
+   type de programme copie en quelques sortes le fonctionnement de notre
+   cerveau, avec ses millions de neurones. L'intérêt, c'est que le
+   programme a ainsi la capacité d'apprendre à force de voir ou de faire
+   une tâche.
+
+   Ici, un réseau de neurones choisissait le prochain mouvement. Un
+   deuxième tentait de prédire qui allait gagner le match. Une fois
+   l’algorithme établi, les chercheurs ont fait analyser au logiciel plus
+   de 30 millions de mouvements d'experts du jeu de go lors de parties. Au
+   bout d'un moment, AlphaGo a été capable de prédire le prochain
+   mouvement d'un humain dans plus d'un cas sur deux (57%). Mieux, en
+   jouant des milliers de parties contre lui-même, le logiciel a réussi à
+   créer des stratégies différentes.
+
+   Reste encore un grand objectif pour AlphaGo: battre Lee Sedol, un
+   coréen considéré comme l'un des meilleurs joueurs de go au monde, en
+   mars prochain.
+
+   Mais derrière l'exploit technique, il y aurait des applications
+   concrètes au travail sur AlphaGo, selon DeepMind. Car le phénomène
+   d'apprentissage est généralisable. "On peut imaginer des applications
+   dans le domaine des assistants intelligents de smartphone, dans la
+   recommandation ou encore dans le diagnostique médical", a précisé Demis
+   Hassabis lors d'une conférence de presse. "Sur le long terme, je rêve
+   d'une application scientifique, d'un travail de ce système
+   d'apprentissage en partenariat avec des humains pour faire des
+   découvertes fondamentales", affirme-t-il.
+
+   plus :
+   Actualités Technologie Intelligence artificielle (IA) Google Ibm échecs
+   Neurones Jeux Jeu de go Jeu Cesan C'est demain Angoulême 2016
+   Grégory Rozières
+   Envoyer une correction
+   Newsletter
+
+   Inscrivez-vous aux newsletters du HuffPost et recevez par email les
+   infos les plus importantes et une sélection de nos meilleurs articles
+   ____________________ [email.svg]
+
+   En vous inscrivant à ce service, vous acceptez que votre adresse mail
+   soit utilisée par le Huffington Post, responsable de traitement, pour
+   la gestion de votre inscription à la newsletter.
+   Conformément à la loi du 06/01/1978 modifiée et au Règlement européen
+   n°2016/679/UE du 27/04/2016, vous bénéficiez d’un droit d’accès, de
+   modification, de portabilité, de suppression et d’opposition au
+   traitement des informations vous concernant, que vous pouvez exercer
+   auprès de dpo@groupelemonde.fr. Pour toute information complémentaire
+   ou réclamation: CNIL
+   (BUTTON) S’inscrire
+   (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+   [logo-ads.png] Publicité
+   [logo-large.svg]
+   Politique France International Environnement Life Culture
+   Divertissement Prise de parole JO Paris 2024 Vidéos
+   Les sites du groupe arrow-down
+   Le Monde
+   Courrier International
+   Télérama
+   L'Obs
+   La Vie
+   Le Monde diplomatique
+   Suivez-nous
+   Facebook Instagram Twitter Youtube Dailymotion Flipboard Newsletters
+   RSS
+   Légal - Infos arrow-down
+   Gestion des cookies Qui sommes-nous ? Mentions Légales Conditions
+   générales de vente Politique de confidentialité Publicité Contactez
+   nous FAQ Plan du site le HuffPost
+
+   #Le HuffPost : Actualités

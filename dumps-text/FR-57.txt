@@ -1,0 +1,598 @@
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON)
+
+     * (BUTTON) J'enseigne
+       (BUTTON) Close Button
+       J'enseigne J'enseigne
+          + (BUTTON) J'enseigne au cycle 1
+            (BUTTON) Retour J'enseigne au cycle 1 Accéder à la rubrique
+            J'enseigne au cycle 1
+            J'enseigne au cycle 1
+          + (BUTTON) J'enseigne au cycle 2
+            (BUTTON) Retour J'enseigne au cycle 2 Accéder à la rubrique
+            J'enseigne au cycle 2
+            J'enseigne au cycle 2
+          + (BUTTON) J'enseigne au cycle 3
+            (BUTTON) Retour J'enseigne au cycle 3 Accéder à la rubrique
+            J'enseigne au cycle 3
+            J'enseigne au cycle 3
+          + (BUTTON) J'enseigne au cycle 4
+            (BUTTON) Retour J'enseigne au cycle 4 Accéder à la rubrique
+            J'enseigne au cycle 4
+            J'enseigne au cycle 4
+          + (BUTTON) J'enseigne au lycée général/technologique
+            (BUTTON) Retour J'enseigne au lycée général/technologique
+            Accéder à la rubrique J'enseigne au lycée
+            général/technologique
+            J'enseigne au lycée général/technologique
+          + (BUTTON) J'enseigne au lycée professionnel
+            (BUTTON) Retour J'enseigne au lycée professionnel Accéder à la
+            rubrique J'enseigne au lycée professionnel
+            J'enseigne au lycée professionnel
+          + (BUTTON) Innover et expérimenter
+            (BUTTON) Retour Innover et expérimenter Accéder à la rubrique
+            Innover et expérimenter
+               o Appels à projets numériques des investissements d'avenir
+               o Futur du numérique et incubation
+               o Innovation pédagogique et expérimentation dérogatoire
+          + (BUTTON) Je mène un projet avec mes élèves
+            (BUTTON) Retour Je mène un projet avec mes élèves Accéder à la
+            rubrique Je mène un projet avec mes élèves
+               o Concours général des lycées et des métiers
+               o Musique
+               o Spectacle vivant
+               o Arts visuels et patrimoine
+               o Le goût du livre et de la lecture
+               o Cinéma et audiovisuel
+               o Culture scientifique, technique et industrielle
+               o Histoire et mémoire
+               o Sciences humaines, économiques et sociales
+          + (BUTTON) J'enseigne avec le numérique
+            (BUTTON) Retour J'enseigne avec le numérique Accéder à la
+            rubrique J'enseigne avec le numérique
+               o Pratiques pédagogiques avec le numérique
+               o Ressources numériques pour l'École
+               o Culture numérique
+               o Actualités du numérique
+       Innovation pédagogique et expérimentation dérogatoire L’éducation
+       au développement durable dans le cadre des enseignements Enseigner
+       à des élèves à besoins éducatifs particuliers Évaluer et certifier
+       les compétences numériques
+     * (BUTTON) Je me forme
+       (BUTTON) Close Button
+       Je me forme Je me forme
+          + (BUTTON) Je deviens professeur
+            (BUTTON) Retour Je deviens professeur Accéder à la rubrique Je
+            deviens professeur
+            Je deviens professeur
+          + (BUTTON) Je me forme à distance
+            (BUTTON) Retour Je me forme à distance Accéder à la rubrique
+            Je me forme à distance
+            Je me forme à distance
+          + (BUTTON) Je m'informe sur le RGPD et les droits d'usages
+            (BUTTON) Retour Je m'informe sur le RGPD et les droits
+            d'usages Accéder à la rubrique Je m'informe sur le RGPD et les
+            droits d'usages
+            Je m'informe sur le RGPD et les droits d'usages
+          + (BUTTON) Je prépare une certification
+            (BUTTON) Retour Je prépare une certification Accéder à la
+            rubrique Je prépare une certification
+            Je prépare une certification
+          + (BUTTON) Je consulte le programme national de formation
+            (BUTTON) Retour Je consulte le programme national de formation
+            Accéder à la rubrique Je consulte le programme national de
+            formation
+               o Programme national de formation
+               o Séminaires et rendez-vous nationaux
+               o La formation pour l'enseignement des fondamentaux
+          + (BUTTON) Je m'informe sur la formation continue pour adultes
+            (BUTTON) Retour Je m'informe sur la formation continue pour
+            adultes Accéder à la rubrique Je m'informe sur la formation
+            continue pour adultes
+            Je m'informe sur la formation continue pour adultes
+       Le programme national de formation Les certifications
+       complémentaires Éducation et cybersécurité La plateforme m@gistère
+     * (BUTTON) Scolarité de l'élève
+       (BUTTON) Close Button
+       Scolarité de l'élève Scolarité de l'élève
+          + (BUTTON) Organisation des enseignements
+            (BUTTON) Retour Organisation des enseignements Accéder à la
+            rubrique Organisation des enseignements
+               o École maternelle
+               o École élémentaire
+               o Collège
+               o Lycée général
+               o Lycée technologique
+               o Lycée professionnel
+               o Formation en apprentissage
+               o Enseignements européens et internationaux
+               o Les parcours éducatifs à l'école, au collège et au lycée
+          + (BUTTON) École inclusive
+            (BUTTON) Retour École inclusive Accéder à la rubrique École
+            inclusive
+            École inclusive
+          + (BUTTON) Diplômes
+            (BUTTON) Retour Diplômes Accéder à la rubrique Diplômes
+               o Diplôme national du brevet
+               o Baccalauréat général
+               o Baccalauréat technologique
+               o Diplômes professionnels
+               o Certificat de formation générale
+               o Les aménagements d'examens pour les élèves en situation
+                 de handicap
+          + (BUTTON) Certifications
+            (BUTTON) Retour Certifications Accéder à la rubrique
+            Certifications
+               o Cadre de référence des compétences numériques
+               o Sécurité routière : APER
+               o Sécurité routière : ASSR 1 et 2
+               o Prévention et secours civiques de niveau 1
+               o Certifications en langues vivantes étrangères
+          + (BUTTON) Orientation
+            (BUTTON) Retour Orientation Accéder à la rubrique Orientation
+               o Accompagnement à l'orientation au collège et au lycée
+               o Découverte du monde professionnel
+               o Parcoursup : l'orientation du lycée vers l'enseignement
+                 supérieur
+               o Procédures d'orientation et d'affectation
+               o Réseau des services d'information et d'orientation
+          + (BUTTON) L'accompagnement des élèves
+            (BUTTON) Retour L'accompagnement des élèves Accéder à la
+            rubrique L'accompagnement des élèves
+               o Devoirs faits
+               o Accompagnement personnalisé au collège
+               o Évaluations nationales et tests de positionnement
+               o Vacances apprenantes - école ouverte
+               o Stages de réussite
+               o Agir contre l'illettrisme de l'école au collège
+               o Programmes personnalisés de réussite éducative
+          + (BUTTON) Prévention et lutte contre le décrochage
+            (BUTTON) Retour Prévention et lutte contre le décrochage
+            Accéder à la rubrique Prévention et lutte contre le décrochage
+               o Lutte contre le décrochage scolaire
+               o Les dispositifs relais
+               o Obligation de formation
+       Allocation de stage au lycée professionnel Certifications en
+       langues vivantes étrangères Devoirs faits, un temps dédié pour
+       accompagner les collégiens dans la réalisation de leurs devoirs
+       Prévention et lutte contre le décrochage
+     * (BUTTON) Écoles et établissements
+       (BUTTON) Close Button
+       Écoles et établissements Écoles et établissements
+          + (BUTTON) Fonctionnement des établissements scolaires
+            (BUTTON) Retour Fonctionnement des établissements scolaires
+            Accéder à la rubrique Fonctionnement des établissements
+            scolaires
+               o Assurer la continuité des enseignements
+               o L'instruction obligatoire
+               o Vie des écoles
+               o Vie des établissements
+               o Climat scolaire et prévention des violences
+               o Carte des formations professionnelles initiales
+               o Parents d'élèves
+               o Internat d'excellence
+               o Les établissements d'enseignement français à l'étranger
+               o Qualéduc
+          + (BUTTON) Génération 2024
+            (BUTTON) Retour Génération 2024 Accéder à la rubrique
+            Génération 2024
+            Génération 2024
+          + (BUTTON) Protection et prévention
+            (BUTTON) Retour Protection et prévention Accéder à la rubrique
+            Protection et prévention
+               o Aide aux victimes
+               o Dérives sectaires
+               o Santé
+               o Éducation à la sécurité routière
+               o Sensibilisation aux gestes qui sauvent et formation aux
+                 premiers secours
+               o Sécurité des écoles et des établissements
+               o Éducation à la responsabilité
+               o Jeux dangereux
+               o Prévenir la radicalisation en milieu scolaire
+               o Protection de l'enfance
+          + (BUTTON) Citoyenneté et valeurs de la République
+            (BUTTON) Retour Citoyenneté et valeurs de la République
+            Accéder à la rubrique Citoyenneté et valeurs de la République
+            Citoyenneté et valeurs de la République
+          + (BUTTON) La mobilité européenne et internationale
+            (BUTTON) Retour La mobilité européenne et internationale
+            Accéder à la rubrique La mobilité européenne et internationale
+            La mobilité européenne et internationale
+          + (BUTTON) Le numérique à l'École
+            (BUTTON) Retour Le numérique à l'École Accéder à la rubrique
+            Le numérique à l'École
+               o Espaces numériques de travail
+               o Services numériques et cadre de confiance
+               o Le site archiclasse
+               o Soutien à la production de ressources numériques pour
+                 l'École
+               o Réseaux et interlocuteurs pour le numérique
+          + (BUTTON) Éducation et territoires
+            (BUTTON) Retour Éducation et territoires Accéder à la rubrique
+            Éducation et territoires
+               o Éducation prioritaire
+               o Territoires ruraux et de montagne
+               o Territoires d'outre-mer
+               o Les locaux scolaires
+       Catalogue national des structures d'accueil et d'hébergement Une
+       École engagée en faveur du climat scolaire Transmettre et faire
+       respecter les principes et valeurs de la République Je souhaite
+       m’engager dans la démarche École promotrice de santé
+     * (BUTTON) Disciplines et thématiques
+       (BUTTON) Close Button
+       Disciplines et thématiques Disciplines et thématiques
+          + (BUTTON) Disciplines
+            (BUTTON) Retour Disciplines Accéder à la rubrique Disciplines
+               o Arts plastiques
+               o Biotechnologies, sciences et techniques médico-sociales
+               o Documentation
+               o Économie et gestion
+               o Éducation musicale
+               o Éducation physique et sportive
+               o Enseignements artistiques au lycée
+               o Histoire des arts
+               o Histoire-géographie
+               o Langues et cultures de l'Antiquité
+               o Langues vivantes
+               o Lettres
+               o Mathématiques
+               o Philosophie
+               o Physique-chimie
+               o Sciences de la vie et de la Terre
+               o Sciences du numérique
+               o Sciences économiques et sociales
+               o Sciences et techniques industrielles
+               o Technologie au collège
+          + (BUTTON) Premier degré
+            (BUTTON) Retour Premier degré Accéder à la rubrique Premier
+            degré
+            Premier degré
+          + (BUTTON) Éducation artistique et culturelle
+            (BUTTON) Retour Éducation artistique et culturelle Accéder à
+            la rubrique Éducation artistique et culturelle
+            Éducation artistique et culturelle
+          + (BUTTON) Éducation au développement durable
+            (BUTTON) Retour Éducation au développement durable Accéder à
+            la rubrique Éducation au développement durable
+            Éducation au développement durable
+          + (BUTTON) Citoyenneté et valeurs de la République
+            (BUTTON) Retour Citoyenneté et valeurs de la République
+            Accéder à la rubrique Citoyenneté et valeurs de la République
+               o Transmettre et faire respecter les principes et valeurs
+                 de la République
+               o Droits de l'Homme
+               o Égalité filles-garçons et prévention des violences
+                 sexistes et sexuelles
+               o Prévenir les LGBTphobies en milieu scolaire
+               o Agir contre le racisme, l’antisémitisme et les
+                 discriminations liées à l’origine
+               o Éducation aux médias et à l'information
+               o Engagement et solidarité
+               o Connaître les institutions
+               o Éduquer au droit
+               o Droits de l’enfant
+               o Laïcité
+               o Éducation à la défense
+               o Education économique, budgétaire et financière
+          + (BUTTON) Santé
+            (BUTTON) Retour Santé Accéder à la rubrique Santé
+            Santé
+          + (BUTTON) Pratiques sportives à l’École
+            (BUTTON) Retour Pratiques sportives à l’École Accéder à la
+            rubrique Pratiques sportives à l’École
+            Pratiques sportives à l’École
+       30 minutes d'activité physique quotidienne Langues vivantes Comment
+       aborder la prévention des conduites addictives à l'École ?
+       Éducation aux médias et à l'information
+
+     *
+     * Recherche
+     * (BUTTON)
+
+Restez connectés
+
+     * Accéder au twitter d'éduscol
+     * Accéder au facebook d'éduscol
+
+    1. Accueil
+    2. Écoles et établissements
+    3. Protection et prévention
+    4. Jeux dangereux
+    5. Prévenir les « jeux » dangereux et les pratiques violentes à
+       l'école
+
+Sommaire
+
+Dans la même rubrique
+
+     * Prévenir les « jeux » dangereux et les pratiques violentes à
+       l'école
+
+   (BUTTON) Tout afficher
+     * Jeux dangereux
+     * Protection et prévention
+     * Écoles et établissements
+     * Accueil
+
+   prévention et lutte contre la violenceprévention et sécurité
+   (BUTTON) Voir plus de mots-clés Cacher les mots-clés
+
+Prévenir les « jeux » dangereux et les pratiques violentes à l'école
+
+   La prévention des « jeux » dangereux et des pratiques violentes se
+   poursuit en partenariat avec les associations agréées au niveau
+   national. L'École doit faire en sorte que, à toutes les étapes de leur
+   scolarité, les élèves comprennent ce qu'est un comportement à risques :
+   elle s'attache à mieux accompagner les actions à mettre en œuvre dans
+   les établissements.
+   Mis à jour : mai 2023
+
+La prévention en milieu scolaire
+
+   Parler de jeux dangereux montre la difficulté de rester vigilant dans
+   l'espace ludique qu'est la récréation à l'école.
+
+   C'est dans l'apprentissage de la citoyenneté, du respect d'autrui que
+   le jeune, dès le primaire, peut comprendre comment se prémunir de tels
+   risques, tout en restant dans la dynamique du groupe de pairs.
+
+   Comme le souligne l'ethnologue Yan Bour, « le jeu fait référence à la
+   société adolescente et au rang que l'on y tient. Il suppose donc un
+   ordre social, hiérarchique, qui contribue à la construction identitaire
+   de chaque sujet. » in « Jeux dangereux » entre adolescents. Culture
+   juvénile, institution scolaire et société du risque », Ethnologie
+   française 2007/4 (Vol. 37), p. 631-637
+
+   Cette prévention ne doit pas être alarmiste mais tenir compte des réels
+   risques pris par des jeunes qui, entre mimétisme et émulation, peuvent
+   s'entraîner dans ces jeux dangereux.
+
+   La recherche universitaire dénombre en général trois grandes catégories
+   de jeux dangereux : les jeux de non-oxygénation, les jeux d'agression
+   et les jeux de défi, avec des combinaisons possibles.
+
+   Dès 2002, la prévention et la lutte contre les jeux à risques a été une
+   préoccupation à long terme de l'éducation nationale afin de prendre en
+   compte toutes les dimensions de la construction identitaire de l'enfant
+   et de l'adolescent.
+
+   Le rôle de l'école se situe ainsi dans la prévention de pratiques
+   ludiques « radicales » qui peuvent être à risques, afin de protéger
+   tout jeune des conséquences graves pour lui et pour ses camarades de
+   tels jeux.
+
+   Tous les acteurs de l'école sont mobilisés mais il faut tenir compte du
+   contexte local de l'école ou de l'établissement afin de pas provoquer
+   des inquiétudes voire susciter des curiosités pour ces types de jeux.
+   À savoir
+
+   Tous les adultes de la communauté scolaire sont vigilants afin de
+   prendre en charge de façon précoce tout signe d'implication d'élèves
+   dans ces jeux à risques (un exemple de message d'alerte, académie de
+   Dijon).
+
+Les dangers de la viralisation sur le Net : pour un usage responsable du Net
+
+   La dimension potentiellement aggravante des réseaux sociaux renforce la
+   nécessité d'une éducation à l'usage du Net responsable.
+
+   Des applications, au départ ludiques comme TikTok (jeu de play-back,
+   danse) peuvent être source d'anxiété, pour des jeunes en pleine
+   construction identitaire, notamment sur leur image : tendance à
+   l'hypersexualisation, commentaires malveillants, propositions
+   dangereuses d'adultes... Si pour TikTok, l'âge moyen des jeunes qui
+   téléchargent (majoritairement des filles) est de 10-15 ans, il peut y
+   avoir des utilisateurs beaucoup plus jeunes.
+
+   S'il peut y avoir des limites d'âge conseillées, ce n'est pas toujours
+   le cas et il faut que les parents préservent l'enfant, le jeune en
+   phase adolescente, d'éventuelles dérives.
+   Site à consulter
+
+   Règlementation des réseaux sociaux, pour les jeunes (E-Enfance)
+
+   De nombreux jeux dangereux apparaissent ainsi sur la toile et peuvent
+   faire l'objet d'alerte de la police et de la gendarmerie nationale.
+
+   Par exemple, dans la catégorie des jeux dangereux de défis, le jeu
+   « Blue Whale », venu de Russie, du nom du mystère des baleines bleues
+   qui viennent s'échouer volontairement sur les plages, connaît une
+   notoriété certaine sur les réseaux sociaux. Ce jeu consiste à entrer
+   par parrainage, dans une spirale de 50 défis de risque croissant dont
+   l'ultime étape est le suicide.
+
+   Il faut être vigilant à l'aspect théâtral que renforcent les jeux de
+   défis sur Internet (par exemple, le « Momo Challenge »). Pour Jocelyn
+   Lachance, socio-anthropologue qui a étudié les pratiques numérique des
+   jeunes : « Dans les sociétés traditionnelles, on faisait passer des
+   rites ou des épreuves aux jeunes pour les faire devenir adultes. Moins
+   les sociétés occidentales ont de rites de passage, plus les jeunes
+   s'inventent des épreuves afin d'interpeller le regard. »
+
+   La communication numérique rend possible des conditions propices au
+   basculement de certains jeunes dans des jeux de manipulation avec la
+   facilité de l'anonymat des messages envoyés. En cela, le « Momo
+   Challenge » combine le jeu de défi qui pousse au suicide mais aussi le
+   chantage car la personne derrière l'image de la femme poule hideuse
+   menace de récupérer les données personnelles du jeune (nom, prénom,
+   adresse). Ce thème de la cybersécurité accroît le caractère de légende
+   urbaine (qui se cache derrière ce Momo ?) de ce jeu dangereux.
+   À savoir
+
+   Des règles essentielles pour éviter le piratage et protéger ses données
+   personnelles doivent être rappelées, dans le cadre de la lutte contre
+   la cyberviolence (consulter le site « Non au harcèlement »).
+
+   À côté de la prise en charge de signes éventuels du mal-être du jeune,
+   il est nécessaire de rappeler le cadre légal : par exemple, tout jeu
+   dangereux de défi qui pousse au suicide relève de la provocation au
+   suicide et de ce fait est pénalement réprimé (5 ans de prison et 75 000
+   euros d'amende).
+   Plateforme Pharos
+
+   Il est ainsi possible de dénoncer cette infraction pénale sur la
+   plate-forme Pharos, pilotée par le ministère de l'intérieur, qui
+   prendra les mesures nécessaires avec les réseaux sociaux concernés.
+
+La prévention des jeux dangereux dans le premier degré
+
+   Alors que les actions de prévention des « jeux » dangereux ciblaient
+   principalement le seconde degré, l’APEAS (accompagner - prévenir -
+   éduquer - agir - sauver) propose des ressources vidéos autour
+   desquelles pourra se construire une action de prévention des « jeux »
+   dangereux auprès d’élèves du premier degré. L’objectif pédagogique est
+   de lutter contre ces pratiques en milieu scolaire en apprenant aux
+   élèves à identifier des situations potentiellement dangereuses pour en
+   prévenir les risques d’accident. La sensibilisation des élèves doit
+   favoriser le développement de leur vigilance, de leur attention, de
+   leur sécurité et de celle des autres.
+
+   La cour de récréation
+
+   Défis et jeux dangereux
+
+   Le souffle
+
+Fiche d'accompagnement « Action de prévention auprès d'élèves de classes
+maternelles et élémentaires »
+
+   Une fiche permet d’accompagner la mise en place d’une action de
+   prévention des « jeux » dangereux dans le premier degré et propose des
+   modalités d’exploitation des ressources vidéos susmentionnées.
+
+   Télécharger le document (.pdf, 309.41 Ko)
+
+Les actions éducatives menées dans le comité d'éducation à la santé, à la
+citoyenneté et à l'environnement (CESCE)
+
+   Dans le cadre du CESCE (comité d'éducation à la santé, à la citoyenneté
+   et à l'environnement), des actions de sensibilisation à l'usage du Net
+   responsable peuvent être menées, en lien avec l'éducation aux médias et
+   à l'information (EMI).
+
+   Un débat avec les jeunes peut être organisé afin d'aborder les
+   questions cruciales comme la recherche d'adrénaline, l'autonomie face à
+   l'oppression du groupe, les réseaux sociaux.
+
+Comprendre par le jeu : JOURAKI pour les 8-12 ans
+
+   Avec le soutien du ministère chargé de santé, l'association APEAS
+   (accompagner - prévenir - éduquer - agir - sauver) a conçu un jeu
+   collaboratif pour les 8-12 ans, jeu qui doit être mené sous la
+   supervision d'un encadrant adulte : JOURAKI.
+
+   Le boitier JOURAKI contient un plateau sur lequel est imprimé le schéma
+   du corps humain et ses principaux organes, un circuit de cases
+   correspondant à des questions et le point de départ de 4 équipes
+   matérialisées par des personnages.
+   Il est abordé, en particulier, les règles de sécurité de base.
+
+Des ressources complémentaires pour les intervenants en milieu scolaire
+
+   La brochure nationale « Les jeux dangereux et les pratiques violentes :
+   prévenir, intervenir, agir », largement diffusée à tous les membres de
+   la communauté éducative en juin 2007, a été complétée par un cahier des
+   charges de formation à destination de l'ensemble de l'équipe éducative
+   diffusé au cours du premier trimestre 2010 aux académies. Ce cahier des
+   charges a été enrichi et fait l'objet d'un guide d'intervention en
+   milieu scolaire « Jeux dangereux et pratiques violentes ».
+
+   Fruits du travail d'experts, enrichis d'expériences engagées sur le
+   terrain par des équipes éducatives et des associations, ces deux
+   documents sur les jeux dangereux et les pratiques violentes ont pour
+   objectif d'aider l'ensemble de la communauté éducative à mettre en
+   place une démarche de prévention sur ces pratiques.
+
+   Dans la continuité des actions d'information et de prévention menées
+   par le ministère, l'association APEAS (accompagner - prévenir - éduquer
+   - agir - sauver), a élaboré des outils pour l'usage des professionnels
+   évoluant en milieu scolaire et en centres de loisirs. Les actions de
+   prévention s'appuient un guide d'intervention en milieu scolaire. Une
+   mallette de prévention APEAS dont la deuxième édition a également été
+   diffusée en janvier 2013 dans toutes les académies.
+
+​ Brochure « Les jeux dangereux et les pratiques violentes » (MEN, 2007) ​
+
+   Caractéristiques de ces « jeux », conséquences physiques et
+   psychologiques, facteurs associés et signes qui doivent alerter et
+   favoriser la vigilance des adultes y sont expliqués.
+
+   Télécharger le document (.pdf, 258.3 Ko)
+
+​ Guide d'intervention en milieu scolaire « Jeux dangereux et pratiques
+violentes » (MEN-Sceren, 2011) ​
+
+   Quels sont ces jeux ? Pourquoi ces jeux ? Y a-t-il des signes
+   d'alerte ? Quand et comment intervenir ? Qui peut aider ?
+
+   Télécharger le document (.pdf, 1.08 Mo)
+
+​ Fiche d'accompagnement, « Action de prévention en collège » (MEN, 2012) ​
+
+   Cette fiche d'accompagnement à destination des personnels de
+   l'éducation nationale intervenant dans le cadre d'une séance de
+   prévention des « jeux » dangereux et des pratiques violentes en collège
+   a été réalisée par un groupe de travail composé de personnels de
+   collèges ayant déjà travaillé sur cette thématique ainsi que d'experts
+   en psychopathologie et psychologie clinique.
+
+   Télécharger le document (.pdf, 390.78 Ko)
+
+Sur le même thème
+
+   Protection et prévention
+
+     * Sites Éducation
+          + education.gouv.fr
+          + Devenir enseignant
+          + Onisep
+          + Cned
+          + Réseau Canopé
+          + CLEMI
+          + France Éducation International
+          + Institut des hautes études de l'éducation et de la formation
+          + Enseignement supérieur, Recherche et Innovation
+          + Sites académiques
+          + Viaéduc
+     * Sites de formation et thématiques
+          + CultureMath
+          + CultureSciences-Chimie
+          + Culture sciences de l'ingénieur
+          + CultureSciences-physique
+          + Encyclopédie d'histoire numérique de l'Europe
+          + Géoconfluences
+          + La Clé des langues
+          + Planet-Terre
+          + Planet-Vie
+          + Sciences économiques et sociales
+          + Ces chansons qui font l'histoire
+     * Sites publics
+          + Élysée.fr
+          + Data.gouv.fr
+          + Gouvernement.fr
+          + Legifrance.gouv.fr
+          + Service-public.fr
+          + Jeunes.gouv.fr
+          + Sports.gouv.fr
+
+Restez connectés
+
+     * Accéder au twitter d'éduscol
+     * Accéder au facebook d'éduscol
+
+     * Mentions légales
+     * Données personnelles et cookies
+     * Gestion des cookies
+     * Accessibilité du site : partiellement conforme
+     * Contact
+     * Plan du site
+     * DE
+     * EN
+     * ES
+
+   éduscol | Ministère de l'Éducation nationale et de la Jeunesse -
+   Direction générale de l'enseignement scolaire

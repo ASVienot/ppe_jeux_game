@@ -1,0 +1,465 @@
+    #Page d'accueil Page d'accueil Page d'accueil Recherche
+
+     * Aller directement à la navigation
+     * Aller directement au contenu
+     * Aller directement à la recherche
+
+   (BUTTON) MENU
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   (BUTTON) voir plus
+   (BUTTON) FR
+     * FR
+     * EN
+     * DE
+     * ES
+     * AR
+     * ZH
+
+   Ministère de la culture
+     * (BUTTON) Actualités
+          + (BUTTON) fermer le menu
+            Actualités (BUTTON) Retour
+               o Actualités
+               o À la Une
+               o (BUTTON) Dossiers
+                 Dossiers
+                    # Le budget du ministère de la Culture
+                    # Ma bibliothèque : le monde à portée de main
+                    # L'Olympiade Culturelle, un dialogue entre culture et
+                      sport
+                    # Soutien Culture Ukraine: le ministère de la Culture
+                      se mobilise
+                    # 264 projets pour des Mondes nouveaux
+                    # Stratégie d’accélération des industries culturelles
+                      et créatives
+                    # France Relance : Redynamiser notre modèle culturel
+                    # États généraux des festivals : un modèle à
+                      réinventer
+               o Événements nationaux
+     * (BUTTON) Nous connaître
+          + (BUTTON) fermer le menu
+            Nous connaître (BUTTON) Retour
+               o Nous connaître
+               o Rima Abdul Malak, ministre de la Culture
+               o Le cabinet de la Ministre
+               o (BUTTON) Découvrir le ministère
+                 Découvrir le ministère
+                    # Organisation du ministère
+                    # Histoire du ministère
+                    # Événements nationaux
+                    # Protections, labels et appellations
+                    # Le budget du ministère de la Culture
+               o (BUTTON) Emploi et formation
+                 Emploi et formation
+                    # Emploi - Apprentissage
+                    # Concours et examens professionnels
+                    # Le répertoire des métiers
+                    # Les agents témoignent
+                    # Service civique
+                    # Formations professionnelles
+     * (BUTTON) Aides & démarches
+          + (BUTTON) fermer le menu
+            Aides & démarches (BUTTON) Retour
+               o Aides & démarches
+               o Aides, démarches et subventions
+               o (BUTTON) Appels à projets et à candidatures
+                 Appels à projets et à candidatures
+                    # Appels à projets du ministère de la Culture
+                    # Appels à projets des partenaires (opérateurs,
+                      organismes labellisés ou subventionnés)
+               o Marchés publics
+               o Protections, labels et appellations
+     * (BUTTON) Documentation
+          + (BUTTON) fermer le menu
+            Documentation (BUTTON) Retour
+               o Documentation
+               o Rechercher une publication
+               o Bases de données
+               o Sites internet et multimédias
+               o Répertoire des ressources documentaires
+     * (BUTTON) Régions
+          + (BUTTON) fermer le menu
+            (BUTTON) Régions
+               o Drac Auvergne - Rhône-Alpes
+               o Drac Bourgogne-Franche-Comté
+               o Drac Bretagne
+               o Drac Centre-Val de Loire
+               o Drac Corse
+               o Drac Grand Est
+               o Dac Guadeloupe
+               o DCJS Guyane
+               o Drac Hauts-de-France
+               o Drac Île-de-France
+               o DAC Martinique
+               o DAC Mayotte
+               o Drac Normandie
+               o DRAC Nouvelle-Aquitaine
+               o Mission aux affaires culturelles de Nouvelle-Calédonie
+               o Drac Occitanie
+               o Dac de La Réunion
+               o Drac Pays de la Loire
+               o Mission aux affaires culturelles de Polynésie Française
+               o Drac Provence-Alpes-Côte d'Azur
+               o Mission aux Affaires Culturelles de
+                 Saint-Pierre-et-Miquelon
+     * (BUTTON) Thématiques
+          + (BUTTON) fermer le menu
+            (BUTTON) Thématiques
+               o (BUTTON) Secteurs & métiers
+                    # Architecture
+                    # Archives
+                    # Archéologie
+                    # Arts plastiques
+                    # Audiovisuel
+                    # Cinéma
+                    # Danse
+                    # Design
+                    # Industries culturelles et créatives
+                    # Livre et lecture
+                    # Mode
+                    # Monuments & Sites
+                    # Musique
+                    # Musées
+                    # Métiers d'art
+                    # Photographie
+                    # Presse écrite
+                    # Théâtre, spectacles
+               o (BUTTON) Politiques publiques
+                    # Circulation des biens culturels
+                    # Conservation-restauration
+                    # Culture et territoires
+                    # Développement culturel
+                    # Education artistique et culturelle
+                    # Education aux médias et à l'information
+                    # Egalité et diversité
+                    # Enseignement supérieur et Recherche
+                    # Ethnologie de la France
+                    # Etudes et statistiques
+                    # Europe et international
+                    # Innovation numérique
+                    # Langue française et langues de France
+                    # Mécénat
+                    # Patrimoine culturel immatériel
+                    # Sciences du patrimoine
+                    # Sécurité - Sûreté
+                    # Transition écologique
+     *
+          + Facebook
+          + X
+          + Instagram
+          + Youtube
+          + Soundcloud
+          + Linkedin
+          + Flux de dépêches
+
+     * (BUTTON) Régions
+          + (BUTTON) fermer le menu
+               o Drac Auvergne - Rhône-Alpes
+               o Drac Centre-Val de Loire
+               o Dac Guadeloupe
+               o Drac Île-de-France
+               o Drac Normandie
+               o Drac Occitanie
+               o Mission aux affaires culturelles de Polynésie Française
+               o Drac Bourgogne-Franche-Comté
+               o Drac Corse
+               o DCJS Guyane
+               o DAC Martinique
+               o DRAC Nouvelle-Aquitaine
+               o Dac de La Réunion
+               o Drac Provence-Alpes-Côte d'Azur
+               o Drac Bretagne
+               o Drac Grand Est
+               o Drac Hauts-de-France
+               o DAC Mayotte
+               o Mission aux affaires culturelles de Nouvelle-Calédonie
+               o Drac Pays de la Loire
+               o Mission aux Affaires Culturelles de
+                 Saint-Pierre-et-Miquelon
+     * (BUTTON) Thématiques
+          + (BUTTON) fermer le menu
+               o (BUTTON) Secteurs & métiers
+               o (BUTTON) Politiques publiques
+               o Architecture
+               o Archives
+               o Archéologie
+               o Arts plastiques
+               o Audiovisuel
+               o Cinéma
+               o Danse
+               o Design
+               o Industries culturelles et créatives
+               o Livre et lecture
+               o Mode
+               o Monuments & Sites
+               o Musique
+               o Musées
+               o Métiers d'art
+               o Photographie
+               o Presse écrite
+               o Théâtre, spectacles
+            (BUTTON) Voir plus
+               o Circulation des biens culturels
+               o Conservation-restauration
+               o Culture et territoires
+               o Développement culturel
+               o Education artistique et culturelle
+               o Education aux médias et à l'information
+               o Egalité et diversité
+               o Enseignement supérieur et Recherche
+               o Ethnologie de la France
+               o Etudes et statistiques
+               o Europe et international
+               o Innovation numérique
+               o Langue française et langues de France
+               o Mécénat
+               o Patrimoine culturel immatériel
+               o Sciences du patrimoine
+               o Sécurité - Sûreté
+               o Transition écologique
+            (BUTTON) Voir plus
+
+   Chargement
+
+   Retour
+   thèmes
+
+Jeux-vidéo
+
+    1. Accueil Ministère
+
+     thèmes
+
+     Jeux-vidéo
+
+   (BUTTON) Partager
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Linkedin
+     * Plus...
+
+   Écouter
+
+     * (BUTTON)
+
+Joueur, formations, chiffres, à quoi ressemble le milieu des jeux-vidéo en
+France ?
+
+   En 1952 est crée le premier jeu-vidéo de l'histoire, OXO, un jeu de
+   morpion pensé par un universitaire. Ce jeu là ne sera pas distribué au
+   grand public mais restera le déclenchement de l'histoire du
+   jeu-vidéo. En 1972, sortira le premier jeu-vidéo grand public PONG. Un
+   jeu d'arcade dont le succès fut total. Et depuis, l'évolution du
+   jeu-vidéo a pris une allure folle. Jusqu'à devenir un véritable art et
+   créer sa propre culture.
+
+Le jeu-vidéo un secteur en très bonne santé sur PC, console ou mobile.
+
+   Le domaine culturel du jeu-vidéo est en quasi constante expansion.
+   Malgré une légère baisse de 2% en 2019, son chiffre d'affaires ne cesse
+   d'augmenter depuis 2013, atteignant des records en 2020 avec un
+   chiffre d'affaires de 5,3 milliards d'euros, en croissance de 11,3% par
+   rapport à 2019. Une somme divisée entre trois supports :
+
+   - 2,7 milliards liés aux consoles de jeu
+   - 1,4 milliard lié au jeux mobiles
+   - 1,2 milliard liés aux jeux PC
+
+   Comme en atteste le Syndicat des Editeurs de Logiciels de Loisirs
+   (SELL) dans une étude de 2020 sur le marché des jeux vidéo, le secteur
+   est l'un des rares à avoir été dynamisé par l'épidémie du Covid-19.
+
+Des gamers de tout âge passionnés par la culture du jeu-vidéo
+
+   Le jeu-vidéo qu'il soit sur PC, console ou smartphone est un véritable
+   phénomène.
+
+   Depuis le début de l'histoire des jeux-vidéo avec l'apparition des
+   premiers jeux sur Atari, la discipline a conquis des milliards de
+   joueurs partout dans le monde. Il existe une réelle culture jeux-vidéo.
+   Nombre de ces adeptes sont des passionnés qui ne ratent actualité
+   jeu-vidéo comme on peut en voir dans le spectacle vivant, l'industrie
+   musicale ou l'art contemporain.
+
+   Sites de jeux-vidéo, blogs, youtubeurs, influenceurs, collectionneurs,
+   les contenus liés au jeu-vidéo sont partout et sont vus et lus par des
+   millions de personnes en France comme partout ailleurs.
+   Malgré les idées reçues c'est une culture qui intéresse tous les genres
+   et tous les âges. Selon une étude du SELL, l'âge moyen des joueurs de
+   jeux-vidéo régulier est de 39 ans. Toutes plateformes confondues.
+   Ces joueurs réguliers, sont pour beaucoup des joueuses, 47% de femmes
+   gameuses contre 52% de joueurs masculins.
+   Parmi l'ensemble des joueurs français (réguliers et occasionnels), on
+   compte également 19% de retraités.
+
+Travailler et se former au métier du jeu-vidéo en France
+
+   Les entreprises françaises ne sont pas en marge dans la création de
+   jeu-vidéo, bien au contraire. Certaines d'entres elles sont de
+   véritables leaders du marché qui éditent de grand succès. Le jeu-vidéo
+   est un domaine qui renferme de nombreux métiers dont on retrouve la
+   liste sur le site SNJV (Syndicat National du Jeu-Vidéo).
+   Il y a donc plusieurs sortes d'entreprises liées à cet univers allant
+   de l'éditeur de jeux-vidéo au service de création en passant par les
+   agences de développement. Sur le site de l'Agence Française du Jeu
+   Vidéo, 630 entreprises sont répertoriées et classées par discipline.
+
+   Question formation, il existe en France, une école publique pour se
+   former aux métiers du jeu-vidéo l'ENJMIN (Ecole Nationale du Jeu et des
+   Médias Interactifs Numérique). Cet établissement est considéré comme la
+   meilleure formation pour se former aux métiers des jeux-vidéo par le
+   SNJV (Syndicat National des Jeux-Vidéo).
+   Il est également possible de s'orienter vers des BTS, des BUT, des
+   écoles privés ou encore des spécialisations au sein d'école d'art ou
+   d'informatique.
+
+Des mesures nationales pour accentuer la création de jeux-vidéo en France
+
+   Parce qu'il représente un fleuron français et qu'il est le centre de
+   passion de millions de français et de françaises, le ministère de la
+   Culture par le biais du CNC apporte son soutien aux entreprises du
+   jeu-vidéo.
+
+Le CNC, interlocuteur privilégié pour obtenir des aides et développer un
+nouveau jeu-vidéo
+
+   Selon le SNJV, 49,9% des entreprises déclarent avoir recouru à des
+   aides publiques pour financer leurs entreprises. Se lancer dans la
+   création d'un logiciel de loisirs est un grand défi, tant professionnel
+   que financier. Certains jeux ont coûté plusieurs millions d'euros à
+   leurs créateurs et parfois sans l'assurance de succès à la sortie.
+   D'autant plus que dans le milieu concurrentiel qu'est celui du
+   jeu-vidéo. En 2019, par exemple, 1200 jeux étaient en cours de
+   production selon le baromètre annuel du SNJV.
+
+   Le CNC (Centre National du Cinéma et de l'image animée) et propose
+   quelques aides pour les entreprises du jeu-vidéo :
+
+   - Le crédit d'Impôts jeu-vidéo :"qui permet aux entreprises de création
+   de déduire de leurs impôts une part des dépenses de production d'un
+   jeu."
+
+   - Les Fonds d'Aide au Jeu Vidéo (FAJV) (aide à l'écriture, aide à la
+   pré-production, aide à la production, aide aux opérations à caractère
+   collectif
+
+   Il est également conseillé de se rapprocher de ses institutions locales
+   et en particulier de sa région. Des fonds y sont souvent réservés afin
+   d'aider les projets culturels.
+
+Télécharger des jeux-vidéo avec le Pass Culture
+
+   Depuis 2019, les jeunes ont le droit au pass culture. Le Pass, c'est un
+   budget de 300 euros offert à ces jeunes afin de favoriser l'accès à la
+   culture à cet âge charnière entre la vie scolaire et la vie étudiante.
+   Cette somme peut être dépensée dans l'achat de jeux-vidéo sur la
+   plateforme à condition que :
+
+   - Son éditeur soit Français
+   - Le jeu ne représente aucune scène de violence ou à caractère
+   pornographique
+   Une initiative qui consacre bel et bien le jeu-vidéo comme vecteur de
+   culture.
+
+Ce qu'il faut retenir
+
+   - L'univers du jeu-vidéo représente 5,3 milliards d'euros de chiffre
+   d'affaires en 2020
+
+   - L'âge moyen des joueurs réguliers est de 39 ans
+
+   - Il est possible de télécharger des jeux-vidéo sur la plateforme pass
+   culture
+
+
+     * FR
+     * EN
+     * DE
+     * ES
+     * AR
+     * ZH
+
+   Nous suivre
+     * Facebook
+     * X
+     * Instagram
+     * Youtube
+     * Soundcloud
+     * Linkedin
+     * Flux de dépêches
+
+   S'inscrire à nos Infolettres
+
+Contact
+
+   Acceo, accessibilité téléphonique aux personnes sourdes et
+   malentendantes
+   Ministère de la Culture
+
+
+    182 rue Saint-Honoré 75001 Paris
+
+   T. 01 40 15 80 00
+   Acceo, accessibilité téléphonique aux personnes sourdes et
+   malentendantes
+     * Contact
+     * Foire aux questions
+     * Presse
+
+   Nous suivre
+     * Facebook
+     * X
+     * Instagram
+     * Youtube
+     * Soundcloud
+     * Linkedin
+     * Flux de dépêches
+
+Actualités
+
+     * À la Une
+     * Dossiers
+     * Événements nationaux
+
+Aides & démarches
+
+     * Aides, démarches et subventions
+     * Appels à projets et à candidatures
+     * Marchés publics
+     * Protections, labels et appellations
+
+Nous connaître
+
+     * Rima Abdul Malak, ministre de la Culture
+     * Le cabinet de la Ministre
+     * Découvrir le ministère
+     * Emploi et formation
+
+Documentation
+
+     * Rechercher une publication
+     * Bases de données
+     * Sites internet et multimédias
+     * Répertoire des ressources documentaires
+
+     * data.gouv.fr
+     * legifrance.gouv.fr
+     * gouvernement.fr
+     * service-public.fr
+     * data.culture.gouv.fr
+     * plus.transformation.gouv.fr
+
+   (BUTTON) Liens utiles
+     * Contact
+     * Mentions légales
+     * Accessibilité : partiellement conforme
+     * Données personnelles et cookies
+     * Plan du site
+     * © Ministère de la Culture
