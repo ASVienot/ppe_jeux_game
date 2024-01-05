@@ -81,10 +81,43 @@
     </div>
   <section class="section has-background-primary">
             <div class="container has-bakground-primary-light">
-            <div class="box has-text-justified has-background-primary-light has-text-primary">
-                <h1 class="title is-5 has-text-primary has-text-centered"> Méthode</h1>
+            <div class="box has-text-justified has-background-primary-light ">
+                <h1 class="title is-2 has-text-centered"> Méthode</h1>
                 <div>
-               Blabla
+<br>
+        <h1 class="title is-5">Composition des corpus</h1>
+        <p>Nous avons constitué un corpus de pages internet dans un fichier d'URLs. </p>
+        <p> Le corpus français a été constitué et analysé par Alix. Il comporte <b>65</b> URLs exploitables sur <strong>72</strong> dans le fichier d’origine. </p>
+        <p> Le corpus anglais a été constitué et analysé par Pauline. Il comporte <b>46</b> URLs exploitables et comportait à l’origine <strong>50</strong> URL.</p>
+        <p> Le corpus chinois a été constitué et analysé par Siman. comporte <strong>46</strong> URLs exploitables pour <b>48</b> dans le fichier d’origine.</p>
+<p> Par soucis de cohérence, nous avons décidé de collecter les URLs en nous basant sur des mots clés communs dans des proportions similaires (ex: 5 URLs sur “jeux + enfants”, 5 URLs sur “jeux + vidéos”, etc.). </p>
+         <br>
+        <p>Nous avons choisi de ne pas enlever les URLS qui ne fonctionnent pas des tableaux, afin de montrer que les scripts n'ont pas poursuivi le traitement et créé les pages aspirations, dumps etc pour ces fichiers.</p>
+        <br>
+<p> Nous nous sommes aperçues que certaines URLs renvoyaient un réponse valide mais ne nous permettaient pas d'accéder au texte, probablement à cause d’un paywall ou d’un popup. Nous avons donc décidé de supprimer ces URLs. </p>
+<br>
+<h1 class="title is-5">Ecriture des Scripts de traitement des URLS, iTrameur et construction du site</h1>
+<p>Après la constitution du corpus, nous avons écrit des scripts bash pour traiter les URLs. Ces scripts avaient pour but la création de tableaux html, ainsi que l’extraction des pages html et des fichiers textuels de chaque URL.</p>
+<p> L’écriture des scripts a été un espace de résolution de problèmes et de choix méthodologique : pour des raisons différentes, nous avons choisi de mettre en place un prétraitement pour les trois langues.</p> 
+<p> Le chinois ne traitant pas les espaces comme l’anglais ou le français, le corpus chinois a nécessité un traitement supplémentaire afin de séparer les mots par un espace. Pour cela nous avons appelé au milieu de notre script bash un script Python fourni par nos professeurs. </p>
+<p> En anglais et en français, nous avons choisi de remplacer nos occurrences par un mot unique “JEU” et “GAME” afin de rendre possible le travail sur la version en ligne d’iTrameur sans avoir besoin de passer par des scripts pythons. </p>
+<br>             
+<h1 class ="title is-5">Construction du site</h1>
+   <p> Le html étant une nouveauté pour nous toutes, nous avons eu besoin d’explorer les projets réalisés par les groupes des années précédentes afin de concevoir l’architecture de notre site. Nous avons choisi d’utiliser le framework bulma classique pour le développer, et cette expérience nous a donné envie d’aller dans le futur explorer plus en détail des fonctionnalités plus poussées, notamment en termes de personnalisation du fichier css </p>
+       <br>       
+   <h1 class="title is-5">Analyse linguistique avec iTrameur et nuages de mots</h1>  
+<p> Nous avons écrit un script “make_itrameur_corpus.sh” afin de concaténer nos dumps-textuels et nos fichiers contextes en deux fichiers par langue. Il a également été nécessaire d’ajouter les balises nécessaires au bon fonctionnement d’iTrameur, et de modifier les caractères qui auraient pu venir contrarier les fonctionnalités d’iTrameur.</p>
+<p>Une fois nos dumps concaténés, nous avons pu nous attaquer à l'analyse linguistique avec <a href="http://www.tal.univ-paris3.fr/trameur/iTrameur/">iTrameur</a>. iTrameur est un outil qui permet de faire des analyses textométriques sur les données de nos corpus.</p>
+<p>Sur iTrameur, nous avons choisi d’analyser plusieurs aspects de nos corpus : </p>
+<ul>
+<li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- La ventilation de notre mot selon les pages (fréquence absolue, relative et comparaison de l’indice de spécificité)</li>
+<li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- La présence de coocurrences et leur indice de spécificité </li>
+<li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Les constructions faites avec nos mots (dérivation, composition et structure syntaxique) via le dictionnaire</li></ul>
+<p>Pour l’analyse des cooccurrence nous avons choisi de travailler avec le fichier dump créé pour iTrammeur même si nous en avions créé un par avance contenant uniquement  le contexte. En effet, cela ne nous à permis de choisir nous-même les paramètres du calcul des cooccurrences en jouant sur le nombre de termes précédant et suivant notre mot et sur leur indice de spécificité.  </p>
+<p>À partir de ces données, une analyse par langue a été rédigée, ainsi qu’une conclusion qui nous a servi d’analyse croisée entre les trois langues. </p>
+        <p>Les nuages de mots ont été générés en prenant nos fichiers contextes iTrameurs grâce au site <a href="https://wordart.com/">wordart</a>. Les mots grammaticaux ont été retirés autant que possible du résultat final.</p>
+    </section>
+
                </div>
             </div>
         </div>
@@ -94,12 +127,12 @@
     <div class="content has-text-centered">
       <p>
          Projet réalisé par
-        <a href="https://github.com/PDegez">Pauline Degez</a>
-        <a href="https://github.com/simannnc">Siman Chen</a>
-        <a href="https://github.com/ASVienot"> Alix Sirven-Viénot</a>
-        . Cette page internet a été créée à l'aide du framework
-        <a href="https://bulma.io/">BULMA</a>.
+        <a href="https://github.com/PDegez">Pauline Degez</a>,
+        <a href="https://github.com/simannnc">Siman Chen</a> et
+        <a href="https://github.com/ASVienot"> Alix Sirven-Viénot</a>.
       </p>
+      <p>Cette page internet a été créée à l'aide du framework
+        <a href="https://bulma.io/">BULMA</a>.</p>
     </div>
 </footer>
 </body>
