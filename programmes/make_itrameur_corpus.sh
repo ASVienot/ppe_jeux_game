@@ -1,4 +1,5 @@
 #!usr/bin/bash
+#Transforme un dossier de dump-text ou de contextes en un seul fichier texte qui respecte la nomenclature itrameur
 
 DOSSIER=$1
 LANGUE=$2

@@ -1,4 +1,5 @@
 #!/usr/bin/bin/bash
+#Créer un tableau html à partir d'une d'une liste d'urls
 #Prend en argument un fichier texte : une liste d'urls
 
 URLS=$1
