@@ -225,5 +225,8 @@ accent considéré comme _ avec \-Wsegmentation
 - [X] mail au prof pour que Siman soit collaboratrice (pb d'identification) // mettre capture d'écran des commits 
 
 - [ ] regarder coocurents /script des profs coocurences.sh/ et commandes dans programmes
-- [ ] bannières ou fond ? / mot dans la bannière ? 
-- [ ] 
+- [X] bannières ou fond ? / mot dans la bannière ? 
+
+
+
+- [ ] tableau
