@@ -81,11 +81,51 @@
     </div>
   <section class="section has-background-primary">
             <div class="container has-bakground-primary-light">
-            <div class="box has-text-justified has-background-primary-light has-text-primary">
-                <h1 class="title is-5 has-text-primary has-text-centered"> Scripts Tableaux</h1>
+            <div class="box has-text-justified has-background-primary-light">
+                <h1 class="title is-2 has-text-centered"> Scripts Tableaux</h1>
                 <div>
-               Blabla
+                <br>
+               <p> Afin de générer un tableau html pour recenser les informations de nos pages web et de notre corpus, nous avons écrit un script bash par langue.</p>
+               <p>Ces scripts prennent comme une liste d'URL sous forme d'un fichier txt.</p>
+               <p> Pour chaque URL, la réponse serveur, le contenu html et textuel de la page ainsi que son encodage ont été obtenus à l'aide de la commande "curl".</p>
+               <p>La commande "grep" a été utilisée en combinaison avec une expression régulière afin de relever les occurences du mot "jeu".</p>
+               <p>Le nombre d'occurences du mot "jeu" a également été compté, et des fichiers "contextes" (qui ne contiennent que quelques lignes avant et après chaque occurence du mot "jeu") ont été créés.</p>
+               <br>
+               <p>L'ensemble de ces informations ont été rassemblées dans des tableaux html (un par langue) comportant les colonnes suivantes :</p>
+               <ul>
+               <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - le numéro de ligne pour chaque URL </li>
+               <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - le code de retour serveur <li>
+               <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - l'encodage du texte </li>
+               <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - le nombre d'occurence du mot "jeu" dans la page
+               <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - la page html aspirée </li>
+               <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - le fichier dump textuel </li>
+               <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - le fichier contexte </li>
+               </ul>
+               <br>
+               <br>
                </div>
+               <h1 class="title is-5"> Script tableau anglais</h1>
+                <div>
+                    <a href="../programmes/script_EN.sh">Lien du script</a>
+                    <br>
+                    <figure><img src="./scripts_tableau_anglais_screenshot.png"></figure>
+                    <br>
+                    <br>
+                <h1 class="title is-5"> Script tableau chinois</h1>
+                <div>
+                    <p> Pour le chinois, un script python thulac a été appelé dans le script bash pour tokeniser le texte.</p>
+                    <a href="../programmes/script_CH.sh">Lien du script</a>
+                    <br>
+                    <figure><img src="./scripts_tableau_chinois_screenshot.png"></figure>
+                    <br>
+                    <br>
+                <h1 class="title is-5"> Script tableau français</h1>
+                <div>
+                    <a href="../programmes/script_FR.sh">Lien du script</a>
+                    <br>
+                    <figure><img src="./scripts_tableau_francais_screenshot.png"></figure>
+                    <br>
+                </div>
             </div>
         </div>
   </section>
