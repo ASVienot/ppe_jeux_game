@@ -81,14 +81,25 @@
     </div>
   <section class="section has-background-primary">
             <div class="container has-bakground-primary-light">
-            <div class="box has-text-justified has-background-primary-light has-text-primary">
-                <h1 class="title is-5 has-text-primary has-text-centered"> Scripts itrameur</h1>
-                <div>
-               Blabla
-               </div>
+            <div class="box has-text-justified has-background-primary-light">
+                <h1 class="title is-5 has-text-primary has-text-centered"> Script itrameur</h1>
+                <div class="has-text-justified">
+                <p>Avant de pouvoir utiliser itrameur, il a été nécessaire de générer pour chaque langue un fichier dump-text et un fichier contexte qui concatène l'ensemble des dumps ou des contextes d'une langue tout en respectant le formalisme imposé par itrameur :</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- remplacement avec la commande "sed" des caractères susceptibles de perturber le fonctionnement d'itrameur </p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ajoût de balises spécifiques à itrameur "§" afin de découper les fichiers itrameurs en différentes sections </p>
+                <br>
+                <p>Le script doit être lancé depuis le dossier "programmes" du projet afin de pouvoir suivre les chemins relatifs utilisés.</p>
+                <br>
+                </div>
+            <div class="title is-5"> Script de création des fichiers itrameur</div>
+            <a href="../programmes/make_itrameur_corpus.sh">Lien du script</a>
+            <br>
+            <figure><img src="./scripts_itrameur_screenshot.png"></figure>
+            <br>
             </div>
-        </div>
-  </section>
+            </div>
+    </section>
+
 
   <footer class="footer has-background-primary">
     <div class="content has-text-centered">
